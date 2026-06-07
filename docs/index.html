@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Stock News Sentinel — NSE/BSE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --bg:#0d0f12;--surface:#161a20;--surface2:#1e242d;
+  --border:#2a3140;--border2:#3a4456;
+  --text:#e8edf5;--text2:#8a95a8;--text3:#5a6478;
+  --green:#22c55e;--green-bg:#0f2a1a;--green-bd:#1a4a2a;
+  --red:#ef4444;--red-bg:#2a0f0f;--red-bd:#4a1a1a;
+  --amber:#f59e0b;--amber-bg:#2a1f0a;--blue:#60a5fa;
+  --accent:#3b82f6;--mono:'JetBrains Mono',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;font-size:14px;line-height:1.6;min-height:100vh}
+body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(255,255,255,.012) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.012) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
+.wrap{max-width:980px;margin:0 auto;padding:2rem 1.5rem;position:relative;z-index:1}
+
+/* Header */
+.hdr{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid var(--border)}
+.logo{font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.14em;text-transform:uppercase;margin-bottom:4px}
+.logo span{color:var(--accent)}
+h1{font-size:22px;font-weight:600;letter-spacing:-.02em}
+h1 em{font-style:normal;color:var(--accent)}
+.live-badge{display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);font-size:10px;color:var(--green);background:var(--green-bg);border:1px solid var(--green-bd);padding:3px 9px;border-radius:3px;margin-top:6px}
+.live-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:blink 1.8s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.hdr-r{text-align:right;font-family:var(--mono);font-size:10px;color:var(--text3);line-height:2.1}
+.hdr-r a{color:var(--text3);text-decoration:none;border-bottom:1px solid var(--border)}
+.hdr-r a:hover{color:var(--accent)}
+
+/* Panel */
+.panel{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:1.25rem}
+.plabel{font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.1em;text-transform:uppercase;margin-bottom:10px}
+
+/* Ticker filter chips */
+.chip-row{display:flex;gap:6px;flex-wrap:wrap}
+.chip{padding:5px 12px;border-radius:20px;border:1px solid var(--border);background:transparent;color:var(--text3);font-size:12px;font-family:var(--mono);cursor:pointer;transition:all .15s;white-space:nowrap}
+.chip:hover{border-color:var(--border2);color:var(--text2)}
+.chip.active{border-color:transparent;color:#fff}
+
+/* Range pills */
+.range-pills{display:flex;gap:5px;flex-wrap:wrap}
+.rpill{padding:5px 13px;border-radius:20px;border:1px solid var(--border);background:transparent;color:var(--text3);font-size:12px;font-family:var(--mono);cursor:pointer;transition:all .15s;white-space:nowrap}
+.rpill:hover{border-color:var(--border2);color:var(--text2)}
+.rpill.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+/* Filter row */
+.filter-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:1.25rem}
+.sent-filter{padding:5px 13px;border-radius:20px;border:1px solid var(--border);background:transparent;font-size:12px;font-family:var(--mono);cursor:pointer;transition:all .15s;white-space:nowrap;color:var(--text3)}
+.sent-filter:hover{border-color:var(--border2);color:var(--text2)}
+.sf-all.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.sf-pos.active{background:var(--green-bg);border-color:var(--green-bd);color:var(--green)}
+.sf-neg.active{background:var(--red-bg);border-color:var(--red-bd);color:var(--red)}
+.sf-neu.active{background:var(--surface2);border-color:var(--border2);color:var(--text2)}
+.filter-sep{color:var(--text3);font-size:12px}
+
+/* Overview */
+.ov-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:1.5rem}
+.ov-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:14px 16px}
+.ov-lbl{font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.08em;text-transform:uppercase;margin-bottom:4px}
+.ov-val{font-size:22px;font-weight:600;letter-spacing:-.02em}
+.ov-sub{font-size:11px;color:var(--text3);margin-top:2px}
+
+/* Section header */
+.sec-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:6px}
+.sec-ttl{font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.1em;text-transform:uppercase}
+.count-badge{font-family:var(--mono);font-size:10px;color:var(--text3);background:var(--surface);border:1px solid var(--border);padding:2px 9px;border-radius:10px}
+.refresh-btn{font-family:var(--mono);font-size:10px;color:var(--text3);background:transparent;border:1px solid var(--border);padding:3px 10px;border-radius:5px;cursor:pointer;transition:all .15s}
+.refresh-btn:hover{border-color:var(--accent);color:var(--accent)}
+
+/* News cards */
+.news-list{display:flex;flex-direction:column;gap:8px}
+.nc{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:14px 16px 12px 19px;transition:border-color .15s;position:relative;overflow:hidden}
+.nc::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px}
+.nc.pos::before{background:var(--green)}
+.nc.neg::before{background:var(--red)}
+.nc.neu::before{background:var(--border2)}
+.nc:hover{border-color:var(--border2)}
+
+.nc-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:8px}
+.nc-meta{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.tk-badge{font-family:var(--mono);font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;border:1px solid}
+.exch-lbl{font-family:var(--mono);font-size:10px;color:var(--text3);border:1px solid var(--border);padding:1px 5px;border-radius:3px}
+.time-lbl{font-family:var(--mono);font-size:11px;color:var(--text3)}
+.src-lbl{font-size:11px;color:var(--text3);border:1px solid var(--border);padding:1px 7px;border-radius:10px;max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+.sent-badge{font-family:var(--mono);font-size:11px;font-weight:500;padding:3px 10px;border-radius:4px;border:1px solid;white-space:nowrap;flex-shrink:0}
+.s-pos{background:var(--green-bg);color:var(--green);border-color:var(--green-bd)}
+.s-neg{background:var(--red-bg);color:var(--red);border-color:var(--red-bd)}
+.s-neu{background:var(--surface2);color:var(--text3);border-color:var(--border)}
+
+.nc-title{font-size:14px;font-weight:500;line-height:1.45;margin-bottom:6px}
+.nc-title a{color:var(--text);text-decoration:none}
+.nc-title a:hover{color:var(--blue)}
+.nc-desc{font-size:13px;color:var(--text2);line-height:1.6;margin-bottom:10px}
+.nc-foot{display:flex;align-items:center;gap:8px}
+.bar-lbl{font-family:var(--mono);font-size:10px;color:var(--text3);width:52px}
+.bar-track{flex:1;height:3px;background:var(--surface2);border-radius:2px;overflow:hidden}
+.bar-fill{height:100%;border-radius:2px}
+.bar-pct{font-family:var(--mono);font-size:10px;color:var(--text3);min-width:28px;text-align:right}
+
+/* States */
+.empty{text-align:center;padding:4rem 2rem;color:var(--text3)}
+.empty-ico{font-size:36px;margin-bottom:12px}
+.empty h3{font-size:15px;color:var(--text2);margin-bottom:6px;font-weight:500}
+.empty p{font-size:13px;line-height:1.8}
+.empty code{font-family:var(--mono);color:var(--amber);background:var(--amber-bg);padding:1px 5px;border-radius:3px;font-size:12px}
+
+.loading{text-align:center;padding:3rem}
+.dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--accent);margin:0 3px;animation:pulse 1.2s ease-in-out infinite}
+.dot:nth-child(2){animation-delay:.2s}.dot:nth-child(3){animation-delay:.4s}
+@keyframes pulse{0%,80%,100%{opacity:.3}40%{opacity:1}}
+.loading p{font-family:var(--mono);font-size:11px;color:var(--text3);margin-top:12px}
+
+.err-box{background:var(--red-bg);border:1px solid var(--red-bd);border-radius:8px;padding:14px 16px;font-size:13px;color:var(--red);margin-bottom:1rem;line-height:1.7}
+.err-box code{font-family:var(--mono);font-size:12px;background:rgba(0,0,0,.3);padding:1px 5px;border-radius:3px}
+
+/* Footer */
+.footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.04em;flex-wrap:wrap;gap:8px}
+
+@media(max-width:600px){
+  .hdr{flex-direction:column;gap:10px}
+  h1{font-size:18px}
+  .ov-grid{grid-template-columns:repeat(2,1fr)}
+  .hdr-r{text-align:left}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hdr">
+    <div>
+      <div class="logo">▸ <span>NSE/BSE</span> Market Intelligence</div>
+      <h1>Stock News <em>&</em> Sentiment</h1>
+      <div class="live-badge"><span class="live-dot"></span>ZERO TOKEN · ZERO PROXY · FREE</div>
+    </div>
+    <div class="hdr-r">
+      <div>Data: Yahoo Finance RSS</div>
+      <div>Updated: <span id="fetchedAt">—</span></div>
+      <div>Edit stocks: <a href="tickers.json" target="_blank">tickers.json</a></div>
+    </div>
+  </div>
+
+  <!-- Stock filter chips (populated from data.json) -->
+  <div class="panel" id="stockFilterPanel" style="display:none">
+    <div class="plabel">Filter by stock</div>
+    <div class="chip-row" id="stockChips"></div>
+  </div>
+
+  <!-- Time range -->
+  <div class="panel">
+    <div class="plabel">Time range</div>
+    <div class="range-pills">
+      <button class="rpill active" data-days="1"   onclick="setRange(this)">Last 1 day</button>
+      <button class="rpill"        data-days="3"   onclick="setRange(this)">Last 3 days</button>
+      <button class="rpill"        data-days="7"   onclick="setRange(this)">Last 1 week</button>
+      <button class="rpill"        data-days="30"  onclick="setRange(this)">Last 1 month</button>
+      <button class="rpill"        data-days="90"  onclick="setRange(this)">Last 3 months</button>
+      <button class="rpill"        data-days="180" onclick="setRange(this)">Last 6 months</button>
+      <button class="rpill"        data-days="270" onclick="setRange(this)">Last 9 months</button>
+      <button class="rpill"        data-days="365" onclick="setRange(this)">Last 12 months</button>
+    </div>
+  </div>
+
+  <!-- Overview -->
+  <div id="ovSection" style="display:none;margin-bottom:1.5rem">
+    <div class="sec-hdr"><span class="sec-ttl">Sentiment overview</span></div>
+    <div class="ov-grid" id="ovGrid"></div>
+  </div>
+
+  <!-- News list -->
+  <div class="sec-hdr">
+    <span class="sec-ttl">Top news feed</span>
+    <div style="display:flex;gap:8px;align-items:center">
+      <!-- Sentiment filter -->
+      <button class="sent-filter sf-all active" onclick="setSentFilter('all',this)">All</button>
+      <button class="sent-filter sf-pos"        onclick="setSentFilter('Positive',this)">Positive</button>
+      <button class="sent-filter sf-neg"        onclick="setSentFilter('Negative',this)">Negative</button>
+      <button class="sent-filter sf-neu"        onclick="setSentFilter('Neutral',this)">Neutral</button>
+      <span class="count-badge" id="countBadge">—</span>
+    </div>
+  </div>
+
+  <div id="newsList">
+    <div class="loading">
+      <div><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+      <p>Loading news data…</p>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span>SOURCE: YAHOO FINANCE RSS · NSE/BSE INDIA</span>
+    <span>UPDATED BY GITHUB ACTIONS · NO API TOKENS</span>
+  </div>
+</div>
+
+<script>
+const TC=[
+  {bg:'#0a1a2a',bd:'#1a3a5a',tx:'#60a5fa'},
+  {bg:'#0f2a1a',bd:'#1a4a2a',tx:'#22c55e'},
+  {bg:'#2a0a1a',bd:'#4a1a2a',tx:'#f472b6'},
+  {bg:'#2a1f0a',bd:'#4a3a0a',tx:'#f59e0b'},
+  {bg:'#1a0f2a',bd:'#3a1f4a',tx:'#a78bfa'},
+  {bg:'#2a1010',bd:'#4a2020',tx:'#f87171'},
+];
+
+let rawData = null;      // full data.json
+let rangeDays = 1;
+let activeStock = 'all'; // 'all' or symbol
+let activeSent  = 'all'; // 'all' | 'Positive' | 'Negative' | 'Neutral'
+
+function setRange(btn){
+  document.querySelectorAll('.rpill').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  rangeDays = parseInt(btn.dataset.days);
+  renderFiltered();
+}
+
+function setStock(sym, btn){
+  activeStock = sym;
+  document.querySelectorAll('.chip').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  renderFiltered();
+}
+
+function setSentFilter(val, btn){
+  activeSent = val;
+  document.querySelectorAll('.sent-filter').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  renderFiltered();
+}
+
+function timeAgo(iso){
+  if(!iso) return '';
+  const d = new Date(iso);
+  if(isNaN(d)) return '';
+  const diff = Date.now() - d.getTime();
+  const h = Math.floor(diff/3600000);
+  const day = Math.floor(h/24);
+  if(h<1) return 'Just now';
+  if(h<24) return h+'h ago';
+  if(day<7) return day+'d ago';
+  return d.toLocaleDateString('en-IN',{day:'numeric',month:'short'});
+}
+
+function renderFiltered(){
+  if(!rawData) return;
+  const cutoff = new Date(Date.now() - rangeDays*86400000);
+
+  // Flatten articles with stock info
+  let articles = [];
+  rawData.stocks.forEach((stock, si)=>{
+    if(activeStock !== 'all' && stock.symbol !== activeStock) return;
+    stock.articles.forEach(a=>{
+      const pub = a.pubDate ? new Date(a.pubDate) : null;
+      if(pub && pub < cutoff) return;
+      if(activeSent !== 'all' && a.sentiment.label !== activeSent) return;
+      articles.push({...a, stock, si});
+    });
+  });
+
+  // Sort newest first, take top 10
+  articles.sort((a,b)=> new Date(b.pubDate||0) - new Date(a.pubDate||0));
+  const top = articles.slice(0, 10);
+
+  document.getElementById('countBadge').textContent = `Showing ${top.length} of ${articles.length}`;
+  renderOverview(articles);
+  renderCards(top);
+}
+
+function renderOverview(arts){
+  const pos = arts.filter(a=>a.sentiment.label==='Positive').length;
+  const neg = arts.filter(a=>a.sentiment.label==='Negative').length;
+  const neu = arts.filter(a=>a.sentiment.label==='Neutral').length;
+  const tot = arts.length;
+  const mood = pos>neg ? '↑ Bullish' : neg>pos ? '↓ Bearish' : '→ Mixed';
+  const mc   = pos>neg ? 'var(--green)' : neg>pos ? 'var(--red)' : 'var(--text2)';
+  const pct  = n => tot ? Math.round(n/tot*100) : 0;
+
+  document.getElementById('ovGrid').innerHTML = `
+    <div class="ov-card"><div class="ov-lbl">Articles</div><div class="ov-val">${tot}</div><div class="ov-sub">in range</div></div>
+    <div class="ov-card"><div class="ov-lbl">Positive</div><div class="ov-val" style="color:var(--green)">${pos}</div><div class="ov-sub">${pct(pos)}% bullish</div></div>
+    <div class="ov-card"><div class="ov-lbl">Negative</div><div class="ov-val" style="color:var(--red)">${neg}</div><div class="ov-sub">${pct(neg)}% bearish</div></div>
+    <div class="ov-card"><div class="ov-lbl">Neutral</div><div class="ov-val" style="color:var(--text2)">${neu}</div><div class="ov-sub">${pct(neu)}% neutral</div></div>
+    <div class="ov-card"><div class="ov-lbl">Overall mood</div><div class="ov-val" style="color:${mc};font-size:17px">${mood}</div><div class="ov-sub">sentiment</div></div>
+  `;
+  document.getElementById('ovSection').style.display = 'block';
+}
+
+function renderCards(arts){
+  const nl = document.getElementById('newsList');
+  if(!arts.length){
+    nl.innerHTML = `<div class="empty">
+      <div class="empty-ico">🔍</div>
+      <h3>No articles match</h3>
+      <p>Try a wider time range or different filter.<br>Yahoo RSS typically covers the last 7 days.</p>
+    </div>`;
+    return;
+  }
+  nl.innerHTML = arts.map(a=>{
+    const sc = a.sentiment;
+    const cc = sc.label==='Positive'?'pos':sc.label==='Negative'?'neg':'neu';
+    const sc2= sc.label==='Positive'?'s-pos':sc.label==='Negative'?'s-neg':'s-neu';
+    const bc = sc.label==='Positive'?'var(--green)':sc.label==='Negative'?'var(--red)':'var(--border2)';
+    const bp = Math.min(100, Math.round(Math.abs(sc.score)*100));
+    const c  = TC[a.si % TC.length];
+    return `<div class="nc ${cc}">
+      <div class="nc-top">
+        <div class="nc-meta">
+          <span class="tk-badge" style="background:${c.bg};border-color:${c.bd};color:${c.tx}">${a.stock.symbol.replace(/\.(NS|BO)$/,'')}</span>
+          <span class="exch-lbl">${a.stock.exchange}</span>
+          <span class="time-lbl">${timeAgo(a.pubDate)}</span>
+          ${a.source?`<span class="src-lbl">${a.source}</span>`:''}
+        </div>
+        <span class="sent-badge ${sc2}">${sc.label}</span>
+      </div>
+      <div class="nc-title"><a href="${a.link}" target="_blank" rel="noopener">${a.title}</a></div>
+      ${a.summary?`<div class="nc-desc">${a.summary}</div>`:''}
+      <div class="nc-foot">
+        <span class="bar-lbl">Strength</span>
+        <div class="bar-track"><div class="bar-fill" style="width:${bp}%;background:${bc}"></div></div>
+        <span class="bar-pct">${bp}%</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function buildStockChips(stocks){
+  const panel = document.getElementById('stockFilterPanel');
+  const chips = document.getElementById('stockChips');
+  let html = `<button class="chip active" style="background:var(--accent);border-color:var(--accent)" onclick="setStock('all',this)">All stocks</button>`;
+  stocks.forEach((s,i)=>{
+    const c = TC[i%TC.length];
+    html += `<button class="chip" data-sym="${s.symbol}" onclick="setStock('${s.symbol}',this)"
+      style="">${s.symbol.replace(/\.(NS|BO)$/,'')} <span style="font-size:10px;opacity:.6">${s.exchange}</span></button>`;
+  });
+  chips.innerHTML = html;
+  panel.style.display = 'block';
+}
+
+async function loadData(){
+  try{
+    const res = await fetch('data.json?t='+Date.now());
+    if(!res.ok) throw new Error(`HTTP ${res.status}`);
+    rawData = await res.json();
+
+    // Update header
+    if(rawData.fetchedAt){
+      const d = new Date(rawData.fetchedAt);
+      document.getElementById('fetchedAt').textContent =
+        d.toLocaleDateString('en-IN',{day:'numeric',month:'short'}) + ' ' +
+        d.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+    }
+
+    buildStockChips(rawData.stocks);
+    renderFiltered();
+
+  }catch(e){
+    document.getElementById('newsList').innerHTML = `<div class="err-box">
+      <strong>Could not load data.json</strong><br><br>
+      This app needs a <code>data.json</code> file in the same folder, generated by the GitHub Actions workflow.<br><br>
+      <strong>Setup steps:</strong><br>
+      1. Push all files to your GitHub repo<br>
+      2. Go to <strong>Actions</strong> tab → run <em>Fetch Stock News</em> manually (workflow_dispatch)<br>
+      3. It will create <code>docs/data.json</code> and commit it<br>
+      4. Refresh this page — news will appear<br><br>
+      After setup, it auto-runs 3× daily on weekdays. You can also trigger it anytime from the Actions tab.
+    </div>`;
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
