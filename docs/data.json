@@ -1,0 +1,469 @@
+{
+  "fetchedAt": "2026-06-07T04:59:12.787101+00:00",
+  "tickerCount": 6,
+  "articleCount": 38,
+  "overview": {
+    "positive": 15,
+    "negative": 3,
+    "neutral": 20
+  },
+  "stocks": [
+    {
+      "symbol": "JWL.NS",
+      "name": "Jupiter Wagon Limited",
+      "exchange": "NSE",
+      "articles": []
+    },
+    {
+      "symbol": "TCS.NS",
+      "name": "Tata Consultancy Services",
+      "exchange": "NSE",
+      "articles": [
+        {
+          "title": "CORRECTING and REPLACING QAD | Redzone Expands Collaboration with AWS and TCS to Accelerate AI-Driven Transformation and ERP Modernization",
+          "summary": "MIAMI, May 22, 2026--Please replace the release with the following corrected version due to multiple revisions.",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/qad-redzone-expands-strategic-collaboration-123000156.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-05-22T19:26:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "CrowdStrike Expands Project QuiltWorks, the Cybersecurity Coalition for Securing Frontier AI Risk",
+          "summary": "AUSTIN, Texas, May 05, 2026--CrowdStrike (NASDAQ: CRWD) today announced an expansion of Project QuiltWorks, CrowdStrike’s coalition for AI as organizations worldwide race to adopt AI. At the same time, frontier model innovation increases security ris…",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/crowdstrike-expands-project-quiltworks-cybersecurity-125000729.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-05-05T12:50:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "Adobe Expands Partner Ecosystem to Deliver Frictionless Workflows for Customer Experience Orchestration",
+          "summary": "LAS VEGAS, April 20, 2026--Today, at Adobe Summit—the flagship customer experience conference—Adobe (Nasdaq:ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, a…",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/adobe-expands-partner-ecosystem-deliver-130000760.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-04-20T13:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "India's TCS urging staff to use AI despite risk to revenue, CEO says",
+          "summary": "By Haripriya Suresh MUMBAI, Feb 25 (Reuters) - Tata Consultancy Services is urging employees to use artificial intelligence tools to deliver work faster and cheaper, even if it eats into the company's",
+          "link": "https://sg.news.yahoo.com/indias-tcs-urging-staff-ai-082126107.html?.tsrc=rss",
+          "source": "sg.news.yahoo",
+          "pubDate": "2026-02-25T08:21:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "Oil and Gas Firms in Americas use AI to Modernize Operations",
+          "summary": "STAMFORD, Conn., February 12, 2026--Oil and gas firms in the Americas are accelerating adoption of digital platforms, AI-enabled operations and decarbonization technologies, ISG says.",
+          "link": "https://finance.yahoo.com/news/oil-gas-firms-americas-ai-140000916.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-02-12T14:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "QAD | Redzone and TCS Announce Strategic Partnership to Accelerate AI-Driven Transformation in Manufacturing",
+          "summary": "MIAMI, February 09, 2026--QAD | Redzone, the company redefining manufacturing and supply chains through intelligent, adaptive solutions, announced a strategic partnership with Tata Consultancy Services (TCS), a global leader in IT services, consultin…",
+          "link": "https://finance.yahoo.com/news/qad-redzone-tcs-announce-strategic-130000015.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-02-09T13:00:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Transport Capacity Services Achieves Growth Amid Shifting Trade Dynamics",
+          "summary": "LAREDO, Texas, December 17, 2025--Cross-border logistics company’s investments help shippers navigate changing US-Mexico trade dynamics and supply chain challenges.",
+          "link": "https://finance.yahoo.com/news/transport-capacity-services-achieves-growth-151600344.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-12-17T15:16:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Sverica Capital Management Announces Sale of Coastal to Tata Consultancy Services for $700 Million",
+          "summary": "AUSTIN, Texas, December 10, 2025--Sverica Capital Management LP (\"Sverica\") announced today the sale of its Fund V portfolio company Coastal Cloud Holdings, LLC (\"Coastal\" or the \"Company\") to Tata Consultancy Services Limited (or \"TCS\") for $700 mil…",
+          "link": "https://finance.yahoo.com/news/sverica-capital-management-announces-sale-212500631.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-12-10T21:25:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "India's TCS, TPG partner to invest $2 billion in AI data centre JV",
+          "summary": "By Sai Ishwarbharath B (Reuters) -India's Tata Consultancy Services and private equity firm TPG will form a joint venture to develop AI data centres, TCS said on Thursday, with both partners set to",
+          "link": "https://sg.news.yahoo.com/indias-tcs-tpg-partner-invest-125238431.html?.tsrc=rss",
+          "source": "sg.news.yahoo",
+          "pubDate": "2025-11-20T12:52:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "ISG Announces 2025 ISG Paragon Awards™ Asia Finalists",
+          "summary": "SINGAPORE, October 23, 2025--ISG announced the ISG Paragon Awards™ Asia finalists, celebrating innovative sourcing industry partnerships. Winners will be announced November 12.",
+          "link": "https://finance.yahoo.com/news/isg-announces-2025-isg-paragon-020000518.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-10-23T02:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Box and TCS Announce a Strategic Partnership to Drive Digital Transformation with Intelligent Content Management",
+          "summary": "MUMBAI & PLEASANTON, Calif., October 21, 2025--Box and TCS Announce a Strategic Partnership to Drive Digital Transformation with Intelligent Content Management",
+          "link": "https://finance.yahoo.com/news/box-tcs-announce-strategic-partnership-080000570.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-10-21T08:00:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Resulticks and TCS Deepen Strategic Alliance to Accelerate Global Adoption of RESUL Platform",
+          "summary": "NEW YORK, October 08, 2025--Resulticks, a global leader in real-time customer engagement solutions, today announced the expansion of its partnership with Tata Consultancy Services (TCS), moving from planning to full-scale execution. As part of this n…",
+          "link": "https://finance.yahoo.com/news/resulticks-tcs-deepen-strategic-alliance-110000797.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-10-08T11:00:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Indium Appoints Ram Khizamboor as Chief Operating Officer",
+          "summary": "CUPERTINO, Calif. & CHENNAI, India, September 08, 2025--Indium today announced the appointment of Ram Khizamboor as its Chief Operating Officer.",
+          "link": "https://finance.yahoo.com/news/indium-appoints-ram-khizamboor-chief-110000757.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-09-08T11:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Transport Capacity Services Appoints New Leadership",
+          "summary": "CHICAGO, August 19, 2025--Former Uber Freight and Transplace executives to lead cross-border and U.S. logistics company, Transport Capacity Services (TCS).",
+          "link": "https://finance.yahoo.com/news/transport-capacity-services-appoints-leadership-120800247.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-08-19T12:08:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        }
+      ]
+    },
+    {
+      "symbol": "INFY.NS",
+      "name": "Infosys",
+      "exchange": "NSE",
+      "articles": [
+        {
+          "title": "NICE Actimize X-Sight Enterprise Cloud Solutions Selected by DNB Norway to Transform its Fraud and Financial Crime Operations",
+          "summary": "HOBOKEN, N.J., June 02, 2026--NICE Actimize, a NiCE (NASDAQ: NICE) business, today announced that DNB Bank ASA, Norway’s largest financial services group, has selected NICE Actimize X-Sight Enterprise platform to modernize its fraud and financial cri…",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nice-actimize-x-sight-enterprise-123000904.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-06-02T12:30:00+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "CMMI Institute Completes Pilot for New AI Maturity (AIM) Framework",
+          "summary": "SCHAUMBURG, Ill., May 19, 2026--CMMI Institute, a global leader in helping organizations reduce risk, boost performance, and build capability, is now extending this guidance to artificial intelligence, and has recently completed a pilot program for i…",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/cmmi-institute-completes-pilot-ai-154100150.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-05-19T15:41:00+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.333
+          }
+        },
+        {
+          "title": "CrowdStrike Expands Project QuiltWorks, the Cybersecurity Coalition for Securing Frontier AI Risk",
+          "summary": "AUSTIN, Texas, May 05, 2026--CrowdStrike (NASDAQ: CRWD) today announced an expansion of Project QuiltWorks, CrowdStrike’s coalition for AI as organizations worldwide race to adopt AI. At the same time, frontier model innovation increases security ris…",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/crowdstrike-expands-project-quiltworks-cybersecurity-125000729.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-05-05T12:50:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "Adobe Expands Partner Ecosystem to Deliver Frictionless Workflows for Customer Experience Orchestration",
+          "summary": "LAS VEGAS, April 20, 2026--Today, at Adobe Summit—the flagship customer experience conference—Adobe (Nasdaq:ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, a…",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/adobe-expands-partner-ecosystem-deliver-130000760.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-04-20T13:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Catamaran, the Family Office of Infosys Founder Narayana Murthy, Adopts EtonAI™ to Shift from Data Management to Decision-Making",
+          "summary": "RESEARCH TRIANGLE PARK, N.C., April 09, 2026--Eton Solutions, the wealth management technology company managing more than $1.4 trillion in assets, today announced that Catamaran, the single family office of Narayana Murthy, founder of Infosys, has ad…",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/catamaran-family-office-infosys-founder-130000195.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-04-09T13:00:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Infosys to acquire US firms Optimum Healthcare IT for $465 million, Stratus for $95 million",
+          "summary": "March 25 () - Indian IT services ‌firm Infosys ‌said on Wednesday it ​had entered into separate agreements to acquire U.-based ‌technology ⁠companies Optimum Healthcare IT and ⁠Stratus in all-cash deals.",
+          "link": "https://finance.yahoo.com/news/infosys-acquire-us-firms-optimum-173908192.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-03-25T17:41:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Industry Innovators Celebrated for Integral Services-Led Broadband Contributions",
+          "summary": "FREMONT, Calif., March 25, 2026--A number of broadband pioneers who have made integral contributions to advancing services-led broadband have been recognized with prestigious awards at Broadband Forum’s annual awards ceremony, taking place in Melbour…",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/industry-innovators-celebrated-integral-services-070000355.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-03-25T07:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Oil and Gas Firms in Americas use AI to Modernize Operations",
+          "summary": "STAMFORD, Conn., February 12, 2026--Oil and gas firms in the Americas are accelerating adoption of digital platforms, AI-enabled operations and decarbonization technologies, ISG says.",
+          "link": "https://finance.yahoo.com/news/oil-gas-firms-americas-ai-140000916.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-02-12T14:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "US cuts tariffs on India to 18%, India agrees to end Russian oil purchases",
+          "summary": "By David Lawder and Aftab Ahmed WASHINGTON/NEW DELHI, Feb 2 (Reuters) - U.S.",
+          "link": "https://finance.yahoo.com/news/trump-says-agreed-trade-deal-170647518.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-02-02T19:53:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Infosys and Madison Square Garden Family of Companies Renew & Expand Multi-Year Digital Innovation Partnership",
+          "summary": "NEW YORK, February 02, 2026--Infosys (NSE, BSE, NYSE: INFY), a global leader in next-generation digital services and consulting, Madison Square Garden Entertainment Corp. (NYSE: MSGE) (\"MSG Entertainment\"), Madison Square Garden Sports Corp. (NYSE: M…",
+          "link": "https://finance.yahoo.com/news/infosys-madison-square-garden-family-130000944.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-02-02T13:00:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Bidgely Champions \"AI Built for Your Reality\" at DistribuTECH 2026, Unveils New Strategy for Unified Grid Intelligence",
+          "summary": "LOS ALTOS, Calif., January 27, 2026--Bidgely will bring the next wave of artificial intelligence (AI) to DistribuTECH International 2026 (Upper Level Booth #201), taking place February 2-5 at the San Diego Convention Center. Under the banner \"AI Buil…",
+          "link": "https://finance.yahoo.com/news/bidgely-champions-ai-built-reality-192100856.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-01-27T19:21:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Planview Enters 2026 with New Leadership and Continued AI Innovation",
+          "summary": "AUSTIN, Texas, January 21, 2026--Planview today announced strong 2025 momentum, driven by significant customer growth, AI innovation, and industry recognition throughout the year.",
+          "link": "https://finance.yahoo.com/news/planview-enters-2026-leadership-continued-143000072.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-01-21T14:30:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Big banks kick off fourth quarter earnings season, inflation data on deck: What to watch this week",
+          "summary": "Investors will be watching for consumer and producer price data alongside bank earnings in the week ahead.",
+          "link": "https://finance.yahoo.com/news/big-banks-kick-off-fourth-quarter-earnings-season-inflation-data-on-deck-what-to-watch-this-week-123603447.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-01-11T12:36:03+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "ISG Announces 2025 ISG Paragon Awards™ and ISG Software Innovation Awards™ Winners for EMEA",
+          "summary": "LONDON, November 25, 2025--The EMEA winners of the 2025 ISG Paragon Awards™ and the ISG Software Innovation Awards™ were announced at the ISG Sourcing Industry Awards gala.",
+          "link": "https://finance.yahoo.com/news/isg-announces-2025-isg-paragon-100000303.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-11-25T10:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Stocks dip as government shutdown continues, rare earths rally: What to watch this week",
+          "summary": "The stock market will enter the second full week of the government shutdown. Investors will also focus on big bank earnings.",
+          "link": "https://finance.yahoo.com/news/stocks-dip-as-government-shutdown-continues-rare-earths-rally-what-to-watch-this-week-114600627.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-10-12T11:46:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "ISG Announces 2025 ISG Paragon Awards™ and ISG Software Innovation Awards™ Winners for North America",
+          "summary": "STAMFORD, Conn., September 22, 2025--ISG has announced the winners of the 2025 ISG Paragon Awards™ and the ISG Software Innovation Awards™ for North America.",
+          "link": "https://finance.yahoo.com/news/isg-announces-2025-isg-paragon-130000746.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-09-22T13:00:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "ISG Announces 2025 ISG Women in Digital Awards Winners for the Americas",
+          "summary": "STAMFORD, Conn., September 05, 2025--Leaders with Verizon, Innova Solutions, Assurant, Blend Labs, Infosys and Nokia are winners of the 2025 ISG Women in Digital Awards for the Americas.",
+          "link": "https://finance.yahoo.com/news/isg-announces-2025-isg-women-153000826.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-09-05T15:30:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "In earnings season, it's AI good, everything else, not so much",
+          "summary": "The AI spending surge is providing a big boost for semiconductor and software giants like Google parent Alphabet, while companies from airlines to restaurants and food manufacturers are struggling to navigate an erratic U.S. trade policy which is boo…",
+          "link": "https://ca.finance.yahoo.com/news/bright-spots-emerge-corporate-earnings-052817506.html?.tsrc=rss",
+          "source": "ca.finance.yahoo",
+          "pubDate": "2025-07-24T05:28:17+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Andrew Duncan Joins Qualitest as CEO to Lead Global Innovation and Growth",
+          "summary": "LONDON, July 14, 2025--Qualitest, the world’s leading AI-powered quality engineering company, has appointed Andrew Duncan as its new Chief Executive Officer.",
+          "link": "https://finance.yahoo.com/news/andrew-duncan-joins-qualitest-ceo-113000123.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-07-14T11:30:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "TH Global Capital Closes 4 Major M&A Deals in Australia in 4 Months Including the Sale of The Missing Link to Infosys",
+          "summary": "SYDNEY, July 07, 2025--TH Global Capital, an award-winning global boutique investment bank with a presence in 13 countries, has closed four high profile deals in the first four months of 2025, including the sale of The Missing Link to Infosys for 120…",
+          "link": "https://finance.yahoo.com/news/th-global-capital-closes-4-095900670.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-07-07T09:59:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "name": "HDFC Bank",
+      "exchange": "NSE",
+      "articles": []
+    },
+    {
+      "symbol": "ICICIBANK.NS",
+      "name": "ICICI Bank",
+      "exchange": "NSE",
+      "articles": []
+    },
+    {
+      "symbol": "SBIN.NS",
+      "name": "State Bank of India",
+      "exchange": "NSE",
+      "articles": [
+        {
+          "title": "GE HealthCare expands mammography collaboration with RadNet’s DeepHealth subsidiary to extend global access to DeepHealth’s AI-powered breast cancer screening solutions",
+          "summary": "CHICAGO, April 16, 2026--GE HealthCare (Nasdaq: GEHC) today announced an expanded collaboration with DeepHealth, Inc., a global leader in AI-powered health informatics and a wholly owned subsidiary of RadNet, Inc. (Nasdaq: RDNT), to further the innov…",
+          "link": "https://finance.yahoo.com/sectors/healthcare/articles/ge-healthcare-expands-mammography-collaboration-200500283.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-04-16T20:05:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Nacha Welcomes 20 New Payments Innovation Alliance Members in First Quarter of 2026",
+          "summary": "RESTON, Va., April 02, 2026--Nacha today announced 20 organizations have joined the Payments Innovation Alliance during the first quarter of 2026, marking a significant expansion of the cross‑industry network that collaborates on innovation, educatio…",
+          "link": "https://finance.yahoo.com/economy/policy/articles/nacha-welcomes-20-payments-innovation-140100520.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2026-04-02T14:01:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Sensi Brands Inc.™ Acquires Maricann Inc.",
+          "summary": "RICHMOND HILL, Ontario, December 01, 2025--Sensi Brands Inc.™ (\"Sensi Brands\" or \"SBI\"), one of Canada’s fastest-growing and most diversified cannabis companies, is pleased to announce the acquisition of Maricann Inc., based in Langton, ON, including…",
+          "link": "https://finance.yahoo.com/news/sensi-brands-inc-acquires-maricann-140000994.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-12-01T14:00:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Specialty Brands International Launches New Online Retail Store",
+          "summary": "DELRAY BEACH, Fla., December 01, 2025--Specialty Brands International, LLC (SBI) has launched The Haven Retail Store, which carries a selection of in demand retail items sold at its popular South Florida spa known as The Haven Luxe Spa®. The Haven Re…",
+          "link": "https://finance.yahoo.com/news/specialty-brands-international-launches-online-130000717.html?.tsrc=rss",
+          "source": "finance.yahoo",
+          "pubDate": "2025-12-01T13:00:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
+    }
+  ]
+}
