@@ -2,11 +2,11 @@ name: Fetch Stock News
 
 on:
   schedule:
-    - cron: '0 3,9,13 * * 1-5'   # 8:30 AM, 2:30 PM, 6:30 PM IST (Mon–Fri)
-  workflow_dispatch:               # Manual trigger from GitHub Actions tab
+    - cron: '0 3,9,13 * * 1-5'
+  workflow_dispatch:
   push:
     paths:
-      - 'tickers.json'             # Auto-run when you update tickers
+      - 'tickers.json'
 
 permissions:
   contents: write
