@@ -1,0 +1,10 @@
+{
+  "tickers": [
+    { "symbol": "JWL.NS",   "name": "Jupiter Wagon Limited",     "exchange": "NSE" },
+    { "symbol": "TCS.NS",        "name": "Tata Consultancy Services","exchange": "NSE" },
+    { "symbol": "INFY.NS",       "name": "Infosys",                 "exchange": "NSE" },
+    { "symbol": "HDFCBANK.NS",   "name": "HDFC Bank",               "exchange": "NSE" },
+    { "symbol": "ICICIBANK.NS",  "name": "ICICI Bank",              "exchange": "NSE" },
+    { "symbol": "SBIN.NS",       "name": "State Bank of India",     "exchange": "NSE" }
+  ]
+}
