@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-08T07:29:27.098243+00:00",
+  "fetchedAt": "2026-06-08T13:05:28.110042+00:00",
   "tickerCount": 32,
   "articleCount": 108,
   "overview": {
     "positive": 16,
-    "negative": 4,
-    "neutral": 88
+    "negative": 5,
+    "neutral": 87
   },
   "stocks": [
     {
@@ -446,22 +446,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange regarding ': Allotment of Shares upon exercise of stock options  '.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-05T10:34:47+00:00",
+          "pubDate": "2026-06-08T16:39:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange regarding ': Allotment of Shares upon exercise of stock options  '.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-05-19T16:22:30+00:00",
+          "pubDate": "2026-06-05T10:34:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -961,6 +961,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Newspaper publication for the Postponement of 10th Annual General Meeting of the Company",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-08T13:30:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation for Postponement of 10th Annual General Meeting of the Company'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -977,17 +988,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-05T12:49:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure   Requirements) Regulations, 2015   Transcript of Q4 FY26 Resul",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-08T13:33:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -1081,17 +1081,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Nazara Technologies allots 1.82 crore warrants, gets Rs 118.5 crore in upfront payment",
-          "summary": "Nazara Technologies has approved the preferential allotment of over 1.82 crore warrants to investors. These warrants are convertible into equity shares. Nazara has received an upfront subscription amount of Rs 118.50 crore. Riambel Capital PCC-RCC1, …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-investor-accounts-cross-26-crore-mark-as-retail-participation-surges-beyond-metro-cities/articleshow/131544699.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-06T10:10:41+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 1,82,31,000  warrants.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1142,6 +1131,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top Gainers &amp; Losers on June 8: Netweb Tech, Wipro, Reliance Power, Swiggy, SAIL, HPCL among top losers",
+          "summary": "The Indian stock market faced a significant sell-off on June 8, with benchmark indices dropping over 1% due to rising crude oil prices and weak global cues. The Nifty 50 fell 1.05% and the Sensex dropped 0.95%, reflecting widespread market weakness a…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-8-netweb-tech-wipro-reliance-power-swiggy-sail-hpcl-among-top-losers-11780912141173.html",
+          "source": "livemint",
+          "pubDate": "2026-06-08T16:17:13+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Credit Rating",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Credit Rating",
