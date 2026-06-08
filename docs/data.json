@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-07T05:19:46.576009+00:00",
+  "fetchedAt": "2026-06-08T07:29:27.098243+00:00",
   "tickerCount": 32,
-  "articleCount": 107,
+  "articleCount": 108,
   "overview": {
     "positive": 16,
-    "negative": 3,
+    "negative": 4,
     "neutral": 88
   },
   "stocks": [
@@ -246,6 +246,17 @@
       "name": "Rashi Peripherals",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "The AI trade trap: Why successful tech stocks are triggering a trillion-dollar market meltdown in Korea, Taiwan",
+          "summary": "A sharp tech selloff exposed concentration risks in Asian markets, where chip giants such as TSMC, Samsung and SK Hynix dominate benchmarks. As their rapid gains pushed portfolio weights beyond risk limits, active fund managers were forced to sell de…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-ai-trade-trap-why-successful-tech-stocks-are-triggering-a-trillion-dollar-market-meltdown-in-korea-taiwan/articleshow/131579623.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-08T11:19:56+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Schedule of meet with investors",
@@ -594,6 +605,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Stock market today: Gift Nifty hints gap-down start; US-Iran news to gold, silver rates — eight stocks to buy or sell",
+          "summary": "Stock market today: Experts recommend buying these eight shares today — Tata Technologies, Sai Life Sciences, Axis Bank, Eternal, Tata Steel, VA Tech Wabag, Diamond Power Infra, and Groww",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-gap-down-start-us-iran-news-to-gold-silver-rates-eight-stocks-to-buy-or-sell-11780886746584.html",
+          "source": "livemint",
+          "pubDate": "2026-06-08T09:17:31+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -661,17 +683,6 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Did this L&amp;T-backed AI stock actually crash 90% in one day? Here's all you need to know",
-          "summary": "E2E Networks appeared to plunge nearly 90% in a day after its 1:10 stock split took effect, but the move was purely a price adjustment. The AI-focused cloud computing company actually hit the 5% upper circuit post-split. Backed by L&amp;T, the stock …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-this-lt-backed-ai-stock-actually-crash-90-in-one-day-heres-all-you-need-to-know/articleshow/131522017.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-05T10:19:20+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
         {
           "title": "[NSE] Press Release",
           "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated May 29, 2026, titled \"E2E goes live with next-generation NVIDIA B200 cluster using NVIDIA Certified Reference Architectur",
@@ -888,6 +899,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-07T19:39:58+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -929,17 +951,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Ideaforge Technology Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) R",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-03T12:41:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1360,6 +1371,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-07T15:10:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Spurt in Volume",
           "summary": "Significant increase in volume has been observed in Zen Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1387,17 +1409,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-05-28T18:15:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding a press release dated May 27, 2026, titled \"Zen Technologies Unveils India's First Integrated Smart Border Suite (ISBS), Following India s ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T09:50:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
