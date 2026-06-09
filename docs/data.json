@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-09T06:48:02.279574+00:00",
+  "fetchedAt": "2026-06-09T11:58:50.673538+00:00",
   "tickerCount": 32,
   "articleCount": 106,
   "overview": {
-    "positive": 17,
-    "negative": 3,
-    "neutral": 86
+    "positive": 20,
+    "negative": 2,
+    "neutral": 84
   },
   "stocks": [
     {
@@ -247,17 +247,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "The AI trade trap: Why successful tech stocks are triggering a trillion-dollar market meltdown in Korea, Taiwan",
-          "summary": "A sharp tech selloff exposed concentration risks in Asian markets, where chip giants such as TSMC, Samsung and SK Hynix dominate benchmarks. As their rapid gains pushed portfolio weights beyond risk limits, active fund managers were forced to sell de…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-ai-trade-trap-why-successful-tech-stocks-are-triggering-a-trillion-dollar-market-meltdown-in-korea-taiwan/articleshow/131579623.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-08T11:19:56+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Schedule of meet with investors",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -349,6 +338,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 09, 2026, titled \"Persistent Recognized Among India s Leading Impactful Companies in Hurun India Impact 50 - 20",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-09T12:30:32+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Amalgamation/Merger",
           "summary": "Persistent Systems Limited has informed the Exchange about Amalgamation/Merger as a part of internal restructuring",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -387,17 +387,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-08T20:08:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T18:51:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -457,6 +446,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-09T13:01:58+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Cyient Dlm Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on Jun 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -484,17 +484,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-05T10:34:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Cyient Dlm Limited has informed the Exchange regarding a press release dated May 19, 2026, titled \"Please find attached Press Release\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-19T10:54:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -570,6 +559,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Investor Meet Outcome",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-09T17:25:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Execution of Binding Term Sheet amongst Dixon Technologies (India) Limited, Gemtek Technology Co., Ltd., and Dixon Electroconnect Private Limited for setting up of a Joint Venture arrangement.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-09T16:10:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Newspaper Advertisement regarding Notice to the Shareholders for transfer of unclaimed dividend/ equity shares of the Company into In",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -578,28 +589,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Investor Meet Outcome",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-02T16:24:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding allotment of 284028 securities pursuant to ESOP/ESPS at its meeting held on May 20, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-20T19:43:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -863,10 +852,21 @@
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-05T17:15:06+00:00",
+          "pubDate": "2026-06-09T17:22:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Mazagon Dock, Cochin Shipyard to GRSE: Defence Shipbuilding stocks rise amid multi-year growth forecast",
+          "summary": "Garden Reach Shipbuilders gained over 2% to hit the day's peak of  ₹2,666.60 on the National Stock Exchange (NSE). Mazagon Dock also added over 2% to  ₹2,442.50, and Cochin Shipyard added 1.8% to  ₹1,432.60 apiece.",
+          "link": "https://www.livemint.com/market/stock-market-news/mazagon-dock-cochin-shipyard-to-grse-defence-shipbuilding-stocks-rise-amid-multi-year-growth-forecast-11780990002304.html",
+          "source": "livemint",
+          "pubDate": "2026-06-09T13:00:58+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -889,17 +889,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Further to our Intimation Letter No. SECY/GRSE/BD-69/AM/04(R)/25-26 dated 07 May 2026, we wish to inform that Conference Call was held on Tuesday, 12th May 2026 at 03:30 P.M. to discuss the Audited Fi",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-19T11:19:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1012,6 +1001,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-09T14:50:24+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Urmila Kanoria has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 20",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1064,21 +1064,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome of investor / analyst conference - 360 ONE Capital (B&K) 16th Annual Investor Conference   TRINITY INDIA 2026  was concluded today i.e",
+          "summary": "KPIT Technologies Limited wish to inform you that, the Company officials will participate in the  Investec Confluence , on Friday, June 12, 2026, at Chennai.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-05-29T18:49:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Demise",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding Demise of Mr. S.B. (Ravi) Pandit, Founder & Chairman of the Board of the Company on the morning of  May 08, 2026 in Pune.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-08T09:15:30+00:00",
+          "pubDate": "2026-06-09T17:10:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1348,6 +1337,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top defence stocks to buy now: HAL, Zen Technologies, Bharat Electronics, Apollo Micro in Choice Broking’s list",
+          "summary": "According to Choice Institutional Equities, India's defence sector is poised for growth with robust order books and increasing local production. Key companies such as HAL, BEL, and Zen Technologies are well-positioned to benefit from military prepare…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-now-hal-zen-technologies-bharat-electronics-apollo-micro-bel-in-choice-broking-list-11780992117630.html",
+          "source": "livemint",
+          "pubDate": "2026-06-09T14:47:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
