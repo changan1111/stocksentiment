@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-08T13:05:28.110042+00:00",
+  "fetchedAt": "2026-06-09T06:48:02.279574+00:00",
   "tickerCount": 32,
-  "articleCount": 108,
+  "articleCount": 106,
   "overview": {
-    "positive": 16,
-    "negative": 5,
-    "neutral": 87
+    "positive": 17,
+    "negative": 3,
+    "neutral": 86
   },
   "stocks": [
     {
@@ -310,10 +310,10 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated Jun 06, 2026, titled \"Coforge Opened Its Fourth Public Library in India at Vasant Kunj, New Delhi\".",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated Jun 09, 2026, titled \"Coforge wins Pega Industry Excellence Award for Government and Public Sector transformation work\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-06T22:25:13+00:00",
+          "pubDate": "2026-06-09T11:41:45+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -340,17 +340,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication for Postal Ballot Notice",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-30T17:55:44+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -360,33 +349,55 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "title": "[NSE] Amalgamation/Merger",
+          "summary": "Persistent Systems Limited has informed the Exchange about Amalgamation/Merger as a part of internal restructuring",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-05T18:51:03+00:00",
+          "pubDate": "2026-06-08T20:45:05+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Other Restructuring",
+          "summary": "Persistent Systems Limited has informed the Exchange about Other Restructuring",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-08T20:28:36+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Dr. Anand Suresh Deshpande, and Mr. Suresh Purushottam Deshpande has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Ac",
+          "title": "[NSE] General Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about the proposal for reappointment of the Directors",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-05T14:29:02+00:00",
+          "pubDate": "2026-06-08T20:21:25+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 04, 2026, titled \"Persistent Strengthens Enterprise AI Engineering Talent Pipeline Through Collaboration with D",
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 08, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-04T12:37:43+00:00",
+          "pubDate": "2026-06-08T20:08:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-05T18:51:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -446,6 +457,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Cyient Dlm Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on Jun 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-08T23:01:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -476,17 +498,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "Cyient Dlm Limited has informed the Exchange regarding Appointment of Mr Ramakanth Alapati  as as President & Chief Strategy and Growth Officer of the Company",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-18T21:23:28+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -605,14 +616,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Stock market today: Gift Nifty hints gap-down start; US-Iran news to gold, silver rates — eight stocks to buy or sell",
-          "summary": "Stock market today: Experts recommend buying these eight shares today — Tata Technologies, Sai Life Sciences, Axis Bank, Eternal, Tata Steel, VA Tech Wabag, Diamond Power Infra, and Groww",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-gap-down-start-us-iran-news-to-gold-silver-rates-eight-stocks-to-buy-or-sell-11780886746584.html",
+          "title": "How a luxury carmaker comes to the rescue of Tata’s tech arms amid a broader sectoral slowdown",
+          "summary": "Jaguar Land Rover (JLR) remains crucial for Tata Group's tech firms amid IT sector challenges. Tata Technologies seeks approval for  ₹1,750 crore business from JLR, contributing significantly to its revenue despite recent cyberattacks that impacted t…",
+          "link": "https://www.livemint.com/companies/jlr-luxury-carmaker-cash-cow-tata-group-tech-companies-sectoral-slowdown-11780915746287.html",
           "source": "livemint",
-          "pubDate": "2026-06-08T09:17:31+05:30",
+          "pubDate": "2026-06-09T05:50:10+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
+            "label": "Positive",
+            "score": 0.333
           }
         },
         {
@@ -797,6 +808,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Commencement of commercial production/operations",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-08T18:48:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Pavan Kumar Bajaj has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) and 31 (5) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) R",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -824,17 +846,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-05-23T13:46:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Electronics Mart India Limited has informed the Exchange regarding a press release dated May 22, 2026, titled \"EMIL informed the exchange about the press release on financial results for the period en",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-22T15:55:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1081,6 +1092,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-08T22:06:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 1,82,31,000  warrants.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1101,28 +1123,6 @@
             "label": "Neutral",
             "score": 0.0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Transcript of Earnings Call.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-19T13:28:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-14T19:53:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1131,17 +1131,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Top Gainers &amp; Losers on June 8: Netweb Tech, Wipro, Reliance Power, Swiggy, SAIL, HPCL among top losers",
-          "summary": "The Indian stock market faced a significant sell-off on June 8, with benchmark indices dropping over 1% due to rising crude oil prices and weak global cues. The Nifty 50 fell 1.05% and the Sensex dropped 0.95%, reflecting widespread market weakness a…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-8-netweb-tech-wipro-reliance-power-swiggy-sail-hpcl-among-top-losers-11780912141173.html",
-          "source": "livemint",
-          "pubDate": "2026-06-08T16:17:13+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
         {
           "title": "[NSE] Credit Rating",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Credit Rating",
@@ -1183,6 +1172,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-08T20:01:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "PG Electroplast Limited has informed the Exchange regarding Grant of 800000  Options.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1194,33 +1194,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-30T15:55:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Investor Presentation",
           "summary": "PG Electroplast Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-05-27T20:35:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding a press release dated May 27, 2026, titled \"Several Challenges Impact the quarterlyperformance\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T20:34:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
