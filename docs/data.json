@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-09T11:58:50.673538+00:00",
+  "fetchedAt": "2026-06-09T15:53:27.020403+00:00",
   "tickerCount": 32,
   "articleCount": 106,
   "overview": {
@@ -338,6 +338,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-09T20:37:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 09, 2026, titled \"Persistent Recognized Among India s Leading Impactful Companies in Hurun India Impact 50 - 20",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -376,17 +387,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-08T20:21:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 08, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-08T20:08:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1338,6 +1338,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 2350  Options.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-09T18:10:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Top defence stocks to buy now: HAL, Zen Technologies, Bharat Electronics, Apollo Micro in Choice Broking’s list",
           "summary": "According to Choice Institutional Equities, India's defence sector is poised for growth with robust order books and increasing local production. Key companies such as HAL, BEL, and Zen Technologies are well-positioned to benefit from military prepare…",
           "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-now-hal-zen-technologies-bharat-electronics-apollo-micro-bel-in-choice-broking-list-11780992117630.html",
@@ -1379,17 +1390,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
-          "summary": "Zen Technologies Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-28T18:15:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
