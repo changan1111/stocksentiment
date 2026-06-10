@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-10T12:19:08.660086+00:00",
+  "fetchedAt": "2026-06-10T16:34:13.605923+00:00",
   "tickerCount": 32,
-  "articleCount": 105,
+  "articleCount": 104,
   "overview": {
     "positive": 19,
     "negative": 3,
-    "neutral": 83
+    "neutral": 82
   },
   "stocks": [
     {
@@ -179,10 +179,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Transcript",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-04T20:25:05+00:00",
+          "pubDate": "2026-06-10T21:33:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -197,17 +197,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-29T12:03:58+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -338,6 +327,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-10T20:18:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Order book growth keeps Persistent Systems on track",
           "summary": "Persistent Systems shares are rising, buoyed by optimism in the technology sector and advancements in artificial intelligence. The company remains confident in its long-term growth strategy. Nevertheless, analysts have recalibrated earnings forecasts…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/order-book-growth-keeps-persistent-systems-on-track/articleshow/131622787.cms",
@@ -346,17 +346,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-09T20:37:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -387,17 +376,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-08T20:28:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about the proposal for reappointment of the Directors",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-08T20:21:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1131,6 +1109,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Credit Rating- Revision",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Credit Rating- Revision",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-10T18:13:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Credit Rating",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Credit Rating",
