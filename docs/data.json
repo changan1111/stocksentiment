@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-10T07:08:09.604455+00:00",
+  "fetchedAt": "2026-06-10T12:19:08.660086+00:00",
   "tickerCount": 32,
-  "articleCount": 106,
+  "articleCount": 105,
   "overview": {
-    "positive": 20,
+    "positive": 19,
     "negative": 3,
     "neutral": 83
   },
@@ -498,17 +498,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
