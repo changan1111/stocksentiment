@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-11T07:29:27.879336+00:00",
+  "fetchedAt": "2026-06-11T12:43:25.956100+00:00",
   "tickerCount": 32,
   "articleCount": 102,
   "overview": {
@@ -779,7 +779,7 @@
           "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-08T18:48:31+00:00",
+          "pubDate": "2026-06-11T16:48:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -825,6 +825,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "From Paras Defence to Apollo Micro, GRSE, Data Patterns: Defence stocks fall despite gains in Indian stock markets",
+          "summary": "Despite broader market gains, defence stocks fell sharply on Thursday, with Paras Defence and Apollo Micro among the top losers. The Nifty India Defence Index dropped 1.3%, attributed to profit booking after a sustained rally, while long-term prospec…",
+          "link": "https://www.livemint.com/market/stock-market-news/from-paras-defence-to-apollo-micro-grse-data-patterns-defence-stocks-fall-despite-gains-in-indian-stock-markets-11781164582964.html",
+          "source": "livemint",
+          "pubDate": "2026-06-11T14:01:02+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
         {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
@@ -967,17 +978,6 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "JSW Infra Secures Kolkata Port terminal: Expands container capacity to 1.8 million TEUs",
-          "summary": "JSW Infrastructure Limited on Tuesday said it has emerged as the successful bidder for container berths at Syama Prasad Mookerjee Port Authority, Kolkata.",
-          "link": "https://www.livemint.com/companies/news/jsw-infra-secures-kolkata-port-terminal-expands-container-capacity-to-1-8-million-teus-11781050656618.html",
-          "source": "livemint",
-          "pubDate": "2026-06-10T05:50:14+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
