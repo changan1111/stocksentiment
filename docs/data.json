@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-12T07:22:10.073641+00:00",
+  "fetchedAt": "2026-06-12T12:17:24.398927+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 103,
   "overview": {
-    "positive": 19,
+    "positive": 18,
     "negative": 2,
-    "neutral": 80
+    "neutral": 83
   },
   "stocks": [
     {
@@ -178,6 +178,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated Jun 12, 2026, titled \"AXISCADES Announces Strategic Engineering Services Divestment Program for Aerospace Engin",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-12T15:12:17+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Acquisition",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Acquisition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-12T15:06:38+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Sale or disposal",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Sale or disposal",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-12T15:06:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -186,17 +219,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Spurt in Volume",
-          "summary": "Significant increase in volume has been observed in AXISCADES Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-04T13:20:22+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -640,6 +662,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Resignation",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Resignation of Mr  as Other of the company w.e.f. Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-12T17:05:36+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "E2E Networks Limited has informed the Exchange about  Approval received for Listing of 20,55,64,890  Equity Shares of Rs.1/- each of E2E Networks Limited on main board of BSE Limited under Direct List",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -681,17 +714,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Action(s) initiated or orders passed",
-          "summary": "E2E Networks Limited has informed the Exchange about Action(s) initiated or orders passed",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-19T13:42:03+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1049,10 +1071,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Cancellation of Analyst / Investor Meet.",
+          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-10T23:23:59+00:00",
+          "pubDate": "2026-06-12T17:16:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
