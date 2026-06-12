@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-12T12:17:24.398927+00:00",
+  "fetchedAt": "2026-06-12T16:16:21.728775+00:00",
   "tickerCount": 32,
-  "articleCount": 103,
+  "articleCount": 102,
   "overview": {
-    "positive": 18,
+    "positive": 17,
     "negative": 2,
     "neutral": 83
   },
@@ -477,17 +477,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -724,6 +713,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+          "summary": "EPACK Durable Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-12T18:25:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "EPACK Durable Limited has submitted the Transcript for the Earning Call held on May 21, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -754,17 +754,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding a press release dated May 20, 2026, titled \"Press release on the Audited Standalone & Consolidated Financial Statements/ Results ( Financial R",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-20T22:43:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1045,7 +1034,7 @@
           "summary": "KPIT Technologies Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-12T12:40:16+00:00",
+          "pubDate": "2026-06-12T19:50:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -1053,10 +1042,10 @@
         },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited wish to inform you that, the Company officials will participate in the  Investec Confluence , on Friday, June 12, 2026, at Chennai.",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome of investor / analyst conference -  Investec Confluence held on Friday, June 12, 2026, at Chennai.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-09T17:10:08+00:00",
+          "pubDate": "2026-06-12T19:09:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1299,10 +1288,10 @@
       "articles": [
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Ramakrishna Kamojhala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) and 31 (5) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeover",
+          "summary": " Ramakrishna Kamojhala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulat",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-12T10:56:39+00:00",
+          "pubDate": "2026-06-12T19:41:12+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
