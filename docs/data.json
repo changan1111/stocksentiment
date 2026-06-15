@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-12T16:16:21.728775+00:00",
+  "fetchedAt": "2026-06-15T09:00:40.590162+00:00",
   "tickerCount": 32,
   "articleCount": 102,
   "overview": {
-    "positive": 17,
+    "positive": 18,
     "negative": 2,
-    "neutral": 83
+    "neutral": 82
   },
   "stocks": [
     {
@@ -127,6 +127,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "RVNL, Railtel Corp, Titagarh Rail, other railway stocks rally up to 4% on Rs 16 lakh crore bullet train plan",
+          "summary": "Railway stocks including RVNL, Railtel and Titagarh Rail rose up to 4% after the government unveiled a Rs 16 lakh crore plan to develop seven high-speed rail corridors. The ambitious push, including Delhi–Varanasi and Varanasi–Siliguri routes, is exp…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rvnl-railtel-corp-titagarh-rail-other-railway-stocks-rally-up-to-4-on-rs-16-lakh-crore-bullet-train-plan/articleshow/131734182.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-15T10:47:37+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -177,6 +188,17 @@
       "name": "Axiscades Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-14T18:18:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated Jun 12, 2026, titled \"AXISCADES Announces Strategic Engineering Services Divestment Program for Aerospace Engin",
@@ -349,6 +371,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 15, 2026, titled \"Persistent Announces Partnership with San Francisco Unicorns as Official Re(AI)magining  Part",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-15T12:35:14+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -357,28 +390,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 09, 2026, titled \"Persistent Recognized Among India s Leading Impactful Companies in Hurun India Impact 50 - 20",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-09T12:30:32+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Amalgamation/Merger",
-          "summary": "Persistent Systems Limited has informed the Exchange about Amalgamation/Merger as a part of internal restructuring",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-08T20:45:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -595,10 +606,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Conference",
+          "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-11T22:53:38+00:00",
+          "pubDate": "2026-06-15T12:39:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -625,17 +636,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange regarding letters being sent to those Shareholders whose e-mail IDs are not registered with Company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-04T14:26:14+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -650,6 +650,17 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "E2E Networks Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-12T21:56:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Resignation",
           "summary": "E2E Networks Limited has informed the Exchange regarding Resignation of Mr  as Other of the company w.e.f. Jun 30, 2026.",
@@ -692,17 +703,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "E2E Networks Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-21T20:01:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -764,6 +764,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "India's Electronics Mart eyes new markets as tech hubs fear job losses",
+          "summary": "Electronics Mart India is diversifying its store presence beyond Hyderabad due to concerns about potential AI-driven job losses impacting consumer spending in the tech hub. The retailer plans to invest significantly in opening new stores, particularl…",
+          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-electronics-mart-eyes-new-markets-as-tech-hubs-fear-job-losses/articleshow/131734500.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-15T11:05:23+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Commencement of commercial production/operations",
           "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -814,17 +825,6 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Paras Defence to GRSE, Mazagon Dock: Defence stocks rise up to 4.5% today amid US-Iran peace deal buzz",
-          "summary": "Amidst easing U.S.-Iran tensions, India's defense stocks rose, aided by a government maritime package. Analysts foresee growth driven by robust order inflows, policy support, and advancements in domestic manufacturing, with geopolitical developments …",
-          "link": "https://www.livemint.com/market/stock-market-news/paras-defence-to-grse-mazagon-dock-hal-bel-bdl-defence-stocks-rise-up-to-4-5-today-amid-us-iran-peace-deal-buzz-11781237471425.html",
-          "source": "livemint",
-          "pubDate": "2026-06-12T10:14:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
@@ -968,6 +968,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Record Date",
+          "summary": "JSW Infrastructure Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Jun-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-13T18:52:51+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1006,17 +1017,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-05-11T18:57:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-09T10:40:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
