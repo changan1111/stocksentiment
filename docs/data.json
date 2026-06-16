@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-15T15:24:51.671602+00:00",
+  "fetchedAt": "2026-06-16T08:44:57.089610+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 99,
   "overview": {
     "positive": 16,
     "negative": 3,
-    "neutral": 81
+    "neutral": 80
   },
   "stocks": [
     {
@@ -82,17 +82,6 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "RVNL, Railtel Corp, Titagarh Rail, other railway stocks rally up to 4% on Rs 16 lakh crore bullet train plan",
-          "summary": "Railway stocks including RVNL, Railtel and Titagarh Rail rose up to 4% after the government unveiled a Rs 16 lakh crore plan to develop seven high-speed rail corridors. The ambitious push, including Delhi–Varanasi and Varanasi–Siliguri routes, is exp…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rvnl-railtel-corp-titagarh-rail-other-railway-stocks-rally-up-to-4-on-rs-16-lakh-crore-bullet-train-plan/articleshow/131734182.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-15T10:47:37+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) ",
@@ -236,6 +225,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
+          "summary": " Krishna Kumar Choudhary has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regul",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-16T13:05:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Schedule of meet with investors",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -267,17 +267,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication of financial results for Q4 and FY : 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-17T14:31:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -286,6 +275,17 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Coforge Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-16T13:04:36+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Motilal Oswal Asset Management Company Limited (Investment Manager to the Schemes of Motilal Oswal Mutual Fund) has Submitted to the Exchange a copy of Disclosure under Regulation 29(2) of the Securit",
@@ -317,17 +317,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Coforge Limited has informed the Exchange regarding allotment of 12671602 securities pursuant to Scheme of Arrangement/Amalgamation at its meeting held on Jun 03, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-04T00:19:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -763,17 +752,6 @@
       "name": "Electronics Mart India",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "India's Electronics Mart eyes new markets as tech hubs fear job losses",
-          "summary": "Electronics Mart India is diversifying its store presence beyond Hyderabad due to concerns about potential AI-driven job losses impacting consumer spending in the tech hub. The retailer plans to invest significantly in opening new stores, particularl…",
-          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-electronics-mart-eyes-new-markets-as-tech-hubs-fear-job-losses/articleshow/131734500.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-15T11:05:23+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
         {
           "title": "[NSE] Commencement of commercial production/operations",
           "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
@@ -1293,6 +1271,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Where will Zen Technologies share price be in the next 3 years?",
+          "summary": "The stock of Zen Technologies has given poor returns to investors in the last few months. We examine the prospects of the company in the next three years.",
+          "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-share-price-zen-technologies-stock-price-11781528909734.html",
+          "source": "livemint",
+          "pubDate": "2026-06-16T09:00:39+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
