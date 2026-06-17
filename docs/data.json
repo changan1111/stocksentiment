@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-17T08:27:26.603858+00:00",
+  "fetchedAt": "2026-06-17T12:50:32.654237+00:00",
   "tickerCount": 32,
-  "articleCount": 105,
+  "articleCount": 104,
   "overview": {
-    "positive": 21,
+    "positive": 22,
     "negative": 3,
-    "neutral": 81
+    "neutral": 79
   },
   "stocks": [
     {
@@ -66,10 +66,10 @@
       "articles": [
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Devendra Khemka For & on behalf of Akshay Poddar has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Sha",
+          "summary": "Devendra Khemka For & on behalf of Puja Poddar has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Share",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-17T13:03:14+00:00",
+          "pubDate": "2026-06-17T15:33:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -497,6 +497,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Action(s) taken or orders passed",
+          "summary": "Dcx Systems Limited has informed the Exchange about Action(s) taken or orders passed",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-17T17:42:49+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Dcx Systems Limited has Submitted to the Exchange a copy of Disclosure under Regulation 10 (5) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulatio",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -535,17 +546,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-05-27T20:06:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Dcx Systems Limited has submitted to the Exchange, the financial results for the period ended March 31, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T18:56:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1281,10 +1281,10 @@
       "articles": [
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "R Naresh has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
+          "summary": " Geetaa S Abraham has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations,",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-17T12:18:41+00:00",
+          "pubDate": "2026-06-17T16:08:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -1296,17 +1296,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-06T13:06:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding a press release dated Jun 04, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-04T11:11:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
