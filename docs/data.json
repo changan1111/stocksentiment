@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-17T12:50:32.654237+00:00",
+  "fetchedAt": "2026-06-17T16:38:01.423234+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 100,
   "overview": {
-    "positive": 22,
+    "positive": 18,
     "negative": 3,
     "neutral": 79
   },
@@ -83,11 +83,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Market Trading Guide: Netweb Technologies, Rane Holdings among 5 stock recommendations for Wednesday",
-          "summary": "Indian equities extended their recovery as easing US-Iran tensions and softer crude prices supported sentiment. Analysts highlighted Titagarh Rail, Rane Holdings, Bandhan Bank, CMPDI and Netweb Technologies, citing bullish chart patterns, improving m…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-netweb-technologies-rane-holdings-among-5-stock-recommendations-for-wednesday/slideshow/131774981.cms",
+          "title": "Market Trading Guide: Titagarh Rail among 2 stock recommendations for Thursday",
+          "summary": "Indian equities extended their recovery amid easing US-Iran tensions and softer crude prices. Analysts recommended Titagarh Rail Systems and Engineers India, citing bullish technical patterns, strong momentum, improving volumes and favorable position…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-titagarh-rail-among-2-stock-recommendations-for-thursday/articleshow/131805155.cms",
           "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-16T20:01:42+05:30",
+          "pubDate": "2026-06-17T21:02:59+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -349,6 +349,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-17T21:52:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 17, 2026, titled \"Persistent Celebrates 10 Years of Growth in Mexico, Strengthening Nearshore Capabilities to A",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -357,17 +368,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-16T20:28:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -435,6 +435,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
+          "summary": "Cyient Dlm Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-17T18:37:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -462,17 +473,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-08T23:01:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange regarding ': Allotment of Shares upon exercise of stock options  '.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T10:34:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -575,28 +575,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-rally-5-amid-reports-of-government-nod-for-vivo-jv-this-month/articleshow/131787136.cms",
           "source": "economictimes.indiatimes",
           "pubDate": "2026-06-17T10:46:35+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Dixon to BEL - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
-          "summary": "Indian equity benchmarks opened higher due to falling crude oil prices and easing geopolitical concerns. Nifty 50 rose 0.23% to 24,044.50, while Sensex advanced 0.35% to 77,080.09, driven by a peace agreement between the US and Iran, enhancing invest…",
-          "link": "https://www.livemint.com/market/stock-market-news/dixon-to-bel-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11781667591760.html",
-          "source": "livemint",
-          "pubDate": "2026-06-17T09:33:02+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "Govt likely to clear Dixon-Vivo JV deal this month",
-          "summary": "The government is set to approve the Dixon-Vivo joint venture this month. Dixon Technologies will hold a majority stake in this new venture. This partnership aims to manufacture electronic devices, including smartphones. Vivo's Noida facility will be…",
-          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/govt-likely-to-clear-dixon-vivo-jv-deal-this-month/articleshow/131777212.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-16T22:21:41+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -706,6 +684,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about Incorporation of wholly Owned Subsidiary in India.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-17T18:42:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "E2E Networks Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -728,17 +717,6 @@
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about  Approval received for Listing of 20,55,64,890  Equity Shares of Rs.1/- each of E2E Networks Limited on main board of BSE Limited under Direct List",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-11T19:39:08+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated May 29, 2026, titled \"E2E goes live with next-generation NVIDIA B200 cluster using NVIDIA Certified Reference Architectur",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -747,17 +725,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "E2E Networks Limited has informed the Exchange that Record date for the purpose of Split/Subdivision  is 05-Jun-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-21T20:31:44+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1131,17 +1098,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Market Trading Guide: Netweb Technologies, Rane Holdings among 5 stock recommendations for Wednesday",
-          "summary": "Indian equities extended their recovery as easing US-Iran tensions and softer crude prices supported sentiment. Analysts highlighted Titagarh Rail, Rane Holdings, Bandhan Bank, CMPDI and Netweb Technologies, citing bullish chart patterns, improving m…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-netweb-technologies-rane-holdings-among-5-stock-recommendations-for-wednesday/slideshow/131774981.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-16T20:01:42+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Credit Rating- Revision",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Credit Rating- Revision",
