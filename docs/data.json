@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-18T08:06:15.537657+00:00",
+  "fetchedAt": "2026-06-18T12:23:11.954283+00:00",
   "tickerCount": 32,
-  "articleCount": 98,
+  "articleCount": 99,
   "overview": {
     "positive": 17,
     "negative": 3,
-    "neutral": 78
+    "neutral": 79
   },
   "stocks": [
     {
@@ -82,17 +82,6 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Market Trading Guide: Titagarh Rail among 2 stock recommendations for Thursday",
-          "summary": "Indian equities extended their recovery amid easing US-Iran tensions and softer crude prices. Analysts recommended Titagarh Rail Systems and Engineers India, citing bullish technical patterns, strong momentum, improving volumes and favorable position…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-titagarh-rail-among-2-stock-recommendations-for-thursday/articleshow/131805155.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-17T21:02:59+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) ",
@@ -287,7 +276,7 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Coforge’s 2030 plan is bold. Now it needs global macros to turn favourable for IT sector",
+          "title": "Coforge’s FY30 plan is bold. Now it needs global macros to turn favourable for IT sector",
           "summary": "Coforge aims to double revenue to $5 billion by FY30 through 15% organic growth, AI-led opportunities and acquisitions such as Encora. Strong deal wins and a growing order book support the outlook, though macroeconomic uncertainty, AI disruption and …",
           "link": "https://www.livemint.com/market/mark-to-market/coforge-share-price-coforge-earnings-it-sector-11781763766524.html",
           "source": "livemint",
@@ -487,6 +476,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -1036,6 +1036,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "​Rusk Media raises Rs 100 crore Pre-Series C round led by Nazara Technologies​",
+          "summary": "Rusk Media has secured Rs 100 crore in a Pre-Series C funding round led by Nazara Technologies, with participation from Info Edge Ventures, IvyCap Ventures, and Audacity VC. The capital will fuel content expansion, scale its Alright! TV platform, and…",
+          "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/rusk-media-raises-rs-100-crore-pre-series-c-round-led-by-nazara-technologies/articleshow/131823359.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-18T13:46:57+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on infusion of funds into Nazara Technologies UK Limited, a whol",
