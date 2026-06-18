@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-17T16:38:01.423234+00:00",
+  "fetchedAt": "2026-06-18T08:06:15.537657+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 98,
   "overview": {
-    "positive": 18,
+    "positive": 17,
     "negative": 3,
-    "neutral": 79
+    "neutral": 78
   },
   "stocks": [
     {
@@ -287,6 +287,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Coforge’s 2030 plan is bold. Now it needs global macros to turn favourable for IT sector",
+          "summary": "Coforge aims to double revenue to $5 billion by FY30 through 15% organic growth, AI-led opportunities and acquisitions such as Encora. Strong deal wins and a growing order book support the outlook, though macroeconomic uncertainty, AI disruption and …",
+          "link": "https://www.livemint.com/market/mark-to-market/coforge-share-price-coforge-earnings-it-sector-11781763766524.html",
+          "source": "livemint",
+          "pubDate": "2026-06-18T13:24:07+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.667
+          }
+        },
+        {
+          "title": "A year in, Cyient CEO reshapes leadership to revive growth",
+          "summary": "CEO Sukamal Banerjee has brought in at least eight senior executives as the family-led IT firm seeks larger deals, better margins and a turnaround after falling behind peers Coforge and Persistent.",
+          "link": "https://www.livemint.com/companies/news/cyient-ceo-sukamal-banerjee-leadership-overhaul-deals-margins-growth-strategy-11781695903297.html",
+          "source": "livemint",
+          "pubDate": "2026-06-18T11:43:50+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Coforge Limited has informed the Exchange regarding Grant of 940500 Options under Employee Stock Option Plan 2005 (ESOP 2005)",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -295,17 +317,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Coforge shares jump over 2% as firm eyes $5 billion revenue by FY30. Why Nomura, others see up to 50% upside?",
-          "summary": "Coforge shares saw a rise after the company projected $5 billion in revenue by FY30. This ambitious target is fueled by strong organic growth and the strategic integration of artificial intelligence. Analysts are optimistic, with several maintaining …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-in-focus-as-firm-eyes-5-billion-revenue-by-fy30-why-nomura-others-see-up-to-50-upside/articleshow/131785930.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-17T09:29:45+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -477,17 +488,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -570,17 +570,6 @@
           }
         },
         {
-          "title": "Dixon Tech shares rally 5% amid reports of government nod for Vivo JV this month",
-          "summary": "Dixon Technologies shares surged rose sharply on Wednesday after reports suggested the government may approve its long-pending joint venture with Vivo this month. The proposed JV, in which Dixon will hold a majority stake, is expected to strengthen s…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-rally-5-amid-reports-of-government-nod-for-vivo-jv-this-month/articleshow/131787136.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-17T10:46:35+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Investor Meet Outcome",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -626,17 +615,6 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Dividend alert! Last date to buy Tata Tech, HDB Financial, 6 other stocks for dividends worth Rs 36",
-          "summary": "The shares of Tata Technologies on Thursday will turn ex-record date for a special dividend of Rs 3.35 per share and a final dividend of Rs 8.35 per share, aggregating to Rs 11.70 per equity share for the financial year which ended on March 31, 2026,…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-date-to-buy-tata-tech-hdb-financial-6-other-stocks-for-dividends-worth-rs-36/articleshow/131784528.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-17T08:06:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Tata Motors Passenger Vehicles Limited (formerly Tata Motors Limited) has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substanti",
@@ -735,6 +713,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
+          "summary": "Laxmi Pat Bothra has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-18T11:04:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "EPACK Durable Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -762,28 +751,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-12T18:25:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "EPACK Durable Limited has submitted the Transcript for the Earning Call held on May 21, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T15:02:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "EPACK Durable Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-22T15:08:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -847,6 +814,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Defence stocks fire up! Paras Defence, BEL, GRSE, other stocks surge up to 24% in 2 days. What's powering the rally?",
+          "summary": "Defence stocks extended their rally for a second straight session, with Paras Defence surging 24% in two days and BEL, GRSE, HAL, and others posting strong gains. Investor sentiment was boosted by record FY26 defence production, rising private-sector…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-bel-grse-other-stocks-surge-up-to-24-in-2-days-whats-powering-the-rally/articleshow/131818181.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-18T10:33:39+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.667
+          }
+        },
         {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
@@ -1294,11 +1272,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Defence stocks extend rally; BEL, HAL, Bharat Dynamics, Zen Technologies among top stocks to buy",
+          "summary": "Defence stocks to buy: Aequs and Zen Technologies climbed more than 5% each, being the top gainers on the Nifty India Defence index. Other gainers included Dynamatic Technologies, Solar Industries India, Astra Microwave Products, and MTAR Technologie…",
+          "link": "https://www.livemint.com/market/stock-market-news/defence-stocks-extend-rally-bel-hal-bharat-dynamics-zen-technologies-among-top-stocks-to-buy-11781761560961.html",
+          "source": "livemint",
+          "pubDate": "2026-06-18T11:27:26+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-09T23:49:47+00:00",
+          "pubDate": "2026-06-17T22:19:26+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1313,17 +1302,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Spurt in Volume",
-          "summary": "Significant increase in volume has been observed in Zen Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T10:51:58+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
