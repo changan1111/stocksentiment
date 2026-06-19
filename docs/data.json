@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-19T08:30:55.432247+00:00",
+  "fetchedAt": "2026-06-19T12:44:35.692105+00:00",
   "tickerCount": 32,
   "articleCount": 95,
   "overview": {
@@ -276,17 +276,6 @@
           }
         },
         {
-          "title": "A year in, Cyient CEO reshapes leadership to revive growth",
-          "summary": "CEO Sukamal Banerjee has brought in at least eight senior executives as the family-led IT firm seeks larger deals, better margins and a turnaround after falling behind peers Coforge and Persistent.",
-          "link": "https://www.livemint.com/companies/news/cyient-ceo-sukamal-banerjee-leadership-overhaul-deals-margins-growth-strategy-11781695903297.html",
-          "source": "livemint",
-          "pubDate": "2026-06-18T11:43:50+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Coforge Limited has informed the Exchange regarding Grant of 940500 Options under Employee Stock Option Plan 2005 (ESOP 2005)",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -325,6 +314,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-09T11:41:45+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "A year in, Cyient CEO reshapes leadership to revive growth",
+          "summary": "CEO Sukamal Banerjee has brought in at least eight senior executives as the family-led IT firm seeks larger deals, better margins and a turnaround after falling behind peers Coforge and Persistent.",
+          "link": "https://www.livemint.com/companies/news/cyient-ceo-sukamal-banerjee-leadership-overhaul-deals-margins-growth-strategy-11781695903297.html",
+          "source": "livemint",
+          "pubDate": null,
           "sentiment": {
             "label": "Positive",
             "score": 1.0
