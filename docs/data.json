@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-18T16:28:06.637669+00:00",
+  "fetchedAt": "2026-06-19T08:30:55.432247+00:00",
   "tickerCount": 32,
-  "articleCount": 98,
+  "articleCount": 95,
   "overview": {
-    "positive": 15,
+    "positive": 12,
     "negative": 3,
     "neutral": 80
   },
@@ -66,10 +66,10 @@
       "articles": [
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Devendra Khemka For & on behalf of Puja Poddar has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Share",
+          "summary": "V Venugopalan For & on behalf of Anisha Berlia has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Share",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-17T15:33:21+00:00",
+          "pubDate": "2026-06-19T12:57:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -229,7 +229,7 @@
           "summary": "Significant movement in price has been observed in Rashi Peripherals Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-18T18:14:55+00:00",
+          "pubDate": "2026-06-19T09:51:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -256,17 +256,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Action(s) initiated or orders passed",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Action(s) initiated or orders passed by Customs authorities on 29-05-2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-30T15:09:21+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -276,14 +265,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Coforge’s FY30 plan is bold. Now it needs global macros to turn favourable for IT sector",
-          "summary": "Coforge aims to double revenue to $5 billion by FY30 through 15% organic growth, AI-led opportunities and acquisitions such as Encora. Strong deal wins and a growing order book support the outlook, though macroeconomic uncertainty, AI disruption and …",
-          "link": "https://www.livemint.com/market/mark-to-market/coforge-share-price-coforge-earnings-it-sector-11781763766524.html",
+          "title": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5%",
+          "summary": "All Nifty IT constituents were also in the red. Infosys was the top dragger, down 7.5%, followed by Mphasis, Tech Mahindra, Persistent Systems and TCS, all declining over 6% each. Meanwhile, HCL Tech, Coforge, LTM also shed over 5% each",
+          "link": "https://www.livemint.com/market/stock-market-news/infosys-to-tcs-hcl-tech-indian-it-stocks-crash-as-accenture-trims-revenue-guidance-nifty-it-index-down-65-11781836930366.html",
           "source": "livemint",
-          "pubDate": "2026-06-18T13:24:07+05:30",
+          "pubDate": "2026-06-19T09:19:47+05:30",
           "sentiment": {
-            "label": "Positive",
-            "score": 0.667
+            "label": "Neutral",
+            "score": 0.0
           }
         },
         {
@@ -349,33 +338,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-17T21:52:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 17, 2026, titled \"Persistent Celebrates 10 Years of Growth in Mexico, Strengthening Nearshore Capabilities to A",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 19, 2026, titled \"Persistent Wins CII Award for Excellence in Disability Inclusion\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-17T11:37:50+00:00",
+          "pubDate": "2026-06-19T12:31:44+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding 'Intimation of proposed Secondary Market Purchase of Persistent Shares by ESOP Trust of the Company in a scheduled manner'.",
+          "title": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5%",
+          "summary": "All Nifty IT constituents were also in the red. Infosys was the top dragger, down 7.5%, followed by Mphasis, Tech Mahindra, Persistent Systems and TCS, all declining over 6% each. Meanwhile, HCL Tech, Coforge, LTM also shed over 5% each",
+          "link": "https://www.livemint.com/market/stock-market-news/infosys-to-tcs-hcl-tech-indian-it-stocks-crash-as-accenture-trims-revenue-guidance-nifty-it-index-down-65-11781836930366.html",
+          "source": "livemint",
+          "pubDate": "2026-06-19T09:19:47+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-15T15:36:25+00:00",
+          "pubDate": "2026-06-17T21:52:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -804,17 +793,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Defence stocks fire up! Paras Defence, BEL, GRSE, other stocks surge up to 24% in 2 days. What's powering the rally?",
-          "summary": "Defence stocks extended their rally for a second straight session, with Paras Defence surging 24% in two days and BEL, GRSE, HAL, and others posting strong gains. Investor sentiment was boosted by record FY26 defence production, rising private-sector…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-bel-grse-other-stocks-surge-up-to-24-in-2-days-whats-powering-the-rally/articleshow/131818181.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-18T10:33:39+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.667
-          }
-        },
-        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -957,6 +935,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating- New",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating- New",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-19T12:33:39+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Credit Rating- Revision",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating- Revision",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-19T12:29:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Everbest Consultancy Services Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -988,17 +988,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-12T18:25:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1025,17 +1014,6 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "​Rusk Media raises Rs 100 crore Pre-Series C round led by Nazara Technologies​",
-          "summary": "Rusk Media has secured Rs 100 crore in a Pre-Series C funding round led by Nazara Technologies, with participation from Info Edge Ventures, IvyCap Ventures, and Audacity VC. The capital will fuel content expansion, scale its Alright! TV platform, and…",
-          "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/rusk-media-raises-rs-100-crore-pre-series-c-round-led-by-nazara-technologies/articleshow/131823359.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-18T13:46:57+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on infusion of funds into Nazara Technologies UK Limited, a whol",
@@ -1174,6 +1152,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
+          "summary": "Saksoft Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-19T13:03:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1215,24 +1204,13 @@
       "articles": [
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": " Geetaa S Abraham has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations,",
+          "summary": " Preetha Balan Ramanathan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-17T16:08:31+00:00",
+          "pubDate": "2026-06-19T12:57:29+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-06T13:06:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1271,17 +1249,6 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Defence stocks extend rally; BEL, HAL, Bharat Dynamics, Zen Technologies among top stocks to buy",
-          "summary": "Defence stocks to buy: Aequs and Zen Technologies climbed more than 5% each, being the top gainers on the Nifty India Defence index. Other gainers included Dynamatic Technologies, Solar Industries India, Astra Microwave Products, and MTAR Technologie…",
-          "link": "https://www.livemint.com/market/stock-market-news/defence-stocks-extend-rally-bel-hal-bharat-dynamics-zen-technologies-among-top-stocks-to-buy-11781761560961.html",
-          "source": "livemint",
-          "pubDate": "2026-06-18T11:27:26+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
