@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-19T15:59:05.607447+00:00",
+  "fetchedAt": "2026-06-22T08:56:28.474738+00:00",
   "tickerCount": 32,
-  "articleCount": 95,
+  "articleCount": 97,
   "overview": {
-    "positive": 12,
+    "positive": 13,
     "negative": 3,
-    "neutral": 80
+    "neutral": 81
   },
   "stocks": [
     {
@@ -64,6 +64,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of letter(s) of award worth Rs. 11.65 Crores (incl. taxes) from Odisha Power Transmission Corporation Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-20T22:25:29+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "V Venugopalan For & on behalf of Anisha Berlia has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Share",
@@ -265,25 +276,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5%",
-          "summary": "All Nifty IT constituents were also in the red. Infosys was the top dragger, down 7.5%, followed by Mphasis, Tech Mahindra, Persistent Systems and TCS, all declining over 6% each. Meanwhile, HCL Tech, Coforge, LTM also shed over 5% each",
-          "link": "https://www.livemint.com/market/stock-market-news/infosys-to-tcs-hcl-tech-indian-it-stocks-crash-as-accenture-trims-revenue-guidance-nifty-it-index-down-65-11781836930366.html",
-          "source": "livemint",
-          "pubDate": "2026-06-19T09:19:47+05:30",
+          "title": "Infosys, HCL Tech, Coforge, other IT stocks rise up to 3% a day after a massive crash. What lies ahead?",
+          "summary": "IT stocks rebounded after a sharp sell-off triggered by Accenture’s guidance cut, with gains led by Coforge and Tech Mahindra. Analysts see valuations turning attractive but caution that volatility may persist. Technical indicators remain weak, with …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcl-tech-coforge-other-it-stocks-rise-up-to-3-a-day-after-a-massive-crash-what-lies-ahead/articleshow/131901741.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-22T10:55:00+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "A year in, Cyient CEO reshapes leadership to revive growth",
-          "summary": "CEO Sukamal Banerjee has brought in at least eight senior executives as the family-led IT firm seeks larger deals, better margins and a turnaround after falling behind peers Coforge and Persistent.",
-          "link": "https://www.livemint.com/companies/news/cyient-ceo-sukamal-banerjee-leadership-overhaul-deals-margins-growth-strategy-11781695903297.html",
-          "source": "livemint",
-          "pubDate": "2026-06-18T11:43:50+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Negative",
+            "score": -0.6
           }
         },
         {
@@ -349,17 +349,6 @@
           }
         },
         {
-          "title": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5%",
-          "summary": "All Nifty IT constituents were also in the red. Infosys was the top dragger, down 7.5%, followed by Mphasis, Tech Mahindra, Persistent Systems and TCS, all declining over 6% each. Meanwhile, HCL Tech, Coforge, LTM also shed over 5% each",
-          "link": "https://www.livemint.com/market/stock-market-news/infosys-to-tcs-hcl-tech-indian-it-stocks-crash-as-accenture-trims-revenue-guidance-nifty-it-index-down-65-11781836930366.html",
-          "source": "livemint",
-          "pubDate": "2026-06-19T09:19:47+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -377,6 +366,17 @@
       "name": "Red Tape",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Updates",
+          "summary": "Redtape Limited has informed the Exchange regarding 'Updates on Re-lodgement of Transfer Requests of Physical Shares'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-20T15:09:10+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Redtape Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) and 31 (5) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Reg",
@@ -742,6 +742,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Closure of operations",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Closure of operations",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-20T16:28:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Commencement of commercial production/operations",
           "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -773,17 +784,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-23T13:46:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -793,6 +793,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "GRSE shares jump 5% after PSU conferred 'Navratna' status. What this means for the warship-maker?",
+          "summary": "GRSE shares surged nearly 5% after the defence PSU was granted Navratna status, boosting investor sentiment. The status allows greater financial autonomy for expansion. Strong revenue and profit growth over recent years, along with capacity expansion…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-jump-5-after-psu-conferred-navratna-status-what-this-means-for-the-warship-maker/articleshow/131901175.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-22T10:05:16+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Defence stock Garden Reach Shipbuilders jumps 5% after being conferred with Navratna status",
+          "summary": "Garden Reach Shipbuilders &amp;amp; Engineers shares rose nearly 5% following the DPE granting Navratna status due to its strong financial performance. Revenue jumped from  ₹1,754 crore to  ₹7,002 crore in five years, aiding broader initiatives like …",
+          "link": "https://www.livemint.com/market/stock-market-news/defence-stock-garden-reach-shipbuilders-jumps-5-after-being-conferred-with-navratna-status-11782100346752.html",
+          "source": "livemint",
+          "pubDate": "2026-06-22T09:57:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we are pleased to inform that the Department of Public Enterprises, Ministry of Finance, Governme",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-20T12:19:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -801,17 +834,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Disclosure under Regulation 30 of SEBI (LODR), Reg 2015 - Imposition of Fine by BSE",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-29T17:29:50+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         },
         {
@@ -935,6 +957,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding Audited Standalone and Consolidated Financial Statements for the Financial Year ended 31st March, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-21T17:03:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating- New",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating- New",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -973,17 +1006,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-13T18:52:51+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-09T14:50:24+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
