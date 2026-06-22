@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-22T08:56:28.474738+00:00",
+  "fetchedAt": "2026-06-22T14:37:29.873144+00:00",
   "tickerCount": 32,
-  "articleCount": 97,
+  "articleCount": 94,
   "overview": {
-    "positive": 13,
-    "negative": 3,
-    "neutral": 81
+    "positive": 11,
+    "negative": 4,
+    "neutral": 79
   },
   "stocks": [
     {
@@ -65,6 +65,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
+          "summary": "V Venugopalan For & on behalf of Aashti Agarwala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Sha",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-22T15:00:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of letter(s) of award worth Rs. 11.65 Crores (incl. taxes) from Odisha Power Transmission Corporation Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -73,17 +84,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "V Venugopalan For & on behalf of Anisha Berlia has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Share",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-19T12:57:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -338,6 +338,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-22T17:25:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 19, 2026, titled \"Persistent Wins CII Award for Excellence in Disability Inclusion\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -346,17 +357,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-17T21:52:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -742,22 +742,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Closure of operations",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Closure of operations",
+          "title": "[NSE] Commencement of commercial production/operations",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-20T16:28:47+00:00",
+          "pubDate": "2026-06-22T19:06:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Commencement of commercial production/operations",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
+          "title": "[NSE] Closure of operations",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Closure of operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-11T16:48:07+00:00",
+          "pubDate": "2026-06-20T16:28:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -772,17 +772,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T17:44:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -957,58 +946,47 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-22T19:25:46+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-22T19:22:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Committee Meeting Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding Outcome of Finance Committee Meeting held on Jun 22, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-22T19:13:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding Audited Standalone and Consolidated Financial Statements for the Financial Year ended 31st March, 2026",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding 'JSW Infrastructure Limited has informed the Exchange regarding Qualified institutions placement of equity shares of face value of &#8377",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-21T17:03:29+00:00",
+          "pubDate": "2026-06-22T19:01:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating- New",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating- New",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-19T12:33:39+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating- Revision",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating- Revision",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-19T12:29:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Everbest Consultancy Services Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-15T14:44:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "JSW Infrastructure Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Jun-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-13T18:52:51+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1037,6 +1015,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-22T17:37:14+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on infusion of funds into Nazara Technologies UK Limited, a whol",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1045,28 +1034,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-12T17:16:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 1,82,31,000  warrants.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T12:11:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1174,6 +1141,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Change in Management",
+          "summary": "Saksoft Limited has informed the Exchange about change in Management",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-22T19:40:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Saksoft Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1201,17 +1179,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-02T18:14:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Saksoft Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-29T14:48:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
