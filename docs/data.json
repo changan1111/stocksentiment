@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-23T06:49:35.957766+00:00",
+  "fetchedAt": "2026-06-23T11:58:31.157268+00:00",
   "tickerCount": 32,
-  "articleCount": 93,
+  "articleCount": 92,
   "overview": {
-    "positive": 10,
-    "negative": 4,
-    "neutral": 79
+    "positive": 9,
+    "negative": 5,
+    "neutral": 78
   },
   "stocks": [
     {
@@ -94,6 +94,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication of the Notice issued to shareholders of the Company pursuant to the provisions of IEPF for transfer of share",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-23T16:37:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -110,17 +121,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-03T18:11:01+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-02T15:06:04+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -455,17 +455,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -582,6 +571,17 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-23T14:53:24+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Meeting",
@@ -761,10 +761,10 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we are pleased to inform that the Department of Public Enterprises, Ministry of Finance, Governme",
+          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the  SEBI Listi",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-20T12:19:23+00:00",
+          "pubDate": "2026-06-23T16:31:12+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -779,17 +779,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the  SEBI Listi",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T15:07:58+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
