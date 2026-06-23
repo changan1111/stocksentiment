@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-23T11:58:31.157268+00:00",
+  "fetchedAt": "2026-06-23T15:46:05.821200+00:00",
   "tickerCount": 32,
-  "articleCount": 92,
+  "articleCount": 94,
   "overview": {
-    "positive": 9,
+    "positive": 11,
     "negative": 5,
     "neutral": 78
   },
@@ -145,6 +145,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-23T21:14:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -187,17 +198,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Sale or disposal",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Sale or disposal",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-12T15:06:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -236,33 +236,55 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Price movement",
-          "summary": "Significant movement in price has been observed in Rashi Peripherals Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
+          "title": "[NSE] Press Release (Revised)",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding a revised press release dated Jun 23, 2026, titled \"Rashi Peripherals, one of India s leading ICT distributors, to acquire a strategic sta",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-19T09:51:27+00:00",
+          "pubDate": "2026-06-23T20:13:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": " Krishna Kumar Choudhary has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regul",
+          "title": "[NSE] Press Release",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding a press release dated Jun 23, 2026, titled \"Rashi Peripherals, one of India s leading ICT distributors, to acquire a strategic stake in IN",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-16T13:05:38+00:00",
+          "pubDate": "2026-06-23T19:58:33+00:00",
           "sentiment": {
             "label": "Neutral",
-            "score": 0.0
+            "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Schedule of meet with investors",
+          "title": "[NSE] Acquisition",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Acquisition",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-05T17:25:09+00:00",
+          "pubDate": "2026-06-23T19:06:38+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Company has approved the acquisition of VDA Infosolutions Private Limited and reappointment of statutory auditors for a second tenure.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-23T19:02:41+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Price movement",
+          "summary": "Significant movement in price has been observed in Rashi Peripherals Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-19T09:51:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -277,10 +299,10 @@
       "articles": [
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Coforge Limited has informed the Exchange regarding Grant of 940500 Options under Employee Stock Option Plan 2005 (ESOP 2005)",
+          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 19265  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-17T07:45:33+00:00",
+          "pubDate": "2026-06-23T20:44:02+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -331,7 +353,7 @@
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-22T21:36:20+00:00",
+          "pubDate": "2026-06-23T19:47:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
