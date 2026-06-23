@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-22T14:37:29.873144+00:00",
+  "fetchedAt": "2026-06-23T06:49:35.957766+00:00",
   "tickerCount": 32,
-  "articleCount": 94,
+  "articleCount": 93,
   "overview": {
-    "positive": 11,
+    "positive": 10,
     "negative": 4,
     "neutral": 79
   },
@@ -276,17 +276,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Infosys, HCL Tech, Coforge, other IT stocks rise up to 3% a day after a massive crash. What lies ahead?",
-          "summary": "IT stocks rebounded after a sharp sell-off triggered by Accenture’s guidance cut, with gains led by Coforge and Tech Mahindra. Analysts see valuations turning attractive but caution that volatility may persist. Technical indicators remain weak, with …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcl-tech-coforge-other-it-stocks-rise-up-to-3-a-day-after-a-massive-crash-what-lies-ahead/articleshow/131901741.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-22T10:55:00+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.6
-          }
-        },
-        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Coforge Limited has informed the Exchange regarding Grant of 940500 Options under Employee Stock Option Plan 2005 (ESOP 2005)",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -339,10 +328,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-22T17:25:23+00:00",
+          "pubDate": "2026-06-22T21:36:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -548,6 +537,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-23T10:17:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] News Verification",
           "summary": "The Exchange has sought clarification from Dixon Technologies (India) Limited with respect to recent news item captioned Dixon Tech shares rise 5% amid buzz of govt nod for Vivo JV; JPMorgan retains  ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -559,17 +559,6 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Investor Meet Outcome",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-09T17:25:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] General Updates",
           "summary": "Execution of Binding Term Sheet amongst Dixon Technologies (India) Limited, Gemtek Technology Co., Ltd., and Dixon Electroconnect Private Limited for setting up of a Joint Venture arrangement.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -578,17 +567,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Newspaper Advertisement regarding Notice to the Shareholders for transfer of unclaimed dividend/ equity shares of the Company into In",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-03T16:55:52+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -782,28 +760,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "GRSE shares jump 5% after PSU conferred 'Navratna' status. What this means for the warship-maker?",
-          "summary": "GRSE shares surged nearly 5% after the defence PSU was granted Navratna status, boosting investor sentiment. The status allows greater financial autonomy for expansion. Strong revenue and profit growth over recent years, along with capacity expansion…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-jump-5-after-psu-conferred-navratna-status-what-this-means-for-the-warship-maker/articleshow/131901175.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-22T10:05:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Defence stock Garden Reach Shipbuilders jumps 5% after being conferred with Navratna status",
-          "summary": "Garden Reach Shipbuilders &amp;amp; Engineers shares rose nearly 5% following the DPE granting Navratna status due to its strong financial performance. Revenue jumped from  ₹1,754 crore to  ₹7,002 crore in five years, aiding broader initiatives like …",
-          "link": "https://www.livemint.com/market/stock-market-news/defence-stock-garden-reach-shipbuilders-jumps-5-after-being-conferred-with-navratna-status-11782100346752.html",
-          "source": "livemint",
-          "pubDate": "2026-06-22T09:57:51+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] General Updates",
           "summary": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we are pleased to inform that the Department of Public Enterprises, Ministry of Finance, Governme",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -946,6 +902,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Stocks in news: TCS, JSW Infra, Craftsman Automation, IIFL Finance, Transrail Lighting",
+          "summary": "Indian markets showed a positive trend on Monday, recovering some of Friday's dips, buoyed by global sentiment and strong performance in the banking sector. Several companies are making headlines: JSW Infrastructure is raising funds for expansion, TC…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-jsw-infra-craftsman-automation-iifl-finance-transrail-lighting/articleshow/131922724.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-23T06:43:44+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -987,6 +954,28 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "JSW Infra launches QIP with promoter stake sale to raise up to  ₹7,503 crore",
+          "summary": "The share offering consists of a total of up to 263.25 million shares, including a fresh issue of 230 million shares under the QIP for a total of  ₹6,555 crore and an offer for sale of up to 33.25 million shares worth  ₹948 crore by the promoter Sajj…",
+          "link": "https://www.livemint.com/companies/jsw-infra-promoter-offer-shares-worth-7-500-crore-to-institutional-investors-11782142189811.html",
+          "source": "livemint",
+          "pubDate": "2026-06-22T22:00:34+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt",
+          "summary": "JSW Infrastructure has launched a Rs 7,503 crore QIP to fund expansion projects, reduce debt and pursue strategic acquisitions. The institutional share sale, priced at a discount to the market price, is expected to strengthen the company's balance sh…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-launches-rs-7500-crore-qip-to-fund-capex-repay-debt/articleshow/131914023.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-22T21:04:28+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.2
           }
         }
       ]
