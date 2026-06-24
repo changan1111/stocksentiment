@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-23T15:46:05.821200+00:00",
+  "fetchedAt": "2026-06-24T06:46:57.049043+00:00",
   "tickerCount": 32,
   "articleCount": 94,
   "overview": {
     "positive": 11,
-    "negative": 5,
-    "neutral": 78
+    "negative": 4,
+    "neutral": 79
   },
   "stocks": [
     {
@@ -280,6 +280,17 @@
           }
         },
         {
+          "title": "Rashi Peripherals acquires 67% stake in VDA Infosolutions for  ₹368.5 crore",
+          "summary": "While Rashi Peripherals is set to acquire a 67% stake initially, the balance 33% will be acquired over three years through a pre-defined mechanism.",
+          "link": "https://www.livemint.com/companies/rashi-peripherals-acquires-67-stake-in-vda-infosolutions-for-368-5-crore-11782223240128.html",
+          "source": "livemint",
+          "pubDate": "2026-06-23T22:02:07+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Price movement",
           "summary": "Significant movement in price has been observed in Rashi Peripherals Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -476,6 +487,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -913,17 +935,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Stocks in news: TCS, JSW Infra, Craftsman Automation, IIFL Finance, Transrail Lighting",
-          "summary": "Indian markets showed a positive trend on Monday, recovering some of Friday's dips, buoyed by global sentiment and strong performance in the banking sector. Several companies are making headlines: JSW Infrastructure is raising funds for expansion, TC…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-jsw-infra-craftsman-automation-iifl-finance-transrail-lighting/articleshow/131922724.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-23T06:43:44+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Trading Window",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -976,17 +987,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt",
-          "summary": "JSW Infrastructure has launched a Rs 7,503 crore QIP to fund expansion projects, reduce debt and pursue strategic acquisitions. The institutional share sale, priced at a discount to the market price, is expected to strengthen the company's balance sh…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-launches-rs-7500-crore-qip-to-fund-capex-repay-debt/articleshow/131914023.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-22T21:04:28+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.2
           }
         }
       ]
