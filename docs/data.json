@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-24T06:46:57.049043+00:00",
+  "fetchedAt": "2026-06-24T11:43:55.142610+00:00",
   "tickerCount": 32,
-  "articleCount": 94,
+  "articleCount": 93,
   "overview": {
     "positive": 11,
     "negative": 4,
-    "neutral": 79
+    "neutral": 78
   },
   "stocks": [
     {
@@ -574,10 +574,21 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-23T10:17:01+00:00",
+          "pubDate": "2026-06-24T14:37:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Dixon, Amber, Syrma: Harshit Kapadia on why India's EMS sector is back on the radar &amp; which stocks to buy now",
+          "summary": "India's electronics manufacturing sector is poised for decades of growth, fueled by global supply chain shifts and government support. Experts see reasonable valuations after recent corrections. Key developments include Dixon Technologies' significan…",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/dixon-amber-syrma-harshit-kapadia-on-why-indias-ems-sector-is-back-on-the-radar-which-stocks-to-buy-now/articleshow/131959192.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-24T12:45:26+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -589,17 +600,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Execution of Binding Term Sheet amongst Dixon Technologies (India) Limited, Gemtek Technology Co., Ltd., and Dixon Electroconnect Private Limited for setting up of a Joint Venture arrangement.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-09T16:10:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -976,17 +976,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "JSW Infra launches QIP with promoter stake sale to raise up to  ₹7,503 crore",
-          "summary": "The share offering consists of a total of up to 263.25 million shares, including a fresh issue of 230 million shares under the QIP for a total of  ₹6,555 crore and an offer for sale of up to 33.25 million shares worth  ₹948 crore by the promoter Sajj…",
-          "link": "https://www.livemint.com/companies/jsw-infra-promoter-offer-shares-worth-7-500-crore-to-institutional-investors-11782142189811.html",
-          "source": "livemint",
-          "pubDate": "2026-06-22T22:00:34+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
