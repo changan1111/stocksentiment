@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-25T06:46:07.488482+00:00",
+  "fetchedAt": "2026-06-25T11:39:23.468610+00:00",
   "tickerCount": 32,
-  "articleCount": 93,
+  "articleCount": 95,
   "overview": {
-    "positive": 10,
-    "negative": 8,
-    "neutral": 75
+    "positive": 11,
+    "negative": 11,
+    "neutral": 73
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated Jun 25, 2026, titled \"Jupiter Wagons Bags Orders Worth Over Rs. 264 Crore from JSW(South) Rail Logistics and Central Wa",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T14:40:08+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -41,17 +52,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-01T13:49:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated Jun 01, 2026, titled \" Jupiter Wagons Limited reports financial results for Q4 & FY26\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-01T09:56:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -105,6 +105,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T13:39:32+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T12:59:32+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication of the Notice issued to shareholders of the Company pursuant to the provisions of IEPF for transfer of share",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -124,28 +146,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-03T18:11:01+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-02T00:28:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -218,22 +218,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 24058  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-05-27T18:35:57+00:00",
+          "pubDate": "2026-06-25T15:24:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Investor Presentation",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-05-06T22:04:12+00:00",
+          "pubDate": "2026-05-27T18:35:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -399,6 +399,17 @@
       "name": "Red Tape",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Redtape Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T14:12:51+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Redtape Limited has informed the Exchange regarding 'Updates on Re-lodgement of Transfer Requests of Physical Shares'.",
@@ -803,6 +814,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T15:56:28+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the  SEBI Listi",
