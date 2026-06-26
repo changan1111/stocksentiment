@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-26T06:54:13.704213+00:00",
+  "fetchedAt": "2026-06-26T11:44:01.908758+00:00",
   "tickerCount": 32,
-  "articleCount": 97,
+  "articleCount": 96,
   "overview": {
     "positive": 12,
-    "negative": 13,
-    "neutral": 72
+    "negative": 17,
+    "neutral": 67
   },
   "stocks": [
     {
@@ -247,6 +247,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-26T14:32:34+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release (Revised)",
           "summary": "Rashi Peripherals Limited has informed the Exchange regarding a revised press release dated Jun 23, 2026, titled \"Rashi Peripherals, one of India s leading ICT distributors, to acquire a strategic sta",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -288,28 +299,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Rashi Peripherals acquires 67% stake in VDA Infosolutions for  ₹368.5 crore",
-          "summary": "While Rashi Peripherals is set to acquire a 67% stake initially, the balance 33% will be acquired over three years through a pre-defined mechanism.",
-          "link": "https://www.livemint.com/companies/rashi-peripherals-acquires-67-stake-in-vda-infosolutions-for-368-5-crore-11782223240128.html",
-          "source": "livemint",
-          "pubDate": "2026-06-23T22:02:07+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Price movement",
-          "summary": "Significant movement in price has been observed in Rashi Peripherals Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-19T09:51:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -530,6 +519,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-26T16:36:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Dcx Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-26T14:51:54+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Action(s) taken or orders passed",
           "summary": "Dcx Systems Limited has informed the Exchange about Action(s) taken or orders passed",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -557,28 +568,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-05-28T12:20:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Dcx Systems Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T20:08:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding a press release dated May 27, 2026, titled \"Press Release/Media Release for the audited financial results for the quarter and year ended March 3",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T20:06:12+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -673,6 +662,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "E2E Networks Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-26T15:55:54+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "E2E Networks Limited has informed the Exchange about Incorporation of wholly Owned Subsidiary in India.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -700,17 +700,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-12T17:05:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated May 29, 2026, titled \"E2E goes live with next-generation NVIDIA B200 cluster using NVIDIA Certified Reference Architectur",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-29T15:16:41+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -855,6 +844,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-26T12:40:27+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 7392 securities pursuant to ESOP/ESPS at its meeting held on Jun 16, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -896,17 +896,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding Notice of Postal Ballot",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-04T16:58:39+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
