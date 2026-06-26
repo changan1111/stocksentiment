@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-25T15:39:15.355724+00:00",
+  "fetchedAt": "2026-06-26T06:54:13.704213+00:00",
   "tickerCount": 32,
-  "articleCount": 96,
+  "articleCount": 97,
   "overview": {
-    "positive": 11,
+    "positive": 12,
     "negative": 13,
     "neutral": 72
   },
@@ -957,6 +957,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Rajesh Palviya of Axis Sec suggests JSW Infrastructure, Ind-Swift Laboratories, Welspun Living shares to buy next week",
+          "summary": "The Indian stock market will remain closed on June 26 for the Muharram holiday. Benchmark indices extended their winning streak ahead of the holiday, with Nifty 50 closing at 24,056 and Sensex at 77,100.47, boosted by easing crude oil prices and supp…",
+          "link": "https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-jsw-infrastructure-ind-swift-laboratories-welspun-living-shares-to-buy-next-week-11782444993610.html",
+          "source": "livemint",
+          "pubDate": "2026-06-26T09:28:41+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding 'Update- Qualified institutions placement of equity shares of face value of Rs. 2 each by JSW Infrastructure Limited and an offer for sal",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T23:45:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Committee Meeting Updates",
+          "summary": "Outcome of Finance Committee Meeting: Update- Qualified institutions placement of equity shares of face value of Rs. 2 each by JSW Infrastructure Limited and an offer for sale of Equity Shares by Sajj",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T23:38:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -973,28 +1006,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-22T19:22:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Committee Meeting Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding Outcome of Finance Committee Meeting held on Jun 22, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-22T19:13:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding 'JSW Infrastructure Limited has informed the Exchange regarding Qualified institutions placement of equity shares of face value of &#8377",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-22T19:01:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
