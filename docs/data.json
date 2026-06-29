@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-26T15:23:07.760901+00:00",
+  "fetchedAt": "2026-06-29T07:29:11.802651+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 109,
   "overview": {
-    "positive": 12,
-    "negative": 19,
-    "neutral": 69
+    "positive": 15,
+    "negative": 22,
+    "neutral": 72
   },
   "stocks": [
     {
@@ -66,10 +66,10 @@
       "articles": [
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Acceptance worth Rs. 5.49 Crores (incl. taxes) from Northern Railway",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Intent worth Rs. 4.71 Crores (incl. taxes) from Mangalore Coal Terminal Private Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-26T20:05:07+00:00",
+          "pubDate": "2026-06-27T17:09:31+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -156,6 +156,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-28T12:59:23+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-28T12:56:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Notice of Postal Ballot",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-27T13:57:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -175,39 +208,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-14T18:18:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated Jun 12, 2026, titled \"AXISCADES Announces Strategic Engineering Services Divestment Program for Aerospace Engin",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-12T15:12:17+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Acquisition",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-12T15:06:38+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -360,25 +360,91 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "title": "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?",
+          "summary": "Persistent Systems shares opened at  ₹4,500 against their previous close of  ₹4,840.45 and plunged 9% to their one-year low of  ₹4,404. The BSE Information Technology index declined 1% during the session.",
+          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-share-price-crashes-9-to-hit-a-52-week-low-is-it-a-stock-to-buy-11782706485788.html",
+          "source": "livemint",
+          "pubDate": "2026-06-29T09:59:05+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Persistent Systems shares slide 10% after Nagarro deal; Elara retains 'Sell' on growth, margin worries",
+          "summary": "Persistent Systems' shares dropped significantly following its announcement to acquire German digital engineering firm Nagarro for approximately EUR 1.27 billion. While this move aims to boost European presence and revenue, analysts express concerns …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-7-after-1-14-billion-offer-to-buy-germanys-nagarro/articleshow/132062643.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-29T09:38:25+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.6
+          }
+        },
+        {
+          "title": "Stocks in news: Waaree Energies, Kotak Bank, HDFC Bank, Strides Pharma, Persistent Systems",
+          "summary": "Indian markets showed volatility, ending nearly flat despite positive signals. Analysts note Nifty faces resistance from key moving averages, with a decisive close above 24,200 crucial for further gains. Several companies like Waaree Energies, Kotak …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-waaree-energies-kotak-bank-hdfc-bank-strides-pharma-persistent-systems/articleshow/132055110.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-29T06:11:00+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Persistent's Nagarro deal could be a near-term pain for long-term gain",
+          "summary": "Persistent Systems is acquiring Nagarro SE for $1.3 billion, aiming for European expansion and reduced US market reliance. While strategically beneficial long-term, the deal, funded by debt, faces short-term pressure due to Nagarro's decelerating gro…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistents-nagarro-deal-could-be-a-near-term-pain-for-long-term-gain/articleshow/132060643.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-29T05:55:05+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.2
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding the Company has also uploaded the Investor FAQs on its website.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-23T19:47:07+00:00",
+          "pubDate": "2026-06-29T00:23:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 19, 2026, titled \"Persistent Wins CII Award for Excellence in Disability Inclusion\".",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation and Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-19T12:31:44+00:00",
+          "pubDate": "2026-06-28T19:20:12+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Persistent Systems makes its biggest bet yet with $1.3 billion Nagarro deal",
+          "summary": "The acquisition would reorder India's IT rankings, propelling Persistent to the seventh spot in India's IT pecking order.&amp;nbsp;",
+          "link": "https://www.livemint.com/companies/news/persistent-systems-nagarro-1-3-billion-acquisition-india-it-mphasis-coforge-11782546603556.html",
+          "source": "livemint",
+          "pubDate": "2026-06-27T15:19:37+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 27, 2026, titled \"Press Release titled  Persistent and Nagarro sign Business Combination Agreement to form the ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-27T03:13:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         }
       ]
@@ -449,7 +515,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "Aditya Infotech: investors need to focus on far range clarity as valuation looks stretched for now",
+          "summary": "Aditya Infotech's stock has rallied 427% since its IPO in July last year, pushing its valuation to a stretched 47x EV/Ebitda even as questions emerge over its reported market-share gains.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/mark-to-market/aditya-infotech-stock-analysis-ipo-stock-valuation-growth-outlook-11782641401757.html",
+          "source": "livemint",
+          "pubDate": "2026-06-28T17:04:06+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -582,10 +660,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-24T14:37:01+00:00",
+          "pubDate": "2026-06-26T21:58:10+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -615,6 +693,17 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Tata Technologies Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on June 26, 2026. Further, the company has informed the Exchange regarding voting results.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-26T20:59:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -906,6 +995,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-27T12:45:28+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -922,17 +1022,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-11T18:23:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "IKIO Technologies Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T12:49:41+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -998,17 +1087,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Rajesh Palviya of Axis Sec suggests JSW Infrastructure, Ind-Swift Laboratories, Welspun Living shares to buy next week",
-          "summary": "The Indian stock market will remain closed on June 26 for the Muharram holiday. Benchmark indices extended their winning streak ahead of the holiday, with Nifty 50 closing at 24,056 and Sensex at 77,100.47, boosted by easing crude oil prices and supp…",
-          "link": "https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-jsw-infrastructure-ind-swift-laboratories-welspun-living-shares-to-buy-next-week-11782444993610.html",
-          "source": "livemint",
-          "pubDate": "2026-06-26T09:28:41+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1196,6 +1274,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Saksoft Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T12:41:15+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "Saksoft Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1304,6 +1393,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Zen Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-27T22:06:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
