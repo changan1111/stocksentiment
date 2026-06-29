@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-29T07:29:11.802651+00:00",
+  "fetchedAt": "2026-06-29T13:05:16.219344+00:00",
   "tickerCount": 32,
-  "articleCount": 109,
+  "articleCount": 115,
   "overview": {
     "positive": 15,
-    "negative": 22,
+    "negative": 28,
     "neutral": 72
   },
   "stocks": [
@@ -65,6 +65,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
+          "summary": "Zuari International Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Re",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T15:39:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Intent worth Rs. 4.71 Crores (incl. taxes) from Mangalore Coal Terminal Private Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -84,17 +95,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "V Venugopalan For & on behalf of Aashti Agarwala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Sha",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-22T15:00:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -156,6 +156,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding 'Board comments on fine levied by the Exchanges'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T14:16:08+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Appointment",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Appointment of Mr Abhay Maheshwari as Non- Executive Director of the company w.e.f. Jun 29, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T14:12:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -187,28 +209,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-23T21:14:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-18T19:46:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -217,6 +217,17 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T18:10:54+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 24058  Shares.",
@@ -309,6 +320,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Coforge Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T17:27:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Coforge Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T17:21:40+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Coforge Limited has informed the Exchange regarding Allotment of 19265  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -329,28 +362,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Motilal Oswal Asset Management Company Limited (Investment Manager to the Schemes of Motilal Oswal Mutual Fund) has Submitted to the Exchange a copy of Disclosure under Regulation 29(2) of the Securit",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-15T19:04:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated Jun 09, 2026, titled \"Coforge wins Pega Industry Excellence Award for Government and Public Sector transformation work\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-09T11:41:45+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -359,6 +370,50 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top Gainers &amp; Losers on June 29: Persistent Systems, Netweb Tech, Astral, MRF, Berger Paints, OLA among top losers",
+          "summary": "Indian equities continued their decline on June 29, with the Nifty 50 dropping 0.46% and the BSE Sensex falling 0.44% amid renewed Middle East tensions. While pharmaceutical and metal stocks gained, auto and technology shares suffered notable losses,…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-29-persistent-systems-netweb-tech-astral-mrf-berger-paints-ola-among-top-losers-11782728130470.html",
+          "source": "livemint",
+          "pubDate": "2026-06-29T15:52:15+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "Housing sales fall 6% across top 7 cities in Q2 as West Asia conflict dents buyer sentiment; launches rise 7%: ANAROCK",
+          "summary": "Persistent Systems' shares plunged nearly 11% following its announcement to acquire Germany-based Nagarro for €1.27 billion. While the deal aims to boost European presence and revenue, brokerages expressed caution over pricey valuations and execution…",
+          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-fall-6-across-top-7-cities-in-q2-as-west-asia-conflict-dents-buyer-sentiment-launches-rise-7-anarock/articleshow/132068557.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-29T14:56:07+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.667
+          }
+        },
+        {
+          "title": "Rs 8,350 crore crash in Persistent shares explained: Why investors are worried about Nagarro deal",
+          "summary": "Persistent Systems' shares plunged nearly 11% following its announcement to acquire Germany-based Nagarro for €1.27 billion. While the deal aims to boost European presence and revenue, brokerages expressed caution over pricey valuations and execution…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-8350-crore-crash-in-persistent-shares-explained-why-investors-are-worried-about-nagarro-deal/articleshow/132067201.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-29T13:39:09+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.6
+          }
+        },
+        {
+          "title": "The trade-off in the Persistent-Nagarro deal is hard to ignore",
+          "summary": "Persistent Systems' share price fell 11% after the IT company announced the acquisition of Munich-based Nagarro SE – its largest ever – at an enterprise valuation of €1.27 billion.",
+          "link": "https://www.livemint.com/market/mark-to-market/persistent-systems-nagarro-acquisition-stock-analysis-11782714336441.html",
+          "source": "livemint",
+          "pubDate": "2026-06-29T13:14:16+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?",
           "summary": "Persistent Systems shares opened at  ₹4,500 against their previous close of  ₹4,840.45 and plunged 9% to their one-year low of  ₹4,404. The BSE Information Technology index declined 1% during the session.",
@@ -515,25 +570,24 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Aditya Infotech: investors need to focus on far range clarity as valuation looks stretched for now",
-          "summary": "Aditya Infotech's stock has rallied 427% since its IPO in July last year, pushing its valuation to a stretched 47x EV/Ebitda even as questions emerge over its reported market-share gains.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/mark-to-market/aditya-infotech-stock-analysis-ipo-stock-valuation-growth-outlook-11782641401757.html",
-          "source": "livemint",
-          "pubDate": "2026-06-28T17:04:06+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
       "name": "Cyient DLM",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Cyient Dlm Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T16:21:06+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Cyient Dlm Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations",
@@ -576,17 +630,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -802,6 +845,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "EPACK Durable Limited has informed the Exchange about Clarification regarding CRISIL Rating.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T17:58:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "EPACK Durable Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -829,17 +883,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-15T15:45:32+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "EPACK Durable Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-15T15:33:32+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1166,6 +1209,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Top Gainers &amp; Losers on June 29: Persistent Systems, Netweb Tech, Astral, MRF, Berger Paints, OLA among top losers",
+          "summary": "Indian equities continued their decline on June 29, with the Nifty 50 dropping 0.46% and the BSE Sensex falling 0.44% amid renewed Middle East tensions. While pharmaceutical and metal stocks gained, auto and technology shares suffered notable losses,…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-29-persistent-systems-netweb-tech-astral-mrf-berger-paints-ola-among-top-losers-11782728130470.html",
+          "source": "livemint",
+          "pubDate": "2026-06-29T15:52:15+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1335,6 +1389,17 @@
       "name": "TVS Supply Chain Solutions",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T16:33:05+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": " Preetha Balan Ramanathan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
