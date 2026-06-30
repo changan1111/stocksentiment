@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-30T06:54:54.869849+00:00",
+  "fetchedAt": "2026-06-30T11:43:50.685645+00:00",
   "tickerCount": 32,
   "articleCount": 110,
   "overview": {
-    "positive": 14,
-    "negative": 25,
+    "positive": 12,
+    "negative": 27,
     "neutral": 71
   },
   "stocks": [
@@ -145,6 +145,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
+          "summary": "Jupiter Capital Private Ltd has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Re",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T12:53:36+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding 'Board comments on fine levied by the Exchanges'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -183,17 +194,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-28T12:56:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Notice of Postal Ballot",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-27T13:57:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -360,6 +360,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T15:54:12+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Persistent's Nagarro deal faces near-term doubts, but long-term story stays strong: Piyush Pandey",
           "summary": "Persistent Systems' acquisition of Nagarro triggered an 11% stock drop, with investors worried about integration and margins. However, market expert Piyush Pandey believes this is an overreaction. The deal offers significant long-term strategic benef…",
           "link": "https://economictimes.indiatimes.com/markets/expert-view/persistents-nagarro-deal-faces-near-term-doubts-but-long-term-story-stays-strong-piyush-pandey/articleshow/132085697.cms",
@@ -371,55 +382,11 @@
           }
         },
         {
-          "title": "Rs 8,350 crore crash in Persistent shares explained: Why investors are worried about Nagarro deal",
-          "summary": "Persistent Systems' shares plunged nearly 11% following its announcement to acquire Germany-based Nagarro for €1.27 billion. While the deal aims to boost European presence and revenue, brokerages expressed caution over pricey valuations and execution…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-8350-crore-crash-in-persistent-shares-explained-why-investors-are-worried-about-nagarro-deal/articleshow/132067201.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-29T13:39:09+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
-          }
-        },
-        {
           "title": "[NSE] Updates",
           "summary": "Persistent Systems Limited has informed the Exchange regarding the Company has also uploaded the Investor FAQs on its website.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-29T00:23:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation and Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-28T19:20:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Persistent Systems makes its biggest bet yet with $1.3 billion Nagarro deal",
-          "summary": "The acquisition would reorder India's IT rankings, propelling Persistent to the seventh spot in India's IT pecking order.&amp;nbsp;",
-          "link": "https://www.livemint.com/companies/news/persistent-systems-nagarro-1-3-billion-acquisition-india-it-mphasis-coforge-11782546603556.html",
-          "source": "livemint",
-          "pubDate": "2026-06-27T15:19:37+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated Jun 27, 2026, titled \"Press Release titled  Persistent and Nagarro sign Business Combination Agreement to form the ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-27T03:13:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -501,6 +468,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Cyient Dlm Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on Jun 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T15:57:33+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Cyient Dlm Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -539,17 +517,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-09T13:01:58+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Cyient Dlm Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on Jun 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-08T23:01:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -635,6 +602,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T14:21:52+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional investor Meet",
@@ -727,6 +705,17 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Grant of  Options under E2E Networks Limited Employees Stock Option Scheme - 2021",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T15:35:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "E2E Networks Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -829,6 +818,17 @@
       "name": "Electronics Mart India",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Electronics Mart India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T14:01:09+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Commencement of commercial production/operations",
           "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
@@ -961,6 +961,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T15:48:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "IKIO Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -969,17 +980,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-16T19:19:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
