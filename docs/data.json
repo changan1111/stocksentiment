@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-29T13:05:16.219344+00:00",
+  "fetchedAt": "2026-06-30T06:54:54.869849+00:00",
   "tickerCount": 32,
-  "articleCount": 115,
+  "articleCount": 110,
   "overview": {
-    "positive": 15,
-    "negative": 28,
-    "neutral": 72
+    "positive": 14,
+    "negative": 25,
+    "neutral": 71
   },
   "stocks": [
     {
@@ -66,13 +66,13 @@
       "articles": [
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Zuari International Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Re",
+          "summary": "New Eros Tradecom Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-29T15:39:13+00:00",
+          "pubDate": "2026-06-29T19:58:37+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
+            "label": "Positive",
+            "score": 0.333
           }
         },
         {
@@ -84,17 +84,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-24T18:07:31+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -371,25 +360,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top Gainers &amp; Losers on June 29: Persistent Systems, Netweb Tech, Astral, MRF, Berger Paints, OLA among top losers",
-          "summary": "Indian equities continued their decline on June 29, with the Nifty 50 dropping 0.46% and the BSE Sensex falling 0.44% amid renewed Middle East tensions. While pharmaceutical and metal stocks gained, auto and technology shares suffered notable losses,…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-29-persistent-systems-netweb-tech-astral-mrf-berger-paints-ola-among-top-losers-11782728130470.html",
-          "source": "livemint",
-          "pubDate": "2026-06-29T15:52:15+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "Housing sales fall 6% across top 7 cities in Q2 as West Asia conflict dents buyer sentiment; launches rise 7%: ANAROCK",
-          "summary": "Persistent Systems' shares plunged nearly 11% following its announcement to acquire Germany-based Nagarro for €1.27 billion. While the deal aims to boost European presence and revenue, brokerages expressed caution over pricey valuations and execution…",
-          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-fall-6-across-top-7-cities-in-q2-as-west-asia-conflict-dents-buyer-sentiment-launches-rise-7-anarock/articleshow/132068557.cms",
+          "title": "Persistent's Nagarro deal faces near-term doubts, but long-term story stays strong: Piyush Pandey",
+          "summary": "Persistent Systems' acquisition of Nagarro triggered an 11% stock drop, with investors worried about integration and margins. However, market expert Piyush Pandey believes this is an overreaction. The deal offers significant long-term strategic benef…",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/persistents-nagarro-deal-faces-near-term-doubts-but-long-term-story-stays-strong-piyush-pandey/articleshow/132085697.cms",
           "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-29T14:56:07+05:30",
+          "pubDate": "2026-06-30T11:36:25+05:30",
           "sentiment": {
             "label": "Positive",
-            "score": 0.667
+            "score": 0.6
           }
         },
         {
@@ -401,61 +379,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 0.6
-          }
-        },
-        {
-          "title": "The trade-off in the Persistent-Nagarro deal is hard to ignore",
-          "summary": "Persistent Systems' share price fell 11% after the IT company announced the acquisition of Munich-based Nagarro SE – its largest ever – at an enterprise valuation of €1.27 billion.",
-          "link": "https://www.livemint.com/market/mark-to-market/persistent-systems-nagarro-acquisition-stock-analysis-11782714336441.html",
-          "source": "livemint",
-          "pubDate": "2026-06-29T13:14:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?",
-          "summary": "Persistent Systems shares opened at  ₹4,500 against their previous close of  ₹4,840.45 and plunged 9% to their one-year low of  ₹4,404. The BSE Information Technology index declined 1% during the session.",
-          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-share-price-crashes-9-to-hit-a-52-week-low-is-it-a-stock-to-buy-11782706485788.html",
-          "source": "livemint",
-          "pubDate": "2026-06-29T09:59:05+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Persistent Systems shares slide 10% after Nagarro deal; Elara retains 'Sell' on growth, margin worries",
-          "summary": "Persistent Systems' shares dropped significantly following its announcement to acquire German digital engineering firm Nagarro for approximately EUR 1.27 billion. While this move aims to boost European presence and revenue, analysts express concerns …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-7-after-1-14-billion-offer-to-buy-germanys-nagarro/articleshow/132062643.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-29T09:38:25+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
-          }
-        },
-        {
-          "title": "Stocks in news: Waaree Energies, Kotak Bank, HDFC Bank, Strides Pharma, Persistent Systems",
-          "summary": "Indian markets showed volatility, ending nearly flat despite positive signals. Analysts note Nifty faces resistance from key moving averages, with a decisive close above 24,200 crucial for further gains. Several companies like Waaree Energies, Kotak …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-waaree-energies-kotak-bank-hdfc-bank-strides-pharma-persistent-systems/articleshow/132055110.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-29T06:11:00+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Persistent's Nagarro deal could be a near-term pain for long-term gain",
-          "summary": "Persistent Systems is acquiring Nagarro SE for $1.3 billion, aiming for European expansion and reduced US market reliance. While strategically beneficial long-term, the deal, funded by debt, faces short-term pressure due to Nagarro's decelerating gro…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistents-nagarro-deal-could-be-a-near-term-pain-for-long-term-gain/articleshow/132060643.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-29T05:55:05+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.2
           }
         },
         {
@@ -630,6 +553,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -900,7 +834,7 @@
           "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-22T19:06:55+00:00",
+          "pubDate": "2026-06-29T19:04:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -915,17 +849,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Pavan Kumar Bajaj has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) and 31 (5) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) R",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T14:31:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1209,17 +1132,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top Gainers &amp; Losers on June 29: Persistent Systems, Netweb Tech, Astral, MRF, Berger Paints, OLA among top losers",
-          "summary": "Indian equities continued their decline on June 29, with the Nifty 50 dropping 0.46% and the BSE Sensex falling 0.44% amid renewed Middle East tensions. While pharmaceutical and metal stocks gained, auto and technology shares suffered notable losses,…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-29-persistent-systems-netweb-tech-astral-mrf-berger-paints-ola-among-top-losers-11782728130470.html",
-          "source": "livemint",
-          "pubDate": "2026-06-29T15:52:15+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1328,6 +1240,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Saksoft shares rally 50% in one week. Here's what technical charts indicate",
+          "summary": "Saksoft shares experienced a significant surge, climbing over 14% on Tuesday and an impressive 50% in a single week. This rally follows a decisive technical breakout from a prolonged consolidation phase, supported by strong volume increases. The stoc…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/saksoft-shares-rally-50-in-one-week-heres-what-technical-charts-indicate/articleshow/132085480.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-30T11:20:56+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Saksoft Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1419,6 +1342,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated Jun 30, 2026, titled \"Unimech Aerospace and Manufacturing Limited Signs Long-Term Supply Agreement",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T12:05:13+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1458,6 +1392,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1000  Options.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-29T22:35:40+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Zen Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
