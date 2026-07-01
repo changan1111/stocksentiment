@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-30T15:24:56.710338+00:00",
+  "fetchedAt": "2026-07-01T07:09:34.747452+00:00",
   "tickerCount": 32,
-  "articleCount": 112,
+  "articleCount": 117,
   "overview": {
     "positive": 12,
-    "negative": 28,
-    "neutral": 72
+    "negative": 30,
+    "neutral": 75
   },
   "stocks": [
     {
@@ -361,24 +361,13 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-30T15:54:12+00:00",
+          "pubDate": "2026-06-30T23:14:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Persistent's Nagarro deal faces near-term doubts, but long-term story stays strong: Piyush Pandey",
-          "summary": "Persistent Systems' acquisition of Nagarro triggered an 11% stock drop, with investors worried about integration and margins. However, market expert Piyush Pandey believes this is an overreaction. The deal offers significant long-term strategic benef…",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/persistents-nagarro-deal-faces-near-term-doubts-but-long-term-story-stays-strong-piyush-pandey/articleshow/132085697.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-30T11:36:25+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
           }
         },
         {
@@ -469,10 +458,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Cyient Dlm Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on Jun 30, 2026",
+          "summary": "Cyient Dlm Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on Jun 30, 2026. Further, the company has informed the Exchange regarding voting results.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-30T15:57:33+00:00",
+          "pubDate": "2026-06-30T21:32:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -512,14 +501,14 @@
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-09T13:01:58+00:00",
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -592,6 +581,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Change in Management",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about change in Senior Management",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-30T22:00:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Indian electronics manufacturers forge more and more partnerships with companies from South Korea, Taiwan, Japan",
+          "summary": "Indian electronics manufacturers are forging alliances with firms from South Korea, Taiwan and Japan, alongside exploring standalone initiatives. This proactive strategy, championed by industry leaders like Dixon Technologies and Amber Enterprises, i…",
+          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indian-electronics-manufacturers-forge-more-and-more-partnerships-with-companies-from-south-korea-taiwan-japan/articleshow/132096262.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-06-30T21:14:57+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -611,17 +622,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] News Verification",
-          "summary": "The Exchange has sought clarification from Dixon Technologies (India) Limited with respect to recent news item captioned Dixon Tech shares rise 5% amid buzz of govt nod for Vivo JV; JPMorgan retains  ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-17T13:38:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -756,6 +756,17 @@
       "name": "Epack Durable",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding a press release dated July 01, 2026, titled \"EPACK Durable Limited receives Andhra Pradesh Government approval for &#8377;1,084.31 crore combi",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T10:21:20+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "EPACK Durable Limited has informed the Exchange about receipt of order from the Government of Andhra Pradesh approving incentives including land allotment in the state of Andhra Pradesh.",
@@ -1053,13 +1064,68 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding  - Outlook for Q1FY27 and for the remainder of the year.",
+          "summary": "KPIT Technologies Limited has informed the Exchange regarding 'Clarification on Outlook for Q1FY27 and for the remainder of the year'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-30T17:40:41+00:00",
+          "pubDate": "2026-07-01T09:33:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "KPIT Tech shares sink 17%, see worst plunge since 2020 Covid crash. Time to buy or more pain ahead?",
+          "summary": "KPIT Technologies shares dropped to a fresh 52-week low on Wednesday after the company warned of weaker-than-expected Q1 FY27 revenue and margin performance due to a sudden slowdown in orders from European automakers. Technical analysts caution that …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-tech-shares-sink-17-see-worst-plunge-since-2020-covid-crash-time-to-buy-or-more-pain-ahead/articleshow/132107875.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-01T11:56:23+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.143
+          }
+        },
+        {
+          "title": "KPIT Tech shares hit by downgrades, target price cuts. What JPMorgan and other brokerages said",
+          "summary": "KPIT Technologies shares plunged after the company issued a weak preliminary Q1 FY27 business update, prompting several brokerages, including JPMorgan and JM Financial, to downgrade the stock and cut target prices. While analysts remain optimistic ab…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-tech-shares-hit-by-downgrades-target-price-cuts-what-jpmorgan-and-other-brokerages-said/articleshow/132107516.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-01T11:38:37+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.5
+          }
+        },
+        {
+          "title": "Why KPIT Tech shares crashed 17% today: The BMW &amp; Volkswagen connection explained",
+          "summary": "KPIT Technologies witnessed a significant 17% stock plunge following a revenue slowdown warning for Q1FY27, primarily due to unexpected cutbacks from European auto giants like BMW and Volkswagen.  Analysts have downgraded the stock, citing a steeper …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-kpit-tech-shares-crashed-15-today-the-bmw-volkswagen-connection-explained/articleshow/132106671.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-01T10:41:49+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.333
+          }
+        },
+        {
+          "title": "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell?",
+          "summary": "KPIT Technologies share price fell over 15% to  ₹570.80 apiece in Wednesday's trading session after the company announced its preliminary business update on Q1 FY27.",
+          "link": "https://www.livemint.com/market/stock-market-news/kpit-technologies-share-price-hit-10-lower-circuit-on-weaker-q1-business-update-buy-or-sell-11782878497664.html",
+          "source": "livemint",
+          "pubDate": "2026-07-01T09:38:22+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "KPIT Tech shares crash 17% as company expects Q1 revenue decline, sharp hit to margins",
+          "summary": "KPIT Technologies shares plunged 17% after the company warned of a revenue drop in Q1 FY27, citing unexpected actions from European automakers. While short-term performance is expected to be weak, KPIT remains optimistic about long-term growth driven…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-tech-shares-in-focus-as-company-expects-q1-revenue-decline-sharp-hit-to-margins-crash-ahead/articleshow/132105006.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-01T08:42:39+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
           }
         },
         {
@@ -1259,17 +1325,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Saksoft shares rally 50% in one week. Here's what technical charts indicate",
-          "summary": "Saksoft shares experienced a significant surge, climbing over 14% on Tuesday and an impressive 50% in a single week. This rally follows a decisive technical breakout from a prolonged consolidation phase, supported by strong volume increases. The stoc…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/saksoft-shares-rally-50-in-one-week-heres-what-technical-charts-indicate/articleshow/132085480.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-30T11:20:56+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
