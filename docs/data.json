@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-01T07:09:34.747452+00:00",
+  "fetchedAt": "2026-07-01T11:58:50.955542+00:00",
   "tickerCount": 32,
-  "articleCount": 117,
+  "articleCount": 120,
   "overview": {
-    "positive": 12,
-    "negative": 30,
-    "neutral": 75
+    "positive": 15,
+    "negative": 31,
+    "neutral": 74
   },
   "stocks": [
     {
@@ -360,6 +360,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T13:51:21+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -592,17 +603,6 @@
           }
         },
         {
-          "title": "Indian electronics manufacturers forge more and more partnerships with companies from South Korea, Taiwan, Japan",
-          "summary": "Indian electronics manufacturers are forging alliances with firms from South Korea, Taiwan and Japan, alongside exploring standalone initiatives. This proactive strategy, championed by industry leaders like Dixon Technologies and Amber Enterprises, i…",
-          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indian-electronics-manufacturers-forge-more-and-more-partnerships-with-companies-from-south-korea-taiwan-japan/articleshow/132096262.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-06-30T21:14:57+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Trading Window",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -762,6 +762,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-01T10:21:20+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "EPACK Durable gets Andhra Pradesh nod for Rs 1,084 crore investment under Electronics Manufacturing Policy 4.0",
+          "summary": "EPACK Durable and its subsidiary will invest over Rs 1,000 crore in Andhra Pradesh to boost manufacturing of air conditioners, washing machines, and other appliances. The state government has approved a special incentive package, including land allot…",
+          "link": "https://economictimes.indiatimes.com/industry/cons-products/durables/epack-durable-secures-rs-1084-crore-investment-from-andhra-pradesh-government-for-major-electronics-manufacturing-expansion/articleshow/132108859.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-01T12:50:17+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -961,6 +972,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation of revised date of 10  Annual General Meeting of the Company'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T13:06:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -981,17 +1003,6 @@
             "label": "Negative",
             "score": -1.0
           }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation of Schedule of Analyst/Institutional Investor Meetings under the SEBI (Listing Obligations and Disclosure Requirements), Regul",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-11T18:23:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
         }
       ]
     },
@@ -1000,6 +1011,17 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding a press release dated July 01, 2026, titled \"JSW Infrastructure Completes Rs.7,503 Crore QIP; Backed by Marquee Global and Domestic Inves",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T15:32:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -1043,17 +1065,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Committee Meeting Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding Outcome of Finance Committee Meeting held on Jun 26, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T18:25:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1071,6 +1082,28 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Explained: Why Tata Elxsi shares crashed 7% after KPIT Tech’s Q1 revenue, profit guidance warning",
+          "summary": "Tata Elxsi shares fell sharply on Wednesday after rival KPIT Technologies warned of weaker-than-expected Q1FY27 revenue and margins due to a sudden slowdown in orders from European automakers. The update raised concerns over demand across the automot…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tata-elxsi-shares-crashed-7-after-kpi-techs-q1-revenue-profit-guidance-warning/articleshow/132110103.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-01T13:50:56+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.714
+          }
+        },
+        {
+          "title": "Rahul Jain sees challenging FY27 for KPIT despite strong deal pipeline",
+          "summary": "KPIT Technologies faces near-term growth concerns due to project setbacks, impacting its FY27 outlook. Analysts anticipate a challenging Q1, with recovery expected only in the latter half of the fiscal year. Profitability may also be pressured if gro…",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/rahul-jain-sees-challenging-fy27-for-kpit-despite-strong-deal-pipeline/articleshow/132108306.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-01T12:24:09+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
