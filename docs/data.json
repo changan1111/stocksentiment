@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-01T11:58:50.955542+00:00",
+  "fetchedAt": "2026-07-01T15:39:48.302654+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 121,
   "overview": {
     "positive": 15,
-    "negative": 31,
-    "neutral": 74
+    "negative": 30,
+    "neutral": 76
   },
   "stocks": [
     {
@@ -360,6 +360,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T18:23:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Persistent Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -638,6 +649,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Tata Technologies Limited has informed the Exchange regarding a press release dated July 01, 2026, titled \"Tenneco LLC and Tata Technologies Strengthen Global Partnership for Mobility Transformation\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T17:59:28+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Tata Technologies Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on June 26, 2026. Further, the company has informed the Exchange regarding voting results.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -668,17 +690,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Tata Motors Passenger Vehicles Limited (formerly Tata Motors Limited) has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substanti",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-15T19:14:42+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -762,17 +773,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-01T10:21:20+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "EPACK Durable gets Andhra Pradesh nod for Rs 1,084 crore investment under Electronics Manufacturing Policy 4.0",
-          "summary": "EPACK Durable and its subsidiary will invest over Rs 1,000 crore in Andhra Pradesh to boost manufacturing of air conditioners, washing machines, and other appliances. The state government has approved a special incentive package, including land allot…",
-          "link": "https://economictimes.indiatimes.com/industry/cons-products/durables/epack-durable-secures-rs-1084-crore-investment-from-andhra-pradesh-government-for-major-electronics-manufacturing-expansion/articleshow/132108859.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-01T12:50:17+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -1242,6 +1242,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Outcome of Board Meeting held on July 01, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T20:42:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1283,17 +1294,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Sanjay Lodha has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-18T14:54:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1400,6 +1400,17 @@
       "name": "TVS Supply Chain Solutions",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Updates",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding '' General Update on Managing Director\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T18:12:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
