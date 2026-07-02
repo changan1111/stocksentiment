@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-02T06:39:39.147491+00:00",
+  "fetchedAt": "2026-07-02T11:32:12.188631+00:00",
   "tickerCount": 32,
-  "articleCount": 118,
+  "articleCount": 121,
   "overview": {
-    "positive": 17,
-    "negative": 28,
+    "positive": 19,
+    "negative": 29,
     "neutral": 73
   },
   "stocks": [
@@ -309,6 +309,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Top Gainers &amp; Losers on 2 July: Zensar Tech, TCS, Coforge, Apollo Tyres, Bharat Forge, Anant Raj among top gainers",
+          "summary": "Dalal Street saw gains for the second consecutive day, driven by technology stocks and easing crude oil prices. Nifty 50 rose 0.71% to 24,175, while the Sensex gained 0.75% to 77,502. The Nifty IT index surged 4.5%, marking its biggest gain since Jan…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-2-july-zensar-tech-tcs-coforge-apollo-tyres-bharat-forge-anant-raj-among-top-gainers-11782984189497.html",
+          "source": "livemint",
+          "pubDate": "2026-07-02T15:44:07+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "Infosys, TCS and other IT stocks jump up to 5% on dip buying. Is the worst over?",
           "summary": "IT stocks rebounded sharply on Thursday, with the Nifty IT index surging nearly 4% after a four-session slide that pushed it to a 52-week low. Coforge led gains with a 5% jump, while Infosys, Mphasis, HCL Tech and Persistent Systems rose around 4%. T…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-and-other-it-stocks-jump-up-to-5-on-dip-buying-is-the-worst-over/articleshow/132129063.cms",
@@ -544,17 +555,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -671,6 +671,28 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Tata Technologies shares jump 9% after expanding strategic partnership with Tenneco",
+          "summary": "Tata Technologies shares rose 9% to  ₹729.20 after announcing an expanded partnership with Tenneco LLC. The agreement involves over $100 million investment to enhance engineering innovation and digital transformation, leveraging India's engineering t…",
+          "link": "https://www.livemint.com/market/stock-market-news/tata-technologies-shares-jump-9-after-expanding-strategic-partnership-with-tenneco-11782983564354.html",
+          "source": "livemint",
+          "pubDate": "2026-07-02T14:48:12+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Tata Technologies expands partnership with Tenneco in $100 million deal",
+          "summary": "Tata Technologies and Tenneco LLC have inked a significant five-year deal exceeding $100 million to boost engineering and digital transformation. This expanded partnership, leveraging India's engineering talent, aims to accelerate product development…",
+          "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/tata-technologies-expands-partnership-with-tenneco-in-100-million-deal/articleshow/132134353.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-02T14:40:00+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Tata Technologies Limited has informed the Exchange regarding a press release dated July 01, 2026, titled \"Tenneco LLC and Tata Technologies Strengthen Global Partnership for Mobility Transformation\".",
@@ -996,10 +1018,10 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation of revised date of 10  Annual General Meeting of the Company'.",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation of Newspaper Publication of 10TH  Annual General Meeting of the Company scheduled to be held on Thursday, July 30, 2026 throug",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-01T13:06:11+00:00",
+          "pubDate": "2026-07-02T15:41:15+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1034,6 +1056,17 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Credit Rating",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-02T16:36:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding a press release dated July 01, 2026, titled \"JSW Infrastructure Completes Rs.7,503 Crore QIP; Backed by Marquee Global and Domestic Inves",
@@ -1073,17 +1106,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-26T18:38:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about update on Qualified Institutions Placement- allotment of equity shares",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T18:34:10+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1272,6 +1294,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding Allotment of 1170200  Equity Shares pursuant to ESOP Scheme.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-02T16:44:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "PG Electroplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1288,17 +1321,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-08T20:01:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding Grant of 800000  Options.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-30T16:20:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1481,6 +1503,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Zen Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-02T12:45:50+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1000  Options.",
