@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-06T12:43:57.195853+00:00",
+  "fetchedAt": "2026-07-06T16:18:20.163257+00:00",
   "tickerCount": 32,
   "articleCount": 116,
   "overview": {
     "positive": 12,
-    "negative": 33,
-    "neutral": 71
+    "negative": 32,
+    "neutral": 72
   },
   "stocks": [
     {
@@ -167,6 +167,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Compliance Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-06T18:15:09+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -208,17 +219,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-28T12:59:23+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -383,10 +383,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Transcript",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-03T12:13:28+00:00",
+          "pubDate": "2026-07-06T19:44:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -950,33 +950,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Price movement",
-          "summary": "Significant movement in price has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
+          "title": "[NSE] Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Clarification on Price/ Volume Movement'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-06T17:55:42+00:00",
+          "pubDate": "2026-07-06T19:17:29+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015   Plant Visit   Outcome '.",
+          "title": "[NSE] Change in Management",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Appointment of Senior Management Personnel of the Company",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-03T19:02:06+00:00",
+          "pubDate": "2026-07-06T19:05:25+00:00",
           "sentiment": {
             "label": "Neutral",
-            "score": 0.0
+            "score": 0
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates",
+          "title": "[NSE] Price movement",
+          "summary": "Significant movement in price has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-30T15:48:56+00:00",
+          "pubDate": "2026-07-06T17:55:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1313,6 +1313,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-06T20:00:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding '' General Update on Managing Director\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1354,17 +1365,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": " Preetha Balan Ramanathan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-19T12:57:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1425,6 +1425,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding a press release dated July 06, 2026, titled \"Vector Technics Emerges as India's Largest Fully Integrated Drone Propulsion Manufacturer, Exp",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-06T19:35:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "Zen Tech, HAL &amp; other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy",
           "summary": "Defence stocks rallied sharply on Monday after the Defence Acquisition Council approved procurement proposals worth around Rs 52,000 crore. Zen Technologies, ideaForge, HAL, BEL, Paras Defence and Data Patterns gained, while Motilal Oswal reiterated …",
@@ -1489,17 +1500,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-25T17:10:03+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
