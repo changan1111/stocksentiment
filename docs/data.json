@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-03T15:08:53.647175+00:00",
+  "fetchedAt": "2026-07-06T07:10:47.202060+00:00",
   "tickerCount": 32,
   "articleCount": 116,
   "overview": {
     "positive": 12,
-    "negative": 28,
-    "neutral": 76
+    "negative": 32,
+    "neutral": 72
   },
   "stocks": [
     {
@@ -105,6 +105,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-04T16:39:12+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated July 02, 2026, titled \"Titagarh Rail Systems Limited and TuTr Hyperloop, an IIT Madras-incubated deep-tech start",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -146,17 +157,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T13:00:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -269,6 +269,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-04T10:41:05+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -311,17 +322,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Acquisition",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-23T19:06:38+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -330,17 +330,6 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Coforge among 5 stocks showing bullish RSI upswing",
-          "summary": "Five stocks in the Nifty500 pack that gained over 5% featured in the RSI Trending Up scan on July 2 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and po…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132151440.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-03T08:27:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "Coforge Limited has informed the Exchange about General Updates",
@@ -411,6 +400,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Redtape Limited has informed the Exchange regarding 'Compliance Status of Regulation 6 & 7 of SEBI (LODR) Regulation, 2015 for the quarter ended 30 June 2026'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-04T16:10:45+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Redtape Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -419,17 +419,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Redtape Limited has informed the Exchange regarding 'Updates on Re-lodgement of Transfer Requests of Physical Shares'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-20T15:09:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -449,17 +438,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-02T14:49:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Redtape Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T16:31:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -910,6 +888,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Zen Tech, HAL &amp; other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy",
+          "summary": "Defence stocks rallied sharply on Monday after the Defence Acquisition Council approved procurement proposals worth around Rs 52,000 crore. Zen Technologies, ideaForge, HAL, BEL, Paras Defence and Data Patterns gained, while Motilal Oswal reiterated …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-tech-hal-other-defence-stocks-rally-up-to-6-on-dacs-rs-52000-crore-approval-motilal-picks-3-shares-to-buy/articleshow/132207899.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-06T10:30:04+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Ideaforge Technology Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-04T19:20:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Ideaforge Technology Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -940,28 +940,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T15:16:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating- New",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Credit Rating- New",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-05T11:16:26+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1126,10 +1104,10 @@
       "articles": [
         {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Plutus Wealth Management LLP has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) R",
+          "summary": "Nitish Mittersain has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations,",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-03T13:10:43+00:00",
+          "pubDate": "2026-07-06T12:03:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
@@ -1176,6 +1154,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-06T11:15:56+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1217,17 +1206,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-18T17:58:51+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1447,6 +1425,28 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Zen Tech, HAL &amp; other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy",
+          "summary": "Defence stocks rallied sharply on Monday after the Defence Acquisition Council approved procurement proposals worth around Rs 52,000 crore. Zen Technologies, ideaForge, HAL, BEL, Paras Defence and Data Patterns gained, while Motilal Oswal reiterated …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-tech-hal-other-defence-stocks-rally-up-to-6-on-dacs-rs-52000-crore-approval-motilal-picks-3-shares-to-buy/articleshow/132207899.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-06T10:30:04+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "HAL, BEL to Zen Technologies: Defence stocks rally on  ₹52,000 crore procurement boost; check key beneficiaries",
+          "summary": "Zen Technologies emerged as the top gainer on the Nifty India Defence index, surging over 4%, followed by Paras Defence and Space Technologies, Bharat Dynamics, Bharat Electronics (BEL), Data Patterns (India), and Solar Industries.",
+          "link": "https://www.livemint.com/market/stock-market-news/hal-bel-to-zen-technologies-defence-stocks-rally-on-rs-52-000-crore-procurement-boost-check-key-beneficiaries-11783311429917.html",
+          "source": "livemint",
+          "pubDate": "2026-07-06T09:57:56+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Zen Technologies Limited has informed the Exchange regarding 'Intimation to shareholders holding shares in physical form for furnishing KYC details'.",
