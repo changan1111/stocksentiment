@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-07T06:43:46.150234+00:00",
+  "fetchedAt": "2026-07-07T11:45:40.114610+00:00",
   "tickerCount": 32,
-  "articleCount": 116,
+  "articleCount": 120,
   "overview": {
-    "positive": 12,
-    "negative": 32,
-    "neutral": 72
+    "positive": 13,
+    "negative": 34,
+    "neutral": 73
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T13:29:38+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated Jun 25, 2026, titled \"Jupiter Wagons Bags Orders Worth Over Rs. 264 Crore from JSW(South) Rail Logistics and Central Wa",
@@ -45,17 +56,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-01T13:49:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -64,6 +64,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T15:53:04+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Award worth Rs. 70.72 Crores (incl. taxes) from Central Warehousing Corporation.",
@@ -84,17 +95,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "New Eros Tradecom Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T19:58:37+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
           }
         }
       ]
@@ -460,7 +460,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "MF Picks: 13 stocks surge up to 230% in just 3 months; 3 turn multibaggers",
+          "summary": "Thirteen BSE 500 stocks surged 60%–230% in just over three months after mutual funds increased their holdings in the March 2026 quarter, with HFCL, Cemindia Projects and Aditya Infotech emerging as multibaggers.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mf-picks-13-stocks-surge-up-to-230-in-just-3-months-3-turn-multibaggers/slideshow/132235012.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-07T14:08:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -910,6 +922,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding 'Audited Standalone and Consolidated Financial Statements for the year ended March 31, 2026'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T16:11:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Paras Defence, ideaForge, other defence stocks slide up to 5%. What’s triggering the selloff?",
+          "summary": "Defence stocks declined up to 5% as investors booked profits after a sharp rally triggered by the Defence Acquisition Council’s approval of Rs 52,000 crore worth of acquisition proposals. Despite the correction, brokerages remained positive on the se…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paras-defence-ideaforge-other-defence-stocks-slide-up-to-5-whats-triggering-the-selloff/articleshow/132234048.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-07T13:25:34+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.429
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Ideaforge Technology Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -941,17 +975,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-07T19:39:58+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -961,11 +984,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Clarification on Price/ Volume Movement'.",
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange Dispatch of letter containing web link of Annual Report pursuant to Regulation 36(1)(b) of SEBI (Listing Obligations & Disclosure Requirements) Regu",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-06T19:17:29+00:00",
+          "pubDate": "2026-07-07T17:05:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding Submission of Business Responsibility & Sustainability Report for FY 2025-26.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T17:02:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on July 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T16:32:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -977,17 +1022,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-06T19:05:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Price movement",
-          "summary": "Significant movement in price has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-06T17:55:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1436,6 +1470,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Defence stock Zen Technologies jumps as subsidiary Vector Technics becomes India's largest drone propulsion manufacturer",
+          "summary": "Zen Tech, in an exchange filing after market hours on 6 July, said that its subsidiary, Vector Technics' Shamshabad facility, has reached capacity to manufacture 3,00,000 propulsion units a year.",
+          "link": "https://www.livemint.com/market/stock-market-news/defence-stock-zen-technologies-jumps-as-subsidiary-vector-technics-becomes-indias-largest-drone-propulsion-manufacturer-11783405631635.html",
+          "source": "livemint",
+          "pubDate": "2026-07-07T12:09:01+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "Zen Technologies among 5 stocks showing bullish RSI upswing",
           "summary": "Five stocks in the Nifty500 pack that gained over 4% featured in the RSI Trending Up scan on July 6 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and po…",
