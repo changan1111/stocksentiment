@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T16:18:20.163257+00:00",
+  "fetchedAt": "2026-07-07T06:43:46.150234+00:00",
   "tickerCount": 32,
   "articleCount": 116,
   "overview": {
@@ -66,10 +66,10 @@
       "articles": [
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Acceptance worth Rs. 26.56 Crores (incl. taxes) from South Central Railway.",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Award worth Rs. 70.72 Crores (incl. taxes) from Central Warehousing Corporation.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-02T21:19:25+00:00",
+          "pubDate": "2026-07-07T12:07:31+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -331,6 +331,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Dixon Tech, Coforge, 8 other stocks among Motilal’s non-Nifty ideas ahead of Q1 results",
+          "summary": "Motilal Oswal has identified ten non-Nifty stocks for investors ahead of quarterly earnings.  The brokerage anticipates healthy revenue growth across various market capitalizations.  TVS Motor and Dixon Technologies are among the top picks with signi…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-coforge-8-other-stocks-among-motilals-non-nifty-ideas-ahead-of-q1-results/slideshow/132229674.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-07T09:09:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -569,6 +580,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dixon Tech, Coforge, 8 other stocks among Motilal’s non-Nifty ideas ahead of Q1 results",
+          "summary": "Motilal Oswal has identified ten non-Nifty stocks for investors ahead of quarterly earnings.  The brokerage anticipates healthy revenue growth across various market capitalizations.  TVS Motor and Dixon Technologies are among the top picks with signi…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-coforge-8-other-stocks-among-motilals-non-nifty-ideas-ahead-of-q1-results/slideshow/132229674.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-07T09:09:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional investor Meet",
@@ -887,17 +909,6 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Zen Tech, HAL &amp; other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy",
-          "summary": "Defence stocks rallied sharply on Monday after the Defence Acquisition Council approved procurement proposals worth around Rs 52,000 crore. Zen Technologies, ideaForge, HAL, BEL, Paras Defence and Data Patterns gained, while Motilal Oswal reiterated …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-tech-hal-other-defence-stocks-rally-up-to-6-on-dacs-rs-52000-crore-approval-motilal-picks-3-shares-to-buy/articleshow/132207899.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-06T10:30:04+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "Ideaforge Technology Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot",
@@ -1426,6 +1437,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Zen Technologies among 5 stocks showing bullish RSI upswing",
+          "summary": "Five stocks in the Nifty500 pack that gained over 4% featured in the RSI Trending Up scan on July 6 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and po…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132229177.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-07T08:30:45+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Zen Technologies Limited has informed the Exchange regarding a press release dated July 06, 2026, titled \"Vector Technics Emerges as India's Largest Fully Integrated Drone Propulsion Manufacturer, Exp",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1434,28 +1456,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Zen Tech, HAL &amp; other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy",
-          "summary": "Defence stocks rallied sharply on Monday after the Defence Acquisition Council approved procurement proposals worth around Rs 52,000 crore. Zen Technologies, ideaForge, HAL, BEL, Paras Defence and Data Patterns gained, while Motilal Oswal reiterated …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-tech-hal-other-defence-stocks-rally-up-to-6-on-dacs-rs-52000-crore-approval-motilal-picks-3-shares-to-buy/articleshow/132207899.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-06T10:30:04+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "HAL, BEL to Zen Technologies: Defence stocks rally on  ₹52,000 crore procurement boost; check key beneficiaries",
-          "summary": "Zen Technologies emerged as the top gainer on the Nifty India Defence index, surging over 4%, followed by Paras Defence and Space Technologies, Bharat Dynamics, Bharat Electronics (BEL), Data Patterns (India), and Solar Industries.",
-          "link": "https://www.livemint.com/market/stock-market-news/hal-bel-to-zen-technologies-defence-stocks-rally-on-rs-52-000-crore-procurement-boost-check-key-beneficiaries-11783311429917.html",
-          "source": "livemint",
-          "pubDate": "2026-07-06T09:57:56+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
