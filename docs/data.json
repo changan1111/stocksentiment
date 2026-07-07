@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-07T11:45:40.114610+00:00",
+  "fetchedAt": "2026-07-07T15:42:55.686422+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 119,
   "overview": {
     "positive": 13,
-    "negative": 34,
+    "negative": 33,
     "neutral": 73
   },
   "stocks": [
@@ -923,10 +923,10 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding 'Audited Standalone and Consolidated Financial Statements for the year ended March 31, 2026'.",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding 'Outcome of the Fund Raising Committee held on July 07, 2026'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-07T16:11:15+00:00",
+          "pubDate": "2026-07-07T20:22:36+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -963,17 +963,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 7392 securities pursuant to ESOP/ESPS at its meeting held on Jun 16, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-16T15:56:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1358,6 +1347,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Resignation",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding Resignation of  Mr. Anand Kumar as Non- Executive, Non-Independent Director of the company w.e.f. July 07, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T18:04:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating",
           "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1399,17 +1399,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T16:33:05+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
