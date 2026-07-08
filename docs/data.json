@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-08T11:02:16.923841+00:00",
+  "fetchedAt": "2026-07-08T15:18:26.453877+00:00",
   "tickerCount": 32,
-  "articleCount": 117,
+  "articleCount": 116,
   "overview": {
     "positive": 10,
-    "negative": 33,
-    "neutral": 74
+    "negative": 35,
+    "neutral": 71
   },
   "stocks": [
     {
@@ -695,6 +695,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "E2E Networks Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-08T18:25:41+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "E2E Networks Limited has informed the Exchange regarding Grant of  Options under E2E Networks Limited Employees Stock Option Scheme - 2021",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -737,17 +748,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Resignation",
-          "summary": "E2E Networks Limited has informed the Exchange regarding Resignation of Mr  as Other of the company w.e.f. Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-12T17:05:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -756,6 +756,17 @@
       "name": "Epack Durable",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "EPACK Durable Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-08T17:29:36+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "EPACK Durable Limited has informed the Exchange regarding a press release dated July 01, 2026, titled \"EPACK Durable Limited receives Andhra Pradesh Government approval for &#8377;1,084.31 crore combi",
@@ -798,17 +809,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Laxmi Pat Bothra has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-18T11:04:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -929,17 +929,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Stocks to watch: Cochin Shipyard, Premier Energies, ideaForge Tech among shares in focus today; check list here",
-          "summary": "Stock market today: Gift Nifty was trading near the 24,235 mark, down over 205 points from the previous close of Nifty futures.",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-cochin-shipyard-premier-energies-ideaforge-tech-among-shares-in-focus-today-check-list-here-11783475189066.html",
-          "source": "livemint",
-          "pubDate": "2026-07-08T07:43:42+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
