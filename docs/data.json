@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T05:48:30.091397+00:00",
+  "fetchedAt": "2026-07-08T11:02:16.923841+00:00",
   "tickerCount": 32,
   "articleCount": 117,
   "overview": {
@@ -331,6 +331,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Top Gainers &amp; Losers on 8 July: Aegis Logistics, HPCL, Bank of India, IndiGo, Coforge, MRF among top losers",
+          "summary": "The Indian stock market faced heavy selling on Wednesday, with benchmark indices falling over 2% amid renewed U.S.-Iran tensions. The Nifty 50 dropped to 23,882, marking its biggest decline since March, and nearly all sectoral indices ended in the re…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-8-july-aegis-logistics-hpcl-bank-of-india-indigo-coforge-mrf-among-top-losers-11783504908341.html",
+          "source": "livemint",
+          "pubDate": "2026-07-08T16:28:34+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -460,19 +471,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "MF Picks: 13 stocks surge up to 230% in just 3 months; 3 turn multibaggers",
-          "summary": "Thirteen BSE 500 stocks surged 60%–230% in just over three months after mutual funds increased their holdings in the March 2026 quarter, with HFCL, Cemindia Projects and Aditya Infotech emerging as multibaggers.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mf-picks-13-stocks-surge-up-to-230-in-just-3-months-3-turn-multibaggers/slideshow/132235012.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-07T14:08:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -597,7 +596,7 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-03T18:08:15+00:00",
+          "pubDate": "2026-07-08T14:43:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -623,17 +622,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T14:21:52+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -871,6 +859,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Defence sector Q1 results preview: Muted earnings likely on execution delays; BEL, Bharat Dynamics, GRSE among top picks",
+          "summary": "Defence sector Q1 results preview: While reported earnings of defence sector may remain subdued, underlying execution momentum is gradually building, with clearer visibility on recovery expected as conversion accelerates through the year, particularl…",
+          "link": "https://www.livemint.com/market/stock-market-news/defence-sector-q1-results-preview-muted-earnings-likely-on-execution-delays-bel-bharat-dynamics-grse-among-top-picks-11783500690463.html",
+          "source": "livemint",
+          "pubDate": "2026-07-08T14:31:49+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the  SEBI Listi",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -910,6 +909,17 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-08T12:02:44+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "Drone stock IdeaForge Technology share price jumps over 4% after launch of  ₹500-crore QIP",
           "summary": "IdeaForge Technology share price has fallen 9% in one month, but has jumped by a staggering 104% in just three months. The drone stock has rallied 80% in six months, while it has surged 48% in one year.",
@@ -953,17 +963,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T12:40:27+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -972,6 +971,17 @@
       "name": "IKIO Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding Notice of the 10th Annual General Meeting (AGM) of IKIO Technologies Limited and E-voting Information.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-08T13:38:32+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange Dispatch of letter containing web link of Annual Report pursuant to Regulation 36(1)(b) of SEBI (Listing Obligations & Disclosure Requirements) Regu",
@@ -1000,17 +1010,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-07T16:32:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Appointment of Senior Management Personnel of the Company",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-06T19:05:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
