@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-07T15:42:55.686422+00:00",
+  "fetchedAt": "2026-07-08T05:48:30.091397+00:00",
   "tickerCount": 32,
-  "articleCount": 119,
+  "articleCount": 117,
   "overview": {
-    "positive": 13,
+    "positive": 10,
     "negative": 33,
-    "neutral": 73
+    "neutral": 74
   },
   "stocks": [
     {
@@ -331,17 +331,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Dixon Tech, Coforge, 8 other stocks among Motilal’s non-Nifty ideas ahead of Q1 results",
-          "summary": "Motilal Oswal has identified ten non-Nifty stocks for investors ahead of quarterly earnings.  The brokerage anticipates healthy revenue growth across various market capitalizations.  TVS Motor and Dixon Technologies are among the top picks with signi…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-coforge-8-other-stocks-among-motilals-non-nifty-ideas-ahead-of-q1-results/slideshow/132229674.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-07T09:09:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -392,6 +381,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Credit Rating- Revision",
+          "summary": "Persistent Systems Limited has informed the Exchange about Credit Rating- Revision",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T22:05:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
@@ -592,17 +592,6 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Dixon Tech, Coforge, 8 other stocks among Motilal’s non-Nifty ideas ahead of Q1 results",
-          "summary": "Motilal Oswal has identified ten non-Nifty stocks for investors ahead of quarterly earnings.  The brokerage anticipates healthy revenue growth across various market capitalizations.  TVS Motor and Dixon Technologies are among the top picks with signi…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-coforge-8-other-stocks-among-motilals-non-nifty-ideas-ahead-of-q1-results/slideshow/132229674.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-07T09:09:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional investor Meet",
@@ -922,6 +911,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Drone stock IdeaForge Technology share price jumps over 4% after launch of  ₹500-crore QIP",
+          "summary": "IdeaForge Technology share price has fallen 9% in one month, but has jumped by a staggering 104% in just three months. The drone stock has rallied 80% in six months, while it has surged 48% in one year.",
+          "link": "https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-technology-share-price-jumps-over-4-after-launch-of-rs-500-crore-qip-11783488778200.html",
+          "source": "livemint",
+          "pubDate": "2026-07-08T11:07:02+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks to watch: Cochin Shipyard, Premier Energies, ideaForge Tech among shares in focus today; check list here",
+          "summary": "Stock market today: Gift Nifty was trading near the 24,235 mark, down over 205 points from the previous close of Nifty futures.",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-cochin-shipyard-premier-energies-ideaforge-tech-among-shares-in-focus-today-check-list-here-11783475189066.html",
+          "source": "livemint",
+          "pubDate": "2026-07-08T07:43:42+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange regarding 'Outcome of the Fund Raising Committee held on July 07, 2026'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -930,17 +941,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Paras Defence, ideaForge, other defence stocks slide up to 5%. What’s triggering the selloff?",
-          "summary": "Defence stocks declined up to 5% as investors booked profits after a sharp rally triggered by the Defence Acquisition Council’s approval of Rs 52,000 crore worth of acquisition proposals. Despite the correction, brokerages remained positive on the se…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paras-defence-ideaforge-other-defence-stocks-slide-up-to-5-whats-triggering-the-selloff/articleshow/132234048.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-07T13:25:34+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.429
           }
         },
         {
@@ -1024,6 +1024,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Agreement between JSW Jatadhar Marine Services Private Limited, (wholly owned subsidiary of the Company) and JSW Utkal Steel Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T21:26:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1062,17 +1073,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-26T18:39:56+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding allotment of 230000000 securities pursuant to Qualified Institution Placement at its Finance Committee meeting held on Jun 26, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T18:38:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1137,6 +1137,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on withdrawal of the Scheme of Amalgamation.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-07T22:55:54+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "Nitish Mittersain has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations,",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1167,17 +1178,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on infusion of funds into Nazara Technologies UK Limited, a whol",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-16T22:23:34+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1459,28 +1459,6 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Defence stock Zen Technologies jumps as subsidiary Vector Technics becomes India's largest drone propulsion manufacturer",
-          "summary": "Zen Tech, in an exchange filing after market hours on 6 July, said that its subsidiary, Vector Technics' Shamshabad facility, has reached capacity to manufacture 3,00,000 propulsion units a year.",
-          "link": "https://www.livemint.com/market/stock-market-news/defence-stock-zen-technologies-jumps-as-subsidiary-vector-technics-becomes-indias-largest-drone-propulsion-manufacturer-11783405631635.html",
-          "source": "livemint",
-          "pubDate": "2026-07-07T12:09:01+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Zen Technologies among 5 stocks showing bullish RSI upswing",
-          "summary": "Five stocks in the Nifty500 pack that gained over 4% featured in the RSI Trending Up scan on July 6 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and po…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132229177.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-07T08:30:45+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Press Release",
           "summary": "Zen Technologies Limited has informed the Exchange regarding a press release dated July 06, 2026, titled \"Vector Technics Emerges as India's Largest Fully Integrated Drone Propulsion Manufacturer, Exp",
