@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-09T06:40:59.115402+00:00",
+  "fetchedAt": "2026-07-09T11:54:34.779639+00:00",
   "tickerCount": 32,
-  "articleCount": 115,
+  "articleCount": 116,
   "overview": {
-    "positive": 9,
-    "negative": 34,
-    "neutral": 72
+    "positive": 8,
+    "negative": 37,
+    "neutral": 71
   },
   "stocks": [
     {
@@ -13,6 +13,28 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Appointment",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding Appointment of   as Non- Executive Independent Director of the company w.e.f. July 09, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T14:09:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding Outcome of Board Meeting held on July 09, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T13:59:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -33,28 +55,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-24T18:46:44+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-04T17:54:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -541,6 +541,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Dcx Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T17:07:46+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -571,17 +582,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Dcx Systems Limited has Submitted to the Exchange a copy of Disclosure under Regulation 10 (5) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulatio",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-11T12:24:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1227,6 +1227,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T15:33:50+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "PG Electroplast Limited has informed the Exchange regarding Allotment of 1170200  Equity Shares pursuant to ESOP Scheme.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1324,6 +1335,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T17:10:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T16:48:42+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Resignation",
           "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding Resignation of  Mr. Anand Kumar as Non- Executive, Non-Independent Director of the company w.e.f. July 07, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1355,28 +1388,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T20:18:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Action(s) taken or orders passed",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Action(s) taken or orders passed",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T17:15:55+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -1385,6 +1396,17 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T17:19:34+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated Jun 30, 2026, titled \"Unimech Aerospace and Manufacturing Limited Signs Long-Term Supply Agreement",
@@ -1416,17 +1438,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-11T12:43:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
