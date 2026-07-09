@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-09T11:54:34.779639+00:00",
+  "fetchedAt": "2026-07-09T15:55:29.870659+00:00",
   "tickerCount": 32,
   "articleCount": 116,
   "overview": {
-    "positive": 8,
+    "positive": 10,
     "negative": 37,
-    "neutral": 71
+    "neutral": 69
   },
   "stocks": [
     {
@@ -592,6 +592,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Acquisition",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T20:52:30+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Memorandum of Understanding/Agreements",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Memorandum of Understanding/Agreements",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T20:38:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Dixon Tech, Syrma SGS, Amber shares surge up to 6%.  What does customs duty relief mean?",
           "summary": "Shares of Dixon Technologies, Syrma SGS Technologies and Amber Enterprises rallied after the Centre expanded customs duty exemptions on electronics manufacturing machinery and components until 2029. The move is expected to reduce import costs, improv…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-syrma-sgs-amber-shares-surge-up-to-6-what-does-customs-duty-relief-mean/articleshow/132277651.cms",
@@ -619,17 +641,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-03T15:34:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about change in Senior Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T22:00:15+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1002,13 +1013,13 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "Agreement between JSW Jatadhar Marine Services Private Limited, (wholly owned subsidiary of the Company) and JSW Utkal Steel Limited",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about General Updates Communication to Shareholders - Intimation of Tax Deduction at Source on Dividend for the Financial Year ended 31st March, 20",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-07T21:26:41+00:00",
+          "pubDate": "2026-07-09T18:26:49+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -1042,17 +1053,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Qualified Institutional Placement",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Qualified Institutional Placement- allotment of equity shares",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T18:39:56+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
