@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-08T15:18:26.453877+00:00",
+  "fetchedAt": "2026-07-09T06:40:59.115402+00:00",
   "tickerCount": 32,
-  "articleCount": 116,
+  "articleCount": 115,
   "overview": {
-    "positive": 10,
-    "negative": 35,
-    "neutral": 71
+    "positive": 9,
+    "negative": 34,
+    "neutral": 72
   },
   "stocks": [
     {
@@ -331,14 +331,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top Gainers &amp; Losers on 8 July: Aegis Logistics, HPCL, Bank of India, IndiGo, Coforge, MRF among top losers",
-          "summary": "The Indian stock market faced heavy selling on Wednesday, with benchmark indices falling over 2% amid renewed U.S.-Iran tensions. The Nifty 50 dropped to 23,882, marking its biggest decline since March, and nearly all sectoral indices ended in the re…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-8-july-aegis-logistics-hpcl-bank-of-india-indigo-coforge-mrf-among-top-losers-11783504908341.html",
-          "source": "livemint",
-          "pubDate": "2026-07-08T16:28:34+05:30",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 09, 2026, titled \"Coforge launches AI-powered SecureEdge2Cloud, a Zero Trust offering built on Zscaler Platform\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T11:12:37+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -591,6 +591,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dixon Tech, Syrma SGS, Amber shares surge up to 6%.  What does customs duty relief mean?",
+          "summary": "Shares of Dixon Technologies, Syrma SGS Technologies and Amber Enterprises rallied after the Centre expanded customs duty exemptions on electronics manufacturing machinery and components until 2029. The move is expected to reduce import costs, improv…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-syrma-sgs-amber-shares-surge-up-to-6-what-does-customs-duty-relief-mean/articleshow/132277651.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-09T10:34:30+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional investor Meet",
@@ -859,17 +870,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Defence sector Q1 results preview: Muted earnings likely on execution delays; BEL, Bharat Dynamics, GRSE among top picks",
-          "summary": "Defence sector Q1 results preview: While reported earnings of defence sector may remain subdued, underlying execution momentum is gradually building, with clearer visibility on recovery expected as conversion accelerates through the year, particularl…",
-          "link": "https://www.livemint.com/market/stock-market-news/defence-sector-q1-results-preview-muted-earnings-likely-on-execution-delays-bel-bharat-dynamics-grse-among-top-picks-11783500690463.html",
-          "source": "livemint",
-          "pubDate": "2026-07-08T14:31:49+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Change in Management",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the  SEBI Listi",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -918,17 +918,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "Drone stock IdeaForge Technology share price jumps over 4% after launch of  ₹500-crore QIP",
-          "summary": "IdeaForge Technology share price has fallen 9% in one month, but has jumped by a staggering 104% in just three months. The drone stock has rallied 80% in six months, while it has surged 48% in one year.",
-          "link": "https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-technology-share-price-jumps-over-4-after-launch-of-rs-500-crore-qip-11783488778200.html",
-          "source": "livemint",
-          "pubDate": "2026-07-08T11:07:02+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
