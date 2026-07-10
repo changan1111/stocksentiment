@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-09T15:55:29.870659+00:00",
+  "fetchedAt": "2026-07-10T06:42:17.249461+00:00",
   "tickerCount": 32,
-  "articleCount": 116,
+  "articleCount": 122,
   "overview": {
-    "positive": 10,
-    "negative": 37,
-    "neutral": 69
+    "positive": 14,
+    "negative": 38,
+    "neutral": 70
   },
   "stocks": [
     {
@@ -228,6 +228,17 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-10T10:22:15+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -592,6 +603,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Dixon Tech shares jump 4% on govt nod to form JV with Vivo. What are experts saying?",
+          "summary": "Dixon Technologies' shares rose significantly after Vivo Mobile India secured government approval for a joint venture. This partnership will focus on manufacturing smartphones for Vivo within India. Experts foresee substantial production increases an…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-jump-4-on-govt-nod-to-form-jv-with-vivo-what-are-experts-saying/articleshow/132303973.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-10T11:15:57+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Dixon Technologies share price jumps 3% after govt clears Vivo India JV; should you buy the stock?",
+          "summary": "Analysts expect this joint venture to enhance the Dixon Technologies’ manufacturing capabilities and strengthen its market share and positioning in the Android smartphone market in India.",
+          "link": "https://www.livemint.com/market/stock-market-news/dixon-technologies-share-price-jumps-3-after-govt-clears-vivo-india-jv-should-you-buy-the-stock-11783655010597.html",
+          "source": "livemint",
+          "pubDate": "2026-07-10T09:22:22+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks in news: TCS, Groww, Shriram Finance, Dixon Tech,  Anand Rathi Wealth",
+          "summary": "Indian markets saw a rebound on Thursday, recovering from Wednesday's sharp sell-off. TCS reported a 5% year-on-year profit growth, and Groww affirmed its direct mutual fund strategy. Shriram Finance is raising funds to reduce borrowing costs after a…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-groww-shriram-finance-dixon-tech-anand-rathi-wealth/articleshow/132300773.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-10T06:48:39+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.2
+          }
+        },
+        {
           "title": "[NSE] Acquisition",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -614,14 +658,25 @@
           }
         },
         {
-          "title": "Dixon Tech, Syrma SGS, Amber shares surge up to 6%.  What does customs duty relief mean?",
-          "summary": "Shares of Dixon Technologies, Syrma SGS Technologies and Amber Enterprises rallied after the Centre expanded customs duty exemptions on electronics manufacturing machinery and components until 2029. The move is expected to reduce import costs, improv…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-syrma-sgs-amber-shares-surge-up-to-6-what-does-customs-duty-relief-mean/articleshow/132277651.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-09T10:34:30+05:30",
+          "title": "18 months on, Dixon gets govt nod for JV with China's Vivo",
+          "summary": "The venture, in which Dixon will hold 51%, will also see Dixon operate as an original equipment manufacturer, which means that the latter may, in the long run, create its own smartphone brand—or assemble smartphones for other clients in its factories…",
+          "link": "https://www.livemint.com/companies/dixon-vivo-jv-china-dipp-approval-smartphone-11783614833050.html",
+          "source": "livemint",
+          "pubDate": "2026-07-09T22:52:53+05:30",
           "sentiment": {
             "label": "Neutral",
-            "score": 0.0
+            "score": 0
+          }
+        },
+        {
+          "title": "Vivo receives govt's nod to form JV with Dixon Technologies to manufacture smartphones",
+          "summary": "Vivo India and Dixon Technologies have formed a joint venture for smartphone manufacturing. Dixon Technologies will hold a 51% stake in the new entity. This partnership received government approval under Press Note 3 of 2020. Operations are expected …",
+          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/vivo-receives-govts-nod-to-form-jv-with-dixon-technologies-to-manufacture-smartphones/articleshow/132293120.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-09T21:37:01+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -660,6 +715,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Tata Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-10T11:58:13+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -690,17 +756,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-23T14:53:24+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -921,6 +976,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-10T10:05:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1114,6 +1180,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Nazara Technologies Limited informs the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T22:40:45+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-09T22:33:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on withdrawal of the Scheme of Amalgamation.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1133,28 +1221,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Nazara Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T17:52:57+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-22T17:37:14+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
