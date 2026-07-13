@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-13T06:13:22.734910+00:00",
+  "fetchedAt": "2026-07-13T11:58:46.904515+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 119,
   "overview": {
     "positive": 13,
     "negative": 40,
-    "neutral": 67
+    "neutral": 66
   },
   "stocks": [
     {
@@ -554,17 +554,6 @@
             "label": "Neutral",
             "score": 0.0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -641,17 +630,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-09T20:38:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "18 months on, Dixon gets govt nod for JV with China's Vivo",
-          "summary": "The venture, in which Dixon will hold 51%, will also see Dixon operate as an original equipment manufacturer, which means that the latter may, in the long run, create its own smartphone brand—or assemble smartphones for other clients in its factories…",
-          "link": "https://www.livemint.com/companies/dixon-vivo-jv-china-dipp-approval-smartphone-11783614833050.html",
-          "source": "livemint",
-          "pubDate": "2026-07-09T22:52:53+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1281,6 +1259,17 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Vinay Rajani of HDFC Sec suggests PG Electroplast, Puravankara shares to buy in near-term",
+          "summary": "Indian equity markets faced significant selling on July 13, with Sensex and Nifty 50 falling nearly 1%. The market capitalization dropped by  ₹2 lakh crore. Bank Nifty remains strong, while broader markets show resilience, indicating continued invest…",
+          "link": "https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-pg-electroplast-puravankara-shares-to-buy-in-nearterm-11783923189717.html",
+          "source": "livemint",
+          "pubDate": "2026-07-13T12:19:45+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
