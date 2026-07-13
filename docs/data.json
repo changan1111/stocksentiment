@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-13T11:58:46.904515+00:00",
+  "fetchedAt": "2026-07-13T15:41:12.564501+00:00",
   "tickerCount": 32,
-  "articleCount": 119,
+  "articleCount": 120,
   "overview": {
-    "positive": 13,
-    "negative": 40,
-    "neutral": 66
+    "positive": 14,
+    "negative": 39,
+    "neutral": 67
   },
   "stocks": [
     {
@@ -932,22 +932,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 6289308 securities pursuant to Qualified Institution Placement at its meeting held on July 10, 2026",
+          "title": "[NSE] Updates",
+          "summary": "ideaforge Technology Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report of the Company for the FY 2025-26 which is a part of the Annual Report'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-10T23:22:09+00:00",
+          "pubDate": "2026-07-13T18:55:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding 'Outcome of the Fund Raising Committee held on July 10, 2026'.",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding Notice of Annual General Meeting of the Company to be held on August 05, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-10T21:35:17+00:00",
+          "pubDate": "2026-07-13T18:48:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 6289308 securities pursuant to Qualified Institution Placement at its meeting held on July 10, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-10T23:22:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -962,17 +973,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-08T12:02:44+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1044,6 +1044,17 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "JSW Infrastructure among 7 stocks that hit 52-week highs and rallied up to 30% in a month",
+          "summary": "Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs despite a subdued market. The milestone reflects strong investor confidence, sustained buying interest and continued upward moment…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/132366807.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-13T17:48:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
