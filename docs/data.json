@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-10T15:30:37.156155+00:00",
+  "fetchedAt": "2026-07-13T06:13:22.734910+00:00",
   "tickerCount": 32,
   "articleCount": 120,
   "overview": {
     "positive": 13,
-    "negative": 39,
-    "neutral": 68
+    "negative": 40,
+    "neutral": 67
   },
   "stocks": [
     {
@@ -167,6 +167,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-12T17:29:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Compliance Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -208,17 +219,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Appointment of Mr Abhay Maheshwari as Non- Executive Director of the company w.e.f. Jun 29, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T14:12:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -404,22 +404,44 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Credit Rating- Revision",
-          "summary": "Persistent Systems Limited has informed the Exchange about Credit Rating- Revision",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-07T22:05:24+00:00",
+          "pubDate": "2026-07-12T23:30:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "title": "[NSE] Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding 'Submission of Business Responsibility and Sustainability Report for FY 2025-26'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-06T19:44:09+00:00",
+          "pubDate": "2026-07-11T08:04:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "Persistent Systems Limited has informed the Exchange that Record date for the purpose of Dividend  is 27-Jul-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-11T07:52:30+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 03, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-11T07:12:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -532,6 +554,17 @@
             "label": "Neutral",
             "score": 0.0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -591,39 +624,6 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Vivo-Dixon deal approval reveals India's new China playbook",
-          "summary": "The landscape of Chinese investments in India is transforming as the nation moves past earlier restrictions. The establishment of the Vivo-Dixon joint venture exemplifies a progressive manufacturing model, enabling Indian firms to claim majority owne…",
-          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/vivo-dixon-joint-venture-chinese-investment-india-electronics-manufacturing-supply-chain-shift-new-china-playbook/articleshow/132307983.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-10T14:53:19+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Dixon Tech shares jump 4% on govt nod to form JV with Vivo. What are experts saying?",
-          "summary": "Dixon Technologies' shares rose significantly after Vivo Mobile India secured government approval for a joint venture. This partnership will focus on manufacturing smartphones for Vivo within India. Experts foresee substantial production increases an…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-jump-4-on-govt-nod-to-form-jv-with-vivo-what-are-experts-saying/articleshow/132303973.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-10T11:15:57+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Stocks in news: TCS, Groww, Shriram Finance, Dixon Tech,  Anand Rathi Wealth",
-          "summary": "Indian markets saw a rebound on Thursday, recovering from Wednesday's sharp sell-off. TCS reported a 5% year-on-year profit growth, and Groww affirmed its direct mutual fund strategy. Shriram Finance is raising funds to reduce borrowing costs after a…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-groww-shriram-finance-dixon-tech-anand-rathi-wealth/articleshow/132300773.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-10T06:48:39+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.2
-          }
-        },
         {
           "title": "[NSE] Acquisition",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
@@ -954,6 +954,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 6289308 securities pursuant to Qualified Institution Placement at its meeting held on July 10, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-10T23:22:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding 'Outcome of the Fund Raising Committee held on July 10, 2026'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-10T21:35:17+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -974,28 +996,6 @@
             "label": "Negative",
             "score": -1.0
           }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding 'Outcome of the Fund Raising Committee held on July 07, 2026'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-07T20:22:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Ideaforge Technology Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-04T19:20:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1004,6 +1004,17 @@
       "name": "IKIO Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-11T12:32:00+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding Notice of the 10th Annual General Meeting (AGM) of IKIO Technologies Limited and E-voting Information.",
@@ -1380,54 +1391,43 @@
       "articles": [
         {
           "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Copy of Newspaper Publication",
+          "summary": "Newspaper Publication - The 22nd Annual General Meeting of TVS Supply Chain Solutions Limited is to be held on August 05, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-09T17:10:29+00:00",
+          "pubDate": "2026-07-12T16:57:10+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "title": "[NSE] Amalgamation/Merger",
+          "summary": "We would like to inform that Hon'ble National Company Law Tribunal, Chennai Bench has sanctioned the Scheme of Amalgamation.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-09T16:48:42+00:00",
+          "pubDate": "2026-07-11T20:55:05+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Reporting pursuant to Regulation 34(2)(f) of SEBI (LODR), 2015 for the Financial Year",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-11T15:55:02+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
           }
         },
         {
-          "title": "[NSE] Resignation",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding Resignation of  Mr. Anand Kumar as Non- Executive, Non-Independent Director of the company w.e.f. July 07, 2026.",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding Notice of 22nd Annual General Meeting to be held on August 05, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-07T18:04:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-06T20:00:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding '' General Update on Managing Director\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-01T18:12:52+00:00",
+          "pubDate": "2026-07-11T14:09:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
