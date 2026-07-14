@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-14T10:42:38.232620+00:00",
+  "fetchedAt": "2026-07-14T14:46:40.948180+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 121,
   "overview": {
-    "positive": 16,
-    "negative": 40,
+    "positive": 14,
+    "negative": 41,
     "neutral": 66
   },
   "stocks": [
@@ -65,6 +65,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-14T20:13:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding 'Intimation of resignation of Chief Financial Officer of the Company '.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-14T19:42:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -84,17 +106,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-02T18:05:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -353,17 +364,6 @@
           }
         },
         {
-          "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 14 July 2026",
-          "summary": "Shares to buy or sell: Chandan Taparia has recommended three stocks to buy today, 14 July 2026 - Coforge, Bajaj Auto and Divi’s Laboratories shares.",
-          "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-14-july-2026-11783994715976.html",
-          "source": "livemint",
-          "pubDate": "2026-07-14T08:11:42+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.429
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 09, 2026, titled \"Coforge launches AI-powered SecureEdge2Cloud, a Zero Trust offering built on Zscaler Platform\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -426,6 +426,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-14T19:48:02+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -456,17 +467,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 03, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T07:12:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -925,6 +925,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "We are enclosing herewith the Compliance Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 received from M/s. Alankit Assignments Limited, the Registrar ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-14T17:20:49+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Auditors",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Auditors of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -944,17 +955,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-25T15:56:28+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1077,17 +1077,6 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "JSW Infrastructure among 7 stocks that hit 52-week highs and rallied up to 30% in a month",
-          "summary": "Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs despite a subdued market. The milestone reflects strong investor confidence, sustained buying interest and continued upward moment…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/132366807.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-13T17:48:51+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
