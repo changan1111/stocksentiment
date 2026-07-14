@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-07-13T15:41:12.564501+00:00",
+  "fetchedAt": "2026-07-14T05:26:31.653211+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 121,
   "overview": {
-    "positive": 14,
+    "positive": 15,
     "negative": 39,
     "neutral": 67
   },
@@ -342,6 +342,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 14 July 2026",
+          "summary": "Shares to buy or sell: Chandan Taparia has recommended three stocks to buy today, 14 July 2026 - Coforge, Bajaj Auto and Divi’s Laboratories shares.",
+          "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-14-july-2026-11783994715976.html",
+          "source": "livemint",
+          "pubDate": "2026-07-14T08:11:42+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.429
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 09, 2026, titled \"Coforge launches AI-powered SecureEdge2Cloud, a Zero Trust offering built on Zscaler Platform\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -553,6 +564,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -932,6 +954,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-14T10:21:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "ideaforge Technology Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report of the Company for the FY 2025-26 which is a part of the Annual Report'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -959,17 +992,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-10T23:22:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-10T10:05:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1270,17 +1292,6 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Vinay Rajani of HDFC Sec suggests PG Electroplast, Puravankara shares to buy in near-term",
-          "summary": "Indian equity markets faced significant selling on July 13, with Sensex and Nifty 50 falling nearly 1%. The market capitalization dropped by  ₹2 lakh crore. Bank Nifty remains strong, while broader markets show resilience, indicating continued invest…",
-          "link": "https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-pg-electroplast-puravankara-shares-to-buy-in-nearterm-11783923189717.html",
-          "source": "livemint",
-          "pubDate": "2026-07-13T12:19:45+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
