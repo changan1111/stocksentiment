@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-14T14:46:40.948180+00:00",
+  "fetchedAt": "2026-07-15T05:27:40.564576+00:00",
   "tickerCount": 32,
-  "articleCount": 121,
+  "articleCount": 122,
   "overview": {
-    "positive": 14,
-    "negative": 41,
+    "positive": 13,
+    "negative": 43,
     "neutral": 66
   },
   "stocks": [
@@ -353,14 +353,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Stocks to buy for short term: Sumitomo Chemical, Coforge among 5 shares experts recommend for next 1-2 weeks",
-          "summary": "Analysts identify five stocks poised for short-term growth. From Coforge to Sumitomo Chemical, these companies demonstrate strong bullish trends, appealing to traders seeking opportunities in the next 1-2 weeks.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-sumitomo-chemical-coforge-among-5-shares-experts-recommend-for-next-1-2-weeks-11784008935743.html",
-          "source": "livemint",
-          "pubDate": "2026-07-14T12:00:37+05:30",
+          "title": "TCS, Infosys, Wipro &amp; other IT stocks fall more than 2%. Here's why",
+          "summary": "Indian IT stocks such as TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Persistent Systems and Coforge declined up to 2.5% after IBM plunged 25% in its steepest-ever one-day fall on weak preliminary quarterly results. The negative sentiment spilled ove…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tcs-infosys-wipro-other-it-stocks-may-tumble-after-ibms-historic-25-plunge/articleshow/132404904.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-15T08:31:54+05:30",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Negative",
+            "score": -0.6
           }
         },
         {
@@ -425,6 +425,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "TCS, Infosys, Wipro &amp; other IT stocks fall more than 2%. Here's why",
+          "summary": "Indian IT stocks such as TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Persistent Systems and Coforge declined up to 2.5% after IBM plunged 25% in its steepest-ever one-day fall on weak preliminary quarterly results. The negative sentiment spilled ove…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tcs-infosys-wipro-other-it-stocks-may-tumble-after-ibms-historic-25-plunge/articleshow/132404904.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-15T08:31:54+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.6
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
