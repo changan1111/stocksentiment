@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-15T10:46:34.152517+00:00",
+  "fetchedAt": "2026-07-15T14:46:46.311663+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 121,
   "overview": {
     "positive": 13,
     "negative": 44,
-    "neutral": 65
+    "neutral": 64
   },
   "stocks": [
     {
@@ -353,6 +353,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Coforge Limited has informed the Exchange regarding 'Certificate under Regulation 74 (5) of the SEBI (Depositories and Participants) Regulations,2018 for the quarter ended June 30, 2026'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-15T19:18:01+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "TCS, Infosys, Wipro &amp; other IT stocks fall more than 2%. Here's why",
           "summary": "Indian IT stocks such as TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Persistent Systems and Coforge declined up to 2.5% after IBM plunged 25% in its steepest-ever one-day fall on weak preliminary quarterly results. The negative sentiment spilled ove…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tcs-infosys-wipro-other-it-stocks-may-tumble-after-ibms-historic-25-plunge/articleshow/132404904.cms",
@@ -402,17 +413,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-29T17:21:40+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 19265  Shares.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-23T20:44:02+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -545,6 +545,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet and Earnings Call intimation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-15T16:22:12+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Cyient Dlm Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -575,17 +586,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Cyient Dlm Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-17T18:37:01+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         },
         {
@@ -1141,10 +1141,10 @@
       "articles": [
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "KPIT Technologies Limited has informed the Exchange about the certificates under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018, for the quarter ended June 30, 2026",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Reconciliation of Share Capital Audit Report for 30 June, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-14T13:30:55+00:00",
+          "pubDate": "2026-07-15T16:48:05+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -1170,17 +1170,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T20:03:26+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1361,6 +1350,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-15T19:51:05+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Price movement",
           "summary": "Significant movement in price has been observed in Saksoft Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1380,28 +1380,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Saksoft Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-22T19:40:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Saksoft Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-19T13:03:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1462,6 +1440,17 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding allotment of 45,114 Equity Shares of the Company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-15T16:18:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
