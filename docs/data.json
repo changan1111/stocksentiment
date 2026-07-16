@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-16T05:37:37.702245+00:00",
+  "fetchedAt": "2026-07-16T10:56:18.990724+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 123,
   "overview": {
-    "positive": 14,
-    "negative": 42,
-    "neutral": 64
+    "positive": 13,
+    "negative": 41,
+    "neutral": 69
   },
   "stocks": [
     {
@@ -523,6 +523,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "From Dixon Tech to Cyient DLM- why are electronics manufacturing services stocks rising? Explained",
+          "summary": "Cyient DLM share price emerged as the top gainer, surged as much as 7.40% to  ₹578.35 per share. Dixon Technologies and PG Electroplast shares rose up to 5%.",
+          "link": "https://www.livemint.com/market/stock-market-news/from-dixon-tech-to-cyient-dlm-why-are-electronics-manufacturing-services-stocks-rising-explained-11784181014782.html",
+          "source": "livemint",
+          "pubDate": "2026-07-16T11:45:50+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet and Earnings Call intimation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -564,17 +575,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -635,6 +635,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "From Dixon Tech to Cyient DLM- why are electronics manufacturing services stocks rising? Explained",
+          "summary": "Cyient DLM share price emerged as the top gainer, surged as much as 7.40% to  ₹578.35 per share. Dixon Technologies and PG Electroplast shares rose up to 5%.",
+          "link": "https://www.livemint.com/market/stock-market-news/from-dixon-tech-to-cyient-dlm-why-are-electronics-manufacturing-services-stocks-rising-explained-11784181014782.html",
+          "source": "livemint",
+          "pubDate": "2026-07-16T11:45:50+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "Dixon Tech shares surge 7% on Rs 1.9 lakh crore phone manufacturing push. Buy, sell or hold the stock?",
           "summary": "Dixon Technologies shares surged after the Union Cabinet approved the Rs 1.27 lakh crore second phase of the India Semiconductor Mission and a Rs 62,500 crore Mobile Phone Manufacturing Scheme. The government is expected to issue administrative notif…",
@@ -1169,6 +1180,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-16T15:42:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Nazara Technologies Limited informs the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1282,6 +1304,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "From Dixon Tech to Cyient DLM- why are electronics manufacturing services stocks rising? Explained",
+          "summary": "Cyient DLM share price emerged as the top gainer, surged as much as 7.40% to  ₹578.35 per share. Dixon Technologies and PG Electroplast shares rose up to 5%.",
+          "link": "https://www.livemint.com/market/stock-market-news/from-dixon-tech-to-cyient-dlm-why-are-electronics-manufacturing-services-stocks-rising-explained-11784181014782.html",
+          "source": "livemint",
+          "pubDate": "2026-07-16T11:45:50+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1339,6 +1372,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Saksoft Limited has informed the Exchange about Shareholders meeting",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-16T13:18:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1358,17 +1402,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Saksoft Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T12:41:15+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
