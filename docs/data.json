@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-15T14:46:46.311663+00:00",
+  "fetchedAt": "2026-07-16T05:37:37.702245+00:00",
   "tickerCount": 32,
-  "articleCount": 121,
+  "articleCount": 120,
   "overview": {
-    "positive": 13,
-    "negative": 44,
+    "positive": 14,
+    "negative": 42,
     "neutral": 64
   },
   "stocks": [
@@ -364,17 +364,6 @@
           }
         },
         {
-          "title": "TCS, Infosys, Wipro &amp; other IT stocks fall more than 2%. Here's why",
-          "summary": "Indian IT stocks such as TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Persistent Systems and Coforge declined up to 2.5% after IBM plunged 25% in its steepest-ever one-day fall on weak preliminary quarterly results. The negative sentiment spilled ove…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tcs-infosys-wipro-other-it-stocks-may-tumble-after-ibms-historic-25-plunge/articleshow/132404904.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-15T08:31:54+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.6
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 09, 2026, titled \"Coforge launches AI-powered SecureEdge2Cloud, a Zero Trust offering built on Zscaler Platform\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -425,17 +414,6 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "TCS, Infosys, Wipro &amp; other IT stocks fall more than 2%. Here's why",
-          "summary": "Indian IT stocks such as TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Persistent Systems and Coforge declined up to 2.5% after IBM plunged 25% in its steepest-ever one-day fall on weak preliminary quarterly results. The negative sentiment spilled ove…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tcs-infosys-wipro-other-it-stocks-may-tumble-after-ibms-historic-25-plunge/articleshow/132404904.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-15T08:31:54+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.6
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -657,6 +635,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dixon Tech shares surge 7% on Rs 1.9 lakh crore phone manufacturing push. Buy, sell or hold the stock?",
+          "summary": "Dixon Technologies shares surged after the Union Cabinet approved the Rs 1.27 lakh crore second phase of the India Semiconductor Mission and a Rs 62,500 crore Mobile Phone Manufacturing Scheme. The government is expected to issue administrative notif…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-surge-7-on-rs-1-9-lakh-crore-phone-manufacturing-push-buy-sell-or-hold-the-stock/articleshow/132429770.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-16T10:10:17+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
