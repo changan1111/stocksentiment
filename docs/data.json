@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-17T05:39:32.033325+00:00",
+  "fetchedAt": "2026-07-17T10:44:37.924898+00:00",
   "tickerCount": 32,
-  "articleCount": 121,
+  "articleCount": 123,
   "overview": {
-    "positive": 14,
-    "negative": 41,
-    "neutral": 66
+    "positive": 15,
+    "negative": 40,
+    "neutral": 68
   },
   "stocks": [
     {
@@ -415,6 +415,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Infosys, TCS, HCL Technologies to Tech Mahindra: Why are IT stocks rising today?",
+          "summary": "Infosys, Tech Mahindra and HCL Technologies led the sectoral rally, rising more than 3% each. They were followed by Tata Consultancy Services (TCS), Persistent Systems, Mphasis and LTIMindtree.",
+          "link": "https://www.livemint.com/market/stock-market-news/infosys-tcs-hcl-technologies-to-tech-mahindra-why-are-it-stocks-rising-today-11784271768196.html",
+          "source": "livemint",
+          "pubDate": "2026-07-17T12:44:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -586,13 +597,13 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding 'Intimation of investment in ELTX Systems Pvt Ltd., an Associate and Joint Venture (Joint Venture with ELTA Systems Limited, Israel) of the Comp",
+          "summary": "Dcx Systems Limited has informed the Exchange regarding 'Intimation of revision in official Website and Investor Relations webpage'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-15T13:12:33+00:00",
+          "pubDate": "2026-07-17T13:44:22+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -615,17 +626,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T14:51:54+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1350,6 +1350,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Saksoft Limited has informed the Exchange regarding 'Regulation 74(5)   Certificate from RTA'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-17T15:12:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Saksoft Limited has informed the Exchange about Shareholders meeting",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1440,6 +1451,17 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Motilal Oswal starts coverage on an aerospace stock that’s up 40% in 2026. Know target, upside",
+          "summary": "Motilal Oswal has initiated coverage on Unimech Aerospace with a Buy rating and a target price of Rs 1,530, implying 27% upside. The brokerage expects strong earnings growth driven by aero tooling, precision engineering, strategic acquisitions and fa…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-starts-coverage-on-an-aerospace-stock-thats-up-40-in-2026-know-target-upside/articleshow/132454713.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-17T12:18:02+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding allotment of 45,114 Equity Shares of the Company.",
