@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-20T06:19:51.698697+00:00",
+  "fetchedAt": "2026-07-20T11:46:54.640225+00:00",
   "tickerCount": 32,
-  "articleCount": 2,
+  "articleCount": 7,
   "overview": {
     "positive": 1,
-    "negative": 1,
-    "neutral": 0
+    "negative": 3,
+    "neutral": 3
   },
   "stocks": [
     {
@@ -186,7 +186,63 @@
       "symbol": "NETWEB.NS",
       "name": "Netweb Technologies",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-06T11:15:56+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-03T13:26:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Notice of Postal Ballot",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-02T20:16:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Outcome of Board Meeting held on July 01, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-01T20:42:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-06-25T17:54:23+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "PGEL.NS",
