@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-21T05:47:31.463616+00:00",
+  "fetchedAt": "2026-07-21T11:05:17.829366+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 121,
   "overview": {
-    "positive": 12,
-    "negative": 37,
-    "neutral": 73
+    "positive": 11,
+    "negative": 34,
+    "neutral": 76
   },
   "stocks": [
     {
@@ -353,6 +353,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Coforge stands outas an  Exceptional Performer  in application services and cloud & infrastructure serv",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T15:17:18+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Coforge Limited has informed the Exchange regarding 'Certificate under Regulation 74 (5) of the SEBI (Depositories and Participants) Regulations,2018 for the quarter ended June 30, 2026'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -361,17 +372,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 09, 2026, titled \"Coforge launches AI-powered SecureEdge2Cloud, a Zero Trust offering built on Zscaler Platform\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T11:12:37+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -391,17 +391,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-29T17:27:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Coforge Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T17:21:40+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -625,7 +614,7 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Dixon Tech shares down 30% from 52-week high. Can these 3 triggers reignite the rally for 79 lakh shareholder",
+          "title": "Dixon Tech shares down 30% from 52-week high. Can these 3 triggers reignite the rally for 79 lakh shareholders",
           "summary": "Dixon Technologies shares may see a rally after recent declines from their peak. Government approval for the Vivo joint venture is a significant development for smartphone manufacturing. New policy support for electronics manufacturing aims to boost …",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-down-30-from-52-week-high-can-these-3-triggers-reignite-the-rally-for-79-lakh-shareholder/articleshow/132528029.cms",
           "source": "economictimes.indiatimes",
@@ -693,6 +682,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Tata Technologies Limited has informed the Exchange about Transcript of the earnings conference call on financial results for the quarter ended June 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T15:07:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Higher auto spending, aviation bet will push us to $1 billion: Tata Tech’s Harris",
           "summary": "Tata Technologies CEO Warren Harris says the firm's $1 billion revenue target by FY28 remains firmly on track, even though it needs a 27% CAGR, six times its recent pace, after a tariff- and EV-driven slowdown.&amp;nbsp;",
           "link": "https://www.livemint.com/companies/news/higher-auto-spending-aviation-bet-will-push-us-to-1-billion-tata-tech-s-harris-11784452209195.html",
@@ -709,17 +709,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-18T12:13:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Link of Audio Recording of the earnings conference call on financial results for the quarter ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-17T21:47:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -746,17 +735,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Tata Technologies Limited has submitted to the Exchange, the unaudited financial results for the period ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-17T16:47:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -771,6 +749,28 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Press Release: E2E Networks Reports Q1 FY 27 Results\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T13:58:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Outcome of Board Meeting of E2E Networks Limited ( the Company )",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T13:28:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "E2E Networks Limited has informed the Exchange about Schedule of meet",
@@ -799,28 +799,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-30T15:35:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "E2E Networks Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T15:55:54+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about Incorporation of wholly Owned Subsidiary in India.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-17T18:42:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -935,6 +913,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith newspaper clippings regarding notice for transfer of Unclaimed Divi",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T12:28:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "We are enclosing herewith the Compliance Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 received from M/s. Alankit Assignments Limited, the Registrar ",
@@ -1089,58 +1078,58 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Q1 results 2026: Bajaj Auto to Adani Energy among companies to declare Q1 results today; full list here",
-          "summary": "Q1 results 2026: Bajaj Auto, Adani Energy Solutions, TVS Motor Company, Indian Hotels Company, JSW Infrastructure, Adani Total Gas, and Bandhan Bank are among the companies to declare their Q1 results FY27 today.",
-          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-bajaj-auto-to-adani-energy-among-companies-to-declare-q1-results-today-full-list-here-11784601054209.html",
-          "source": "livemint",
-          "pubDate": "2026-07-21T08:26:46+05:30",
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended 30th June, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T16:34:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "Intimation of the date of the 20th Annual General Meeting of the Members of the Company and Cut-off date for e-voting.",
+          "title": "[NSE] Investor Presentation",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-20T17:31:13+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-16T18:33:50+00:00",
+          "pubDate": "2026-07-21T16:29:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "title": "[NSE] Press Release",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Media Release on Unaudited Standalone and Consolidated Financial Results of the Company for ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-10T17:57:33+00:00",
+          "pubDate": "2026-07-21T16:22:26+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
-          "title": "[NSE] Acquisition",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Acquisition- Incorporation of a wholly owned subsidiary company",
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "JSW Infrastructure Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-10T16:46:35+00:00",
+          "pubDate": "2026-07-21T15:55:31+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Newspaper Advertisement   Notice of 20th Annual General Meeting of the Company",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T14:34:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         }
       ]
@@ -1514,6 +1503,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Zen Technologies Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-21T14:44:31+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Zen Technologies Limited has informed the Exchange regarding a press release dated July 06, 2026, titled \"Vector Technics Emerges as India's Largest Fully Integrated Drone Propulsion Manufacturer, Exp",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1552,17 +1552,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-29T22:35:40+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Zen Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-27T22:06:37+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
