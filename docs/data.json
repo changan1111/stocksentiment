@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-22T05:46:34.662193+00:00",
+  "fetchedAt": "2026-07-22T11:06:31.697780+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 123,
   "overview": {
     "positive": 12,
-    "negative": 31,
+    "negative": 32,
     "neutral": 79
   },
   "stocks": [
@@ -523,17 +523,6 @@
           }
         },
         {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 22 July 2026",
-          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Rain Industries, Chennai Petroleum Corporation, Balaji Amines, Cyient DLM, and INOX India.",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-22-july-2026-11784682131405.html",
-          "source": "livemint",
-          "pubDate": "2026-07-22T06:48:38+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.556
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Cyient Dlm Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Cyient DLM Announces Q1FY27 Results\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -750,6 +739,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-22T11:21:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "AI-focused E2E Networks shares hit 5% upper circuit as firm swings to black in Q1, revenue soars 334%",
+          "summary": "AI-focused cloud provider E2E Networks hit the upper circuit after reporting a sharp turnaround in Q1FY27, posting a net profit of Rs 44 crore against a year-ago loss. Revenue more than quadrupled, while EBITDA and margins surged, driven by strong de…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-focused-e2e-networks-shares-hit-5-upper-circuit-as-firm-swings-to-black-in-q1-revenue-soars-334/articleshow/132552097.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-22T11:34:29+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.667
+          }
+        },
+        {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring Agency Reports for the quarter ending on June 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -788,17 +799,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-21T13:28:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-16T18:58:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1078,6 +1078,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-22T14:19:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1116,17 +1127,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-21T16:22:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "JSW Infrastructure Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T15:55:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1292,6 +1292,17 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top Gainers &amp; Losers on 22 July: Bandhan Bank, PG Electroplast, Lupin, Delhivery, Voltas, IndiGo among top losers",
+          "summary": "The Indian stock market faced heightened sell-off on July 22, with the Nifty 50 closing 0.77% lower amid ongoing Middle East tensions and concerns over US tariffs on pharmaceuticals. Broader markets fell over 1%, with Nifty Media and Nifty Pharma fac…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-22-july-bandhan-bank-pg-electroplast-lupin-delhivery-voltas-indigo-among-top-losers-11784713647070.html",
+          "source": "livemint",
+          "pubDate": "2026-07-22T15:44:26+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -1503,6 +1514,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-22T12:47:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "TVS Motor Company among 5 stocks flashing bullish signals, indicating possible uptrend",
           "summary": "Five Nifty500 stocks, Gujarat Fluorochemicals, TVS Motor, HFCL, Manappuram Finance, and Zen Technologies, formed a bullish White Marubozu pattern on July 21, signaling strong buying momentum and potential upside, according to StockEdge.",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-company-among-5-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/132550456.cms",
@@ -1555,17 +1577,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1000  Options.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T22:35:40+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
