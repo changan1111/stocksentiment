@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T11:06:31.697780+00:00",
+  "fetchedAt": "2026-07-22T15:02:21.267121+00:00",
   "tickerCount": 32,
   "articleCount": 123,
   "overview": {
@@ -739,6 +739,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-22T20:03:17+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -788,17 +799,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-21T13:58:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Outcome of Board Meeting of E2E Networks Limited ( the Company )",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T13:28:02+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1078,6 +1078,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding 'Submission of machine-readable copy of Unaudited Standalone and Consolidated Financial Results for the quarter ended 30th June, 2026'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-22T17:48:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1116,17 +1127,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-21T16:29:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Media Release on Unaudited Standalone and Consolidated Financial Results of the Company for ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T16:22:26+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
