@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-21T15:01:41.149965+00:00",
+  "fetchedAt": "2026-07-22T05:46:34.662193+00:00",
   "tickerCount": 32,
   "articleCount": 122,
   "overview": {
-    "positive": 11,
-    "negative": 32,
+    "positive": 12,
+    "negative": 31,
     "neutral": 79
   },
   "stocks": [
@@ -512,6 +512,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-22T07:11:12+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 22 July 2026",
+          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Rain Industries, Chennai Petroleum Corporation, Balaji Amines, Cyient DLM, and INOX India.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-22-july-2026-11784682131405.html",
+          "source": "livemint",
+          "pubDate": "2026-07-22T06:48:38+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.556
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Cyient Dlm Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Cyient DLM Announces Q1FY27 Results\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -550,17 +572,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-20T20:05:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet and Earnings Call intimation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-15T16:22:12+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -624,17 +635,6 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Dixon Tech shares down 30% from 52-week high. Can these 3 triggers reignite the rally for 79 lakh shareholders",
-          "summary": "Dixon Technologies shares may see a rally after recent declines from their peak. Government approval for the Vivo joint venture is a significant development for smartphone manufacturing. New policy support for electronics manufacturing aims to boost …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-down-30-from-52-week-high-can-these-3-triggers-reignite-the-rally-for-79-lakh-shareholder/articleshow/132528029.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-21T10:04:29+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -701,17 +701,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Higher auto spending, aviation bet will push us to $1 billion: Tata Tech’s Harris",
-          "summary": "Tata Technologies CEO Warren Harris says the firm's $1 billion revenue target by FY28 remains firmly on track, even though it needs a 27% CAGR, six times its recent pace, after a tariff- and EV-driven slowdown.&amp;nbsp;",
-          "link": "https://www.livemint.com/companies/news/higher-auto-spending-aviation-bet-will-push-us-to-1-billion-tata-tech-s-harris-11784452209195.html",
-          "source": "livemint",
-          "pubDate": "2026-07-20T06:00:06+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.333
           }
         },
         {
@@ -1513,6 +1502,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "TVS Motor Company among 5 stocks flashing bullish signals, indicating possible uptrend",
+          "summary": "Five Nifty500 stocks, Gujarat Fluorochemicals, TVS Motor, HFCL, Manappuram Finance, and Zen Technologies, formed a bullish White Marubozu pattern on July 21, signaling strong buying momentum and potential upside, according to StockEdge.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-company-among-5-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/132550456.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-22T08:47:36+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Zen Technologies Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
