@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-23T11:07:22.570245+00:00",
+  "fetchedAt": "2026-07-23T15:06:39.100489+00:00",
   "tickerCount": 32,
-  "articleCount": 119,
+  "articleCount": 117,
   "overview": {
     "positive": 10,
     "negative": 30,
-    "neutral": 79
+    "neutral": 77
   },
   "stocks": [
     {
@@ -354,13 +354,13 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Coforge stands outas an  Exceptional Performer  in application services and cloud & infrastructure serv",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 23, 2026, titled \"Coforge launches Nuuron: The AI Operating System for the Autonomous Enterprise\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-21T15:17:18+00:00",
+          "pubDate": "2026-07-23T17:00:07+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -380,17 +380,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-06T15:58:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Coforge Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T17:27:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -564,17 +553,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
