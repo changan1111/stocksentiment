@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-23T05:51:21.678979+00:00",
+  "fetchedAt": "2026-07-23T11:07:22.570245+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 119,
   "overview": {
     "positive": 10,
-    "negative": 31,
+    "negative": 30,
     "neutral": 79
   },
   "stocks": [
@@ -512,6 +512,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-23T14:49:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -556,14 +567,14 @@
           }
         },
         {
-          "title": "[NSE] Change in Management",
-          "summary": "Cyient Dlm Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-20T20:05:30+00:00",
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -747,17 +758,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "AI-focused E2E Networks shares hit 5% upper circuit as firm swings to black in Q1, revenue soars 334%",
-          "summary": "AI-focused cloud provider E2E Networks hit the upper circuit after reporting a sharp turnaround in Q1FY27, posting a net profit of Rs 44 crore against a year-ago loss. Revenue more than quadrupled, while EBITDA and margins surged, driven by strong de…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-focused-e2e-networks-shares-hit-5-upper-circuit-as-firm-swings-to-black-in-q1-revenue-soars-334/articleshow/132552097.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-22T11:34:29+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.667
           }
         },
         {
@@ -1067,6 +1067,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Letter to the Members providing web-link and QR code for accessing the Integrated Annual Report for the Financial Year 2025-26",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-23T15:36:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Newspaper Publication of the Notice of the 20th Annual General Meeting and Information on E-Voting",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-23T13:49:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 13, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1083,39 +1105,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-22T17:48:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T14:19:16+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T19:48:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended 30th June, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T16:34:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1220,6 +1209,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-23T13:10:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1261,17 +1261,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-25T17:54:23+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
