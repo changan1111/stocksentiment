@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-24T11:01:39.158693+00:00",
+  "fetchedAt": "2026-07-24T14:54:26.770897+00:00",
   "tickerCount": 32,
-  "articleCount": 114,
+  "articleCount": 70,
   "overview": {
-    "positive": 12,
-    "negative": 30,
-    "neutral": 72
+    "positive": 10,
+    "negative": 20,
+    "neutral": 40
   },
   "stocks": [
     {
@@ -291,6 +291,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "US stocks today: US stocks open subdued after tech rout; Mideast, tariffs in focus",
+          "summary": "Wall Street opened mixed after a sharp tech-led selloff, with the Dow inching higher while the S&amp;P 500 and Nasdaq slipped. Investors remained cautious amid fresh earnings, renewed Trump tariffs and rising Middle East tensions, with oil prices and…",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-subdued-after-tech-rout-mideast-tariffs-in-focus/articleshow/132607371.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-24T19:07:36+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -520,6 +531,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -897,369 +919,43 @@
       "symbol": "IDEAFORGE.NS",
       "name": "ideaForge Technology",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-14T10:21:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "ideaforge Technology Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report of the Company for the FY 2025-26 which is a part of the Annual Report'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-13T18:55:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding Notice of Annual General Meeting of the Company to be held on August 05, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-13T18:48:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 6289308 securities pursuant to Qualified Institution Placement at its meeting held on July 10, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-10T23:22:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "IKIO.NS",
       "name": "IKIO Technologies",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "IKIO Technologies Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-20T21:02:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T12:32:00+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding Notice of the 10th Annual General Meeting (AGM) of IKIO Technologies Limited and E-voting Information.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-08T13:38:32+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange Dispatch of letter containing web link of Annual Report pursuant to Regulation 36(1)(b) of SEBI (Listing Obligations & Disclosure Requirements) Regu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-07T17:05:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding Submission of Business Responsibility & Sustainability Report for FY 2025-26.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-07T17:02:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "JSWINFRA.NS",
       "name": "JSW Infrastructure",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Letter to the Members providing web-link and QR code for accessing the Integrated Annual Report for the Financial Year 2025-26",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-23T15:36:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Newspaper Publication of the Notice of the 20th Annual General Meeting and Information on E-Voting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-23T13:49:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 13, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T21:34:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding 'Submission of machine-readable copy of Unaudited Standalone and Consolidated Financial Results for the quarter ended 30th June, 2026'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T17:48:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "KPITTECH.NS",
       "name": "KPIT Technologies",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Reconciliation of Share Capital Audit Report for 30 June, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-15T16:48:05+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Other Restructuring",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Update on voluntary liquidation & dissolution of Somit Solutions Inc., wholly owned step-down subsidiary of KPIT Technologies (UK) Limited, wh",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-14T13:01:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding 'Clarification on Outlook for Q1FY27 and for the remainder of the year'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-01T09:33:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "NAZARA.NS",
       "name": "Nazara Technologies",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-18T13:18:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Notice of Extraordinary General Meeting to be held on August 10, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-17T18:33:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Nazara Technologies Limited informs the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T22:40:45+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T22:33:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "NETWEB.NS",
       "name": "Netweb Technologies",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-23T13:10:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-06T11:15:56+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-03T13:26:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Notice of Postal Ballot",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-02T20:16:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Outcome of Board Meeting held on July 01, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-01T20:42:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "PGEL.NS",
       "name": "PG Electroplast",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T15:33:50+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding Allotment of 1170200  Equity Shares pursuant to ESOP Scheme.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-02T16:44:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-24T17:22:09+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-08T20:01:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "REMSONS.NS",
@@ -1271,216 +967,25 @@
       "symbol": "SAKSOFT.NS",
       "name": "Saksoft",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-20T18:36:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Saksoft Limited has informed the Exchange regarding 'Regulation 74(5)   Certificate from RTA'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-17T15:12:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Saksoft Limited has informed the Exchange about Shareholders meeting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-16T13:18:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "TVSSCS.NS",
       "name": "TVS Supply Chain Solutions",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Newspaper Publication - The 22nd Annual General Meeting of TVS Supply Chain Solutions Limited is to be held on August 05, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-12T16:57:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Amalgamation/Merger",
-          "summary": "We would like to inform that Hon'ble National Company Law Tribunal, Chennai Bench has sanctioned the Scheme of Amalgamation.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T20:55:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Reporting pursuant to Regulation 34(2)(f) of SEBI (LODR), 2015 for the Financial Year",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T15:55:02+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding Notice of 22nd Annual General Meeting to be held on August 05, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T14:09:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "UNIMECH.NS",
       "name": "Unimech Aerospace",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding allotment of 45,114 Equity Shares of the Company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-15T16:18:55+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T17:19:34+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated Jun 30, 2026, titled \"Unimech Aerospace and Manufacturing Limited Signs Long-Term Supply Agreement",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T12:05:13+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-26T18:57:52+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": " Ramakrishna Kamojhala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulat",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-12T19:41:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "ZENTEC.NS",
       "name": "Zen Technologies",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T12:47:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Zen Technologies Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T14:44:31+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding a press release dated July 06, 2026, titled \"Vector Technics Emerges as India's Largest Fully Integrated Drone Propulsion Manufacturer, Exp",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-06T19:35:39+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding 'Intimation to shareholders holding shares in physical form for furnishing KYC details'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-02T17:46:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Zen Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-02T12:45:50+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        }
-      ]
+      "articles": []
     }
   ]
 }
