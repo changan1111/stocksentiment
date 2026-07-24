@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-23T15:06:39.100489+00:00",
+  "fetchedAt": "2026-07-24T05:47:47.310833+00:00",
   "tickerCount": 32,
   "articleCount": 117,
   "overview": {
-    "positive": 10,
+    "positive": 11,
     "negative": 30,
-    "neutral": 77
+    "neutral": 76
   },
   "stocks": [
     {
@@ -354,10 +354,10 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 23, 2026, titled \"Coforge launches Nuuron: The AI Operating System for the Autonomous Enterprise\".",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 24, 2026, titled \"Coforge Secures a $230+ Million Five-Year Contract with a European Client\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-23T17:00:07+00:00",
+          "pubDate": "2026-07-24T10:21:21+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -373,17 +373,6 @@
             "label": "Negative",
             "score": -1.0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-06T15:58:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -392,6 +381,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dividend alert! Last day to buy Wipro, DLF, Persistent Systems among 12 stocks for dividend rewards. Do you own any?",
+          "summary": "IT major Wipro earlier this month announced an interim dividend of Rs 2 per equity share along with its Q1 results, with the record date being fixed on July 27. The company said its board of directors considered and approved a dividend of Rs 2 per eq…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-wipro-dlf-persistent-systems-among-12-stocks-for-dividend-rewards-do-you-own-any/articleshow/132580645.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-24T07:27:33+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
