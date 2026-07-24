@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-24T05:47:47.310833+00:00",
+  "fetchedAt": "2026-07-24T11:01:39.158693+00:00",
   "tickerCount": 32,
-  "articleCount": 117,
+  "articleCount": 114,
   "overview": {
-    "positive": 11,
+    "positive": 12,
     "negative": 30,
-    "neutral": 76
+    "neutral": 72
   },
   "stocks": [
     {
@@ -178,6 +178,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Agreements",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Completion of Acquisition of the land from Telangana State Industrial Infrastructure Corporation (TSIIC)",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-24T12:01:09+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding allotment of 2500 securities pursuant to ESOP/ESPS at its meeting held on July 17, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -219,17 +230,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "Jupiter Capital Private Ltd has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Re",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T12:53:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -501,55 +501,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-24T16:04:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-23T14:49:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T07:11:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Cyient Dlm Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Cyient DLM Announces Q1FY27 Results\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T17:20:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T16:53:40+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Cyient Dlm Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T16:48:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
