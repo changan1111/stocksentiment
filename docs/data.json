@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-27T12:18:56.867131+00:00",
+  "fetchedAt": "2026-07-27T15:39:57.487670+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 121,
   "overview": {
-    "positive": 15,
+    "positive": 16,
     "negative": 29,
-    "neutral": 78
+    "neutral": 76
   },
   "stocks": [
     {
@@ -375,17 +375,6 @@
           }
         },
         {
-          "title": "Q1 results 2026: BEL to Tata Power among companies to declare Q1 results today; full list here",
-          "summary": "Bharat Electronics (BEL), Coal India, Tata Power, Canara Bank, Indus Towers, Coforge, Tata Chemicals are among the companies to report their Q1 results FY27 next week.",
-          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-bel-to-tata-power-among-companies-to-declare-q1-results-today-full-list-here-11785118542011.html",
-          "source": "livemint",
-          "pubDate": "2026-07-27T08:13:06+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 24, 2026, titled \"Coforge Secures a $230+ Million Five-Year Contract with a European Client\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -740,6 +729,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about General Updates in relation to proceedings before the Hon ble Delhi High Court regarding stamp duty matter",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-27T18:18:24+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "E2E Networks Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -778,17 +778,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-21T16:48:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Press Release: E2E Networks Reports Q1 FY 27 Results\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T13:58:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
