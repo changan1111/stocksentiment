@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-27T15:39:57.487670+00:00",
+  "fetchedAt": "2026-07-28T05:44:16.904725+00:00",
   "tickerCount": 32,
-  "articleCount": 121,
+  "articleCount": 125,
   "overview": {
-    "positive": 16,
+    "positive": 19,
     "negative": 29,
-    "neutral": 76
+    "neutral": 77
   },
   "stocks": [
     {
@@ -364,36 +364,91 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Q1 Results today: Coal India, Tata Power, BEL, Coforge, among 68 companies to announce earnings",
-          "summary": "The Q1 FY27 earnings season gathers pace on Monday, with 68 companies set to announce their April-June quarter results. Key names on the radar include Coal India, Tata Power, Bharat Electronics, Godfrey Phillips, Coforge and Canara Bank. Investors wi…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-today-coal-india-tata-power-bel-coforge-among-68-companies-to-announce-earnings/articleshow/132654569.cms",
+          "title": "TCS, Infosys, Coforge, other IT stocks rally up to 10% after Nvidia-led chip rout. Is AI trade ending?",
+          "summary": "Indian IT stocks rallied on Tuesday, with TCS, Infosys, HCL Tech, Wipro, Coforge and Tech Mahindra gaining despite a global sell-off in AI-linked stocks. Investors tracked the sharp decline in Nvidia, Micron, SanDisk, SK Hynix and Samsung shares for …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-coforge-other-it-stocks-rally-up-to-10-after-nvidia-led-chip-rout-is-ai-trade-ending/articleshow/132675510.cms",
           "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-27T12:24:38+05:30",
+          "pubDate": "2026-07-28T10:25:58+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Negative",
+            "score": -0.333
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 24, 2026, titled \"Coforge Secures a $230+ Million Five-Year Contract with a European Client\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-24T10:21:21+00:00",
+          "title": "Coforge shares surge 7% after Q1 profit spikes 63% YoY",
+          "summary": "Coforge shares jumped after the IT services company posted a strong Q1 FY27 performance, with net profit rising 63% year-on-year and revenue surging 49% on the back of robust demand, new deal wins, and momentum in AI, cloud, and data services.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-surge-7-after-q1-profit-spikes-63-yoy/articleshow/132675389.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-28T10:12:19+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "Coforge Limited has informed the Exchange regarding 'Certificate under Regulation 74 (5) of the SEBI (Depositories and Participants) Regulations,2018 for the quarter ended June 30, 2026'.",
+          "title": "Coforge, Infosys to TCS: IT stocks rally as US software stocks outperform SOX last night; Nifty IT index jumps around 3%",
+          "summary": "IT stocks, including TCS, Infosys, and HCLTech, surged on July 28, boosted by positive US market trends. The Nifty IT index rose approximately 3%, continuing a two-day gain. Key players like Coforge and Mphasis performed particularly well, reflecting…",
+          "link": "https://www.livemint.com/market/stock-market-news/coforge-infosys-to-tcs-it-stocks-rally-as-us-software-stocks-outperform-sox-last-night-nifty-it-index-jumps-around-3-11785209354512.html",
+          "source": "livemint",
+          "pubDate": "2026-07-28T09:33:38+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 27, 2026, titled \"Intimation of Press Release, Factsheet & Web presentation on the Financial Results of the Company for t",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-15T19:18:01+00:00",
+          "pubDate": "2026-07-28T01:07:13+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "Coforge Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T00:30:06+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "Coforge Limited has informed the Exchange that Record date for the purpose of Dividend  is 03-Aug-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T00:26:24+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Dividend",
+          "summary": "Coforge Limited has informed the Exchange that Board of Directors at its meeting held on July 27, 2026, declared Interim Dividend of Rs. 4 per equity share.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T00:21:50+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Outcome of Board Meeting and Interim Dividend",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T00:21:49+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -504,19 +559,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Govt of Singapore’s India portfolio: 7 stocks rally up to 135% in CY26",
-          "summary": "The Government of Singapore’s Indian stock portfolio dropped 25% to Rs 1,51,353 crore in June 2026, holding 39 listed companies. While top gainer Aditya Infotech surged 137%, major laggards like HDFC Bank and Syngene International dragged overall por…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/132623540.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-25T15:46:30+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -1493,6 +1536,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-27T22:07:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Zen Technologies shares fall 6% after Q1FY27 profit drops 28%, revenue declines 10% YoY",
           "summary": "Zen Technologies shares fell significantly after reporting lower first-quarter profits and revenue. The company experienced a revenue decline of over 10% year-on-year. Management highlighted a robust order pipeline and improved execution visibility f…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-shares-fall-6-after-q1fy27-profit-drops-28-revenue-declines-10-yoy/articleshow/132652380.cms",
@@ -1542,17 +1596,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-26T12:17:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Grant of 14100  Options.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-25T19:00:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
