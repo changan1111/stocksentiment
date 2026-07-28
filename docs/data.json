@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-28T11:14:52.108386+00:00",
+  "fetchedAt": "2026-07-28T15:17:35.626474+00:00",
   "tickerCount": 32,
   "articleCount": 124,
   "overview": {
     "positive": 17,
-    "negative": 29,
-    "neutral": 78
+    "negative": 30,
+    "neutral": 77
   },
   "stocks": [
     {
@@ -1038,6 +1038,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015   Resignation of M/s BGJC &Associates LLP, Joint Statutory Auditor of the",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T17:20:32+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Disclosure under SEBI Takeover Regulations",
           "summary": "IKIO Technologies Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1079,17 +1090,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding Submission of Business Responsibility & Sustainability Report for FY 2025-26.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-07T17:02:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1264,6 +1264,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T18:01:06+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Appointment",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding Appointment of   as Other of the company w.e.f. April 01, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1305,17 +1316,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Netweb Technologies India Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T15:18:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
