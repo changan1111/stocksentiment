@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-28T05:44:16.904725+00:00",
+  "fetchedAt": "2026-07-28T11:14:52.108386+00:00",
   "tickerCount": 32,
-  "articleCount": 125,
+  "articleCount": 124,
   "overview": {
-    "positive": 19,
+    "positive": 17,
     "negative": 29,
-    "neutral": 77
+    "neutral": 78
   },
   "stocks": [
     {
@@ -189,6 +189,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "AXISCADES Technologies Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T13:33:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Agreements",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Completion of Acquisition of the land from Telangana State Industrial Infrastructure Corporation (TSIIC)",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -231,17 +242,6 @@
             "label": "Negative",
             "score": -1.0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T18:24:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -250,6 +250,17 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T16:17:10+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Avalon Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -278,17 +289,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-06-25T15:24:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-05-27T18:35:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -364,6 +364,61 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T14:38:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 229681  Shares.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T14:30:51+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Coforge Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T13:09:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Top Gainers &amp; Losers on 28 July: Coforge, City Union Bank, Swiggy, TCS, Pine Labs, Nestle, among top gainers",
+          "summary": "Indian equity benchmarks closed Tuesday with slight losses as IT and realty stocks gains were offset by declines in FMCG and financial shares. The Nifty 50 and S&amp;amp;P BSE Sensex fell 0.04% and 0.07%, respectively, while Asian markets dropped sha…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-28-july-coforge-city-union-bank-swiggy-tcs-pine-labs-nestle-among-top-gainers-11785233358411.html",
+          "source": "livemint",
+          "pubDate": "2026-07-28T15:42:16+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "Coforge starts FY27 on a strong note with record deals and margin beat",
+          "summary": "Shares jumped nearly 10% as an executable order book of $2.23 billion and AI-driven efficiency gains paved the way for earnings upgrades.",
+          "link": "https://www.livemint.com/market/mark-to-market/coforge-q1-results-coforge-share-price-11785220389850.html",
+          "source": "livemint",
+          "pubDate": "2026-07-28T13:24:04+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "TCS, Infosys, Coforge, other IT stocks rally up to 10% after Nvidia-led chip rout. Is AI trade ending?",
           "summary": "Indian IT stocks rallied on Tuesday, with TCS, Infosys, HCL Tech, Wipro, Coforge and Tech Mahindra gaining despite a global sell-off in AI-linked stocks. Investors tracked the sharp decline in Nvidia, Micron, SanDisk, SK Hynix and Samsung shares for …",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-coforge-other-it-stocks-rally-up-to-10-after-nvidia-led-chip-rout-is-ai-trade-ending/articleshow/132675510.cms",
@@ -416,39 +471,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Coforge Limited has informed the Exchange that Record date for the purpose of Dividend  is 03-Aug-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T00:26:24+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Dividend",
-          "summary": "Coforge Limited has informed the Exchange that Board of Directors at its meeting held on July 27, 2026, declared Interim Dividend of Rs. 4 per equity share.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T00:21:50+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Outcome of Board Meeting and Interim Dividend",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T00:21:49+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -566,17 +588,6 @@
       "name": "Cyient DLM",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Sunil Singhania adds two new stocks in Q1 that have risen up to 93% in 2026. Do you own any?",
-          "summary": "Sunil Singhania's Abakkus Asset Management added two new stocks and increased holdings. The firm acquired stakes in Afcom Holdings and TTK Healthcare during the quarter. Abakkus also boosted its positions in Arvind Fashions and Cyient DLM. Holdings w…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sunil-singhania-adds-two-new-stocks-in-q1-that-have-risen-up-to-93-in-2026-do-you-own-any/articleshow/132654575.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-27T12:26:52+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
@@ -772,6 +783,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T11:35:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "E2E Networks Limited has informed the Exchange about General Updates in relation to proceedings before the Hon ble Delhi High Court regarding stamp duty matter",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -780,17 +802,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T20:03:17+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -810,17 +821,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-21T17:49:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "E2E Networks Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T16:48:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1162,6 +1162,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Grant of 8,000 Options to the eligible employees covered under the KPIT Technologies Limited - Restricted Stock Unit Plan 2022",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-28T16:22:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1189,17 +1200,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-14T13:01:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding 'Clarification on Outlook for Q1FY27 and for the remainder of the year'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-01T09:33:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1264,55 +1264,55 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Appointment",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Appointment of   as Other of the company w.e.f. April 01, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-23T13:10:04+00:00",
+          "pubDate": "2026-07-28T15:59:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "title": "[NSE] Record Date",
+          "summary": "Netweb Technologies India Limited has informed the Exchange that Record date for the purpose of Dividend  is 07-Aug-2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-06T11:15:56+00:00",
+          "pubDate": "2026-07-28T15:47:53+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding 'Financial results in OCR format'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-03T13:26:47+00:00",
+          "pubDate": "2026-07-28T15:43:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Notice of Postal Ballot",
+          "title": "[NSE] Press Release",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding a press release dated July 28, 2026, titled \"Press Release on the unaudited standalone quarterly financial results for the period ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-02T20:16:35+00:00",
+          "pubDate": "2026-07-28T15:40:41+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
           "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Outcome of Board Meeting held on July 01, 2026.",
+          "summary": "Netweb Technologies India Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-01T20:42:45+00:00",
+          "pubDate": "2026-07-28T15:18:29+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1544,17 +1544,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Zen Technologies shares fall 6% after Q1FY27 profit drops 28%, revenue declines 10% YoY",
-          "summary": "Zen Technologies shares fell significantly after reporting lower first-quarter profits and revenue. The company experienced a revenue decline of over 10% year-on-year. Management highlighted a robust order pipeline and improved execution visibility f…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-shares-fall-6-after-q1fy27-profit-drops-28-revenue-declines-10-yoy/articleshow/132652380.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-27T10:03:02+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.25
           }
         },
         {
