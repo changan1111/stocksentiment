@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-29T05:48:35.685964+00:00",
+  "fetchedAt": "2026-07-29T11:23:07.137807+00:00",
   "tickerCount": 32,
-  "articleCount": 121,
+  "articleCount": 125,
   "overview": {
-    "positive": 18,
-    "negative": 28,
-    "neutral": 75
+    "positive": 21,
+    "negative": 27,
+    "neutral": 77
   },
   "stocks": [
     {
@@ -302,6 +302,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T15:53:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -344,17 +355,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Rashi Peripherals Limited has informed the Exchange regarding a press release dated Jun 23, 2026, titled \"Rashi Peripherals, one of India s leading ICT distributors, to acquire a strategic stake in IN",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-23T19:58:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -363,6 +363,28 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T11:30:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Coforge shares rally 5% after strong Q1 earnings; net profit surges 63% YoY",
+          "summary": "Coforge shares surged after the IT services firm reported strong Q1 FY27 results. Net profit jumped 63% YoY, while revenue from operations rose 49% YoY to ₹5,527.7 crore, marking a 24% QoQ growth. The strong performance boosted investor sentiment tow…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-rally-5-after-strong-q1-earnings-net-profit-surges-63-yoy/articleshow/132702559.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-29T11:32:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "IT stocks on a roll: TCS, Infosys, Coforge and others rally up to 5% for second straight day. What's driving this surge?",
           "summary": "Indian IT stocks rallied for a second straight session, buoyed by strong Q1 earnings, optimism around AI-driven demand and improving investor sentiment. Jefferies turned neutral on the sector, citing positive FPI feedback and potential tactical upsid…",
@@ -375,9 +397,9 @@
           }
         },
         {
-          "title": "TVS Motor among 6 Nifty 500 stocks flashing bullish White Marubozu signal",
+          "title": "​TVS Motor among 6 Nifty 500 stocks flashing bullish White Marubozu signals",
           "summary": "Six Nifty 500 stocks, including Coforge, Kalyan Jewellers and TVS Motor, featured on StockEdge's White Marubozu scanner on July 28, signalling strong bullish momentum.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-among-6-nifty-500-stocks-flashing-bullish-white-marubozu-signal/slideshow/132697940.cms",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-among-6-nifty-500-stocks-flashing-bullish-white-marubozu-signals/slideshow/132697940.cms",
           "source": "economictimes.indiatimes",
           "pubDate": "2026-07-29T07:52:35+05:30",
           "sentiment": {
@@ -394,17 +416,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 0.2
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T14:38:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -435,17 +446,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-28T01:07:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Director(s)",
-          "summary": "Coforge Limited has informed the Exchange regarding Change in Director(s) of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T00:30:06+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -903,6 +903,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"Press Release   Performance Review of Q1 FY27 \".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T16:46:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "This has reference to our letter No. SECY/GRSE/BD-69/CA/16/26-27 dated 16th July 2026 on the subject matter of  Intimation of Date of Board Meeting to, inter alia, consider and approve, Unaudited Fina",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T13:50:53+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith newspaper clippings regarding notice for transfer of Unclaimed Divi",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -933,17 +955,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the  SEBI Listi",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T17:54:55+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1140,47 +1151,80 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Change in Management",
+          "summary": "KPIT Technologies Limited has informed the Exchange about changes in Directors and Senior Management of the Company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T15:59:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "KPIT Technologies Limited has informed the Exchange that Record date for the purpose of Dividend  is 12-Aug-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T13:53:18+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Grant of 8,000 Options to the eligible employees covered under the KPIT Technologies Limited - Restricted Stock Unit Plan 2022",
+          "summary": "KPIT Technologies Limited has informed the Exchange about authorization to determine materiality of an event or information and make disclosures to the Stock Exchange(s) with effect from July 29, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-28T16:22:42+00:00",
+          "pubDate": "2026-07-29T13:46:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Investor Presentation",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-24T18:46:03+00:00",
+          "pubDate": "2026-07-29T13:33:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Reconciliation of Share Capital Audit Report for 30 June, 2026",
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "KPIT Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-15T16:48:05+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Other Restructuring",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Update on voluntary liquidation & dissolution of Somit Solutions Inc., wholly owned step-down subsidiary of KPIT Technologies (UK) Limited, wh",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-14T13:01:54+00:00",
+          "pubDate": "2026-07-29T13:18:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "KPIT Tech Q1 Results: Shares rally 10% even as net profit drops 32% YoY to Rs 117 crore. Here's why",
+          "summary": "KPIT Technologies reported a 32% YoY decline in Q1 FY27 net profit to Rs 117 crore, but its shares surged 10% to Rs 662.65 as revenue grew 9% to Rs 1,675 crore, slightly topping management's previous outlook. The company also announced a final divide…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-tech-q1-results-shares-rally-10-even-as-net-profit-drops-32-yoy-to-rs-117-crore-heres-why/articleshow/132707113.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-29T14:23:19+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
+          "title": "KPIT Technologies shares rise 4% ahead of Q1FY27 results",
+          "summary": "KPIT Technologies shares gained over 4% on July 29 to reach Rs 627.70 ahead of its Q1FY27 earnings announcement. Despite near-term momentum and strength in the broader IT sector, the stock remains under medium-term pressure following institutional st…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-rise-4-ahead-of-q1fy27-results/articleshow/132702662.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-29T11:35:40+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
           }
         }
       ]
@@ -1242,6 +1286,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T11:30:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1283,17 +1338,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding a press release dated July 28, 2026, titled \"Press Release on the unaudited standalone quarterly financial results for the period ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T15:40:41+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1452,6 +1496,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T16:16:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding allotment of 45,114 Equity Shares of the Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1493,17 +1548,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": " Ramakrishna Kamojhala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulat",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-12T19:41:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
