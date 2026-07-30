@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-30T11:04:41.699624+00:00",
+  "fetchedAt": "2026-07-30T15:08:46.701317+00:00",
   "tickerCount": 32,
   "articleCount": 117,
   "overview": {
     "positive": 17,
-    "negative": 24,
-    "neutral": 76
+    "negative": 25,
+    "neutral": 75
   },
   "stocks": [
     {
@@ -972,6 +972,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding Proceedings of 10th Annual General Meeting held on Thursday, July 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T20:02:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Additional Information related to the resignation of M/s BGJC & Associates L",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T19:47:50+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015   Resignation of M/s BGJC &Associates LLP, Joint Statutory Auditor of the",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1002,28 +1024,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding Notice of the 10th Annual General Meeting (AGM) of IKIO Technologies Limited and E-voting Information.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-08T13:38:32+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange Dispatch of letter containing web link of Annual Report pursuant to Regulation 36(1)(b) of SEBI (Listing Obligations & Disclosure Requirements) Regu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-07T17:05:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1096,6 +1096,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication of consolidated financial statements for quarter ended June 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T18:23:14+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "KPIT Technologies shares crash 7% after profit falls 32% to Rs 117 crore in Q1",
           "summary": "KPIT Technologies shares tumbled 7% to Rs 592 on the BSE after posting a 32% YoY drop in Q1 FY27 net profit to Rs 117 crore. Operating margins contracted to 17.2% amid client pressures and guidance slowdowns, despite management expressing confidence …",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-crash-7-after-profit-falls-32-to-rs-117-crore-in-q1/articleshow/132728118.cms",
@@ -1145,17 +1156,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-29T13:46:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T13:33:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
