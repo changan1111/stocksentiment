@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-07-29T15:07:26.525956+00:00",
+  "fetchedAt": "2026-07-30T05:37:29.408593+00:00",
   "tickerCount": 32,
-  "articleCount": 123,
+  "articleCount": 119,
   "overview": {
-    "positive": 21,
+    "positive": 17,
     "negative": 25,
     "neutral": 77
   },
@@ -395,50 +395,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Coforge shares rally 5% after strong Q1 earnings; net profit surges 63% YoY",
-          "summary": "Coforge shares surged after the IT services firm reported strong Q1 FY27 results. Net profit jumped 63% YoY, while revenue from operations rose 49% YoY to ₹5,527.7 crore, marking a 24% QoQ growth. The strong performance boosted investor sentiment tow…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-rally-5-after-strong-q1-earnings-net-profit-surges-63-yoy/articleshow/132702559.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-29T11:32:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "IT stocks on a roll: TCS, Infosys, Coforge and others rally up to 5% for second straight day. What's driving this surge?",
-          "summary": "Indian IT stocks rallied for a second straight session, buoyed by strong Q1 earnings, optimism around AI-driven demand and improving investor sentiment. Jefferies turned neutral on the sector, citing positive FPI feedback and potential tactical upsid…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-on-a-roll-tcs-infosys-coforge-and-others-rally-up-to-5-for-second-straight-day-whats-driving-this-surge/articleshow/132701697.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-29T10:55:57+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "​TVS Motor among 6 Nifty 500 stocks flashing bullish White Marubozu signals",
-          "summary": "Six Nifty 500 stocks, including Coforge, Kalyan Jewellers and TVS Motor, featured on StockEdge's White Marubozu scanner on July 28, signalling strong bullish momentum.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-among-6-nifty-500-stocks-flashing-bullish-white-marubozu-signals/slideshow/132697940.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-29T07:52:35+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Indian IT stocks buck global tech slump, climb on earnings beat and AI optimism",
-          "summary": "Indian information technology stocks rallied Tuesday after global AI pressure eased. Coforge reported significant revenue and profit increases, boosting the sector. Other major IT firms also saw substantial gains during the trading session. This posi…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-it-stocks-buck-global-tech-slump-climb-on-earnings-beat-and-ai-optimism/articleshow/132696934.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-29T05:35:18+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.2
-          }
         }
       ]
     },
@@ -575,6 +531,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -1140,6 +1107,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Audit Link of Post earnings Conference Call Q1 FY2026-27",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-29T22:41:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "KPIT Technologies Limited has informed the Exchange about changes in Directors and Senior Management of the Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1184,33 +1162,11 @@
           }
         },
         {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "KPIT Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T13:18:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "KPIT Tech Q1 Results: Shares rally 10% even as net profit drops 32% YoY to Rs 117 crore. Here's why",
           "summary": "KPIT Technologies reported a 32% YoY decline in Q1 FY27 net profit to Rs 117 crore, but its shares surged 10% to Rs 662.65 as revenue grew 9% to Rs 1,675 crore, slightly topping management's previous outlook. The company also announced a final divide…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-tech-q1-results-shares-rally-10-even-as-net-profit-drops-32-yoy-to-rs-117-crore-heres-why/articleshow/132707113.cms",
           "source": "economictimes.indiatimes",
           "pubDate": "2026-07-29T14:23:19+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
-        {
-          "title": "KPIT Technologies shares rise 4% ahead of Q1FY27 results",
-          "summary": "KPIT Technologies shares gained over 4% on July 29 to reach Rs 627.70 ahead of its Q1FY27 earnings announcement. Despite near-term momentum and strength in the broader IT sector, the stock remains under medium-term pressure following institutional st…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-rise-4-ahead-of-q1fy27-results/articleshow/132702662.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-29T11:35:40+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 0.333
@@ -1276,10 +1232,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Link of Recording",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-29T20:06:11+00:00",
+          "pubDate": "2026-07-29T21:47:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1317,17 +1273,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Netweb Technologies India Limited has informed the Exchange that Record date for the purpose of Dividend  is 07-Aug-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T15:47:53+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -1336,6 +1281,17 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 30 July 2026",
+          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Gland Pharma, PG Electroplast, Morepen Laboratories, Allied Blenders &amp;amp; Distillers, and Hexaware Technologies.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-30-july-2026-11785372561351.html",
+          "source": "livemint",
+          "pubDate": "2026-07-30T06:35:18+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.556
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
