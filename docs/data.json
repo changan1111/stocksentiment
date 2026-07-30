@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-30T05:37:29.408593+00:00",
+  "fetchedAt": "2026-07-30T11:04:41.699624+00:00",
   "tickerCount": 32,
-  "articleCount": 119,
+  "articleCount": 117,
   "overview": {
     "positive": 17,
-    "negative": 25,
-    "neutral": 77
+    "negative": 24,
+    "neutral": 76
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding 'Reply to Clarification on increase in the volume of Company s Security sought by BSE Limited'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T15:36:19+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Spurt in Volume",
           "summary": "Significant increase in volume has been observed in Jupiter Wagons Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market ",
@@ -34,17 +45,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding Outcome of Board Meeting held on July 09, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T13:59:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -54,11 +54,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Texmaco, TrinityRail and Touax to invest Rs 2000 crore to boost rail lease business",
-          "summary": "Three companies will invest Rs 2,000 crore over three years for new wagons. This investment will procure approximately 6,500 wagons for private leasing operations. TrinityRail Global joins the existing joint venture with a significant stake. The gove…",
-          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/texmaco-trinityrail-and-touax-to-invest-rs-2000-crore-to-boost-rail-lease-business/articleshow/132711710.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-29T17:41:27+05:30",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T14:41:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Order worth Rs. 0.74 Crores (incl. taxes) from South Western Railway",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T14:08:16+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -95,28 +106,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-07T15:53:04+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Award worth Rs. 70.72 Crores (incl. taxes) from Central Warehousing Corporation.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-07T12:07:31+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -364,33 +353,33 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T16:24:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 30, 2026, titled \"Coforge Launches Momentuum AI, a Specialized FDE Operating Unit Built to Turn Enterprise AI into Measur",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T11:50:44+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Coforge Limited has informed the Exchange about Intimation regarding 34th Annual General Meeting of Coforge Limited.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-29T18:30:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T18:20:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T11:30:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -859,6 +848,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Awarding of order(s)/contract(s)",
+          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T15:39:52+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"Press Release   Performance Review of Q1 FY27 \".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -901,17 +901,6 @@
             "label": "Negative",
             "score": -1.0
           }
-        },
-        {
-          "title": "[NSE] Change in Auditors",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Auditors of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-10T17:45:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -920,6 +909,17 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 8774 securities pursuant to ESOP/ESPS at its meeting held on July 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T14:24:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about General Updates",
@@ -959,17 +959,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-13T18:48:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 6289308 securities pursuant to Qualified Institution Placement at its meeting held on July 10, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-10T23:22:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1107,6 +1096,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "KPIT Technologies shares crash 7% after profit falls 32% to Rs 117 crore in Q1",
+          "summary": "KPIT Technologies shares tumbled 7% to Rs 592 on the BSE after posting a 32% YoY drop in Q1 FY27 net profit to Rs 117 crore. Operating margins contracted to 17.2% amid client pressures and guidance slowdowns, despite management expressing confidence …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-crash-7-after-profit-falls-32-to-rs-117-crore-in-q1/articleshow/132728118.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-07-30T11:06:05+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.2
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Audit Link of Post earnings Conference Call Q1 FY2026-27",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1160,17 +1160,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "KPIT Tech Q1 Results: Shares rally 10% even as net profit drops 32% YoY to Rs 117 crore. Here's why",
-          "summary": "KPIT Technologies reported a 32% YoY decline in Q1 FY27 net profit to Rs 117 crore, but its shares surged 10% to Rs 662.65 as revenue grew 9% to Rs 1,675 crore, slightly topping management's previous outlook. The company also announced a final divide…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-tech-q1-results-shares-rally-10-even-as-net-profit-drops-32-yoy-to-rs-117-crore-heres-why/articleshow/132707113.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-29T14:23:19+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
         }
       ]
     },
@@ -1179,6 +1168,28 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited has informed the Exchange about Schedule of meet.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T14:07:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 1,33,31,000 Equity Shares upon conversion of Warrants allotted by way of Preferential issue on private placement basis.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T13:28:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
@@ -1196,28 +1207,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-17T18:33:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Nazara Technologies Limited informs the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T22:40:45+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T22:33:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1281,17 +1270,6 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 30 July 2026",
-          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Gland Pharma, PG Electroplast, Morepen Laboratories, Allied Blenders &amp;amp; Distillers, and Hexaware Technologies.",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-30-july-2026-11785372561351.html",
-          "source": "livemint",
-          "pubDate": "2026-07-30T06:35:18+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.556
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
