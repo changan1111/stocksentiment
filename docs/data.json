@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-30T15:08:46.701317+00:00",
+  "fetchedAt": "2026-07-31T06:09:11.479747+00:00",
   "tickerCount": 32,
-  "articleCount": 117,
+  "articleCount": 119,
   "overview": {
     "positive": 17,
     "negative": 25,
-    "neutral": 75
+    "neutral": 77
   },
   "stocks": [
     {
@@ -54,6 +54,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Options to purchase securities",
+          "summary": "Intimation of grant of 10,11,707 options pursuant to Texmaco Long Term Incentive Plan (\"LTIP\") Scheme, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T21:24:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -92,17 +103,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-14T20:13:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding 'Intimation of resignation of Chief Financial Officer of the Company '.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-14T19:42:16+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -239,6 +239,17 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 31 July 2026",
+          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Avalon Technologies, Karnataka Bank, Tamilnadu Petroproducts, Atul Auto, and Ador Welding.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-31-july-2026-11785426929995.html",
+          "source": "livemint",
+          "pubDate": "2026-07-31T06:38:37+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.556
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
@@ -393,6 +404,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T22:46:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -423,17 +445,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Persistent Systems Limited has informed the Exchange that Record date for the purpose of Dividend  is 27-Jul-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T07:52:30+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -580,6 +591,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dixon, HFCL, VVDN among 14 firms committing  ₹3,500 cr for telecom manufacturing hub in Gwalior",
+          "summary": "The manufacturing zone, which is being set up as a joint venture between the Centre and the Madhya Pradesh government, is being positioned as a centralized hub to design, manufacture, and test telecommunications equipment locally.",
+          "link": "https://www.livemint.com/companies/dixon-hfcl-vvdn-investment-for-telecom-manufacturing-hub-in-gwalior-11785424303741.html",
+          "source": "livemint",
+          "pubDate": "2026-07-30T21:50:14+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
@@ -1107,17 +1129,6 @@
           }
         },
         {
-          "title": "KPIT Technologies shares crash 7% after profit falls 32% to Rs 117 crore in Q1",
-          "summary": "KPIT Technologies shares tumbled 7% to Rs 592 on the BSE after posting a 32% YoY drop in Q1 FY27 net profit to Rs 117 crore. Operating margins contracted to 17.2% amid client pressures and guidance slowdowns, despite management expressing confidence …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-crash-7-after-profit-falls-32-to-rs-117-crore-in-q1/articleshow/132728118.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-07-30T11:06:05+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.2
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Audit Link of Post earnings Conference Call Q1 FY2026-27",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1168,6 +1179,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-30T20:43:44+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Nazara Technologies Limited has informed the Exchange about Schedule of meet.",
