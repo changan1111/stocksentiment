@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-31T06:09:11.479747+00:00",
+  "fetchedAt": "2026-07-31T11:27:38.901234+00:00",
   "tickerCount": 32,
-  "articleCount": 119,
+  "articleCount": 117,
   "overview": {
-    "positive": 17,
-    "negative": 25,
-    "neutral": 77
+    "positive": 16,
+    "negative": 23,
+    "neutral": 78
   },
   "stocks": [
     {
@@ -54,22 +54,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Options to purchase securities",
-          "summary": "Intimation of grant of 10,11,707 options pursuant to Texmaco Long Term Incentive Plan (\"LTIP\") Scheme, 2026.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Resubmission of Intimation of Investor Call",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-30T21:24:07+00:00",
+          "pubDate": "2026-07-31T12:30:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Options to purchase securities",
+          "summary": "Intimation of grant of 10,11,707 options pursuant to Texmaco Long Term Incentive Plan (\"LTIP\") Scheme, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-30T14:41:30+00:00",
+          "pubDate": "2026-07-30T21:24:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -95,17 +95,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-14T20:13:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -239,17 +228,6 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 31 July 2026",
-          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Avalon Technologies, Karnataka Bank, Tamilnadu Petroproducts, Atul Auto, and Ador Welding.",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-31-july-2026-11785426929995.html",
-          "source": "livemint",
-          "pubDate": "2026-07-31T06:38:37+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.556
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
@@ -455,6 +433,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Redtape Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-31T11:54:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Spurt in Volume",
           "summary": "Significant increase in volume has been observed in Redtape Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place s",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -482,17 +471,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-04T16:10:45+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Redtape Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-25T14:12:51+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -592,6 +570,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-31T15:43:36+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-31T15:27:10+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Outcome of Board Meeting- Change in Directors- held on July 31, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-31T15:22:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Dixon, HFCL, VVDN among 14 firms committing  ₹3,500 cr for telecom manufacturing hub in Gwalior",
           "summary": "The manufacturing zone, which is being set up as a joint venture between the Centre and the Madhya Pradesh government, is being positioned as a centralized hub to design, manufacture, and test telecommunications equipment locally.",
           "link": "https://www.livemint.com/companies/dixon-hfcl-vvdn-investment-for-telecom-manufacturing-hub-in-gwalior-11785424303741.html",
@@ -608,39 +619,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-24T21:12:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-15T12:17:00+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T20:52:30+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Memorandum of Understanding/Agreements",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Memorandum of Understanding/Agreements",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-09T20:38:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -932,22 +910,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 8774 securities pursuant to ESOP/ESPS at its meeting held on July 30, 2026",
+          "title": "[NSE] General Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-30T14:24:20+00:00",
+          "pubDate": "2026-07-31T15:52:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about General Updates",
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 8774 securities pursuant to ESOP/ESPS at its meeting held on July 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-29T10:35:14+00:00",
+          "pubDate": "2026-07-30T14:24:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -970,17 +948,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-13T18:55:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding Notice of Annual General Meeting of the Company to be held on August 05, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-13T18:48:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1241,6 +1208,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Multibagger stock Netweb Technologies surges almost 10% in a lacklustre market; what should investors do?",
+          "summary": "Netweb Technologies share price saw a near 10% increase. Analysts weigh in on the stock’s potential, suggesting strategic buying opportunities and warnings against holding on to long positions.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-netweb-technologies-surges-almost-10-in-a-lacklustre-market-what-should-investors-do-11785480033936.html",
+          "source": "livemint",
+          "pubDate": "2026-07-31T12:42:10+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
