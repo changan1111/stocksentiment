@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-31T11:27:38.901234+00:00",
+  "fetchedAt": "2026-07-31T15:17:04.858827+00:00",
   "tickerCount": 32,
-  "articleCount": 117,
+  "articleCount": 115,
   "overview": {
     "positive": 16,
-    "negative": 23,
+    "negative": 21,
     "neutral": 78
   },
   "stocks": [
@@ -570,6 +570,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-31T19:22:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -608,17 +619,6 @@
           "link": "https://www.livemint.com/companies/dixon-hfcl-vvdn-investment-for-telecom-manufacturing-hub-in-gwalior-11785424303741.html",
           "source": "livemint",
           "pubDate": "2026-07-30T21:50:14+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-24T21:12:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -961,11 +961,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding Proceedings of 10th Annual General Meeting held on Thursday, July 30, 2026",
+          "title": "[NSE] Appointment",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding Appointment of  Ms. Madhu Pandit as Non- Executive Independent Director of the company w.e.f. May 02, 2026 up to May 01, 2031.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-30T20:02:28+00:00",
+          "pubDate": "2026-07-31T19:10:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "IKIO Technologies Limited has submitted the Exchange a copy Srutinizers report of  10TH Annual General Meeting held on July 30, 2026. Further, the company has informed the Exchange regarding voting re",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-31T18:48:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -977,39 +988,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-30T19:47:50+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015   Resignation of M/s BGJC &Associates LLP, Joint Statutory Auditor of the",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T17:20:32+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Disclosure under SEBI Takeover Regulations",
-          "summary": "IKIO Technologies Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-20T21:02:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T12:32:00+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
