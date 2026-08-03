@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-03T06:19:08.105638+00:00",
+  "fetchedAt": "2026-08-03T12:19:24.905463+00:00",
   "tickerCount": 32,
-  "articleCount": 118,
+  "articleCount": 117,
   "overview": {
-    "positive": 21,
+    "positive": 18,
     "negative": 17,
-    "neutral": 80
+    "neutral": 82
   },
   "stocks": [
     {
@@ -54,6 +54,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-03T16:39:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Texmaco Rail & Engineering Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-03T16:19:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Resubmission of Intimation of Investor Call",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -74,28 +96,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Order worth Rs. 0.74 Crores (incl. taxes) from South Western Railway",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T14:08:16+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Intimation of allotment of securities in Touax Texmaco Railcar Leasing Private Limited (Joint Venture Company) to the new Joint Ventu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-24T18:39:11+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -104,6 +104,17 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Titagarh Rail, RITES, other railway stocks rise up to 4%. Here’s why",
+          "summary": "Railway stocks rose after reports that the government plans to invest Rs 45,000 crore in border railway upgrades over the next 18-24 months. The project will cover track, platform and network expansion across several border states and account for aro…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/titagarh-rail-rites-other-railway-stocks-rise-up-to-4-heres-why/articleshow/132826761.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-03T15:06:13+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated August 01, 2026, titled \"TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated",
@@ -331,33 +342,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Coforge Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 24, 2026",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-02T22:25:02+00:00",
+          "pubDate": "2026-08-03T15:27:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "Dividends &amp; stock splits: Maruti Suzuki, ICICI Bank among nearly 100 stocks turning ex-date this week. Do you own?",
-          "summary": "Nearly 100 stocks, including Maruti Suzuki, ICICI Bank, Coforge and Vedanta Aluminium, will trade ex-date between August 3 and August 7 for dividends and stock splits. Key corporate actions include Maruti Suzuki’s Rs 140-per-share dividend, Bosch’s R…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-maruti-suzuki-icici-bank-among-nearly-100-stocks-turning-ex-date-this-week-do-you-own/articleshow/132800731.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-02T10:39:39+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Coforge Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 24, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-30T16:24:54+00:00",
+          "pubDate": "2026-08-02T22:25:02+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -466,6 +466,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Copies of Newspaper Publication for dispatch of Notice and Annual Report",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-03T14:19:33+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Annual Report for FY 2025-26",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -485,28 +496,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Redtape Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T11:54:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Spurt in Volume",
-          "summary": "Significant increase in volume has been observed in Redtape Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place s",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-18T11:51:54+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -542,17 +531,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -908,6 +886,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T11:39:25+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "GRSE bags Rs 1,032 crore contract from ONGC to build four offshore support vessels",
+          "summary": "Garden Reach Shipbuilders secured a significant Rs 1,032 crore contract from ONGC.  This agreement involves the construction of four advanced Platform Supply Vessels.  These vessels will feature a hybrid propulsion system and advanced battery technol…",
+          "link": "https://economictimes.indiatimes.com/industry/energy/power/grse-bags-rs-1032-crore-contract-from-ongc-to-build-four-offshore-support-vessels/articleshow/132826188.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-03T14:35:55+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
