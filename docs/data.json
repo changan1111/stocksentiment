@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-03T15:41:35.833378+00:00",
+  "fetchedAt": "2026-08-04T05:44:23.273434+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 116,
   "overview": {
-    "positive": 17,
+    "positive": 14,
     "negative": 16,
-    "neutral": 87
+    "neutral": 86
   },
   "stocks": [
     {
@@ -64,6 +64,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Submission of Investor Presentation pertaining to Unaudited Financial Results for the quarter ended 30th June, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T10:46:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring Agency Report",
@@ -404,6 +415,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-03T21:46:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Persistent Systems Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 03, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -412,17 +434,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Stocks in news: Maruti Suzuki, ITC, ZEE, Persistent Systems, and Muthoot Finance",
-          "summary": "Markets extended their winning streak on Friday, supported by encouraging quarterly business updates. Nifty strengthened its bullish structure by surpassing the 200-day EMA, positioning for further gains. ITC reported a net profit drop while revenue …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-maruti-suzuki-itc-zee-persistent-systems-and-muthoot-finance/articleshow/132809967.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-03T06:00:00+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
           }
         },
         {
@@ -453,17 +464,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-02T14:57:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Persistent Systems Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-02T14:41:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -603,14 +603,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Dixon Technologies shares decline 4% despite 156% YoY spike in Q1 profit",
-          "summary": "Dixon Technologies shares fell despite strong Q1 FY27 results, with PAT surging 156% YoY to Rs 718 crore and revenue rising 25% to Rs 16,076 crore. EBITDA jumped 105% to Rs 991 crore, while profit before tax rose 137% to Rs 869 crore.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-technologies-shares-decline-4-despite-156-yoy-spike-in-q1-profit/articleshow/132820608.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-03T11:23:42+05:30",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T10:32:34+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 0.6
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -619,17 +619,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-01T15:45:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T19:22:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -652,17 +641,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-31T15:27:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Outcome of Board Meeting- Change in Directors- held on July 31, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T15:22:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -897,17 +875,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T11:39:25+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "GRSE bags Rs 1,032 crore contract from ONGC to build four offshore support vessels",
-          "summary": "Garden Reach Shipbuilders secured a significant Rs 1,032 crore contract from ONGC.  This agreement involves the construction of four advanced Platform Supply Vessels.  These vessels will feature a hybrid propulsion system and advanced battery technol…",
-          "link": "https://economictimes.indiatimes.com/industry/energy/power/grse-bags-rs-1032-crore-contract-from-ongc-to-build-four-offshore-support-vessels/articleshow/132826188.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-03T14:35:55+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -1180,66 +1147,55 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Q1 results 2026: IREDA to SBI Funds among companies to declare Q1 results today; full list here",
-          "summary": "Q1 results 2026: Indian Renewable Energy Development Agency (IREDA), SBI Funds Management, Torrent Power, Ather Energy, Great Eastern Shipping Company, DOMS Industries, Nazara Technologies are among the companies to report their Q1 results FY27 today…",
-          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-ireda-to-sbi-funds-among-companies-to-declare-q1-results-today-full-list-here-11785723912169.html",
-          "source": "livemint",
-          "pubDate": "2026-08-03T08:27:20+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T20:43:44+00:00",
+          "title": "Nazara Tech Q1 Results: Co posts Rs 82.5 crore loss; Nitish Mittersain steps down as CEO",
+          "summary": "Nazara Technologies reported a net loss of Rs 82.47 crore for the first quarter. Revenue from operations declined 14 percent to Rs 428.77 crore in Q1 FY27. Nitish Mittersain will resign as CEO on September 1, 2026. Raymond Albaladejo Stauffer will su…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nazara-tech-q1-results-co-posts-rs-82-5-crore-loss-nitish-mittersain-steps-down-as-ceo/articleshow/132846232.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-04T09:47:08+05:30",
           "sentiment": {
             "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited has informed the Exchange about Schedule of meet.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T14:07:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "score": -0.5
           }
         },
         {
           "title": "[NSE] Allotment of Securities",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 1,33,31,000 Equity Shares upon conversion of Warrants allotted by way of Preferential issue on private placement basis.",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 9,00,000 Equity Shares upon conversion of Warrants allotted by way of Preferential issue on private placement basis at its meeti",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-30T13:28:39+00:00",
+          "pubDate": "2026-08-03T22:45:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
+          "title": "[NSE] Resignation",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Resignation of Mr Nitish Mittersain as Chief Executive Officer of the company w.e.f. September 01, 2026, concurrent with the assumption of of",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-18T13:18:24+00:00",
+          "pubDate": "2026-08-03T22:38:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Notice of Extraordinary General Meeting to be held on August 10, 2026",
+          "title": "[NSE] Appointment",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Appointment of Mr Raymond Albaladejo Stauffer as Chief Executive Officer of the company w.e.f. September 01, 2026 or such other date as may b",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-17T18:33:28+00:00",
+          "pubDate": "2026-08-03T22:35:12+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-03T22:30:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1503,6 +1459,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating",
+          "summary": "Zen Technologies Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-03T23:16:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring Agency Report",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1530,17 +1497,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-28T23:25:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Zen Technologies Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-26T23:54:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
