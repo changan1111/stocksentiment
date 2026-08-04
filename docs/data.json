@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-04T05:44:23.273434+00:00",
+  "fetchedAt": "2026-08-04T11:21:27.980712+00:00",
   "tickerCount": 32,
-  "articleCount": 116,
+  "articleCount": 114,
   "overview": {
-    "positive": 14,
-    "negative": 16,
+    "positive": 13,
+    "negative": 15,
     "neutral": 86
   },
   "stocks": [
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Jupiter Wagons, Italy's Lucchini RS partner to build railwheel mfg platform in India",
+          "summary": "Jupiter Wagons has partnered with Italy's Lucchini RS Holding to build an integrated railwheel manufacturing platform in India. Lucchini RS and SIMEST will acquire a combined 25% stake in Jupiter Tatravagonka Railwheel Factory for €28 million (Rs 307…",
+          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/jupiter-wagons-italys-lucchini-rs-partner-to-build-railwheel-mfg-platform-in-india/articleshow/132851868.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-04T13:08:33+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated August 03, 2026, titled \"Please find the enclosed press release to be issued by the Company\".",
@@ -65,6 +76,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Link of Recording of the Analysts/Investor Call pertaining to the financial results of the Company for the quarter ended 30th June, 2",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T16:46:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Submission of Investor Presentation pertaining to Unaudited Financial Results for the quarter ended 30th June, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -96,28 +118,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Resubmission of Intimation of Investor Call",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T12:30:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Options to purchase securities",
-          "summary": "Intimation of grant of 10,11,707 options pursuant to Texmaco Long Term Incentive Plan (\"LTIP\") Scheme, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T21:24:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -126,17 +126,6 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Titagarh Rail, RITES, other railway stocks rise up to 4%. Here’s why",
-          "summary": "Railway stocks rose after reports that the government plans to invest Rs 45,000 crore in border railway upgrades over the next 18-24 months. The project will cover track, platform and network expansion across several border states and account for aro…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/titagarh-rail-rites-other-railway-stocks-rise-up-to-4-heres-why/articleshow/132826761.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-03T15:06:13+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Press Release",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated August 01, 2026, titled \"TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated",
@@ -543,17 +532,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -870,6 +848,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T11:52:07+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "In terms of Regulation 30 read with para A of Part A of Schedule lll of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to infor",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -912,17 +901,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith newspaper clippings regarding notice for transfer of Unclaimed Divi",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T12:28:16+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
         }
       ]
     },
@@ -931,6 +909,17 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T16:02:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about General Updates",
@@ -959,17 +948,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-14T10:21:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "ideaforge Technology Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report of the Company for the FY 2025-26 which is a part of the Annual Report'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-13T18:55:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1335,6 +1313,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding Allotment of 43,750  Shares.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T16:29:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1377,17 +1366,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Reporting pursuant to Regulation 34(2)(f) of SEBI (LODR), 2015 for the Financial Year",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T15:55:02+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -1396,6 +1374,28 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T15:21:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Copy of Newspaper Publication for the Un-audited Financial Results for the quarter ended June 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T14:31:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
@@ -1424,28 +1424,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T19:29:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T18:40:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Issue of Securities",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about the issuance of Equity Shares and/or other eligible securities by way of Qualified Institutions Placement ( QIP ).",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T18:24:30+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
