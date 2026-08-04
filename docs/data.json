@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-04T11:21:27.980712+00:00",
+  "fetchedAt": "2026-08-04T15:22:56.162508+00:00",
   "tickerCount": 32,
-  "articleCount": 114,
+  "articleCount": 112,
   "overview": {
     "positive": 13,
-    "negative": 15,
-    "neutral": 86
+    "negative": 11,
+    "neutral": 88
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T17:29:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "Jupiter Wagons, Italy's Lucchini RS partner to build railwheel mfg platform in India",
           "summary": "Jupiter Wagons has partnered with Italy's Lucchini RS Holding to build an integrated railwheel manufacturing platform in India. Lucchini RS and SIMEST will acquire a combined 25% stake in Jupiter Tatravagonka Railwheel Factory for €28 million (Rs 307…",
@@ -30,17 +41,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T20:40:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T19:55:30+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -291,55 +291,44 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Investor Presentation",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-29T15:53:28+00:00",
+          "pubDate": "2026-08-04T20:07:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "title": "[NSE] Press Release",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding a press release dated August 04, 2026, titled \"Press Release on Proposed Joint Venture with Restar Corporation, Japan, approved by the Boa",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-04T10:41:05+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-03T16:56:16+00:00",
+          "pubDate": "2026-08-04T20:01:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Trading Window",
-          "summary": "Rashi Peripherals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report submitted by CARE Ratings Limited for the Quarter Ended June 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-26T14:32:34+00:00",
+          "pubDate": "2026-08-04T19:44:12+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
-          "title": "[NSE] Press Release (Revised)",
-          "summary": "Rashi Peripherals Limited has informed the Exchange regarding a revised press release dated Jun 23, 2026, titled \"Rashi Peripherals, one of India s leading ICT distributors, to acquire a strategic sta",
+          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-06-23T20:13:11+00:00",
+          "pubDate": "2026-08-04T19:36:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -532,6 +521,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -639,13 +639,13 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Non-Deal Roadshow scheduled on 3rd and 4th August 2026",
+          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Meeting",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-29T10:50:53+00:00",
+          "pubDate": "2026-08-04T19:10:33+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -654,17 +654,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-18T12:13:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Tata Technologies Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-17T16:55:17+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -961,6 +950,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Schedule of meet for Earning Call of Q1FY27 dated 11th August, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T18:01:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Appointment",
           "summary": "IKIO Technologies Limited has informed the Exchange regarding Appointment of  Ms. Madhu Pandit as Non- Executive Independent Director of the company w.e.f. May 02, 2026 up to May 01, 2031.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -980,17 +980,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Additional Information related to the resignation of M/s BGJC & Associates L",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T19:47:50+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1064,10 +1053,10 @@
       "articles": [
         {
           "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication of consolidated financial statements for quarter ended June 30, 2026.",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding 9th Annual general Meeting to be held through VC/OAVM.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-30T18:23:14+00:00",
+          "pubDate": "2026-08-04T20:29:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1105,17 +1094,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about authorization to determine materiality of an event or information and make disclosures to the Stock Exchange(s) with effect from July 29, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T13:46:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1125,14 +1103,25 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Nazara Tech Q1 Results: Co posts Rs 82.5 crore loss; Nitish Mittersain steps down as CEO",
-          "summary": "Nazara Technologies reported a net loss of Rs 82.47 crore for the first quarter. Revenue from operations declined 14 percent to Rs 428.77 crore in Q1 FY27. Nitish Mittersain will resign as CEO on September 1, 2026. Raymond Albaladejo Stauffer will su…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nazara-tech-q1-results-co-posts-rs-82-5-crore-loss-nitish-mittersain-steps-down-as-ceo/articleshow/132846232.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-04T09:47:08+05:30",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange about Link of Recording.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T20:25:34+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -0.5
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Nazara Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T19:44:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -1167,17 +1156,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T22:30:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1187,22 +1165,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Netweb Technologies India Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-01T19:30:06+00:00",
+          "pubDate": "2026-08-04T19:08:14+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Transcript",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Netweb Technologies India Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-01T12:42:46+00:00",
+          "pubDate": "2026-08-01T19:30:06+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1375,6 +1353,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T16:58:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1413,17 +1402,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T19:34:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T19:29:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
