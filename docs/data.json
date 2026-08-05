@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-04T15:22:56.162508+00:00",
+  "fetchedAt": "2026-08-05T05:43:30.575129+00:00",
   "tickerCount": 32,
-  "articleCount": 112,
+  "articleCount": 111,
   "overview": {
-    "positive": 13,
-    "negative": 11,
-    "neutral": 88
+    "positive": 11,
+    "negative": 10,
+    "neutral": 90
   },
   "stocks": [
     {
@@ -19,17 +19,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T17:29:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Jupiter Wagons, Italy's Lucchini RS partner to build railwheel mfg platform in India",
-          "summary": "Jupiter Wagons has partnered with Italy's Lucchini RS Holding to build an integrated railwheel manufacturing platform in India. Lucchini RS and SIMEST will acquire a combined 25% stake in Jupiter Tatravagonka Railwheel Factory for €28 million (Rs 307…",
-          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/jupiter-wagons-italys-lucchini-rs-partner-to-build-railwheel-mfg-platform-in-india/articleshow/132851868.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-04T13:08:33+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -240,6 +229,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T22:11:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated August 04, 2026, titled \"Press Release for the Quarter Ended June 30, 2026\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T22:07:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Avalon Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T21:40:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -259,28 +281,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-29T18:10:54+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 24058  Shares.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-25T15:24:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -393,33 +393,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T21:46:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 03, 2026",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding voting results of  Annual General Meeting held on August 03, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-03T20:44:22+00:00",
+          "pubDate": "2026-08-05T00:11:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding ''.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-02T17:17:04+00:00",
+          "pubDate": "2026-08-04T21:43:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -427,21 +416,21 @@
         },
         {
           "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated August 02, 2026, titled \"Persistent Achieves $452.4M Revenue in Q1 FY27 with 16.1% YoY Growth \".",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated August 04, 2026, titled \"Persistent Shareholders Vote for Nagarro Offer\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-02T15:08:14+00:00",
+          "pubDate": "2026-08-04T21:17:43+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Persistent Systems Limited has informed the Exchange about Investor Presentation",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-02T14:57:24+00:00",
+          "pubDate": "2026-08-03T21:46:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1052,22 +1041,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding 9th Annual general Meeting to be held through VC/OAVM.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Transcript of Post Earnings Conference Call held on July 29, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-04T20:29:20+00:00",
+          "pubDate": "2026-08-04T21:00:12+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Audit Link of Post earnings Conference Call Q1 FY2026-27",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding 9th Annual general Meeting to be held through VC/OAVM.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-29T22:41:07+00:00",
+          "pubDate": "2026-08-04T20:29:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1083,17 +1072,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "KPIT Technologies Limited has informed the Exchange that Record date for the purpose of Dividend  is 12-Aug-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T13:53:18+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -1102,6 +1080,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T11:02:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Nazara Technologies Limited informs the Exchange about Link of Recording.",
@@ -1141,17 +1130,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T22:38:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Appointment of Mr Raymond Albaladejo Stauffer as Chief Executive Officer of the company w.e.f. September 01, 2026 or such other date as may b",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T22:35:12+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1414,6 +1392,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Change in Management",
+          "summary": "Zen Technologies Limited has informed the Exchange about change in Management",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-04T23:06:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Credit Rating",
           "summary": "Zen Technologies Limited has informed the Exchange about Credit Rating",
