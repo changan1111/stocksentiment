@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-05T05:43:30.575129+00:00",
+  "fetchedAt": "2026-08-05T11:17:44.416226+00:00",
   "tickerCount": 32,
-  "articleCount": 111,
+  "articleCount": 110,
   "overview": {
-    "positive": 11,
+    "positive": 12,
     "negative": 10,
-    "neutral": 90
+    "neutral": 88
   },
   "stocks": [
     {
@@ -291,6 +291,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T12:21:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -318,17 +329,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T19:44:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T19:36:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -574,7 +574,7 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-04T10:32:34+00:00",
+          "pubDate": "2026-08-05T14:36:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -597,17 +597,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-31T15:43:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Director(s)",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Change in Director(s) of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T15:27:10+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -662,6 +651,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Appointment",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Appointment of  Mr. Amit as Senior Management Personnel (SMP) and designate him  as Senior Vice President- Capacity and Infrastructure of the c",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T13:43:33+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "E2E Networks Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -689,17 +689,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-22T11:21:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Reports for the quarter ending on June 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-21T17:49:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -826,6 +815,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "From Bajaj Auto to Polycab to Garden Reach Shipbuilders: 5 companies that posted over 25% revenue growth in Q1 FY27",
+          "summary": "India Inc. reported strong earnings for Q1, with many companies achieving double-digit revenue growth amid global uncertainties. A few companies, including Laxmi Organic and Bajaj Auto, noted remarkable profit increases and revenues over 25%, showcas…",
+          "link": "https://www.livemint.com/market/stock-market-news/from-bajaj-auto-to-polycab-to-garden-reach-shipbuilders-5-companies-that-posted-over-25-revenue-growth-in-q1-fy27-11785921987216.html",
+          "source": "livemint",
+          "pubDate": "2026-08-05T15:45:24+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -888,6 +888,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Ideaforge Technology Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 05, 2026. Further, the company has informed the Exchange regarding voting re",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T16:25:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -915,17 +926,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-30T14:24:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-14T10:21:24+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -979,6 +979,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T15:39:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1017,17 +1028,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-22T21:34:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange regarding 'Submission of machine-readable copy of Unaudited Standalone and Consolidated Financial Results for the quarter ended 30th June, 2026'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T17:48:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1331,6 +1331,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T16:23:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 28, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1353,33 +1364,11 @@
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Copy of Newspaper Publication for the Un-audited Financial Results for the quarter ended June 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T14:31:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T19:37:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated August 03, 2026, titled \"Press Release for the Financial Results for the quarter ended June 30, 20",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T19:34:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
