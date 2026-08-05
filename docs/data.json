@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-05T11:17:44.416226+00:00",
+  "fetchedAt": "2026-08-05T15:11:54.572507+00:00",
   "tickerCount": 32,
-  "articleCount": 110,
+  "articleCount": 108,
   "overview": {
-    "positive": 12,
-    "negative": 10,
-    "neutral": 88
+    "positive": 11,
+    "negative": 8,
+    "neutral": 89
   },
   "stocks": [
     {
@@ -229,6 +229,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T18:47:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Avalon Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -260,28 +271,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T16:17:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-10T10:22:15+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -290,6 +279,17 @@
       "name": "Rashi Peripherals",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T16:53:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -318,17 +318,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T20:01:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report submitted by CARE Ratings Limited for the Quarter Ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T19:44:12+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -393,22 +382,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding voting results of  Annual General Meeting held on August 03, 2026",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-05T00:11:20+00:00",
+          "pubDate": "2026-08-05T20:16:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding voting results of  Annual General Meeting held on August 03, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-04T21:43:43+00:00",
+          "pubDate": "2026-08-05T00:11:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -424,17 +413,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T21:46:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -443,6 +421,17 @@
       "name": "Red Tape",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Redtape Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T17:18:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Copies of Newspaper Publication for dispatch of Notice and Annual Report",
@@ -571,10 +560,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-05T14:36:45+00:00",
+          "pubDate": "2026-08-05T18:39:16+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -586,17 +575,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-01T15:45:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T15:43:36+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -768,7 +746,7 @@
           "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-29T17:34:19+00:00",
+          "pubDate": "2026-08-05T19:08:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -791,17 +769,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-10T16:08:59+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Electronics Mart India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-30T14:01:09+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -1041,33 +1008,33 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Business Responsibility and Sustainability Report for FY 2025-26.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T20:17:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "KPIT Technologies Limited has informed the Exchange regarding Notice of 9th Annual General Meeting to be held on August 31, 2026, at 10.30 A.M. IST through VC/OAVM",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T19:50:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Transcript of Post Earnings Conference Call held on July 29, 2026",
+          "summary": "KPIT Technologies Limited has informed the Exchange that Company officials will participate in the Investor Conference scheduled on Wednesday, August 12, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-04T21:00:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding 9th Annual general Meeting to be held through VC/OAVM.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T20:29:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "KPIT Technologies Limited has informed the Exchange about changes in Directors and Senior Management of the Company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T15:59:49+00:00",
+          "pubDate": "2026-08-05T16:50:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1229,6 +1196,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Saksoft Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T19:44:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1268,6 +1246,17 @@
       "name": "TVS Supply Chain Solutions",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 05, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T17:51:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding Allotment of 43,750  Shares.",
@@ -1310,17 +1299,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Amalgamation/Merger",
-          "summary": "We would like to inform that Hon'ble National Company Law Tribunal, Chennai Bench has sanctioned the Scheme of Amalgamation.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-11T20:55:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
