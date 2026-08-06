@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-06T11:19:54.050465+00:00",
+  "fetchedAt": "2026-08-06T15:11:11.639231+00:00",
   "tickerCount": 32,
   "articleCount": 110,
   "overview": {
     "positive": 14,
-    "negative": 8,
-    "neutral": 88
+    "negative": 9,
+    "neutral": 87
   },
   "stocks": [
     {
@@ -404,6 +404,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Acceptance Period Commences: Persistent Publishes Public Takeover Offer for all Nagarro Sh",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T18:29:06+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -431,17 +442,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T00:11:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated August 04, 2026, titled \"Persistent Shareholders Vote for Nagarro Offer\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T21:17:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -626,6 +626,17 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Spurt in Volume",
+          "summary": "Significant increase in volume has been observed in Tata Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the mark",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T18:05:15+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "Honda outsources new vehicle program to Tata Tech to cut costs",
           "summary": "Honda has outsourced a new vehicle platform development to Tata Technologies. This move aims to significantly reduce costs and accelerate its product roadmap. The new platform will support multiple car models, including electric and hybrid variants. …",
@@ -826,22 +837,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Further to our intimation letter no. SECY/GRSE/BD-69/AM/01/26-27 dated 03rd August, 2026, we wish to inform that Conference Call has been held on Thursday, 06th August, 2026 at 03.30 P.M. to discuss t",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T17:50:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T11:52:07+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "In terms of Regulation 30 read with para A of Part A of Schedule lll of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to infor",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T11:39:25+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -864,17 +875,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-29T16:46:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "This has reference to our letter No. SECY/GRSE/BD-69/CA/16/26-27 dated 16th July 2026 on the subject matter of  Intimation of Date of Board Meeting to, inter alia, consider and approve, Unaudited Fina",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T13:50:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1040,6 +1040,17 @@
       "name": "KPIT Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication published in today's newspaper regarding details of 9th Annual General Meeting, cut-off date, e-voting informati",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T19:23:10+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Business Responsibility and Sustainability Report for FY 2025-26.",
@@ -1281,10 +1292,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 05, 2026",
+          "summary": "TVS Supply Chain Solutions Limited has submitted the Stock Exchange the Voting Results along with the  copy Srutinizers Report of Annual General Meeting held on August 05, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-05T17:51:23+00:00",
+          "pubDate": "2026-08-06T19:00:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1318,17 +1329,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-01T12:07:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Newspaper Publication - The 22nd Annual General Meeting of TVS Supply Chain Solutions Limited is to be held on August 05, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-12T16:57:10+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
