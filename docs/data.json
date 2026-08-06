@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-05T15:11:54.572507+00:00",
+  "fetchedAt": "2026-08-06T05:45:55.224375+00:00",
   "tickerCount": 32,
-  "articleCount": 108,
+  "articleCount": 110,
   "overview": {
-    "positive": 11,
+    "positive": 13,
     "negative": 8,
     "neutral": 89
   },
@@ -331,6 +331,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Lone warriors! How two mid-tier tech stocks rewarded investors in Rs 10 lakh crore IT crash this year",
+          "summary": "Indian IT stocks have seen significant value erosion this year. However, Coforge and LTIMindtree have shown resilience and growth. These companies are performing well due to strong deal wins and AI integration. Analysts see mid-tier firms as more att…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lone-warriors-how-two-mid-tier-tech-stocks-rewarded-investors-in-rs-10-lakh-crore-it-crash-this-year/articleshow/132980074.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-06T08:53:02+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.6
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -387,6 +398,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T20:16:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Why Persistent Systems is skipping campus hiring for FY27?",
+          "summary": "Persistent Systems' decision comes as companies increasingly reassess campus recruitment plans, with AI changing workforce requirements and prompting employers to favour experienced professionals who already possess foundational AI skills.",
+          "link": "https://www.livemint.com/companies/news/why-persistent-systems-is-skipping-campus-hiring-for-fy27-sandeep-kalra-says-11785942268008.html",
+          "source": "livemint",
+          "pubDate": "2026-08-05T21:26:12+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -558,6 +580,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "F&amp;O Radar: Call Ratio Spread strategy for Dixon this week",
+          "summary": "Dixon Technologies demonstrates a robust bullish technical structure on the daily charts, trading above key EMAs with RSI at 63.27. Choice Broking recommends a Call Ratio Spread strategy for August expiry, targetting Rs 14,685-14,800 upside. The stra…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-radar-call-ratio-spread-strategy-for-dixon-this-week/articleshow/132982768.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-06T10:47:10+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Transcript",
@@ -781,17 +814,6 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "From Bajaj Auto to Polycab to Garden Reach Shipbuilders: 5 companies that posted over 25% revenue growth in Q1 FY27",
-          "summary": "India Inc. reported strong earnings for Q1, with many companies achieving double-digit revenue growth amid global uncertainties. A few companies, including Laxmi Organic and Bajaj Auto, noted remarkable profit increases and revenues over 25%, showcas…",
-          "link": "https://www.livemint.com/market/stock-market-news/from-bajaj-auto-to-polycab-to-garden-reach-shipbuilders-5-companies-that-posted-over-25-revenue-growth-in-q1-fy27-11785921987216.html",
-          "source": "livemint",
-          "pubDate": "2026-08-05T15:45:24+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
@@ -1110,6 +1132,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 6 August 2026",
+          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — BLS International Services, Usha Martin, 360 One Wam, Netweb Technologies India, and IPCA Laboratories.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-6-august-2026-11785976757322.html",
+          "source": "livemint",
+          "pubDate": "2026-08-06T06:27:29+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.556
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1360,6 +1393,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-05T23:11:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "Zen Technologies Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1387,28 +1431,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T18:45:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Zen Technologies Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T23:10:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Zen Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T23:25:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
