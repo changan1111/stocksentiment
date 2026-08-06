@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-06T05:45:55.224375+00:00",
+  "fetchedAt": "2026-08-06T11:19:54.050465+00:00",
   "tickerCount": 32,
   "articleCount": 110,
   "overview": {
-    "positive": 13,
+    "positive": 14,
     "negative": 8,
-    "neutral": 89
+    "neutral": 88
   },
   "stocks": [
     {
@@ -280,6 +280,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Ace investor Madhusudan Kela cuts stake in this multibagger stock after 200% rally in a year. Do you own?",
+          "summary": "Ace investor Madhusudan Kela's family reduced its stake in Rashi Peripherals during the June quarter after the stock surged nearly 200% over the past year. The multibagger has rallied sharply since its 2025 lows, even as the company posted strong Q1 …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ace-investor-madhusudan-kela-cuts-stake-in-this-multibagger-stock-after-200-rally-in-a-year-do-you-own/articleshow/132984893.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-06T11:40:55+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -332,7 +343,7 @@
       "articles": [
         {
           "title": "Lone warriors! How two mid-tier tech stocks rewarded investors in Rs 10 lakh crore IT crash this year",
-          "summary": "Indian IT stocks have seen significant value erosion this year. However, Coforge and LTIMindtree have shown resilience and growth. These companies are performing well due to strong deal wins and AI integration. Analysts see mid-tier firms as more att…",
+          "summary": "Indian IT stocks have seen significant value erosion this year. However, Coforge and LTM have shown resilience and growth. These companies are performing well due to strong deal wins and AI integration. Analysts see mid-tier firms as more attractive …",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/lone-warriors-how-two-mid-tier-tech-stocks-rewarded-investors-in-rs-10-lakh-crore-it-crash-this-year/articleshow/132980074.cms",
           "source": "economictimes.indiatimes",
           "pubDate": "2026-08-06T08:53:02+05:30",
@@ -448,7 +459,7 @@
           "summary": "Redtape Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-05T17:18:21+00:00",
+          "pubDate": "2026-08-06T16:41:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -471,17 +482,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-01T16:30:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Redtape Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 25, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-01T15:52:29+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -626,6 +626,17 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Honda outsources new vehicle program to Tata Tech to cut costs",
+          "summary": "Honda has outsourced a new vehicle platform development to Tata Technologies. This move aims to significantly reduce costs and accelerate its product roadmap. The new platform will support multiple car models, including electric and hybrid variants. …",
+          "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/honda-outsources-new-vehicle-program-to-tata-tech-to-cut-costs/articleshow/132995382.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-06T14:58:53+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.2
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Meeting",
@@ -1070,55 +1081,55 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Nazara Technologies Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Nazara to Raise &#8377;733.5 Crore through Preferential Issue\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T14:47:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Amendment to AOA/MOA",
+          "summary": "Nazara Technologies Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T14:42:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Preferential issue",
+          "summary": "Nazara Technologies Limited informs the Exchange about Preferential issue.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T14:36:17+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Outcome of Board Meeting held on August 06, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T14:07:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T11:02:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Link of Recording.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T20:25:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Nazara Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T19:44:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 9,00,000 Equity Shares upon conversion of Warrants allotted by way of Preferential issue on private placement basis at its meeti",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T22:45:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Resignation of Mr Nitish Mittersain as Chief Executive Officer of the company w.e.f. September 01, 2026, concurrent with the assumption of of",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T22:38:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1131,17 +1142,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 6 August 2026",
-          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — BLS International Services, Usha Martin, 360 One Wam, Netweb Technologies India, and IPCA Laboratories.",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-6-august-2026-11785976757322.html",
-          "source": "livemint",
-          "pubDate": "2026-08-06T06:27:29+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.556
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
@@ -1233,7 +1233,7 @@
           "summary": "Saksoft Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-05T19:44:45+00:00",
+          "pubDate": "2026-08-06T12:35:32+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
