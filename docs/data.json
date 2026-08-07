@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-06T15:11:11.639231+00:00",
+  "fetchedAt": "2026-08-07T04:52:27.653261+00:00",
   "tickerCount": 32,
-  "articleCount": 110,
+  "articleCount": 108,
   "overview": {
-    "positive": 14,
+    "positive": 13,
     "negative": 9,
-    "neutral": 87
+    "neutral": 86
   },
   "stocks": [
     {
@@ -280,17 +280,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Ace investor Madhusudan Kela cuts stake in this multibagger stock after 200% rally in a year. Do you own?",
-          "summary": "Ace investor Madhusudan Kela's family reduced its stake in Rashi Peripherals during the June quarter after the stock surged nearly 200% over the past year. The multibagger has rallied sharply since its 2025 lows, even as the company posted strong Q1 …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ace-investor-madhusudan-kela-cuts-stake-in-this-multibagger-stock-after-200-rally-in-a-year-do-you-own/articleshow/132984893.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-06T11:40:55+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -341,17 +330,6 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Lone warriors! How two mid-tier tech stocks rewarded investors in Rs 10 lakh crore IT crash this year",
-          "summary": "Indian IT stocks have seen significant value erosion this year. However, Coforge and LTM have shown resilience and growth. These companies are performing well due to strong deal wins and AI integration. Analysts see mid-tier firms as more attractive …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lone-warriors-how-two-mid-tier-tech-stocks-rewarded-investors-in-rs-10-lakh-crore-it-crash-this-year/articleshow/132980074.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-06T08:53:02+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
-          }
-        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -420,17 +398,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T20:16:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Why Persistent Systems is skipping campus hiring for FY27?",
-          "summary": "Persistent Systems' decision comes as companies increasingly reassess campus recruitment plans, with AI changing workforce requirements and prompting employers to favour experienced professionals who already possess foundational AI skills.",
-          "link": "https://www.livemint.com/companies/news/why-persistent-systems-is-skipping-campus-hiring-for-fy27-sandeep-kalra-says-11785942268008.html",
-          "source": "livemint",
-          "pubDate": "2026-08-05T21:26:12+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -581,17 +548,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "F&amp;O Radar: Call Ratio Spread strategy for Dixon this week",
-          "summary": "Dixon Technologies demonstrates a robust bullish technical structure on the daily charts, trading above key EMAs with RSI at 63.27. Choice Broking recommends a Call Ratio Spread strategy for August expiry, targetting Rs 14,685-14,800 upside. The stra…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-radar-call-ratio-spread-strategy-for-dixon-this-week/articleshow/132982768.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-06T10:47:10+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -631,21 +587,21 @@
           "summary": "Significant increase in volume has been observed in Tata Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the mark",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-06T18:05:15+00:00",
+          "pubDate": "2026-08-07T10:20:46+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "Honda outsources new vehicle program to Tata Tech to cut costs",
-          "summary": "Honda has outsourced a new vehicle platform development to Tata Technologies. This move aims to significantly reduce costs and accelerate its product roadmap. The new platform will support multiple car models, including electric and hybrid variants. …",
-          "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/honda-outsources-new-vehicle-program-to-tata-tech-to-cut-costs/articleshow/132995382.cms",
+          "title": "Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday",
+          "summary": "Nifty ended nearly flat after a range-bound session but stayed above key moving averages, preserving its bullish trend. Analysts recommended Tata Technologies and AIIL as buy ideas, citing breakout patterns, strong momentum, rising volumes and favour…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-friday/articleshow/133010149.cms",
           "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-06T14:58:53+05:30",
+          "pubDate": "2026-08-06T21:06:46+05:30",
           "sentiment": {
             "label": "Positive",
-            "score": 0.2
+            "score": 1.0
           }
         },
         {
@@ -654,17 +610,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T19:10:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Tata Technologies Limited has informed the Exchange about Copy of Newspaper Publication for the unaudited financial results for the quarter ended June 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-18T12:13:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -836,6 +781,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 7 August 2026",
+          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Kalyan Jewellers India, Bharat Dynamics, Union Bank of India, Garden Reach Shipbuilders &amp;amp; Enginers, and Biocon.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-7-august-2026-11786063162076.html",
+          "source": "livemint",
+          "pubDate": "2026-08-07T06:27:28+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.556
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Further to our intimation letter no. SECY/GRSE/BD-69/AM/01/26-27 dated 03rd August, 2026, we wish to inform that Conference Call has been held on Thursday, 06th August, 2026 at 03.30 P.M. to discuss t",
@@ -1092,6 +1048,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T21:50:25+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T21:47:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T21:41:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Nazara Technologies Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Nazara to Raise &#8377;733.5 Crore through Preferential Issue\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1108,39 +1097,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-06T14:42:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Preferential issue",
-          "summary": "Nazara Technologies Limited informs the Exchange about Preferential issue.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T14:36:17+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Outcome of Board Meeting held on August 06, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T14:07:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-05T11:02:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1183,6 +1139,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "PG Electroplast Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T21:42:14+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Turning the Corner   Growth Gathers Pace\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T21:40:25+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "PG Electroplast Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T21:25:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1199,28 +1188,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-09T15:33:50+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding Allotment of 1170200  Equity Shares pursuant to ESOP Scheme.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-02T16:44:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-06-24T17:22:09+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -1392,6 +1359,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 29, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-06T22:28:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
