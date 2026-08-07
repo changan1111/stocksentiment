@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-07T04:52:27.653261+00:00",
+  "fetchedAt": "2026-08-07T09:58:31.544728+00:00",
   "tickerCount": 32,
-  "articleCount": 108,
+  "articleCount": 110,
   "overview": {
     "positive": 13,
-    "negative": 9,
-    "neutral": 86
+    "negative": 8,
+    "neutral": 89
   },
   "stocks": [
     {
@@ -64,6 +64,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Memorandum of Understanding/Agreements",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding/Agreements",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T11:12:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Link of Recording of the Analysts/Investor Call pertaining to the financial results of the Company for the quarter ended 30th June, 2",
@@ -583,6 +594,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Rumour Verification - Regulation 30(11)",
+          "summary": "Tata Technologies Limited has informed the Exchange about Rumour Verification - Regulation 30(11)",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T13:31:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] News Verification",
+          "summary": "The Exchange has sought clarification from Tata Technologies Limited with respect to recent news item captioned Tata Tech shares rise 7% as report says Honda outsourced new vehicle programme to compan",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T13:27:06+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Spurt in Volume",
           "summary": "Significant increase in volume has been observed in Tata Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the mark",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -591,28 +624,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday",
-          "summary": "Nifty ended nearly flat after a range-bound session but stayed above key moving averages, preserving its bullish trend. Analysts recommended Tata Technologies and AIIL as buy ideas, citing breakout patterns, strong momentum, rising volumes and favour…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-friday/articleshow/133010149.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-06T21:06:46+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Meeting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T19:10:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -742,6 +753,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T14:21:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Electronics Mart India Limited has informed the Exchange regarding a press release dated August 07, 2026, titled \"Press release for unaudited financial results for Q1 FY 2026-27\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T13:50:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Electronics Mart India Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T13:36:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -750,28 +794,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Commencement of commercial production/operations",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-25T19:16:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-10T16:08:59+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1207,6 +1229,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Saksoft Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T14:00:18+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Saksoft Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1234,17 +1267,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-17T15:12:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Saksoft Limited has informed the Exchange about Shareholders meeting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-16T13:18:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
