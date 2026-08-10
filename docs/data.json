@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-07T14:11:08.095223+00:00",
+  "fetchedAt": "2026-08-10T04:27:14.545118+00:00",
   "tickerCount": 32,
-  "articleCount": 107,
+  "articleCount": 109,
   "overview": {
-    "positive": 12,
-    "negative": 6,
-    "neutral": 89
+    "positive": 14,
+    "negative": 5,
+    "neutral": 90
   },
   "stocks": [
     {
@@ -167,6 +167,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T16:57:51+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "AXISCADES Technologies Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -197,28 +208,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-12T17:29:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Compliance Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-06T18:15:09+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -468,22 +457,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Action(s) initiated or orders passed",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Action(s) initiated or orders passed",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T22:04:19+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T18:50:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-23T14:49:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -548,6 +537,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
+          "summary": "Dixon Technologies anticipates finalizing its joint venture with Vivo within two months.  This new venture's financial contributions will begin appearing from the October-December quarter.  The company is also expanding its camera module production c…",
+          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/dixon-tech-vivo-jv-transaction-to-be-completed-in-2-months-revenue-flow-from-oct-dec-qtr-ceo/articleshow/133067245.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-09T17:28:00+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -582,6 +582,28 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Tata Technologies among 5 stocks flashing bullish signals. Upside on cards?",
+          "summary": "A White Marubozu is a bullish candlestick pattern in technical analysis, formed when a stock opens at or near its low and closes at or near its high.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-technologies-among-5-stocks-flashing-bullish-signals-upside-on-cards/slideshow/133080114.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-10T09:11:44+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T14:50:32+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Rumour Verification - Regulation 30(11)",
           "summary": "Tata Technologies Limited has informed the Exchange about Rumour Verification - Regulation 30(11)",
@@ -742,6 +764,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T14:46:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -792,17 +825,6 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 7 August 2026",
-          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Kalyan Jewellers India, Bharat Dynamics, Union Bank of India, Garden Reach Shipbuilders &amp;amp; Enginers, and Biocon.",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-7-august-2026-11786063162076.html",
-          "source": "livemint",
-          "pubDate": "2026-08-07T06:27:28+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.556
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Further to our intimation letter no. SECY/GRSE/BD-69/AM/01/26-27 dated 03rd August, 2026, we wish to inform that Conference Call has been held on Thursday, 06th August, 2026 at 03.30 P.M. to discuss t",
@@ -905,6 +927,17 @@
       "name": "IKIO Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "IKIO Technologies Limited has submitted to the Exchange, the financial results (Standalone & Consolidated) for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T19:20:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange about Schedule of meet for Earning Call of Q1FY27 dated 11th August, 2026.",
@@ -1063,7 +1096,18 @@
           "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-07T18:30:22+00:00",
+          "pubDate": "2026-08-09T23:52:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Notice of Extraordinary General Meeting to be held on August 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T19:54:33+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1086,28 +1130,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-06T21:47:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T21:41:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Nazara Technologies Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Nazara to Raise &#8377;733.5 Crore through Preferential Issue\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T14:47:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1207,6 +1229,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Saksoft Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T12:35:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Saksoft Limited has informed the Exchange about Shareholders meeting",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1298,6 +1331,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T10:31:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1318,28 +1362,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T15:21:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T19:37:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1348,6 +1370,39 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T10:31:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding 'Compliance with Regulation 36(1)(b) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T23:24:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Zen Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-07T23:15:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "Zen Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 29, 2026",
@@ -1365,39 +1420,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T23:11:44+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Zen Technologies Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T23:06:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "Zen Technologies Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T23:16:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T18:45:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
