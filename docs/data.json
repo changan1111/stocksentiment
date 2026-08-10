@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-10T10:13:44.052661+00:00",
+  "fetchedAt": "2026-08-10T14:19:12.497341+00:00",
   "tickerCount": 32,
-  "articleCount": 109,
+  "articleCount": 107,
   "overview": {
     "positive": 15,
     "negative": 5,
-    "neutral": 89
+    "neutral": 87
   },
   "stocks": [
     {
@@ -13,6 +13,28 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Jupiter Wagons secures 100 MW/400 MWh BESS capacity in West Bengal; targeting &#8377;1,000 cro",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T17:19:36+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Jupiter Wagons wins two BESS project from WBSEDCL",
+          "summary": "Jupiter Wagons (JWL) has emerged as the successful bidder for two standalone Battery Energy Storage System (BESS) projects with a combined capacity of 100 MW/400 MWh conducted by West Bengal State Electricity Distribution Company (WBSEDCL). The proje…",
+          "link": "https://www.business-standard.com/markets/capital-market-news/jupiter-wagons-wins-two-bess-project-from-wbsedcl-126081001488_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-10T18:50:45+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Jupiter Wagons Limited has informed the Exchange about General Updates",
@@ -23,39 +45,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated August 03, 2026, titled \"Please find the enclosed press release to be issued by the Company\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T20:40:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding 'Reply to Clarification on increase in the volume of Company s Security sought by BSE Limited'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T15:36:19+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Spurt in Volume",
-          "summary": "Significant increase in volume has been observed in Jupiter Wagons Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T19:12:13+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -64,6 +53,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Memorandum of Understanding/Agreements",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding with The Signalling Company, NV.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T18:03:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Transcript",
@@ -76,33 +76,11 @@
           }
         },
         {
-          "title": "[NSE] Memorandum of Understanding/Agreements",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding/Agreements",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T11:12:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] General Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Submission of Investor Presentation pertaining to Unaudited Financial Results for the quarter ended 30th June, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T10:46:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T16:39:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -258,6 +236,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Communication to Shareholders - Intimation of Tax Deduction on Dividend",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T16:59:16+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -400,6 +389,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Redtape Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Press Release\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T19:45:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Redtape Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T19:40:05+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Redtape Limited has informed the Exchange regarding 'Results for Quarter ended June 30, 2026'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -416,17 +427,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T14:07:39+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Redtape Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T16:41:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -531,17 +531,6 @@
           "link": "https://www.business-standard.com/companies/news/dixon-tech-vivo-jv-to-close-in-2-months-revenue-to-flow-from-q3-ceo-126080900476_1.html",
           "source": "business-standard",
           "pubDate": "2026-08-09T17:31:56+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
-          "summary": "Dixon Technologies anticipates finalizing its joint venture with Vivo within two months.  This new venture's financial contributions will begin appearing from the October-December quarter.  The company is also expanding its camera module production c…",
-          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/dixon-tech-vivo-jv-transaction-to-be-completed-in-2-months-revenue-flow-from-oct-dec-qtr-ceo/articleshow/133067245.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-09T17:28:00+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -928,6 +917,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Intimation about Execution of Memorandum of Understanding (MoU) between Royalux FZCO, UAE, a step-down subsidiary of IKIO Technologies Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T16:55:14+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication for Unaudited Financial Results for the quarter ended June 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -979,6 +979,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T16:04:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Options to purchase securities",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Options to purchase securities",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1001,33 +1012,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-27T17:12:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] General Updates",
           "summary": "Letter to the Members providing web-link and QR code for accessing the Integrated Annual Report for the Financial Year 2025-26",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-23T15:36:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Newspaper Publication of the Notice of the 20th Annual General Meeting and Information on E-Voting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-23T13:49:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1092,22 +1081,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of Extraordinary General Meeting held on August 10, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-09T23:52:27+00:00",
+          "pubDate": "2026-08-10T17:08:06+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Notice of Extraordinary General Meeting to be held on August 30, 2026",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-08T19:54:33+00:00",
+          "pubDate": "2026-08-09T23:52:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1122,17 +1111,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T21:47:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1229,22 +1207,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Saksoft Limited has informed the Exchange about Investor Presentation",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Saksoft Limited has informed the Exchange about Scrutinizer Report of Shareholders meeting",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-08T12:35:26+00:00",
+          "pubDate": "2026-08-10T19:01:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Saksoft Limited has informed the Exchange about Shareholders meeting",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-07T17:47:56+00:00",
+          "pubDate": "2026-08-10T18:56:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Saksoft Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-08T12:35:26+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1260,28 +1249,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Saksoft Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T14:00:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Saksoft Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T12:35:32+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1290,6 +1257,28 @@
       "name": "TVS Supply Chain Solutions",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Press Release for Unaudited Standalone and Consolidated for the quarter ended June",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T19:24:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "TVS Supply Chain Solutions Limited has submitted to the Exchange, the financial results for the period ended June 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T19:04:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Schedule of meet to be held on 13th August,2026",
@@ -1307,17 +1296,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-06T19:00:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding Allotment of 43,750  Shares.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T16:29:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
