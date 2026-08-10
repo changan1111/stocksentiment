@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-10T04:27:14.545118+00:00",
+  "fetchedAt": "2026-08-10T10:13:44.052661+00:00",
   "tickerCount": 32,
   "articleCount": 109,
   "overview": {
-    "positive": 14,
+    "positive": 15,
     "negative": 5,
-    "neutral": 90
+    "neutral": 89
   },
   "stocks": [
     {
@@ -65,22 +65,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Memorandum of Understanding/Agreements",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding/Agreements",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-07T11:12:49+00:00",
+          "pubDate": "2026-08-10T14:28:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Link of Recording of the Analysts/Investor Call pertaining to the financial results of the Company for the quarter ended 30th June, 2",
+          "title": "[NSE] Memorandum of Understanding/Agreements",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding/Agreements",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-04T16:46:13+00:00",
+          "pubDate": "2026-08-07T11:12:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -103,17 +103,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-03T16:39:01+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Texmaco Rail & Engineering Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T16:19:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -411,33 +400,33 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Redtape Limited has informed the Exchange regarding 'Results for Quarter ended June 30, 2026'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T15:19:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Redtape Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T14:07:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Redtape Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-06T16:41:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Copies of Newspaper Publication for dispatch of Notice and Annual Report",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T14:19:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Annual Report for FY 2025-26",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-01T16:30:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -536,6 +525,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dixon Tech-Vivo JV to close in 2 months, revenue to flow from Q3: CEO",
+          "summary": "Dixon Technologies expects its Vivo joint venture to close within two months, with revenue contribution starting in Q3 as the partnership expands mobile manufacturing capacity",
+          "link": "https://www.business-standard.com/companies/news/dixon-tech-vivo-jv-to-close-in-2-months-revenue-to-flow-from-q3-ceo-126080900476_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-09T17:31:56+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
           "summary": "Dixon Technologies anticipates finalizing its joint venture with Vivo within two months.  This new venture's financial contributions will begin appearing from the October-December quarter.  The company is also expanding its camera module production c…",
@@ -928,6 +928,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication for Unaudited Financial Results for the quarter ended June 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T14:20:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "IKIO Technologies Limited has submitted to the Exchange, the financial results (Standalone & Consolidated) for the period ended Jun 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -955,17 +966,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-31T19:10:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "IKIO Technologies Limited has submitted the Exchange a copy Srutinizers report of  10TH Annual General Meeting held on July 30, 2026. Further, the company has informed the Exchange regarding voting re",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T18:48:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
