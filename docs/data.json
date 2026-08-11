@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-11T09:57:44.808280+00:00",
+  "fetchedAt": "2026-08-11T14:17:53.964926+00:00",
   "tickerCount": 32,
   "articleCount": 106,
   "overview": {
-    "positive": 15,
-    "negative": 6,
+    "positive": 16,
+    "negative": 5,
     "neutral": 85
   },
   "stocks": [
@@ -186,10 +186,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Link of Recording",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-05T18:47:39+00:00",
+          "pubDate": "2026-08-11T19:05:06+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -338,22 +338,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Acceptance Period Commences: Persistent Publishes Public Takeover Offer for all Nagarro Sh",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-06T18:29:06+00:00",
+          "pubDate": "2026-08-11T18:31:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Acceptance Period Commences: Persistent Publishes Public Takeover Offer for all Nagarro Sh",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-05T20:16:48+00:00",
+          "pubDate": "2026-08-06T18:29:06+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -377,6 +377,17 @@
       "name": "Red Tape",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Redtape Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T15:40:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Newspaper Publication under Regulation 30 and 47 of SEBI (LODR) Regulations, 2015",
@@ -647,6 +658,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Change in Auditors",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T19:11:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "EPACK Durable Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T19:10:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "EPACK Durable Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T19:07:51+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding a press release dated August 11, 2026, titled \"Press release on the Standalone and Consolidated Unaudited Financial Results of the Company for",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T19:01:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "EPACK Durable Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -655,50 +710,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "EPACK Durable Limited has informed the Exchange about agreement for investor relations services.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-01T16:01:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "EPACK Durable Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-18T17:59:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "EPACK Durable Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-18T17:58:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "EPACK Durable Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-08T17:29:36+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -709,22 +720,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-08T14:46:59+00:00",
+          "pubDate": "2026-08-11T16:44:14+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-07T18:33:08+00:00",
+          "pubDate": "2026-08-08T14:46:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -751,17 +762,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Electronics Mart India Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T13:36:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -772,10 +772,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Further to our intimation letter no. SECY/GRSE/BD-69/AM/01/26-27 dated 03rd August, 2026, we wish to inform that Conference Call has been held on Thursday, 06th August, 2026 at 03.30 P.M. to discuss t",
+          "summary": "Further to our Intimation Letter No. SECY/GRSE/BD-69/AM/01/26-27 dated 03 Aug 2026, we wish to inform that Conference Call was held on Thursday, 06 August, 2026 at 03.30 P.M. to discuss the Unaudited ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-06T17:50:27+00:00",
+          "pubDate": "2026-08-11T16:19:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -801,17 +801,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"Press Release   Performance Review of Q1 FY27 \".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T16:46:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -895,6 +884,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T17:42:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "IKIO Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -933,17 +933,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-08T19:20:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Schedule of meet for Earning Call of Q1FY27 dated 11th August, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T18:01:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1236,6 +1225,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Copy of Newspaper Publication of the Unaudited Standalone and Consolidated Financial Results for the Quarter Ended June 30,2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T18:26:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Link of Audio Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T18:16:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "TVS Supply Chain Solutions Q1 profit rises on strong business wins, freight volumes",
+          "summary": "TVS Supply Chain Solutions reported a 28.7% rise in Q1FY27 revenue and 34% growth in adjusted EBITDA, supported by strong volumes and global forwarding. Record quarterly business wins reached ₹543 crore, while adjusted PBT surged 71%.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-supply-chain-solutions-q1-profit-rises-on-strong-business-wins-freight-volumes/articleshow/133154739.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-11T18:09:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1263,28 +1285,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T19:04:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Schedule of meet to be held on 13th August,2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T17:34:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "TVS Supply Chain Solutions Limited has submitted the Stock Exchange the Voting Results along with the  copy Srutinizers Report of Annual General Meeting held on August 05, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T19:00:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
