@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-10T14:19:12.497341+00:00",
+  "fetchedAt": "2026-08-11T04:17:20.848480+00:00",
   "tickerCount": 32,
-  "articleCount": 107,
+  "articleCount": 106,
   "overview": {
-    "positive": 15,
+    "positive": 14,
     "negative": 5,
     "neutral": 87
   },
@@ -19,17 +19,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T17:19:36+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Jupiter Wagons wins two BESS project from WBSEDCL",
-          "summary": "Jupiter Wagons (JWL) has emerged as the successful bidder for two standalone Battery Energy Storage System (BESS) projects with a combined capacity of 100 MW/400 MWh conducted by West Bengal State Electricity Distribution Company (WBSEDCL). The proje…",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jupiter-wagons-wins-two-bess-project-from-wbsedcl-126081001488_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-10T18:50:45+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -138,7 +127,7 @@
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-08T16:57:51+00:00",
+          "pubDate": "2026-08-10T20:53:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -298,6 +287,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T23:37:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -314,28 +314,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-02T22:25:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated July 30, 2026, titled \"Coforge Launches Momentuum AI, a Specialized FDE Operating Unit Built to Turn Enterprise AI into Measur",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T11:50:44+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Coforge Limited has informed the Exchange about Intimation regarding 34th Annual General Meeting of Coforge Limited.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-29T18:30:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -571,17 +549,6 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Tata Technologies among 5 stocks flashing bullish signals. Upside on cards?",
-          "summary": "A White Marubozu is a bullish candlestick pattern in technical analysis, formed when a stock opens at or near its low and closes at or near its high.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-technologies-among-5-stocks-flashing-bullish-signals-upside-on-cards/slideshow/133080114.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-10T09:11:44+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
@@ -866,44 +833,44 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Press release for the financial results for the quarter ended June 30, 2026\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T20:23:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T20:02:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Ideaforge Technology Limited has submitted to the Exchange, the financial results for the period ended June 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T20:00:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Ideaforge Technology Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 05, 2026. Further, the company has informed the Exchange regarding voting re",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T16:25:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T16:02:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-31T15:52:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 8774 securities pursuant to ESOP/ESPS at its meeting held on July 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T14:24:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1030,6 +997,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome of the investor conference. held on Monday, August 10, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T21:52:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about the Company will be sending a letter providing a web link of the Annual Report 2025-26 to those Members who have not registered their e-mail a",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1057,17 +1035,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T19:50:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange that Company officials will participate in the Investor Conference scheduled on Wednesday, August 12, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-05T16:50:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1207,6 +1174,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Saksoft Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T19:52:32+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Saksoft Limited has informed the Exchange about Scrutinizer Report of Shareholders meeting",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1238,17 +1216,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Saksoft Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T17:40:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1257,6 +1224,17 @@
       "name": "TVS Supply Chain Solutions",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T19:55:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Press Release for Unaudited Standalone and Consolidated for the quarter ended June",
@@ -1349,6 +1327,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Zen Technologies Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-10T20:08:40+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Zen Technologies shares to be in focus on Tuesday after company secures  ₹295 crore defence order",
+          "summary": "Zen Technologies secured a  ₹295 crore order from the Ministry of Defence for simulators, enhancing its order pipeline, which totals  ₹1,239.02 crore. The revenue outlook is positive as new products and Air Force training offerings are in development…",
+          "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html",
+          "source": "livemint",
+          "pubDate": "2026-08-10T22:49:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Zen Technologies Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1387,17 +1387,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-06T22:28:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-05T23:11:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
