@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-11T14:17:53.964926+00:00",
+  "fetchedAt": "2026-08-12T04:45:21.679082+00:00",
   "tickerCount": 32,
-  "articleCount": 106,
+  "articleCount": 104,
   "overview": {
-    "positive": 16,
-    "negative": 5,
-    "neutral": 85
+    "positive": 14,
+    "negative": 4,
+    "neutral": 86
   },
   "stocks": [
     {
@@ -94,6 +94,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Q1 results 2026: HAL to Lenskart among companies to declare Q1 results today; full list here",
+          "summary": "Q1 results 2026: Hindustan Aeronautics, Grasim Industries, Tata Motors, Lenskart Solutions, GMR Airports, IRCTC, Titagarh Rail Systems are among the companies to report their Q1 results FY27 today.",
+          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-hal-to-lenskart-among-companies-to-declare-q1-results-today-full-list-here-11786502289754.html",
+          "source": "livemint",
+          "pubDate": "2026-08-12T08:30:03+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -134,6 +145,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Appointment",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Appointment of Ms Ashmita Sethi as Non- Executive Independent Director of the company w.e.f. August 11, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T20:31:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Resignation of Mrs Mariam Mathew as Non- Executive Independent Director of the company w.e.f. August 11, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T20:31:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -150,28 +183,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-28T13:33:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Completion of Acquisition of the land from Telangana State Industrial Infrastructure Corporation (TSIIC)",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-24T12:01:09+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding allotment of 2500 securities pursuant to ESOP/ESPS at its meeting held on July 17, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-17T21:03:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -527,10 +538,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T12:28:49+00:00",
+          "pubDate": "2026-08-11T22:30:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -658,22 +669,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Change in Auditors",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
+          "title": "[NSE] Investor Presentation",
+          "summary": "EPACK Durable Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T19:11:52+00:00",
+          "pubDate": "2026-08-12T08:24:02+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Investor Presentation",
-          "summary": "EPACK Durable Limited has informed the Exchange about Investor Presentation",
+          "title": "[NSE] Change in Auditors",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T19:10:01+00:00",
+          "pubDate": "2026-08-11T19:11:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -696,17 +707,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-11T19:01:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "EPACK Durable Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T18:09:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1049,10 +1049,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of Extraordinary General Meeting held on August 10, 2026",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Scrutinizer's report and voting results  of  Extraordinary General Meeting held on August 10, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-10T17:08:06+00:00",
+          "pubDate": "2026-08-11T23:32:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1067,17 +1067,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T21:50:25+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1247,17 +1236,6 @@
           }
         },
         {
-          "title": "TVS Supply Chain Solutions Q1 profit rises on strong business wins, freight volumes",
-          "summary": "TVS Supply Chain Solutions reported a 28.7% rise in Q1FY27 revenue and 34% growth in adjusted EBITDA, supported by strong volumes and global forwarding. Record quarterly business wins reached ₹543 crore, while adjusted PBT surged 71%.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-supply-chain-solutions-q1-profit-rises-on-strong-business-wins-freight-volumes/articleshow/133154739.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-11T18:09:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Investor Presentation",
           "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1338,6 +1316,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 4040  Options.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-11T22:51:14+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Zen Technologies Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1376,17 +1365,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-07T23:15:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 29, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T22:28:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
