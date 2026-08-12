@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-12T04:45:21.679082+00:00",
+  "fetchedAt": "2026-08-12T09:59:11.140901+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 101,
   "overview": {
-    "positive": 14,
+    "positive": 11,
     "negative": 4,
     "neutral": 86
   },
@@ -13,17 +13,6 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Jupiter Wagons shares rise 4% after Rs 211 crore order wins, Rs 400 crore BESS project",
-          "summary": "Jupiter Wagons marked a notable surge in share prices due to securing significant contracts for freight wagons and energy storage solutions. With orders exceeding Rs 211 crore from the JSW Group and OASPL, alongside two battery energy storage initiat…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-4-after-rs-211-crore-order-wins-rs-400-crore-bess-project/articleshow/133144988.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-11T12:47:09+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Press Release",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Jupiter Wagons secures 100 MW/400 MWh BESS capacity in West Bengal; targeting &#8377;1,000 cro",
@@ -247,6 +236,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of  Newspaper Publication regarding the 37th Annual General Meeting (AGM) of the Company, as published in Financial Express (English Lang",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T10:34:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -266,28 +266,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-05T12:21:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T20:07:53+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -477,17 +455,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -538,10 +505,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T22:30:47+00:00",
+          "pubDate": "2026-08-12T13:16:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -811,6 +778,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "ideaForge Technology shares drop over 9% in two days. JM Financial downgrades rating",
+          "summary": "ideaForge Technology shares fell 9.5% over two days after JM Financial downgraded the stock to Add from Buy, citing valuation concerns following a sharp run-up despite strong long-term prospects. The brokerage expects order inflows to remain weak in …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-shares-drop-over-9-in-two-days-jm-financial-downgrades-rating/articleshow/133173401.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-12T12:02:02+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -819,17 +797,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "ideaForge Technology shares slide 5% after Q1 gross profit margin falls 49%",
-          "summary": "ideaForge Technology shares fell after its Q1 gross profit margin declined to 49% from 62% a year ago and 68% in the previous quarter. Gross profit rose to Rs 33.6 crore and revenue increased to Rs 68.6 crore, while EBITDA turned positive at Rs 4.3 c…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-shares-slide-5-after-q1-gross-profit-margin-falls-49/articleshow/133147754.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-11T13:51:46+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.667
           }
         },
         {
