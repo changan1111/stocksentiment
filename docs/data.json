@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-12T09:59:11.140901+00:00",
+  "fetchedAt": "2026-08-12T14:19:37.270352+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 103,
   "overview": {
-    "positive": 11,
-    "negative": 4,
-    "neutral": 86
+    "positive": 14,
+    "negative": 2,
+    "neutral": 87
   },
   "stocks": [
     {
@@ -43,6 +43,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Purchase Order worth Rs. 77.76 Crores (incl. taxes) from IVC Logistics Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T19:17:23+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Memorandum of Understanding/Agreements",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding with The Signalling Company, NV.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -63,17 +74,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Submission of Investor Presentation pertaining to Unaudited Financial Results for the quarter ended 30th June, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T10:46:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -83,11 +83,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Q1 results 2026: HAL to Lenskart among companies to declare Q1 results today; full list here",
-          "summary": "Q1 results 2026: Hindustan Aeronautics, Grasim Industries, Tata Motors, Lenskart Solutions, GMR Airports, IRCTC, Titagarh Rail Systems are among the companies to report their Q1 results FY27 today.",
-          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-hal-to-lenskart-among-companies-to-declare-q1-results-today-full-list-here-11786502289754.html",
-          "source": "livemint",
-          "pubDate": "2026-08-12T08:30:03+05:30",
+          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T19:47:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for quarter ended 30.06.2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T19:46:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T19:44:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -114,17 +136,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-04T16:39:12+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -133,6 +144,17 @@
       "name": "Axiscades Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T18:54:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Appointment",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Appointment of Ms Ashmita Sethi as Non- Executive Independent Director of the company w.e.f. August 11, 2026.",
@@ -165,17 +187,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "AXISCADES Technologies Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T13:33:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -186,10 +197,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Transcript",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T19:05:06+00:00",
+          "pubDate": "2026-08-12T19:33:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -212,17 +223,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T22:07:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Avalon Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T21:40:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -455,6 +455,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -464,33 +475,44 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Updates",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding 'Intimation of revision in official Website and Investor Relations webpage'.",
+          "title": "[NSE] Press Release",
+          "summary": "Dcx Systems Limited has informed the Exchange regarding a press release dated August 12, 2026, titled \"Press Release for the un-audited financial results for the quarter ended June 30, 2026\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-17T13:44:22+00:00",
+          "pubDate": "2026-08-12T19:23:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Dcx Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-09T17:07:46+00:00",
+          "pubDate": "2026-08-12T18:36:31+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Dcx Systems Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-07-03T14:16:04+00:00",
+          "pubDate": "2026-08-12T18:34:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Dcx Systems Limited has informed the Exchange regarding 'Intimation of revision in official Website and Investor Relations webpage'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-07-17T13:44:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -503,6 +525,28 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Acquisition",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Proposed incorporation of One (1) Subsidiary Company of Dixon Technologies (India) Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T16:09:14+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "DIXON incorporates subsidiary for undertaking OEM biz",
+          "summary": "Dixon Technologies (India) is currently under the process of incorporating a subsidiary company with the name and style 'Adivistar Electronics India' wherein Dixon would be acquiring 51% equity shares comprising of 25,50,000 equity shares of Rs 10/- …",
+          "link": "https://www.business-standard.com/markets/capital-market-news/dixon-incorporates-subsidiary-for-undertaking-oem-biz-126081201678_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-12T19:04:11+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
@@ -636,44 +680,44 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Change in Auditors",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T17:50:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "EPACK Durable Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T17:20:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "EPACK Durable Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T15:44:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "EPACK Durable Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-12T08:24:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Auditors",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T19:11:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "EPACK Durable Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T19:07:51+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding a press release dated August 11, 2026, titled \"Press release on the Standalone and Consolidated Unaudited Financial Results of the Company for",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T19:01:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -913,6 +957,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T19:12:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -944,17 +999,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Letter to the Members providing web-link and QR code for accessing the Integrated Annual Report for the Financial Year 2025-26",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-23T15:36:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -965,10 +1009,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome of the investor conference. held on Monday, August 10, 2026.",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome of Investor Conference held on Wednesday, August 12, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-10T21:52:30+00:00",
+          "pubDate": "2026-08-12T18:45:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -994,17 +1038,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding Notice of 9th Annual General Meeting to be held on August 31, 2026, at 10.30 A.M. IST through VC/OAVM",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-05T19:50:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1074,10 +1107,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
+          "summary": "PG Electroplast Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T15:11:59+00:00",
+          "pubDate": "2026-08-12T16:53:24+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1103,17 +1136,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "PG Electroplast Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T21:25:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
