@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-12T14:19:37.270352+00:00",
+  "fetchedAt": "2026-08-13T04:48:44.499068+00:00",
   "tickerCount": 32,
   "articleCount": 103,
   "overview": {
-    "positive": 14,
+    "positive": 16,
     "negative": 2,
-    "neutral": 87
+    "neutral": 85
   },
   "stocks": [
     {
@@ -83,6 +83,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Titagarh Rail Systems consolidated net profit rises 70.38% in the June 2026 quarter",
+          "summary": "Sales rise 12.63% to Rs 765.07 crore",
+          "link": "https://www.business-standard.com/markets/capital-market-news/titagarh-rail-systems-consolidated-net-profit-rises-70-38-in-the-june-2026-quarter-126081300471_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-13T09:47:28+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T19:50:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -121,17 +143,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-07T16:13:17+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated August 01, 2026, titled \"TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-01T18:28:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -435,6 +446,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-12T20:21:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Action(s) initiated or orders passed",
           "summary": "Cyient Dlm Limited has informed the Exchange about Action(s) initiated or orders passed",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -443,17 +465,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-03T18:50:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -534,17 +545,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "DIXON incorporates subsidiary for undertaking OEM biz",
-          "summary": "Dixon Technologies (India) is currently under the process of incorporating a subsidiary company with the name and style 'Adivistar Electronics India' wherein Dixon would be acquiring 51% equity shares comprising of 25,50,000 equity shares of Rs 10/- …",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dixon-incorporates-subsidiary-for-undertaking-oem-biz-126081201678_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-12T19:04:11+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -731,6 +731,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 13 August 2026",
+          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Berger Paints India, Electronics Mart India, Indo Borax and Chemicals, KRN Heat Exchanger and Refrigeration, and HFCL.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-13-august-2026-11786581785457.html",
+          "source": "livemint",
+          "pubDate": "2026-08-13T06:29:43+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.556
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -821,17 +832,6 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "ideaForge Technology shares drop over 9% in two days. JM Financial downgrades rating",
-          "summary": "ideaForge Technology shares fell 9.5% over two days after JM Financial downgraded the stock to Add from Buy, citing valuation concerns following a sharp run-up despite strong long-term prospects. The brokerage expects order inflows to remain weak in …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-shares-drop-over-9-in-two-days-jm-financial-downgrades-rating/articleshow/133173401.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-12T12:02:02+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Link of Recording",
