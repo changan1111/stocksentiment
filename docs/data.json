@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-13T14:20:58.072235+00:00",
+  "fetchedAt": "2026-08-14T04:46:05.715929+00:00",
   "tickerCount": 32,
-  "articleCount": 103,
+  "articleCount": 104,
   "overview": {
     "positive": 13,
-    "negative": 2,
+    "negative": 3,
     "neutral": 88
   },
   "stocks": [
@@ -145,6 +145,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-14T09:03:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"AXISCADES reports record Rs. 346.7 crore revenue from operations for Q1 FY27, includin",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -183,17 +194,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-12T18:54:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Appointment of Ms Ashmita Sethi as Non- Executive Independent Director of the company w.e.f. August 11, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T20:31:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1047,6 +1047,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-13T21:41:01+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Scrutinizer's report and voting results  of  Extraordinary General Meeting held on August 10, 2026.",
