@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-17T09:37:06.223924+00:00",
+  "fetchedAt": "2026-08-17T13:36:54.342016+00:00",
   "tickerCount": 32,
-  "articleCount": 108,
+  "articleCount": 107,
   "overview": {
-    "positive": 15,
+    "positive": 14,
     "negative": 3,
     "neutral": 90
   },
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-17T16:01:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Schedule of meet",
@@ -52,17 +63,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-14T19:04:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Jupiter Wagons Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T18:32:51+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -422,17 +422,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Silver Traders Brave Red Tape to Capture Indian Premiums",
-          "summary": "Shipments of silver into India are picking up despite administrative hurdles, as traders seek to capitalize on attractive premiums after a new licensing regime disrupted imports.",
-          "link": "https://www.livemint.com/market/silver-traders-brave-red-tape-to-capture-indian-premiums-11786932527505.html",
-          "source": "livemint",
-          "pubDate": "2026-08-17T07:38:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Redtape Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -490,6 +479,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-17T16:08:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -530,6 +530,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-17T16:50:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Dcx Systems Limited has informed the Exchange regarding 'Updates on signing of  MOU.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -568,17 +579,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-12T19:23:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T18:36:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1230,10 +1230,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Saksoft Limited has informed the Exchange about Link of Recording",
+          "summary": "Saksoft Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-10T19:52:32+00:00",
+          "pubDate": "2026-08-17T18:03:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1280,22 +1280,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Copy of Newspaper Publication of the Unaudited Standalone and Consolidated Financial Results for the Quarter Ended June 30,2026",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T18:26:27+00:00",
+          "pubDate": "2026-08-17T16:27:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Link of Audio Recording",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Copy of Newspaper Publication of the Unaudited Standalone and Consolidated Financial Results for the Quarter Ended June 30,2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T18:16:25+00:00",
+          "pubDate": "2026-08-11T18:26:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1318,17 +1318,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T19:24:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "TVS Supply Chain Solutions Limited has submitted to the Exchange, the financial results for the period ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T19:04:38+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
