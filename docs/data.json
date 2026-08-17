@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-17T03:46:35.219767+00:00",
+  "fetchedAt": "2026-08-17T09:37:06.223924+00:00",
   "tickerCount": 32,
   "articleCount": 108,
   "overview": {
-    "positive": 14,
+    "positive": 15,
     "negative": 3,
-    "neutral": 91
+    "neutral": 90
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-17T13:45:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Investor Presentation",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Investor Presentation",
@@ -52,17 +63,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-14T18:32:51+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T14:10:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -482,19 +482,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Aditya Infotech's board to mull fund raising on 19 August'26",
-          "summary": "Aditya Infotech said its board of directors will meet on 19 August 2026 to consider a proposal for raising funds through various permissible modes.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/aditya-infotech-s-board-to-mull-fund-raising-on-19-august-26-126081700077_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-17T08:31:01+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -1143,6 +1131,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding approval of unaudited condensed financial statement",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-17T12:11:19+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
