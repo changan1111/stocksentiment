@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-14T14:15:06.100161+00:00",
+  "fetchedAt": "2026-08-17T03:46:35.219767+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 108,
   "overview": {
-    "positive": 12,
-    "negative": 4,
-    "neutral": 88
+    "positive": 14,
+    "negative": 3,
+    "neutral": 91
   },
   "stocks": [
     {
@@ -75,6 +75,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Cessation of Wholly Owned Subsidiary - Texmaco Defence Technologies Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-14T20:18:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Agreements",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Execution of Share Subscription & Shareholder''s Agreement",
@@ -178,6 +189,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-15T20:40:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -216,17 +238,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-13T15:39:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T18:54:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -372,10 +383,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T18:31:49+00:00",
+          "pubDate": "2026-08-14T20:03:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -410,6 +421,17 @@
       "name": "Red Tape",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Silver Traders Brave Red Tape to Capture Indian Premiums",
+          "summary": "Shipments of silver into India are picking up despite administrative hurdles, as traders seek to capitalize on attractive premiums after a new licensing regime disrupted imports.",
+          "link": "https://www.livemint.com/market/silver-traders-brave-red-tape-to-capture-indian-premiums-11786932527505.html",
+          "source": "livemint",
+          "pubDate": "2026-08-17T07:38:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Redtape Limited has informed the Exchange about Transcript",
@@ -460,7 +482,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "Aditya Infotech's board to mull fund raising on 19 August'26",
+          "summary": "Aditya Infotech said its board of directors will meet on 19 August 2026 to consider a proposal for raising funds through various permissible modes.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/aditya-infotech-s-board-to-mull-fund-raising-on-19-august-26-126081700077_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-17T08:31:01+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -575,6 +609,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-14T18:59:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Dixon Tech issues $220 mn guarantee to Lenovo for Padget Electronics div",
+          "summary": "Electronic manufacturing services major Dixon Technologies (India) on Friday said it has issued a continuing and irrevocable corporate guarantee of USD 220 million (about Rs 2,101 crore) on behalf of its subsidiary, Padget Electronics, in favour of L…",
+          "link": "https://www.business-standard.com/companies/news/dixon-tech-issues-220-mn-guarantee-to-lenovo-for-padget-electronics-div-126081401917_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-14T22:27:21+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1099,17 +1144,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top Gainers &amp; Losers on 14 August: NALCO, HPCL, Tata Motors PV, Netweb Tech, Hindustan Copper among top losers",
-          "summary": "The Indian stock market declined for the fourth consecutive day, driven by rising crude oil prices and foreign investor sell-offs. The Nifty dropped 0.12% and the Sensex fell 0.19%, with pharma sector leading losses, while only media and consumer dur…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-14-august-nalco-hpcl-tata-motors-pv-netweb-tech-hindustan-copper-among-top-losers-11786700818338.html",
-          "source": "livemint",
-          "pubDate": "2026-08-14T15:43:36+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1138,6 +1172,17 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Stock Radar: PG Electroplast holds 20-DMA support; breakout above Rs 630 may trigger fresh upside",
+          "summary": "PG Electroplast stock found support near its 20-day moving average. Experts suggest buying the stock for a target above 800 levels. The stock has recovered smartly from its 52-week low. A rounded base and bullish indicators favor a potential upward t…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-radar-pg-electroplast-holds-20-dma-support-breakout-above-rs-630-may-trigger-fresh-upside/articleshow/133236770.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-17T05:00:00+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
