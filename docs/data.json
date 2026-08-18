@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-18T03:41:16.220749+00:00",
+  "fetchedAt": "2026-08-18T09:28:49.418852+00:00",
   "tickerCount": 32,
-  "articleCount": 109,
+  "articleCount": 104,
   "overview": {
-    "positive": 11,
+    "positive": 10,
     "negative": 3,
-    "neutral": 95
+    "neutral": 91
   },
   "stocks": [
     {
@@ -530,17 +530,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Stock Alert: Netweb Tech, DCX Systems, Manipal Health Enterprise",
-          "summary": "One97 Communication (Paytm)s promoter entity, Resilient Asset Management B.V, proposes to sell up to 4.98% equity in fintech firm through a block deal under its existing optionally convertible debenture (OCD) agreement with Antfin (Netherlands) Holdi…",
-          "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-netweb-tech-dcx-systems-manipal-health-enterprise-126081800132_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-18T09:05:22+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
           "title": "[NSE] General Updates",
           "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -695,6 +684,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Clarification on News Article",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-18T10:11:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Appointment",
           "summary": "E2E Networks Limited has informed the Exchange regarding Appointment of  Mr. Amit as Senior Management Personnel (SMP) and designate him  as Senior Vice President- Capacity and Infrastructure of the c",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -711,28 +711,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-07-28T11:35:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about General Updates in relation to proceedings before the Hon ble Delhi High Court regarding stamp duty matter",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-27T18:18:24+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-22T11:21:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -888,22 +866,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 14135 securities pursuant to ESOP/ESPS at its meeting held on August 14, 2026",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-14T12:08:38+00:00",
+          "pubDate": "2026-08-18T10:14:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 14135 securities pursuant to ESOP/ESPS at its meeting held on August 14, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-11T14:21:52+00:00",
+          "pubDate": "2026-08-14T12:08:38+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -926,17 +904,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T20:02:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Ideaforge Technology Limited has submitted to the Exchange, the financial results for the period ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T20:00:30+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1131,28 +1098,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Stock Alert: Netweb Tech, DCX Systems, Manipal Health Enterprise",
-          "summary": "One97 Communication (Paytm)s promoter entity, Resilient Asset Management B.V, proposes to sell up to 4.98% equity in fintech firm through a block deal under its existing optionally convertible debenture (OCD) agreement with Antfin (Netherlands) Holdi…",
-          "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-netweb-tech-dcx-systems-manipal-health-enterprise-126081800132_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-18T09:05:22+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "Stocks to watch: Paytm, Jio Financial, SpiceJet, Swiggy, Netweb, Lenskart",
-          "summary": "Stocks to watch today: Paytm, Jio Financial Services, SpiceJet, Swiggy, Netweb, Lenskart Technologies, Greaves Cotton, Airtel, Tata Power, among others, will be in focus today.",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-paytm-jio-financial-spicejet-swiggy-netweb-lenskart-126081800084_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-18T08:09:54+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
         {
           "title": "Stocks to watch: Paytm, Bharti Airtel, Netweb Technologies among shares in focus today; check list here",
           "summary": "Stock market today: Gift Nifty was trading near the 24,320 mark, down over 72.70 points from the previous close of Nifty futures.",
