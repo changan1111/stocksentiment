@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-17T13:36:54.342016+00:00",
+  "fetchedAt": "2026-08-18T03:41:16.220749+00:00",
   "tickerCount": 32,
-  "articleCount": 107,
+  "articleCount": 109,
   "overview": {
-    "positive": 14,
+    "positive": 11,
     "negative": 3,
-    "neutral": 90
+    "neutral": 95
   },
   "stocks": [
     {
@@ -291,6 +291,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Letter to Shareholders of the Company as per Regulation 36 (1)(B) of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-17T21:40:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 09, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-17T20:54:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of  Newspaper Publication regarding the 37th Annual General Meeting (AGM) of the Company, as published in Financial Express (English Lang",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -310,17 +332,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Communication to Shareholders - Intimation of Tax Deduction on Dividend",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T16:59:16+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -383,10 +394,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-14T20:03:08+00:00",
+          "pubDate": "2026-08-17T19:06:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -398,17 +409,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-06T18:29:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding voting results of  Annual General Meeting held on August 03, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-05T00:11:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -530,6 +530,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Stock Alert: Netweb Tech, DCX Systems, Manipal Health Enterprise",
+          "summary": "One97 Communication (Paytm)s promoter entity, Resilient Asset Management B.V, proposes to sell up to 4.98% equity in fintech firm through a block deal under its existing optionally convertible debenture (OCD) agreement with Antfin (Netherlands) Holdi…",
+          "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-netweb-tech-dcx-systems-manipal-health-enterprise-126081800132_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-18T09:05:22+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -597,17 +608,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-14T18:59:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Dixon Tech issues $220 mn guarantee to Lenovo for Padget Electronics div",
-          "summary": "Electronic manufacturing services major Dixon Technologies (India) on Friday said it has issued a continuing and irrevocable corporate guarantee of USD 220 million (about Rs 2,101 crore) on behalf of its subsidiary, Padget Electronics, in favour of L…",
-          "link": "https://www.business-standard.com/companies/news/dixon-tech-issues-220-mn-guarantee-to-lenovo-for-padget-electronics-div-126081401917_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-14T22:27:21+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1132,14 +1132,47 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Stock Alert: Netweb Tech, DCX Systems, Manipal Health Enterprise",
+          "summary": "One97 Communication (Paytm)s promoter entity, Resilient Asset Management B.V, proposes to sell up to 4.98% equity in fintech firm through a block deal under its existing optionally convertible debenture (OCD) agreement with Antfin (Netherlands) Holdi…",
+          "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-netweb-tech-dcx-systems-manipal-health-enterprise-126081800132_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-18T09:05:22+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "Stocks to watch: Paytm, Jio Financial, SpiceJet, Swiggy, Netweb, Lenskart",
+          "summary": "Stocks to watch today: Paytm, Jio Financial Services, SpiceJet, Swiggy, Netweb, Lenskart Technologies, Greaves Cotton, Airtel, Tata Power, among others, will be in focus today.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-paytm-jio-financial-spicejet-swiggy-netweb-lenskart-126081800084_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-18T08:09:54+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Stocks to watch: Paytm, Bharti Airtel, Netweb Technologies among shares in focus today; check list here",
+          "summary": "Stock market today: Gift Nifty was trading near the 24,320 mark, down over 72.70 points from the previous close of Nifty futures.",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-paytm-bharti-airtel-netweb-technologies-among-shares-in-focus-today-check-list-here-11787018700385.html",
+          "source": "livemint",
+          "pubDate": "2026-08-18T07:56:21+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding approval of unaudited condensed financial statement",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Qualified Institution Placement of Equity Shares",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-17T12:11:19+00:00",
+          "pubDate": "2026-08-17T19:40:04+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -1171,17 +1204,6 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Stock Radar: PG Electroplast holds 20-DMA support; breakout above Rs 630 may trigger fresh upside",
-          "summary": "PG Electroplast stock found support near its 20-day moving average. Experts suggest buying the stock for a target above 800 levels. The stock has recovered smartly from its 52-week low. A rounded base and bullish indicators favor a potential upward t…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-radar-pg-electroplast-holds-20-dma-support-breakout-above-rs-630-may-trigger-fresh-upside/articleshow/133236770.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-17T05:00:00+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
