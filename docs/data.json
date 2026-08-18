@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-18T09:28:49.418852+00:00",
+  "fetchedAt": "2026-08-18T13:39:11.200477+00:00",
   "tickerCount": 32,
   "articleCount": 104,
   "overview": {
-    "positive": 10,
-    "negative": 3,
-    "neutral": 91
+    "positive": 11,
+    "negative": 4,
+    "neutral": 89
   },
   "stocks": [
     {
@@ -14,22 +14,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-17T16:01:43+00:00",
+          "pubDate": "2026-08-18T18:45:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-17T13:45:43+00:00",
+          "pubDate": "2026-08-17T16:01:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -52,17 +52,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-14T19:07:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Please find enclosed the Monitoring Agency Report(s) for the quarter ended June 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T19:04:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -291,6 +280,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-18T15:47:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Letter to Shareholders of the Company as per Regulation 36 (1)(B) of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -307,17 +307,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-17T20:54:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of  Newspaper Publication regarding the 37th Annual General Meeting (AGM) of the Company, as published in Financial Express (English Lang",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T10:34:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -479,22 +468,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] General Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about General Updates",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-17T16:08:02+00:00",
+          "pubDate": "2026-08-18T15:32:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] General Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-12T20:21:35+00:00",
+          "pubDate": "2026-08-17T16:08:02+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -724,22 +713,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Change in Auditors",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "EPACK Durable Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-12T17:50:55+00:00",
+          "pubDate": "2026-08-18T16:32:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "EPACK Durable Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Change in Auditors",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-12T17:20:03+00:00",
+          "pubDate": "2026-08-12T17:50:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -825,6 +814,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Defence stocks fire up! Paras Defence, GRSE, other stocks jump up to 10% as govt notifies 6th indigenisation list",
+          "summary": "Defence stocks surged up to 10% after the Defence Ministry unveiled its sixth Positive Indigenisation List covering 405 items with Rs 3,070 crore business potential. The move aims to boost domestic manufacturing, innovation and investment while reduc…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-18T15:43:16+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.6
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Further to our Intimation Letter No. SECY/GRSE/BD-69/AM/01/26-27 dated 03 Aug 2026, we wish to inform that Conference Call was held on Thursday, 06 August, 2026 at 03.30 P.M. to discuss the Unaudited ",
@@ -917,6 +917,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Schedule of Analyst/Institutional Investor Meetings under the SEBI (LODR), Regulations 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-18T18:13:40+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -944,17 +955,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-11T12:45:53+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Intimation about Execution of Memorandum of Understanding (MoU) between Royalux FZCO, UAE, a step-down subsidiary of IKIO Technologies Limited",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T16:55:14+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
