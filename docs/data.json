@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-19T09:29:44.989235+00:00",
+  "fetchedAt": "2026-08-19T13:41:06.340613+00:00",
   "tickerCount": 32,
   "articleCount": 104,
   "overview": {
-    "positive": 11,
+    "positive": 10,
     "negative": 5,
-    "neutral": 88
+    "neutral": 89
   },
   "stocks": [
     {
@@ -251,6 +251,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating- Others",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Affirmation and Withdrawal of Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-19T18:29:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -267,17 +278,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T22:11:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated August 04, 2026, titled \"Press Release for the Quarter Ended June 30, 2026\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T22:07:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -592,6 +592,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investor Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-19T16:17:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Giving guarantees/indemnity/ becoming a surety for third party",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Giving guarantees/indemnity/ becoming a surety for third party",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -611,17 +622,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T13:16:53+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -825,17 +825,6 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Defence stocks fire up! Paras Defence, GRSE, other stocks jump up to 10% as govt notifies 6th indigenisation list",
-          "summary": "Defence stocks surged up to 10% after the Defence Ministry unveiled its sixth Positive Indigenisation List covering 405 items with Rs 3,070 crore business potential. The move aims to boost domestic manufacturing, innovation and investment while reduc…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-18T15:43:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Further to our Intimation Letter No. SECY/GRSE/BD-69/AM/01/26-27 dated 03 Aug 2026, we wish to inform that Conference Call was held on Thursday, 06 August, 2026 at 03.30 P.M. to discuss the Unaudited ",
@@ -1109,6 +1098,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top Gainers &amp; Losers on 19 Aug: Netweb Tech, Bata, Reliance Power, Bharat Dynamics, Tata Chemicals among top losers",
+          "summary": "Continuing its decline, the Indian stock market fell for the seventh consecutive session, driven by high crude prices and increased bond yields. The Nifty dropped to 24,078, while the Sensex closed at 76,909, with all major sectors losing ground exce…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html",
+          "source": "livemint",
+          "pubDate": "2026-08-19T16:01:46+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Qualified Institution Placement of Equity Shares",
