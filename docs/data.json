@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-18T13:39:11.200477+00:00",
+  "fetchedAt": "2026-08-19T03:42:47.971230+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 103,
   "overview": {
     "positive": 11,
     "negative": 4,
-    "neutral": 89
+    "neutral": 88
   },
   "stocks": [
     {
@@ -383,10 +383,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-17T19:06:59+00:00",
+          "pubDate": "2026-08-18T19:30:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -495,17 +495,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-07T22:04:19+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -815,6 +804,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Nifty outlook & two stock ideas for today by HDFC Sec's Vinay Rajani",
+          "summary": "Stocks to buy today: Vinay Rajani, CMT, senior technical analyst at HDFC Securities, recommends buying GRSE and Tata Capital.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-outlook-two-stock-ideas-for-today-by-hdfc-sec-s-vinay-rajani-126081900097_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-19T07:47:23+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "Defence stocks fire up! Paras Defence, GRSE, other stocks jump up to 10% as govt notifies 6th indigenisation list",
           "summary": "Defence stocks surged up to 10% after the Defence Ministry unveiled its sixth Positive Indigenisation List covering 405 items with Rs 3,070 crore business potential. The move aims to boost domestic manufacturing, innovation and investment while reduc…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms",
@@ -1098,17 +1098,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Stocks to watch: Paytm, Bharti Airtel, Netweb Technologies among shares in focus today; check list here",
-          "summary": "Stock market today: Gift Nifty was trading near the 24,320 mark, down over 72.70 points from the previous close of Nifty futures.",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-paytm-bharti-airtel-netweb-technologies-among-shares-in-focus-today-check-list-here-11787018700385.html",
-          "source": "livemint",
-          "pubDate": "2026-08-18T07:56:21+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Qualified Institution Placement of Equity Shares",
