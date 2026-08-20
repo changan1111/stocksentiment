@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-20T03:43:21.878903+00:00",
+  "fetchedAt": "2026-08-20T09:30:16.740860+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 108,
   "overview": {
-    "positive": 12,
-    "negative": 5,
-    "neutral": 87
+    "positive": 18,
+    "negative": 4,
+    "neutral": 86
   },
   "stocks": [
     {
@@ -13,17 +13,6 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here’s why",
-          "summary": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing weaker wagon and wheelset sales, margin pressure …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-price-for-jupiter-wagons-maintains-underperform-after-q1-earnings-heres-why/articleshow/133341991.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-19T13:39:20+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Link of Recording",
@@ -126,6 +115,28 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Titagarh Rail gains 3% as Jefferies sees 5% revenue boost for wagon maker",
+          "summary": "Titagarh Rail Systems is an Indian railway wagon and coach manufacturer, with an annual manufacturing capacity of 12,000 wagons and 300 coaches.",
+          "link": "https://www.business-standard.com/markets/news/titagarh-rail-gains-3-as-jefferies-sees-5-revenue-boost-for-wagon-maker-126082000643_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-20T14:35:33+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Titagarh Rail Systems shares gain 3% after Indian Railways' approval for traction motor supply",
+          "summary": "Titagarh Rail Systems shares rose after Indian Railways approved the company as a vendor for supplying three-phase asynchronous traction motors for locomotives. The approval allows Titagarh to supply up to 1,200 traction motors annually, boosting its…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/titagarh-rail-systems-shares-gain-3-after-indian-railways-approval-for-traction-motor-supply/articleshow/133367736.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-20T12:32:25+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates",
@@ -240,6 +251,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Buy or sell: Gift Nifty hints at a strong start! Vaishali Parekh recommends three stocks to buy today — 20 August 2026",
+          "summary": "Buy or sell indicator: Vaishali Parekh recommends three stocks to buy today —JSW Steel, Policy Bazaar, and Avalon Technologies",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-at-a-strong-start-vaishali-parekh-recommends-three-stocks-to-buy-today-20-august-2026-11787195070605.html",
+          "source": "livemint",
+          "pubDate": "2026-08-20T09:23:21+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.429
+          }
+        },
+        {
           "title": "[NSE] Credit Rating- Others",
           "summary": "Avalon Technologies Limited has informed the Exchange about Affirmation and Withdrawal of Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -331,6 +353,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%",
+          "summary": "IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-20T13:40:42+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Coforge shares jump 3% after IT major launches private equity unit",
+          "summary": "Coforge shares climbed on Thursdat after the IT services company launched a dedicated Private Equity business unit to help funds drive operational transformation and value creation across portfolio companies. The new vertical will leverage Coforge’s …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-jump-3-after-it-major-launches-private-equity-unit/articleshow/133367354.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-20T12:26:22+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 11, 2026, titled \"Coforge Launches Private Equity Business Unit\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -381,6 +425,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%",
+          "summary": "IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-20T13:40:42+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
@@ -460,19 +515,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Stock Alert: Aditya Infotech, HDFC Life, Hyundai Motor, Kolte-Patil Developers",
-          "summary": "Bandhan Bank, Manappuram Finance and SAIL barred from fresh F&amp;O positions on 20 August 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-aditya-infotech-hdfc-life-hyundai-motor-kolte-patil-developers-126082000135_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-20T09:04:37+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -597,7 +640,7 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-19T16:17:29+00:00",
+          "pubDate": "2026-08-20T14:40:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1100,14 +1143,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top Gainers &amp; Losers on 19 Aug: Netweb Tech, Bata, Reliance Power, Bharat Dynamics, Tata Chemicals among top losers",
-          "summary": "Continuing its decline, the Indian stock market fell for the seventh consecutive session, driven by high crude prices and increased bond yields. The Nifty dropped to 24,078, while the Sensex closed at 76,909, with all major sectors losing ground exce…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html",
-          "source": "livemint",
-          "pubDate": "2026-08-19T16:01:46+05:30",
+          "title": "ACME Solar, Balrampur, Netweb, NAM India hit record highs; rally up to 8%",
+          "summary": "Sona BLW Precision Forgings, R R Kabel, Welspun Corp, Lenskart Solutions and Leela Palaces Hotels from the BSE 500 index hitting their respective all-time highs.",
+          "link": "https://www.business-standard.com/markets/news/acme-solar-balrampur-netweb-nam-india-hit-record-highs-rally-up-to-8-126082000447_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-20T12:30:29+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
