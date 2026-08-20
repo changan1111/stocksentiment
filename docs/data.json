@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-20T09:30:16.740860+00:00",
+  "fetchedAt": "2026-08-20T13:42:55.227643+00:00",
   "tickerCount": 32,
-  "articleCount": 108,
+  "articleCount": 106,
   "overview": {
     "positive": 18,
     "negative": 4,
-    "neutral": 86
+    "neutral": 84
   },
   "stocks": [
     {
@@ -189,22 +189,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-15T20:40:21+00:00",
+          "pubDate": "2026-08-20T17:11:40+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-14T09:03:08+00:00",
+          "pubDate": "2026-08-15T20:40:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -227,17 +227,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-13T16:58:16+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "AXISCADES Technologies Limited has submitted to the Exchange, the unaudited financial results for the period ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T15:39:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -353,6 +342,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Coforge surges 31% in 4 weeks, hits 8-month high; what's driving IT stock?",
+          "summary": "Coforge Share : Axis Securities expects deal ramp-ups, AI monetisation and Encora synergies to drive sustained earnings growth for Coforge. It maintained a 'Buy' rating with a target price of ₹2,050.",
+          "link": "https://www.business-standard.com/markets/news/coforge-share-surges-31-in-4-weeks-hits-8-month-high-what-s-driving-the-it-stock-126082000636_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-20T14:59:58+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%",
           "summary": "IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms",
@@ -426,6 +426,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-20T16:37:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%",
           "summary": "IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms",
@@ -434,28 +445,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-18T19:30:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Acceptance Period Commences: Persistent Publishes Public Takeover Offer for all Nagarro Sh",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T18:29:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1142,17 +1131,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "ACME Solar, Balrampur, Netweb, NAM India hit record highs; rally up to 8%",
-          "summary": "Sona BLW Precision Forgings, R R Kabel, Welspun Corp, Lenskart Solutions and Leela Palaces Hotels from the BSE 500 index hitting their respective all-time highs.",
-          "link": "https://www.business-standard.com/markets/news/acme-solar-balrampur-netweb-nam-india-hit-record-highs-rally-up-to-8-126082000447_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-20T12:30:29+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Qualified Institution Placement of Equity Shares",
