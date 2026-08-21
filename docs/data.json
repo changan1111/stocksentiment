@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-21T03:47:33.939357+00:00",
+  "fetchedAt": "2026-08-21T09:33:15.592319+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 101,
   "overview": {
-    "positive": 17,
+    "positive": 14,
     "negative": 4,
     "neutral": 83
   },
@@ -115,17 +115,6 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Titagarh Rail Systems shares gain 3% after Indian Railways' approval for traction motor supply",
-          "summary": "Titagarh Rail Systems shares rose after Indian Railways approved the company as a vendor for supplying three-phase asynchronous traction motors for locomotives. The approval allows Titagarh to supply up to 1,200 traction motors annually, boosting its…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/titagarh-rail-systems-shares-gain-3-after-indian-railways-approval-for-traction-motor-supply/articleshow/133367736.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-20T12:32:25+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates",
@@ -331,39 +320,6 @@
           }
         },
         {
-          "title": "Coforge surges 31% in 4 weeks, hits 8-month high; what's driving IT stock?",
-          "summary": "Coforge Share : Axis Securities expects deal ramp-ups, AI monetisation and Encora synergies to drive sustained earnings growth for Coforge. It maintained a 'Buy' rating with a target price of ₹2,050.",
-          "link": "https://www.business-standard.com/markets/news/coforge-share-surges-31-in-4-weeks-hits-8-month-high-what-s-driving-the-it-stock-126082000636_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-20T14:59:58+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%",
-          "summary": "IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-20T13:40:42+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Coforge shares jump 3% after IT major launches private equity unit",
-          "summary": "Coforge shares climbed on Thursdat after the IT services company launched a dedicated Private Equity business unit to help funds drive operational transformation and value creation across portfolio companies. The new vertical will leverage Coforge’s …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-jump-3-after-it-major-launches-private-equity-unit/articleshow/133367354.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-20T12:26:22+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 11, 2026, titled \"Coforge Launches Private Equity Business Unit\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -401,17 +357,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%",
-          "summary": "IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-20T13:40:42+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -471,7 +416,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "Aditya Infotech shares can rally up to 27%? Why Motilal Oswal initiated coverage on the stock",
+          "summary": "Motilal Oswal sees 27% upside in Aditya Infotech, citing strong surveillance demand, rising market share, STQC norms and improving margins. The brokerage expects robust revenue and profit growth through FY28, supported by higher-value products, backw…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-shares-can-rally-up-to-27-why-motilal-oswal-initiated-coverage-on-the-stock/articleshow/133396815.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-21T12:55:41+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -979,6 +936,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-21T12:34:18+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "JSW Infrastructure Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 13, 2026. Further, the company has informed the Exchange regarding voting resu",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1006,17 +974,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T16:04:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Options to purchase securities",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Options to purchase securities",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T18:45:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1109,6 +1066,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Netweb Tech shares rise 4% as Nomura, Goldman Sachs invest in Rs 1,200 crore QIP",
+          "summary": "Netweb Technologies India shares rose nearly 3.5% to a fresh 52-week high after the company completed its Rs 1,200 crore qualified institutional placement (QIP). Nomura, Goldman Sachs, ICICI Prudential Mutual Fund and other institutional investors pa…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-rise-4-as-nomura-goldman-sachs-invest-in-rs-1200-crore-qip/articleshow/133396534.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-21T12:41:53+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Allotment of Securities",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding allotment of 2505219 securities pursuant to Qualified Institution Placement at its meeting held on August 20, 2026",
