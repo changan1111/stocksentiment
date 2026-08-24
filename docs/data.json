@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-24T03:51:52.676740+00:00",
+  "fetchedAt": "2026-08-24T09:42:45.538960+00:00",
   "tickerCount": 32,
-  "articleCount": 99,
+  "articleCount": 103,
   "overview": {
-    "positive": 13,
+    "positive": 16,
     "negative": 4,
-    "neutral": 82
+    "neutral": 83
   },
   "stocks": [
     {
@@ -394,19 +394,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside",
-          "summary": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic component prices that are squeezing profits. On a positive note, the introduc…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-22T07:42:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -526,6 +514,28 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "PLI 2.0 for mobiles set to reward scale, exports; Dixon a key beneficiary: Motilal Oswal",
+          "summary": "The government’s new mobile phone manufacturing incentive scheme is set to favour companies with scale, export capabilities and strong domestic supply chains. Motilal Oswal said Dixon Technologies is well positioned to benefit, while higher incentive…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pli-2-0-for-mobiles-set-to-reward-scale-exports-dixon-a-key-beneficiary-motilal-oswal/articleshow/133455488.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-24T12:42:19+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Kaynes Tech, Dixon Tech, Syrma shares rise up to 2% after govt notifies Rs 62,500 cr mobile manufacturing scheme",
+          "summary": "Shares of Kaynes Tech, Dixon Technologies and Syrma SGS gained after the government notified its Rs 62,500 crore Mobile Phone Manufacturing Scheme. The five-year initiative offers incentives to manufacturers and Indian brands, aiming to boost domesti…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-dixon-tech-syrma-shares-rise-up-to-2-after-govt-notifies-rs-62500-cr-mobile-manufacturing-scheme/articleshow/133451174.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-24T10:01:39+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
@@ -761,6 +771,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-24T13:19:52+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we wish to info",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-24T10:23:20+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Further to our Intimation Letter No. SECY/GRSE/BD-69/AM/01/26-27 dated 03 Aug 2026, we wish to inform that Conference Call was held on Thursday, 06 August, 2026 at 03.30 P.M. to discuss the Unaudited ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -777,17 +809,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-04T11:52:07+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Awarding of order(s)/contract(s)",
-          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-30T15:39:52+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -1034,17 +1055,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today —24 August 2026",
-          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Hindustan Zinc, Netweb Technologies India, Icici Prudential Life Insurance Comp, Prime Focus Limited, and Power Grid Corporation of India.",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-24-august-2026-11787531638864.html",
-          "source": "livemint",
-          "pubDate": "2026-08-24T06:22:26+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.556
-          }
-        },
-        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1193,6 +1203,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding press release dated August 24, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-24T09:50:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "TVS Supply Chain share price zooms 16% in subdued market; here's why",
+          "summary": "The buying momentum came after the logistics solutions provider announced that it had signed a pact with Japan-based Sankyu Inc to collaborate across supply chain and engineering services.",
+          "link": "https://www.business-standard.com/markets/news/tvs-supply-chain-share-price-zooms-16-in-subdued-market-here-s-why-126082400501_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-24T13:45:49+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "TVS Supply Chain, Japan's Sankyu sign pact to collaborate across services",
+          "summary": "TVS Supply Chain Solutions on Monday said it has signed an initial pact with Japan-based Sankyu Inc to collaborate across supply chain and engineering services.\nAs part of the memorandum of understanding (MoU), Sankyu intends to acquire a 0.5 per cen…",
+          "link": "https://www.business-standard.com/companies/news/tvs-supply-chain-japan-s-sankyu-sign-pact-to-collaborate-across-services-126082400387_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-24T12:41:20+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "TVS Supply Chain, Japan's Sankyu join hands to expand supply chain, engineering services; shares jump 8%",
+          "summary": "TVS Supply Chain Solutions has signed a strategic MoU with Japan’s Sankyu Inc. to jointly pursue opportunities across supply chain and engineering services, initially focusing on India’s manufacturing and industrial sectors. Sankyu intends to acquire…",
+          "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/tvs-supply-chain-japans-sankyu-join-hands-to-expand-supply-chain-engineering-services-shares-jump-8/articleshow/133452034.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-24T10:56:48+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding Unaudited Standalone and Consolidated Financial Results in Machine Readable Format For the quarter ended June 30,2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1220,17 +1274,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-11T18:26:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T19:55:41+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
