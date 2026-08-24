@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-21T13:42:11.460745+00:00",
+  "fetchedAt": "2026-08-24T03:51:52.676740+00:00",
   "tickerCount": 32,
-  "articleCount": 98,
+  "articleCount": 99,
   "overview": {
     "positive": 13,
-    "negative": 3,
+    "negative": 4,
     "neutral": 82
   },
   "stocks": [
@@ -54,6 +54,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-22T13:27:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of Investor meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-21T23:39:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Investment in the Shares of its Subsidiary",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -63,39 +85,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Execution of Share Subscription & Shareholder''s Agreement",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T19:13:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Purchase Order worth Rs. 77.76 Crores (incl. taxes) from IVC Logistics Limited",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T19:17:23+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Memorandum of Understanding/Agreements",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding with The Signalling Company, NV.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T18:03:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -104,6 +93,17 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated August 21, 2026, titled \"TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-21T23:43:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates",
@@ -132,17 +132,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-14T15:33:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T15:07:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -407,11 +396,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Aditya Infotech shares can rally up to 27%? Why Motilal Oswal initiated coverage on the stock",
-          "summary": "Motilal Oswal sees 27% upside in Aditya Infotech, citing strong surveillance demand, rising market share, STQC norms and improving margins. The brokerage expects robust revenue and profit growth through FY28, supported by higher-value products, backw…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-shares-can-rally-up-to-27-why-motilal-oswal-initiated-coverage-on-the-stock/articleshow/133396815.cms",
+          "title": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside",
+          "summary": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic component prices that are squeezing profits. On a positive note, the introduc…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
           "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-21T12:55:41+05:30",
+          "pubDate": "2026-08-22T07:42:03+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -452,6 +441,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-07T22:04:19+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -535,17 +535,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 21 August 2026",
-          "summary": "The Indian stock market is likely to open flat on August 21, with mixed global cues. The Nifty 50 closed at 24,231.85, despite recent losses. Analysts recommend buying Dixon Technologies, Glenmark Pharmaceuticals, and Eternal shares, noting bullish t…",
-          "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-21-august-2026-11787240512519.html",
-          "source": "livemint",
-          "pubDate": "2026-08-21T08:19:25+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.2
           }
         },
         {
@@ -914,6 +903,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra",
+          "summary": "Indian equity markets closed largely unchanged on Friday, August 21, after a volatile trading session. Several companies, including Reliance Industries and Bank of Baroda, reported significant corporate developments. Power Grid Corporation and Jubila…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-bank-of-baroda-power-grid-natco-pharma-and-jsw-infra/articleshow/133444199.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-24T06:00:00+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Acquisition",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Update on Acquisition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-22T20:41:21+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -941,17 +952,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-12T19:12:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T16:04:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -995,10 +995,10 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015.",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - update.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-13T21:41:01+00:00",
+          "pubDate": "2026-08-21T22:03:30+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -1034,14 +1034,25 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Netweb Tech shares rise 4% as Nomura, Goldman Sachs invest in Rs 1,200 crore QIP",
-          "summary": "Netweb Technologies India shares rose nearly 3.5% to a fresh 52-week high after the company completed its Rs 1,200 crore qualified institutional placement (QIP). Nomura, Goldman Sachs, ICICI Prudential Mutual Fund and other institutional investors pa…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-rise-4-as-nomura-goldman-sachs-invest-in-rs-1200-crore-qip/articleshow/133396534.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-21T12:41:53+05:30",
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today —24 August 2026",
+          "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Hindustan Zinc, Netweb Technologies India, Icici Prudential Life Insurance Comp, Prime Focus Limited, and Power Grid Corporation of India.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-24-august-2026-11787531638864.html",
+          "source": "livemint",
+          "pubDate": "2026-08-24T06:22:26+05:30",
           "sentiment": {
             "label": "Positive",
-            "score": 1.0
+            "score": 0.556
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-22T12:42:33+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
