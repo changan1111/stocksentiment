@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-24T09:42:45.538960+00:00",
+  "fetchedAt": "2026-08-24T13:48:05.080678+00:00",
   "tickerCount": 32,
-  "articleCount": 103,
+  "articleCount": 104,
   "overview": {
-    "positive": 16,
+    "positive": 15,
     "negative": 4,
-    "neutral": 83
+    "neutral": 85
   },
   "stocks": [
     {
@@ -54,6 +54,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Reporting for the Financial Year 2025-26'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-24T18:58:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange that Record date for the purpose of Dividend  is 11-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-24T18:53:21+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 18, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-24T18:45:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -73,17 +106,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Investment in the Shares of its Subsidiary",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-19T21:00:25+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -331,7 +353,7 @@
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-20T16:37:25+00:00",
+          "pubDate": "2026-08-24T19:04:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1214,22 +1236,11 @@
           }
         },
         {
-          "title": "TVS Supply Chain share price zooms 16% in subdued market; here's why",
-          "summary": "The buying momentum came after the logistics solutions provider announced that it had signed a pact with Japan-based Sankyu Inc to collaborate across supply chain and engineering services.",
-          "link": "https://www.business-standard.com/markets/news/tvs-supply-chain-share-price-zooms-16-in-subdued-market-here-s-why-126082400501_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-24T13:45:49+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "TVS Supply Chain, Japan's Sankyu sign pact to collaborate across services",
           "summary": "TVS Supply Chain Solutions on Monday said it has signed an initial pact with Japan-based Sankyu Inc to collaborate across supply chain and engineering services.\nAs part of the memorandum of understanding (MoU), Sankyu intends to acquire a 0.5 per cen…",
           "link": "https://www.business-standard.com/companies/news/tvs-supply-chain-japan-s-sankyu-sign-pact-to-collaborate-across-services-126082400387_1.html",
           "source": "business-standard",
-          "pubDate": "2026-08-24T12:41:20+05:30",
+          "pubDate": "2026-08-24T12:41:10+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
