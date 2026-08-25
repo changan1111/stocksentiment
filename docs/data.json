@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-24T13:48:05.080678+00:00",
+  "fetchedAt": "2026-08-25T03:45:07.368963+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 103,
   "overview": {
-    "positive": 15,
-    "negative": 4,
-    "neutral": 85
+    "positive": 13,
+    "negative": 3,
+    "neutral": 87
   },
   "stocks": [
     {
@@ -309,6 +309,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Coforge Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 24, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-25T00:03:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 24, 2026, titled \"From Rebrand to Reinvention: Coforge Marks Six Years of Transformation and Growth.\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-24T23:59:30+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -317,17 +339,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 11, 2026, titled \"Coforge Launches Private Equity Business Unit\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T10:21:16+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -542,17 +553,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/pli-2-0-for-mobiles-set-to-reward-scale-exports-dixon-a-key-beneficiary-motilal-oswal/articleshow/133455488.cms",
           "source": "economictimes.indiatimes",
           "pubDate": "2026-08-24T12:42:19+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Kaynes Tech, Dixon Tech, Syrma shares rise up to 2% after govt notifies Rs 62,500 cr mobile manufacturing scheme",
-          "summary": "Shares of Kaynes Tech, Dixon Technologies and Syrma SGS gained after the government notified its Rs 62,500 crore Mobile Phone Manufacturing Scheme. The five-year initiative offers incentives to manufacturers and Indian brands, aiming to boost domesti…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-dixon-tech-syrma-shares-rise-up-to-2-after-govt-notifies-rs-62500-cr-mobile-manufacturing-scheme/articleshow/133451174.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-24T10:01:39+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -946,17 +946,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra",
-          "summary": "Indian equity markets closed largely unchanged on Friday, August 21, after a volatile trading session. Several companies, including Reliance Industries and Bank of Baroda, reported significant corporate developments. Power Grid Corporation and Jubila…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-bank-of-baroda-power-grid-natco-pharma-and-jsw-infra/articleshow/133444199.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-24T06:00:00+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Acquisition",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Update on Acquisition",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1076,6 +1065,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Press release",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-25T09:02:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -1244,17 +1244,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "TVS Supply Chain, Japan's Sankyu join hands to expand supply chain, engineering services; shares jump 8%",
-          "summary": "TVS Supply Chain Solutions has signed a strategic MoU with Japan’s Sankyu Inc. to jointly pursue opportunities across supply chain and engineering services, initially focusing on India’s manufacturing and industrial sectors. Sankyu intends to acquire…",
-          "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/tvs-supply-chain-japans-sankyu-join-hands-to-expand-supply-chain-engineering-services-shares-jump-8/articleshow/133452034.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-24T10:56:48+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
