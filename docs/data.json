@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-25T03:45:07.368963+00:00",
+  "fetchedAt": "2026-08-25T09:31:45.444071+00:00",
   "tickerCount": 32,
   "articleCount": 103,
   "overview": {
-    "positive": 13,
+    "positive": 12,
     "negative": 3,
-    "neutral": 87
+    "neutral": 88
   },
   "stocks": [
     {
@@ -258,6 +258,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-25T12:21:06+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding Resignation of Mr Anil Khandelwal (DIN: 00005619) as Independent Director of the company w.e.f. August 24, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-25T12:03:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -285,17 +307,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-17T20:54:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T12:50:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -466,17 +477,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -548,25 +548,25 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "PLI 2.0 for mobiles set to reward scale, exports; Dixon a key beneficiary: Motilal Oswal",
-          "summary": "The government’s new mobile phone manufacturing incentive scheme is set to favour companies with scale, export capabilities and strong domestic supply chains. Motilal Oswal said Dixon Technologies is well positioned to benefit, while higher incentive…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pli-2-0-for-mobiles-set-to-reward-scale-exports-dixon-a-key-beneficiary-motilal-oswal/articleshow/133455488.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-24T12:42:19+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-21T17:29:52+00:00",
+          "pubDate": "2026-08-25T14:34:30+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Dixon Technologies among 4 F&amp;O stocks with sharp OI jump",
+          "summary": "A significant uptick in futures open interest indicates a substantial increase in the number of active, unexpired futures contracts in a particular security.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-technologies-among-4-fampo-stocks-with-sharp-oi-jump/slideshow/133489845.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-25T09:08:00+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -578,17 +578,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Proposed incorporation of One (1) Subsidiary Company of Dixon Technologies (India) Limited",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T16:09:14+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1074,6 +1063,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Netweb Technologies shares fall 4% after raising Rs 1,200 crore through QIP",
+          "summary": "Netweb Technologies shares fell nearly 4% after the company completed its Rs 1,200 crore Qualified Institutions Placement (QIP), its first equity capital raise since listing in July 2023. The issue drew strong participation from global and domestic i…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-fall-4-after-raising-rs-1200-crore-through-qip/articleshow/133494330.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-25T10:54:55+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
           }
         },
         {
