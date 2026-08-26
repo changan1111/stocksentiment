@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-25T13:46:09.403345+00:00",
+  "fetchedAt": "2026-08-26T03:50:56.750601+00:00",
   "tickerCount": 32,
   "articleCount": 104,
   "overview": {
-    "positive": 13,
-    "negative": 3,
-    "neutral": 88
+    "positive": 14,
+    "negative": 4,
+    "neutral": 86
   },
   "stocks": [
     {
@@ -247,6 +247,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Independent director resigns over governance concerns, Rashi Peripherals stock falls 10%",
+          "summary": "Anil Khandelwal’s exit resembles that of Atanu Chakraborty, who resigned as HDFC Bank’s part-time chair and independent director this March citing an “incongruence” with his values and ethics. Rashi Peripherals denied lapses.",
+          "link": "https://www.livemint.com/companies/rashi-peripherals-anil-khandelwal-corporate-governance-independent-directors-board-resignation-11787685182857.html",
+          "source": "livemint",
+          "pubDate": "2026-08-26T08:01:13+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding 'update by the company on resignation by Independent Director'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-25T22:44:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -263,17 +285,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-25T12:03:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Shah Metacorp Ltd leads losers in 'B' group",
-          "summary": "DJ Mediaprint & Logistics Ltd, ICDS Ltd, Rashi Peripherals Ltd and MPDL Ltd are among the other losers in the BSE's 'B' group today, 25 August 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/shah-metacorp-ltd-leads-losers-in-b-group-126082500812_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-25T15:50:44+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -300,17 +311,6 @@
             "label": "Neutral",
             "score": 0.0
           }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Rashi Peripherals Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 09, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-17T20:54:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -319,6 +319,17 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 25, 2026, titled \"Coforge Emerges as a Standout Non-Linear Growth Leader in HFS Research Assessment\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-25T21:21:55+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "Coforge Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 24, 2026",
@@ -331,33 +342,11 @@
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 24, 2026, titled \"From Rebrand to Reinvention: Coforge Marks Six Years of Transformation and Growth.\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-24T23:59:30+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-20T19:47:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T23:37:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -370,6 +359,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-25T21:13:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
@@ -571,6 +571,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "TVS Motors, Divi's Laboratories among top stock picks by Chandan Taparia",
+          "summary": "Chandan Taparia of MOFSL recommends buying Divi's Laboratories, TVS Motors and Dixon Technologies, citing strong technical setups and improving momentum.",
+          "link": "https://www.business-standard.com/markets/news/tvs-motors-divi-s-laboratories-among-top-stock-picks-by-chandan-taparia-126082600100_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-26T07:49:09+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Market Trading Guide: Adani Enterprises, Dixon Tech among 4 stock recommendations for Wednesday",
+          "summary": "Indian equities gained as softer-than-expected US sanctions on Iran eased crude oil and bond yield pressures. Analysts highlighted Adani Enterprises, HDFC AMC, Hyundai Motor India and Dixon Technologies as bullish technical setups, while geopolitical…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-enterprises-dixontechamong-4-stock-recommendations-for-wednesday/slideshow/133515517.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-25T20:08:18+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -579,17 +601,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Dixon Technologies among 4 F&amp;O stocks with sharp OI jump",
-          "summary": "A significant uptick in futures open interest indicates a substantial increase in the number of active, unexpired futures contracts in a particular security.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-technologies-among-4-fampo-stocks-with-sharp-oi-jump/slideshow/133489845.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-25T09:08:00+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -1253,17 +1264,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-24T09:50:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "TVS Supply Chain, Japan's Sankyu sign pact to collaborate across services",
-          "summary": "TVS Supply Chain Solutions on Monday said it has signed an initial pact with Japan-based Sankyu Inc to collaborate across supply chain and engineering services.\nAs part of the memorandum of understanding (MoU), Sankyu intends to acquire a 0.5 per cen…",
-          "link": "https://www.business-standard.com/companies/news/tvs-supply-chain-japan-s-sankyu-sign-pact-to-collaborate-across-services-126082400387_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-24T12:41:10+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
