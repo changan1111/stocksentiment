@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-26T03:50:56.750601+00:00",
+  "fetchedAt": "2026-08-26T09:37:02.205599+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 101,
   "overview": {
-    "positive": 14,
+    "positive": 11,
     "negative": 4,
     "neutral": 86
   },
@@ -489,17 +489,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -570,17 +559,6 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "TVS Motors, Divi's Laboratories among top stock picks by Chandan Taparia",
-          "summary": "Chandan Taparia of MOFSL recommends buying Divi's Laboratories, TVS Motors and Dixon Technologies, citing strong technical setups and improving momentum.",
-          "link": "https://www.business-standard.com/markets/news/tvs-motors-divi-s-laboratories-among-top-stock-picks-by-chandan-taparia-126082600100_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-26T07:49:09+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "Market Trading Guide: Adani Enterprises, Dixon Tech among 4 stock recommendations for Wednesday",
           "summary": "Indian equities gained as softer-than-expected US sanctions on Iran eased crude oil and bond yield pressures. Analysts highlighted Adani Enterprises, HDFC AMC, Hyundai Motor India and Dixon Technologies as bullish technical setups, while geopolitical…",
@@ -1021,10 +999,10 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "KPIT Technologies Limited 9th Annual General Meeting to be held on August 31, 2026 - Response to Stakeholders Empowerment Services (SES) Voting Recommendations",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Reconstitution of Nomination and Remuneration (HR) Committee of the Board.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-25T16:02:46+00:00",
+          "pubDate": "2026-08-26T13:47:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1097,17 +1075,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Netweb Technologies shares fall 4% after raising Rs 1,200 crore through QIP",
-          "summary": "Netweb Technologies shares fell nearly 4% after the company completed its Rs 1,200 crore Qualified Institutions Placement (QIP), its first equity capital raise since listing in July 2023. The issue drew strong participation from global and domestic i…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-fall-4-after-raising-rs-1200-crore-through-qip/articleshow/133494330.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-25T10:54:55+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
           }
         },
         {
