@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-26T09:37:02.205599+00:00",
+  "fetchedAt": "2026-08-26T13:52:36.319383+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 98,
   "overview": {
-    "positive": 11,
-    "negative": 4,
-    "neutral": 86
+    "positive": 10,
+    "negative": 3,
+    "neutral": 85
   },
   "stocks": [
     {
@@ -14,33 +14,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-26T17:30:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-21T16:29:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-17T16:01:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T19:17:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -105,6 +94,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates - Signing of Memorandum of Undertaking",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-26T18:27:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated August 21, 2026, titled \"TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -116,33 +116,11 @@
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-19T22:01:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-19T12:51:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T15:33:26+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -320,33 +298,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 25, 2026, titled \"Coforge Emerges as a Standout Non-Linear Growth Leader in HFS Research Assessment\".",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-25T21:21:55+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Coforge Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 24, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T00:03:21+00:00",
+          "pubDate": "2026-08-26T17:21:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 26, 2026, titled \"Coforge Earns Great Place To Work Certification for Sixth Year in a Row\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-20T19:47:38+00:00",
+          "pubDate": "2026-08-26T17:15:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Coforge Limited has submitted the Exchange a copy Srutinizers report of  undefined held on August 24, 2026. Further, the company has informed the Exchange regarding voting results.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-26T16:58:10+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -389,11 +367,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Redtape Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 25, 2026",
+          "title": "[NSE] Change in Management",
+          "summary": "Redtape Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-25T15:42:46+00:00",
+          "pubDate": "2026-08-26T17:16:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Redtape Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 25, 2026. Further, the company has informed the Exchange regarding voting results.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-26T15:38:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -409,28 +398,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Newspaper Publication under Regulation 30 and 47 of SEBI (LODR) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T12:28:56+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Redtape Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Press Release\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T19:45:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -438,19 +405,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Multibagger stocks: Ather Energy, Hind Copper, MCX among stocks which surged up to 250% in one year",
-          "summary": "Despite Nifty 50 losses, several Nifty 500 stocks delivered multibagger returns over the past year. Ather Energy led with 248%, followed by HFCL, Welspun Corp, Aditya Infotech, Hindustan Copper, RR Kabel and others.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stocks-ather-energy-hind-copper-mcx-among-stocks-which-surged-up-to-250-in-one-year/slideshow/133506231.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-25T16:04:07+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.5
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -485,6 +440,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-07T22:04:19+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
