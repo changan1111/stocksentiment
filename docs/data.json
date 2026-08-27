@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-26T13:52:36.319383+00:00",
+  "fetchedAt": "2026-08-27T13:42:19.413197+00:00",
   "tickerCount": 32,
-  "articleCount": 98,
+  "articleCount": 95,
   "overview": {
-    "positive": 10,
-    "negative": 3,
-    "neutral": 85
+    "positive": 9,
+    "negative": 2,
+    "neutral": 84
   },
   "stocks": [
     {
@@ -42,6 +42,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Memorandum of Understanding/Agreements",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding with Bochumer Verein Verkehrstechnik GmBH",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-27T17:58:10+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -135,10 +146,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Transcript",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-20T17:11:40+00:00",
+          "pubDate": "2026-08-27T16:42:33+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -164,17 +175,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T16:58:16+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -224,17 +224,6 @@
       "name": "Rashi Peripherals",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Independent director resigns over governance concerns, Rashi Peripherals stock falls 10%",
-          "summary": "Anil Khandelwal’s exit resembles that of Atanu Chakraborty, who resigned as HDFC Bank’s part-time chair and independent director this March citing an “incongruence” with his values and ethics. Rashi Peripherals denied lapses.",
-          "link": "https://www.livemint.com/companies/rashi-peripherals-anil-khandelwal-corporate-governance-independent-directors-board-resignation-11787685182857.html",
-          "source": "livemint",
-          "pubDate": "2026-08-26T08:01:13+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
         {
           "title": "[NSE] Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange regarding 'update by the company on resignation by Independent Director'.",
@@ -298,33 +287,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 27, 2026, titled \"Coforge Celebrates 20 Years in Peru, Reinforces Commitment to Move Enterprises from AI Ambition to Ex",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-27T18:23:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-26T17:21:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 26, 2026, titled \"Coforge Earns Great Place To Work Certification for Sixth Year in a Row\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-26T17:15:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Coforge Limited has submitted the Exchange a copy Srutinizers report of  undefined held on August 24, 2026. Further, the company has informed the Exchange regarding voting results.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-26T16:58:10+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -338,22 +316,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] General Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-25T21:13:21+00:00",
+          "pubDate": "2026-08-26T20:07:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "title": "[NSE] General Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-24T19:04:49+00:00",
+          "pubDate": "2026-08-25T21:13:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -526,17 +504,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Market Trading Guide: Adani Enterprises, Dixon Tech among 4 stock recommendations for Wednesday",
-          "summary": "Indian equities gained as softer-than-expected US sanctions on Iran eased crude oil and bond yield pressures. Analysts highlighted Adani Enterprises, HDFC AMC, Hyundai Motor India and Dixon Technologies as bullish technical setups, while geopolitical…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-enterprises-dixontechamong-4-stock-recommendations-for-wednesday/slideshow/133515517.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-25T20:08:18+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -659,10 +626,32 @@
       "articles": [
         {
           "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "EPACK Durable Limited has informed the Exchange about Copy of Newspaper Publication",
+          "summary": "EPACK Durable Limited has informed the Exchange about Copy of Newspaper Publication regarding Notice of 07th Annual General Meeting of the Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-25T17:58:55+00:00",
+          "pubDate": "2026-08-27T16:24:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "EPACK Durable Limited has informed the Exchange about Business Responsibility and Sustainability Report of FY 2025-26.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-27T00:18:51+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 18, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-26T23:51:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -674,28 +663,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-21T18:10:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "EPACK Durable Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-18T16:32:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Auditors",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding Change in Auditors of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T17:50:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -863,10 +830,10 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Schedule of Analyst/Institutional Investor Meetings under the SEBI (LODR), Regulations 2015",
+          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates - Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Investors/Analysts meet   Outcome dated 27/08/2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-18T18:13:40+00:00",
+          "pubDate": "2026-08-27T18:59:02+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -893,17 +860,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T12:45:53+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -912,6 +868,17 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-27T17:50:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Acquisition",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Update on Acquisition",
@@ -944,17 +911,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T19:12:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -963,6 +919,17 @@
       "name": "KPIT Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Action(s) taken or orders passed",
+          "summary": "Disclosure under Regulation 30 of SEBI LODR - adjudication order from the Office of the Collector of Stamps",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-27T16:34:10+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Reconstitution of Nomination and Remuneration (HR) Committee of the Board.",
@@ -1283,22 +1250,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1900  Options.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-25T17:55:01+00:00",
+          "pubDate": "2026-08-27T12:01:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1900  Options.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-14T12:45:33+00:00",
+          "pubDate": "2026-08-25T17:55:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
