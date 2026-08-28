@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-27T13:42:19.413197+00:00",
+  "fetchedAt": "2026-08-28T14:51:52.224953+00:00",
   "tickerCount": 32,
-  "articleCount": 95,
+  "articleCount": 98,
   "overview": {
-    "positive": 9,
+    "positive": 14,
     "negative": 2,
-    "neutral": 84
+    "neutral": 82
   },
   "stocks": [
     {
@@ -145,6 +145,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Acquisition",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Acquisition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-28T19:10:02+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -164,17 +175,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"AXISCADES reports record Rs. 346.7 crore revenue from operations for Q1 FY27, includin",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T19:02:04+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -287,14 +287,47 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Nifty IT jumps 3.5% as Nvidia results boost confidence in global AI spend",
+          "summary": "Coforge, TCS and Infosys gain as Nvidia's strong quarterly results ease concerns over AI spending, though analysts remain cautious about the sector's long-term outlook",
+          "link": "https://www.business-standard.com/technology/artificial-intelligence/nifty-it-jumps-3-5-as-nvidia-results-boost-confidence-in-global-ai-spend-126082801120_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-28T19:06:08+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Coforge expands partnership with Pega",
+          "summary": "To deliver AI-led enterprise transformation programs globally",
+          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-expands-partnership-with-pega-126082801088_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-08-28T18:50:19+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Laurus Labs among 5 stocks hitting 52-week highs; surge up to 20% in a month",
+          "summary": "Six BSE 200 stocks hit fresh 52-week highs on Friday as the Sensex gained 331 points. Coforge, GSK Pharma, Glenmark Pharma, Laurus Labs, Oracle Financial Services Software and Piramal Finance showed strong momentum, with several posting double-digit …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-among-5-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133590529.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-28T17:08:16+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 27, 2026, titled \"Coforge Celebrates 20 Years in Peru, Reinforces Commitment to Move Enterprises from AI Ambition to Ex",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 28, 2026, titled \" Coforge expands strategic partnership with Pega to accelerate enterprise AI transformation\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-27T18:23:23+00:00",
+          "pubDate": "2026-08-28T09:45:50+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -315,6 +348,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Persistent Systems’ strong deal wins boost outlook, acquisition costs pose risk",
+          "summary": "Following a major acquisition announcement, Persistent Systems stock has seen a remarkable rebound. In its latest June quarter results, the company reported robust revenue growth, boosting its future earnings outlook. However, upcoming costs linked t…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-growth-continues-but-rising-acquisition-costs-could-impact-overall-profitability-for-businesses/articleshow/133580980.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-28T06:56:26+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.818
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
@@ -395,7 +439,7 @@
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-19T11:37:47+00:00",
+          "pubDate": "2026-08-28T15:38:16+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -410,17 +454,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Action(s) initiated or orders passed",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Action(s) initiated or orders passed",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T22:04:19+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -625,6 +658,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "EPACK Durable Limited has informed the Exchange that, pursuant to Regulation 36(1)(b) of the SEBI Listing Regulations, the Company has dispatched physical communication to shareholders who have not re",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-27T20:30:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "EPACK Durable Limited has informed the Exchange about Copy of Newspaper Publication regarding Notice of 07th Annual General Meeting of the Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -636,33 +680,11 @@
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "EPACK Durable Limited has informed the Exchange about Business Responsibility and Sustainability Report of FY 2025-26.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-27T00:18:51+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Shareholders meeting",
           "summary": "EPACK Durable Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 18, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-26T23:51:55+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "EPACK Durable Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-21T18:10:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -828,6 +850,17 @@
       "name": "IKIO Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Spurt in Volume",
+          "summary": "Significant increase in volume has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the mark",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-28T17:51:49+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange about General Updates - Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Investors/Analysts meet   Outcome dated 27/08/2026.",
@@ -1000,6 +1033,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding 'Book Closure '.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-28T13:09:05+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Intimation regarding dispatch of physical letter Containing weblink and QR code",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-28T13:04:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 19, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-28T12:38:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Press release",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1016,39 +1082,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-22T12:42:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding allotment of 2505219 securities pursuant to Qualified Institution Placement at its meeting held on August 20, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-20T23:52:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-20T23:46:52+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Qualified Institutional Placement",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about qualified Institutional Placement",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-20T23:02:15+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1210,6 +1243,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-28T16:30:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1226,17 +1270,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-05T16:23:16+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T16:58:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
