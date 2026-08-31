@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-31T09:17:34.539231+00:00",
+  "fetchedAt": "2026-08-31T19:22:32.668410+00:00",
   "tickerCount": 32,
-  "articleCount": 99,
+  "articleCount": 102,
   "overview": {
-    "positive": 13,
+    "positive": 14,
     "negative": 2,
-    "neutral": 84
+    "neutral": 86
   },
   "stocks": [
     {
@@ -43,6 +43,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T23:02:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Resignation of Mr. Kishor Kumar Rajgaria as Chief Financial Officer of the company w.e.f. August 31, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T22:51:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Memorandum of Understanding/Agreements",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding with Bochumer Verein Verkehrstechnik GmBH",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -70,28 +92,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-24T18:58:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange that Record date for the purpose of Dividend  is 11-Sep-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-24T18:53:21+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 18, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-24T18:45:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -298,6 +298,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Aurobindo Pharma among 5 stocks hitting 52-week highs; surge up to 18% in a month",
+          "summary": "Five BSE 200 stocks hit fresh 52-week highs despite a weak market, led by Lenskart, Coforge, Oracle Financial Services Software, Aurobindo Pharma and Bajaj Auto.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-5-stocks-hitting-52-week-highs-surge-up-to-18-in-a-month/slideshow/133652098.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-31T17:17:12+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 31, 2026, titled \"Coforge Unveils AI Adoption Fabric for Outcome Acceleration\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -327,6 +338,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T23:02:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Kaynes Tech, Wockhardt, Persistent Systems shares fall up to 5% as broader markets tumble. What lies ahead?",
           "summary": "The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negative performance of the Nifty Midcap 100 and Smallc…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms",
@@ -354,17 +376,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-26T20:07:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T21:13:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -444,17 +455,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -526,6 +526,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Intimation with regard to 33rd Annual General Meeting of Dixon Technologies (India) Limited, Closure ofRegister of Members & Share Tr",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T21:30:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Explained: Why Jefferies prefers Kaynes Tech shares over Dixon Tech; urges caution on Syrma SGS",
           "summary": "Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hold calls on Dixon and Syrma SGS Technology. It expe…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms",
@@ -542,17 +553,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-25T14:34:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Giving guarantees/indemnity/ becoming a surety for third party",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Giving guarantees/indemnity/ becoming a surety for third party",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T18:59:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -618,6 +618,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated August 31, 2026, titled \"E2E Networks Signs Binding Term Sheet Worth approximately Rs. 1,000 Crore with Sovereign AI Comp",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T23:27:56+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks to watch and why on September 1: PVR INOX, E2E Networks, NCC, Brigade Enterprises, Time Technoplast and more",
+          "summary": "On September 1, Indian stock market attention focuses on companies such as PVR INOX and PNB Housing Finance amid multiple developments.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-and-why-on-september-1-pvr-inox-e2e-networks-ncc-brigade-enterprises-indegene-and-more-11788197253602.html",
+          "source": "livemint",
+          "pubDate": "2026-08-31T23:40:28+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "E2E Networks bags  ₹1,000 crore NVIDIA Blackwell cloud GPU deal from sovereign AI firm",
+          "summary": "E2E Networks, an AI hyperscale cloud platform, gained investor interest after securing a long-term cloud GPU contract worth  ₹1,000 crore, expected to last until June 2029. The company reported strong quarterly revenue growth and was added to the MSC…",
+          "link": "https://www.livemint.com/market/stock-market-news/e2e-networks-bags-rs-1-000-crore-nvidia-blackwell-cloud-gpu-deal-from-sovereign-ai-firm-11788187286132.html",
+          "source": "livemint",
+          "pubDate": "2026-08-31T23:14:01+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "E2E Networks Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T17:20:14+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "E2E Networks Limited has informed the Exchange regarding Grant of 5,45,000  Options.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -645,28 +689,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-18T10:11:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "E2E Networks Limited has informed the Exchange regarding Appointment of  Mr. Amit as Senior Management Personnel (SMP) and designate him  as Senior Vice President- Capacity and Infrastructure of the c",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-05T13:43:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-07-28T11:35:30+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -719,6 +741,17 @@
       "name": "Electronics Mart India",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Closure of operations",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Closure of operations",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T18:46:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -902,6 +935,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about change in the role of Non-Executive Director",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T18:30:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -953,14 +997,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Buy or sell: Gift Nifty signals flat start | Vaishali Parekh recommends three stocks to buy today — 31 August 2026",
-          "summary": "Buy or sell indicator: Parekh recommends three stocks to buy today — KPIT Technologies, Sun Pharma Advanced Research, and Viyash Scientific",
-          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-flat-start-vaishali-parekh-recommends-three-stocks-to-buy-today-31-august-2026-11788145527274.html",
-          "source": "livemint",
-          "pubDate": "2026-08-31T09:35:32+05:30",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "KPIT Technologies Limited has informed the Exchange regarding Proceedings of the 9th Annual General Meeting held on August 31, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T15:30:46+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 0.333
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -984,17 +1028,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome of Investor Conference held on Thursday, August 13, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T18:48:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1005,10 +1038,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of Extraordinary General Meeting held on August 30, 2026",
+          "summary": "Nazara Technologies Limited  informs the Exchange regarding Scrutinizer's report and voting results of Extraordinary General Meeting held held on August 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-30T14:27:02+00:00",
+          "pubDate": "2026-08-31T22:40:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1244,10 +1277,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 28, 2026",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Shareholders meeting",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-28T16:30:35+00:00",
+          "pubDate": "2026-08-31T16:43:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
