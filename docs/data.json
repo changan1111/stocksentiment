@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-28T14:51:52.224953+00:00",
+  "fetchedAt": "2026-08-31T09:17:34.539231+00:00",
   "tickerCount": 32,
-  "articleCount": 98,
+  "articleCount": 99,
   "overview": {
-    "positive": 14,
+    "positive": 13,
     "negative": 2,
-    "neutral": 82
+    "neutral": 84
   },
   "stocks": [
     {
@@ -145,6 +145,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated August 30, 2026, titled \"AXISCADES Technologies to Acquire Cloud Wave Technologies, Accelerating Entry into Aer",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-30T09:00:53+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Acquisition",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Acquisition",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -185,6 +196,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 70545  Shares.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-29T19:59:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating- Others",
           "summary": "Avalon Technologies Limited has informed the Exchange about Affirmation and Withdrawal of Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -201,17 +223,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-12T19:33:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T22:11:38+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -287,47 +298,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Nifty IT jumps 3.5% as Nvidia results boost confidence in global AI spend",
-          "summary": "Coforge, TCS and Infosys gain as Nvidia's strong quarterly results ease concerns over AI spending, though analysts remain cautious about the sector's long-term outlook",
-          "link": "https://www.business-standard.com/technology/artificial-intelligence/nifty-it-jumps-3-5-as-nvidia-results-boost-confidence-in-global-ai-spend-126082801120_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-28T19:06:08+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Coforge expands partnership with Pega",
-          "summary": "To deliver AI-led enterprise transformation programs globally",
-          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-expands-partnership-with-pega-126082801088_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-08-28T18:50:19+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Laurus Labs among 5 stocks hitting 52-week highs; surge up to 20% in a month",
-          "summary": "Six BSE 200 stocks hit fresh 52-week highs on Friday as the Sensex gained 331 points. Coforge, GSK Pharma, Glenmark Pharma, Laurus Labs, Oracle Financial Services Software and Piramal Finance showed strong momentum, with several posting double-digit …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-among-5-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133590529.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-28T17:08:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 28, 2026, titled \" Coforge expands strategic partnership with Pega to accelerate enterprise AI transformation\".",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 31, 2026, titled \"Coforge Unveils AI Adoption Fabric for Outcome Acceleration\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-28T09:45:50+00:00",
+          "pubDate": "2026-08-31T11:04:26+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -349,14 +327,25 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Persistent Systems’ strong deal wins boost outlook, acquisition costs pose risk",
-          "summary": "Following a major acquisition announcement, Persistent Systems stock has seen a remarkable rebound. In its latest June quarter results, the company reported robust revenue growth, boosting its future earnings outlook. However, upcoming costs linked t…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-growth-continues-but-rising-acquisition-costs-could-impact-overall-profitability-for-businesses/articleshow/133580980.cms",
+          "title": "Kaynes Tech, Wockhardt, Persistent Systems shares fall up to 5% as broader markets tumble. What lies ahead?",
+          "summary": "The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negative performance of the Nifty Midcap 100 and Smallc…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms",
           "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-28T06:56:26+05:30",
+          "pubDate": "2026-08-31T14:34:46+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "September F&amp;O Series: CDSL, Adani Power among 5 stocks offering bullish trading bets",
+          "summary": "The September derivatives series offers traders intriguing opportunities, marked by sharp stock fluctuations. Notable bullish bets include Central Depository Services and Adani Power, both showcasing positive trends. Additionally, Persistent Systems …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/september-series-puts-a-fresh-set-of-stocks-in-play/articleshow/133639459.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-31T07:22:54+05:30",
           "sentiment": {
             "label": "Positive",
-            "score": 0.818
+            "score": 1.0
           }
         },
         {
@@ -537,6 +526,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Explained: Why Jefferies prefers Kaynes Tech shares over Dixon Tech; urges caution on Syrma SGS",
+          "summary": "Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hold calls on Dixon and Syrma SGS Technology. It expe…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-08-31T14:36:57+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -618,6 +618,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Grant of 5,45,000  Options.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T14:20:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Outcome of Board Meeting held on August 31, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T14:04:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Clarification on News Article",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -698,44 +720,33 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T12:46:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Electronics Mart India Limited has informed the Exchange regarding Outcome of Board Meeting held on August 29, 2026 for (I) Approval of Annual Report for the FY 2025-26, and (II) Calling the 08th AGM ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-29T15:11:52+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-11T16:44:14+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-08T14:46:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T14:21:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Electronics Mart India Limited has informed the Exchange regarding a press release dated August 07, 2026, titled \"Press release for unaudited financial results for Q1 FY 2026-27\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T13:50:24+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -851,47 +862,36 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates- Clarification on Volume Movement Letter- BSE Letter Ref. No.:  L/SURV/ONL/PV/SG/ 2026-2027 / 323 dated August 31, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T14:28:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Price movement",
+          "summary": "Significant movement in price has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T11:06:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Spurt in Volume",
           "summary": "Significant increase in volume has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the mark",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-28T17:51:49+00:00",
+          "pubDate": "2026-08-31T10:57:05+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates - Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Investors/Analysts meet   Outcome dated 27/08/2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-27T18:59:02+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T19:13:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T12:02:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -953,6 +953,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Buy or sell: Gift Nifty signals flat start | Vaishali Parekh recommends three stocks to buy today — 31 August 2026",
+          "summary": "Buy or sell indicator: Parekh recommends three stocks to buy today — KPIT Technologies, Sun Pharma Advanced Research, and Viyash Scientific",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-flat-start-vaishali-parekh-recommends-three-stocks-to-buy-today-31-august-2026-11788145527274.html",
+          "source": "livemint",
+          "pubDate": "2026-08-31T09:35:32+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
           "title": "[NSE] Action(s) taken or orders passed",
           "summary": "Disclosure under Regulation 30 of SEBI LODR - adjudication order from the Office of the Collector of Stamps",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -993,6 +1004,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of Extraordinary General Meeting held on August 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-30T14:27:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - update.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1002,28 +1024,6 @@
             "label": "Negative",
             "score": -1.0
           }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Scrutinizer's report and voting results  of  Extraordinary General Meeting held on August 10, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T23:32:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-09T23:52:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1032,6 +1032,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-29T11:07:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding 'Book Closure '.",
@@ -1071,17 +1082,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-25T09:02:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-22T12:42:33+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1282,6 +1282,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 29, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-29T12:46:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
