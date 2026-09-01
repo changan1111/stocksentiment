@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-01T08:15:58.628803+00:00",
+  "fetchedAt": "2026-09-01T13:54:48.611812+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 101,
   "overview": {
-    "positive": 14,
+    "positive": 13,
     "negative": 1,
-    "neutral": 85
+    "neutral": 87
   },
   "stocks": [
     {
@@ -51,17 +51,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Godrej Agrovet Ltd leads gainers in 'A' group",
-          "summary": "Caplin Point Laboratories Ltd, Engineers India Ltd, Rain Industries Ltd and Texmaco Rail & Engineering Ltd are among the other gainers in the BSE's 'A' group today, 01 September 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/godrej-agrovet-ltd-leads-gainers-in-a-group-126090100457_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-01T12:16:01+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -247,6 +236,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Intimation Regarding Completion/Closure Of The Business Transfer Agreement.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-01T17:49:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange regarding 'update by the company on resignation by Independent Director'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -288,17 +288,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Letter to Shareholders of the Company as per Regulation 36 (1)(B) of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-17T21:40:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -526,6 +515,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about submission of copies of newspaper publication titled  Notice on Information to the Shareholdersregarding the 33rd Annual General Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-01T19:13:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -720,6 +720,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about the Integrated Annual Report for the Financial Year 2025-26",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-01T18:48:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Electronics Mart India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 25, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-01T18:38:06+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Closure of operations",
           "summary": "Electronics Mart India Limited has informed the Exchange about Closure of operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -751,17 +773,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T16:44:14+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -770,6 +781,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith newspaper clippings containing information regarding 110th Annual G",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-01T16:16:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
@@ -801,17 +823,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-04T11:52:07+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1295,10 +1306,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 29, 2026",
+          "summary": "Zen Technologies Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 29, 2026. Further, the company has informed the Exchange regarding voting result",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-29T12:46:52+00:00",
+          "pubDate": "2026-09-01T16:16:36+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
