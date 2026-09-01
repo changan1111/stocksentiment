@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-31T19:22:32.668410+00:00",
+  "fetchedAt": "2026-09-01T08:15:58.628803+00:00",
   "tickerCount": 32,
-  "articleCount": 102,
+  "articleCount": 100,
   "overview": {
     "positive": 14,
-    "negative": 2,
-    "neutral": 86
+    "negative": 1,
+    "neutral": 85
   },
   "stocks": [
     {
@@ -42,6 +42,28 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Award worth USD 135 Million from  Tsiko Africa Logistics (Pty) Ltd. together with Barberry Holdings (Pty) Ltd.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-01T13:11:19+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Godrej Agrovet Ltd leads gainers in 'A' group",
+          "summary": "Caplin Point Laboratories Ltd, Engineers India Ltd, Rain Industries Ltd and Texmaco Rail & Engineering Ltd are among the other gainers in the BSE's 'A' group today, 01 September 2026.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/godrej-agrovet-ltd-leads-gainers-in-a-group-126090100457_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-01T12:16:01+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Resignation of Director/KMP/SMP",
@@ -81,17 +103,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-25T19:03:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Reporting for the Financial Year 2025-26'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-24T18:58:41+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -349,28 +360,6 @@
           }
         },
         {
-          "title": "Kaynes Tech, Wockhardt, Persistent Systems shares fall up to 5% as broader markets tumble. What lies ahead?",
-          "summary": "The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negative performance of the Nifty Midcap 100 and Smallc…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-31T14:34:46+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "September F&amp;O Series: CDSL, Adani Power among 5 stocks offering bullish trading bets",
-          "summary": "The September derivatives series offers traders intriguing opportunities, marked by sharp stock fluctuations. Notable bullish bets include Central Depository Services and Adani Power, both showcasing positive trends. Additionally, Persistent Systems …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/september-series-puts-a-fresh-set-of-stocks-in-play/articleshow/133639459.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-31T07:22:54+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -455,6 +444,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -526,33 +526,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] General Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Intimation with regard to 33rd Annual General Meeting of Dixon Technologies (India) Limited, Closure ofRegister of Members & Share Tr",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T21:30:04+00:00",
+          "pubDate": "2026-09-01T11:32:14+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "Explained: Why Jefferies prefers Kaynes Tech shares over Dixon Tech; urges caution on Syrma SGS",
-          "summary": "Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hold calls on Dixon and Syrma SGS Technology. It expe…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-31T14:36:57+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
+          "title": "[NSE] General Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Intimation with regard to 33rd Annual General Meeting of Dixon Technologies (India) Limited, Closure ofRegister of Members & Share Tr",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-25T14:34:30+00:00",
+          "pubDate": "2026-08-31T21:30:04+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -618,33 +607,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated August 31, 2026, titled \"E2E Networks Signs Binding Term Sheet Worth approximately Rs. 1,000 Crore with Sovereign AI Comp",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T23:27:56+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Stocks to watch and why on September 1: PVR INOX, E2E Networks, NCC, Brigade Enterprises, Time Technoplast and more",
-          "summary": "On September 1, Indian stock market attention focuses on companies such as PVR INOX and PNB Housing Finance amid multiple developments.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-and-why-on-september-1-pvr-inox-e2e-networks-ncc-brigade-enterprises-indegene-and-more-11788197253602.html",
-          "source": "livemint",
-          "pubDate": "2026-08-31T23:40:28+05:30",
+          "pubDate": "2026-09-01T11:02:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "E2E Networks bags  ₹1,000 crore NVIDIA Blackwell cloud GPU deal from sovereign AI firm",
-          "summary": "E2E Networks, an AI hyperscale cloud platform, gained investor interest after securing a long-term cloud GPU contract worth  ₹1,000 crore, expected to last until June 2029. The company reported strong quarterly revenue growth and was added to the MSC…",
-          "link": "https://www.livemint.com/market/stock-market-news/e2e-networks-bags-rs-1-000-crore-nvidia-blackwell-cloud-gpu-deal-from-sovereign-ai-firm-11788187286132.html",
-          "source": "livemint",
-          "pubDate": "2026-08-31T23:14:01+05:30",
+          "title": "Multibagger AI stock in focus after bagging Rs 1,000 crore term sheet to provide Nvidia Blackwell GPUs",
+          "summary": "E2E Networks will be in focus after signing a binding term sheet worth approximately Rs 1,000 crore with an Indian sovereign AI company to provide NVIDIA Blackwell cloud GPUs and allied services until June 2029. The development comes alongside the co…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-ai-stock-in-focus-after-bagging-rs-1000-crore-term-sheet-to-provide-nvidia-blackwell-gpus/articleshow/133667190.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-01T09:09:29+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated August 31, 2026, titled \"E2E Networks Signs Binding Term Sheet Worth approximately Rs. 1,000 Crore with Sovereign AI Comp",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-08-31T23:27:56+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -678,17 +667,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-31T14:04:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Clarification on News Article",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-18T10:11:37+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -998,10 +976,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding Proceedings of the 9th Annual General Meeting held on August 31, 2026",
+          "summary": "Please find attached Scrutinizers report and voting results of 9th Annual General Meeting held on August 31, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T15:30:46+00:00",
+          "pubDate": "2026-09-01T11:49:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
