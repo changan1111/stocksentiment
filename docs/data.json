@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-09-01T13:54:48.611812+00:00",
+  "fetchedAt": "2026-09-02T07:35:17.598836+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 100,
   "overview": {
-    "positive": 13,
+    "positive": 12,
     "negative": 1,
     "neutral": 87
   },
@@ -44,10 +44,10 @@
       "articles": [
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Award worth USD 135 Million from  Tsiko Africa Logistics (Pty) Ltd. together with Barberry Holdings (Pty) Ltd.",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of order worth Rs. 24.48 Crores (incl. taxes) from Transport Corporation of India Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-01T13:11:19+00:00",
+          "pubDate": "2026-09-01T22:52:29+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -81,17 +81,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-27T17:58:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T19:03:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -196,6 +185,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Options to purchase securities",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Options to purchase securities",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T11:08:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 70545  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -298,14 +298,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Aurobindo Pharma among 5 stocks hitting 52-week highs; surge up to 18% in a month",
-          "summary": "Five BSE 200 stocks hit fresh 52-week highs despite a weak market, led by Lenskart, Coforge, Oracle Financial Services Software, Aurobindo Pharma and Bajaj Auto.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-5-stocks-hitting-52-week-highs-surge-up-to-18-in-a-month/slideshow/133652098.cms",
+          "title": "Coforge’s strong order book and execution point to better margins and growth",
+          "summary": "Coforge shares have surged ahead, outperforming the IT index with remarkable strength. The company's performance during the June quarter highlighted significant momentum and improved margins, driven by consistent order activity and strategic growth i…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforges-strong-order-book-and-execution-point-to-better-margins-and-growth/articleshow/133695123.cms",
           "source": "economictimes.indiatimes",
-          "pubDate": "2026-08-31T17:17:12+05:30",
+          "pubDate": "2026-09-02T07:23:57+05:30",
           "sentiment": {
             "label": "Positive",
-            "score": 0.333
+            "score": 1.0
           }
         },
         {
@@ -342,7 +342,7 @@
           "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T23:02:19+00:00",
+          "pubDate": "2026-09-01T20:19:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -350,10 +350,10 @@
         },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "summary": "Persistent Systems Limited has informed the Exchange about Intimation regarding cancellation of call.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-26T20:07:03+00:00",
+          "pubDate": "2026-09-01T20:06:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -515,22 +515,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about submission of copies of newspaper publication titled  Notice on Information to the Shareholdersregarding the 33rd Annual General Meet",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-01T19:13:49+00:00",
+          "pubDate": "2026-09-02T10:28:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about submission of copies of newspaper publication titled  Notice on Information to the Shareholdersregarding the 33rd Annual General Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-01T11:32:14+00:00",
+          "pubDate": "2026-09-01T19:13:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -615,17 +615,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Multibagger AI stock in focus after bagging Rs 1,000 crore term sheet to provide Nvidia Blackwell GPUs",
-          "summary": "E2E Networks will be in focus after signing a binding term sheet worth approximately Rs 1,000 crore with an Indian sovereign AI company to provide NVIDIA Blackwell cloud GPUs and allied services until June 2029. The development comes alongside the co…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-ai-stock-in-focus-after-bagging-rs-1000-crore-term-sheet-to-provide-nvidia-blackwell-gpus/articleshow/133667190.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-01T09:09:29+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
