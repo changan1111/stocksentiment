@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-02T07:35:17.598836+00:00",
+  "fetchedAt": "2026-09-02T13:12:24.760710+00:00",
   "tickerCount": 32,
   "articleCount": 100,
   "overview": {
-    "positive": 12,
+    "positive": 11,
     "negative": 1,
-    "neutral": 87
+    "neutral": 88
   },
   "stocks": [
     {
@@ -196,6 +196,17 @@
           }
         },
         {
+          "title": "R R Kabel Ltd leads losers in 'A' group",
+          "summary": "Varroc Engineering Ltd, Avalon Technologies Ltd, Balu Forge Industries Ltd and Hero MotoCorp Ltd are among the other losers in the BSE's 'A' group today, 02 September 2026.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/r-r-kabel-ltd-leads-losers-in-a-group-126090200740_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-02T15:04:26+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 70545  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -298,6 +309,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 02, 2026, titled \"Coforge Introduces AI Launchpad, the Open-Weight AI Ecosystem for the Enterprise\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T13:13:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Coforge introduces AI Launchpad powered by Coforge Nuuron",
+          "summary": "Coforge introduced a new enterprise AI offering, Coforge AI Launchpad, which enables organizations to build, fine-tune, deploy, and operate a self-owned AI stack entirely within their own controlled environments.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-introduces-ai-launchpad-powered-by-coforge-nuuron-126090200968_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-02T16:52:26+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "Coforge’s strong order book and execution point to better margins and growth",
           "summary": "Coforge shares have surged ahead, outperforming the IT index with remarkable strength. The company's performance during the June quarter highlighted significant momentum and improved margins, driven by consistent order activity and strategic growth i…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforges-strong-order-book-and-execution-point-to-better-margins-and-growth/articleshow/133695123.cms",
@@ -306,17 +339,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated August 31, 2026, titled \"Coforge Unveils AI Adoption Fabric for Outcome Acceleration\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T11:04:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -709,6 +731,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T15:39:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about the Integrated Annual Report for the Financial Year 2025-26",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -739,28 +772,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T12:46:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Electronics Mart India Limited has informed the Exchange regarding Outcome of Board Meeting held on August 29, 2026 for (I) Approval of Annual Report for the FY 2025-26, and (II) Calling the 08th AGM ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-29T15:11:52+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1152,6 +1163,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T15:17:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Saksoft Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1168,28 +1190,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T19:01:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T18:56:44+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Saksoft Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-08T12:35:26+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
