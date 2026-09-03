@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-03T07:43:51.898987+00:00",
+  "fetchedAt": "2026-09-03T13:13:46.859906+00:00",
   "tickerCount": 32,
-  "articleCount": 103,
+  "articleCount": 107,
   "overview": {
     "positive": 12,
-    "negative": 2,
-    "neutral": 89
+    "negative": 3,
+    "neutral": 92
   },
   "stocks": [
     {
@@ -185,6 +185,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on September 03, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T18:30:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Options to purchase securities",
           "summary": "Avalon Technologies Limited has informed the Exchange about Options to purchase securities",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -298,6 +309,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Coforge Limited has informed the Exchange about Webinar on  Operationalizing Enterprise Autonomy   Coforge Vantage Series",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T18:20:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Coforge Limited has informed the Exchange regarding 'Sustainability Report for FY 2025-26 '.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -337,6 +359,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Board of Persistent Systems approves fund raising up USD 1,250M",
+          "summary": "At meeting held on 03 September 2026",
+          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-persistent-systems-approves-fund-raising-up-usd-1-250m-126090300813_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-03T15:31:09+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "Persistent Systems shares fall over 3% as board gives nod for $1.25 billion fundraise. Check details",
           "summary": "Persistent Systems approved plans to raise up to $1.25 billion through debt and up to $450 million via equity-linked instruments, subject to approvals. The IT firm reported strong bookings and revenue growth in Q1, though profit declined due to forex…",
@@ -782,6 +815,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Record Date",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T15:56:10+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "This is to inform that the 110th Annual General Meeting ( AGM ) of the Company will be held on Friday, 25th September, 2026 at 1030 hours through Video Conferencing ( VC )/ Other Audio-Visual Means ( ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T15:52:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "1. In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you th",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -812,17 +867,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Further to our Intimation Letter No. SECY/GRSE/BD-69/AM/01/26-27 dated 03 Aug 2026, we wish to inform that Conference Call was held on Thursday, 06 August, 2026 at 03.30 P.M. to discuss the Unaudited ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T16:19:01+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -884,6 +928,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates- Intimation of Schedule of Analyst/Institutional Investor Meetings under the SEBI (LODR), Regulations 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T18:29:16+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "IKIO Technologies Limited has informed the Exchange about change in Senior Management Personnel of the Company",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -906,17 +961,6 @@
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about General Updates- Clarification on Volume Movement Letter- BSE Letter Ref. No.:  L/SURV/ONL/PV/SG/ 2026-2027 / 323 dated August 31, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T14:28:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Price movement",
           "summary": "Significant movement in price has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the marke",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -925,17 +969,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Spurt in Volume",
-          "summary": "Significant increase in volume has been observed in IKIO Technologies Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the mark",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T10:57:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1048,6 +1081,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T16:01:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Nazara Technologies Limited  informs the Exchange regarding Scrutinizer's report and voting results of Extraordinary General Meeting held held on August 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1076,6 +1120,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding allotment of 1645 securities pursuant to ESOP/ESPS at its meeting held on September 03, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T13:30:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "Netweb Technologies share price up almost 45% in past 6 months - What's boosting the stock? Triggers explained",
           "summary": "Netweb Technologies shares opened at  ₹5,165 on the NSE on Tursday against its previous close of  ₹5,110 and jumped as much as 4.7% to an intraday high of  ₹5,349.50. At this price, the stock has surged almost 45% over the last six months.",
@@ -1126,17 +1181,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-28T12:38:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Press release",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T09:02:46+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
