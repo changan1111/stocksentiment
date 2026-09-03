@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-02T13:12:24.760710+00:00",
+  "fetchedAt": "2026-09-03T07:43:51.898987+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 103,
   "overview": {
-    "positive": 11,
-    "negative": 1,
-    "neutral": 88
+    "positive": 12,
+    "negative": 2,
+    "neutral": 89
   },
   "stocks": [
     {
@@ -196,17 +196,6 @@
           }
         },
         {
-          "title": "R R Kabel Ltd leads losers in 'A' group",
-          "summary": "Varroc Engineering Ltd, Avalon Technologies Ltd, Balu Forge Industries Ltd and Hero MotoCorp Ltd are among the other losers in the BSE's 'A' group today, 02 September 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/r-r-kabel-ltd-leads-losers-in-a-group-126090200740_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-02T15:04:26+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 70545  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -309,44 +298,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 02, 2026, titled \"Coforge Introduces AI Launchpad, the Open-Weight AI Ecosystem for the Enterprise\".",
+          "title": "[NSE] Updates",
+          "summary": "Coforge Limited has informed the Exchange regarding 'Sustainability Report for FY 2025-26 '.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-02T13:13:49+00:00",
+          "pubDate": "2026-09-03T12:25:37+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "Coforge introduces AI Launchpad powered by Coforge Nuuron",
-          "summary": "Coforge introduced a new enterprise AI offering, Coforge AI Launchpad, which enables organizations to build, fine-tune, deploy, and operate a self-owned AI stack entirely within their own controlled environments.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-introduces-ai-launchpad-powered-by-coforge-nuuron-126090200968_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-02T16:52:26+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "Coforge’s strong order book and execution point to better margins and growth",
-          "summary": "Coforge shares have surged ahead, outperforming the IT index with remarkable strength. The company's performance during the June quarter highlighted significant momentum and improved margins, driven by consistent order activity and strategic growth i…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforges-strong-order-book-and-execution-point-to-better-margins-and-growth/articleshow/133695123.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-02T07:23:57+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 57598  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-26T17:21:18+00:00",
+          "pubDate": "2026-09-03T11:57:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 02, 2026, titled \"Coforge Introduces AI Launchpad, the Open-Weight AI Ecosystem for the Enterprise\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T13:13:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -360,11 +338,33 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Persistent Systems shares fall over 3% as board gives nod for $1.25 billion fundraise. Check details",
+          "summary": "Persistent Systems approved plans to raise up to $1.25 billion through debt and up to $450 million via equity-linked instruments, subject to approvals. The IT firm reported strong bookings and revenue growth in Q1, though profit declined due to forex…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-in-focus-as-board-gives-nod-for-1-25-billion-fundraise-check-details/articleshow/133724266.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-03T09:00:37+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
           "title": "[NSE] General Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-01T20:19:11+00:00",
+          "pubDate": "2026-09-02T22:23:10+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Board Meeting held on September 02, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T22:16:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -439,18 +439,7 @@
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-28T15:38:16+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-17T16:08:02+00:00",
+          "pubDate": "2026-09-03T12:04:46+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -536,6 +525,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Allotment of 28455  Shares.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T19:07:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
@@ -782,6 +782,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "1. In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you th",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T09:48:05+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith newspaper clippings containing information regarding 110th Annual G",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -798,17 +809,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-24T13:19:52+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we wish to info",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-24T10:23:20+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -883,6 +883,28 @@
       "name": "IKIO Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Change in Management",
+          "summary": "IKIO Technologies Limited has informed the Exchange about change in Senior Management Personnel of the Company",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T19:04:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-02T18:57:18+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange about General Updates- Clarification on Volume Movement Letter- BSE Letter Ref. No.:  L/SURV/ONL/PV/SG/ 2026-2027 / 323 dated August 31, 2026",
@@ -1054,6 +1076,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Netweb Technologies share price up almost 45% in past 6 months - What's boosting the stock? Triggers explained",
+          "summary": "Netweb Technologies shares opened at  ₹5,165 on the NSE on Tursday against its previous close of  ₹5,110 and jumped as much as 4.7% to an intraday high of  ₹5,349.50. At this price, the stock has surged almost 45% over the last six months.",
+          "link": "https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-up-almost-45-in-past-6-months-whats-boosting-the-stock-triggers-explained-11788413318516.html",
+          "source": "livemint",
+          "pubDate": "2026-09-03T11:17:44+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
