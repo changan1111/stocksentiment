@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-04T07:41:03.453577+00:00",
+  "fetchedAt": "2026-09-04T13:07:23.916684+00:00",
   "tickerCount": 32,
-  "articleCount": 106,
+  "articleCount": 105,
   "overview": {
     "positive": 11,
     "negative": 3,
-    "neutral": 92
+    "neutral": 91
   },
   "stocks": [
     {
@@ -94,17 +94,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Buy or sell: Amid Janmashtami celebrations, Vaishali Parekh recommends three stocks to buy today",
-          "summary": "Vaishali Parekh recommends three stocks to buy today — Titagarh Rail Systems, Edelweiss Financial Services, and PI Industries",
-          "link": "https://www.livemint.com/market/stock-market-news/gift-nifty-hints-big-gap-up-start-amid-janmashtami-celebrations-vaishali-parekh-recommends-three-stocks-to-buy-today-11788485706235.html",
-          "source": "livemint",
-          "pubDate": "2026-09-04T08:24:17+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.5
-          }
-        },
-        {
           "title": "[NSE] General Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates - Signing of Memorandum of Undertaking",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -185,17 +174,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Avalon Technologies gains after forming JV with European EMS firm Zollner",
-          "summary": "Avalon Technologies advanced 3.67% to Rs 2330 after the company announced the formation of a joint venture (JV) with Zollner Elektronik AG for PCBA, box-build and system integration manufacturing in India.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/avalon-technologies-gains-after-forming-jv-with-european-ems-firm-zollner-126090400199_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-04T10:04:18+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Change in Management",
           "summary": "Avalon Technologies Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -263,6 +241,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-04T12:10:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Crisil Ratings reaffirms ratings of Rashi Peripherals at 'AA-/A1+'",
+          "summary": "Rashi Peripherals (RPL) said that Crisil Ratings has reaffirmed its ratings on the bank facilities of the company at 'Crisil AA-/Stable/Crisil A1+'.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-reaffirms-ratings-of-rashi-peripherals-at-aa-a1-126090400609_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-04T14:31:17+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -548,6 +537,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Copy of Newspaper Publication of Notice to the Members of the 33rd Annual General Meeting of the Company and Remote E-voting Informat",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T14:52:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Business Responsibility and Sustainability Report - FY 2025-26",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -590,17 +590,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-02T10:28:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -617,10 +606,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Conference",
+          "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-13T18:38:47+00:00",
+          "pubDate": "2026-09-04T15:27:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -768,7 +757,7 @@
           "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-03T18:56:50+00:00",
+          "pubDate": "2026-09-04T18:12:36+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -802,17 +791,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-01T18:38:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Closure of operations",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Closure of operations",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T18:46:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1183,6 +1161,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Record Date",
+          "summary": "PG Electroplast Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T14:20:40+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding change in auditor of the Company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T14:18:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1199,17 +1199,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-12T16:53:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "PG Electroplast Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-06T21:42:14+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
