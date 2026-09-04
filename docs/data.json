@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-09-03T13:13:46.859906+00:00",
+  "fetchedAt": "2026-09-04T07:41:03.453577+00:00",
   "tickerCount": 32,
-  "articleCount": 107,
+  "articleCount": 106,
   "overview": {
-    "positive": 12,
+    "positive": 11,
     "negative": 3,
     "neutral": 92
   },
@@ -94,6 +94,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Buy or sell: Amid Janmashtami celebrations, Vaishali Parekh recommends three stocks to buy today",
+          "summary": "Vaishali Parekh recommends three stocks to buy today — Titagarh Rail Systems, Edelweiss Financial Services, and PI Industries",
+          "link": "https://www.livemint.com/market/stock-market-news/gift-nifty-hints-big-gap-up-start-amid-janmashtami-celebrations-vaishali-parekh-recommends-three-stocks-to-buy-today-11788485706235.html",
+          "source": "livemint",
+          "pubDate": "2026-09-04T08:24:17+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.5
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates - Signing of Memorandum of Undertaking",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -134,6 +145,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T19:46:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated August 30, 2026, titled \"AXISCADES Technologies to Acquire Cloud Wave Technologies, Accelerating Entry into Aer",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -154,28 +176,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-27T16:42:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-15T20:40:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -184,6 +184,50 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Avalon Technologies gains after forming JV with European EMS firm Zollner",
+          "summary": "Avalon Technologies advanced 3.67% to Rs 2330 after the company announced the formation of a joint venture (JV) with Zollner Elektronik AG for PCBA, box-build and system integration manufacturing in India.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/avalon-technologies-gains-after-forming-jv-with-european-ems-firm-zollner-126090400199_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-04T10:04:18+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Change in Management",
+          "summary": "Avalon Technologies Limited has informed the Exchange about change in Management",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T19:06:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated September 03, 2026, on the Joint Venture Agreement between Avalon and Zollner.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T18:55:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Agreements",
+          "summary": "Avalon Technologies Limited has informed the Exchange about the Joint Venture Agreement",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T18:51:40+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on September 03, 2026.",
@@ -205,39 +249,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 70545  Shares.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-29T19:59:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating- Others",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Affirmation and Withdrawal of Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-19T18:29:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T19:33:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -246,6 +257,17 @@
       "name": "Rashi Peripherals",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Credit Rating",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T12:10:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Intimation Regarding Completion/Closure Of The Business Transfer Agreement.",
@@ -285,17 +307,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-25T12:03:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-18T15:47:04+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -359,28 +370,6 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Board of Persistent Systems approves fund raising up USD 1,250M",
-          "summary": "At meeting held on 03 September 2026",
-          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-persistent-systems-approves-fund-raising-up-usd-1-250m-126090300813_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-03T15:31:09+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Persistent Systems shares fall over 3% as board gives nod for $1.25 billion fundraise. Check details",
-          "summary": "Persistent Systems approved plans to raise up to $1.25 billion through debt and up to $450 million via equity-linked instruments, subject to approvals. The IT firm reported strong bookings and revenue growth in Q1, though profit declined due to forex…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-in-focus-as-board-gives-nod-for-1-25-billion-fundraise-check-details/articleshow/133724266.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-03T09:00:37+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015",
@@ -559,6 +548,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Business Responsibility and Sustainability Report - FY 2025-26",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T22:25:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange that Record date for the purpose of Dividend  is 21-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T22:09:01+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Shareholder Meeting- 33rd Annual General Meeting of Dixon Technologies (India) Limited on 28th September, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T21:52:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Allotment of 28455  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -575,28 +597,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-02T10:28:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about submission of copies of newspaper publication titled  Notice on Information to the Shareholdersregarding the 33rd Annual General Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T19:13:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Intimation with regard to 33rd Annual General Meeting of Dixon Technologies (India) Limited, Closure ofRegister of Members & Share Tr",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T21:30:04+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -764,6 +764,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T18:56:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -815,6 +826,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith the newspaper clippings regarding completion of dispatch of the Not",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T11:34:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Record Date",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -842,28 +864,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-03T09:48:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith newspaper clippings containing information regarding 110th Annual G",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T16:16:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-24T13:19:52+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -1085,18 +1085,7 @@
           "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-03T16:01:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited  informs the Exchange regarding Scrutinizer's report and voting results of Extraordinary General Meeting held held on August 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T22:40:22+00:00",
+          "pubDate": "2026-09-04T11:24:17+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1107,10 +1096,21 @@
           "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - update.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-21T22:03:30+00:00",
+          "pubDate": "2026-09-03T22:00:16+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Notice convening the 27th Annual General Meeting of the Company for the FY 2025-26 scheduled to be held on Friday, September 25, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T21:06:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         }
       ]
@@ -1129,17 +1129,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Netweb Technologies share price up almost 45% in past 6 months - What's boosting the stock? Triggers explained",
-          "summary": "Netweb Technologies shares opened at  ₹5,165 on the NSE on Tursday against its previous close of  ₹5,110 and jumped as much as 4.7% to an intraday high of  ₹5,349.50. At this price, the stock has surged almost 45% over the last six months.",
-          "link": "https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-up-almost-45-in-past-6-months-whats-boosting-the-stock-triggers-explained-11788413318516.html",
-          "source": "livemint",
-          "pubDate": "2026-09-03T11:17:44+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -1240,22 +1229,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Saksoft Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-02T15:17:21+00:00",
+          "pubDate": "2026-09-03T19:33:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Saksoft Limited has informed the Exchange about Transcript",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-17T18:03:00+00:00",
+          "pubDate": "2026-09-02T15:17:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
