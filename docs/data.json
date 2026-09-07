@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-04T13:07:23.916684+00:00",
+  "fetchedAt": "2026-09-07T07:52:45.094602+00:00",
   "tickerCount": 32,
-  "articleCount": 105,
+  "articleCount": 110,
   "overview": {
-    "positive": 11,
-    "negative": 3,
+    "positive": 15,
+    "negative": 4,
     "neutral": 91
   },
   "stocks": [
@@ -18,18 +18,40 @@
           "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-26T17:30:43+00:00",
+          "pubDate": "2026-09-07T13:04:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Transcript",
+          "title": "[NSE] Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding 'Letter to the Members pursuant to Regulation 36(1)(B) of SEBI (LODR) Regulations, 2015'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-21T16:29:19+00:00",
+          "pubDate": "2026-09-05T15:23:57+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "Jupiter Wagons Limited has informed the Exchange that Record date for the purpose of Annual General Meeting is 22-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T13:30:38+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 29, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T12:54:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -43,47 +65,58 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of order worth Rs. 24.48 Crores (incl. taxes) from Transport Corporation of India Limited",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T22:52:29+00:00",
+          "title": "Texmaco Rail & Engineering secures orders worth Rs 131.36 cr",
+          "summary": "The second order valued at Rs 106.88 crore is from Touax Texmaco Railcar Leasing for manufacture and supply of 4 rakes of BFNS22.9 wagons alongwith 4 BVCM wagons. This order is considered related party transaction as the company is one of the promote…",
+          "link": "https://www.business-standard.com/markets/capital-market-news/texmaco-rail-engineering-secures-orders-worth-rs-131-36-cr-126090700441_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-07T12:16:11+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "title": "Texmaco Rail & Engineering rallies on Rs 131-crore order win",
+          "summary": "Texmaco Rail & Engineering rose 5.07% to Rs 121.87 after the company announced orders worth a combined Rs 131.36 crore.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/texmaco-rail-engineering-rallies-on-rs-131-crore-order-win-126090700194_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-07T10:16:20+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Options to purchase securities",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Options to purchase securities",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T23:02:34+00:00",
+          "pubDate": "2026-09-06T00:12:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Resignation",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Resignation of Mr. Kishor Kumar Rajgaria as Chief Financial Officer of the company w.e.f. August 31, 2026.",
+          "title": "[NSE] General Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T22:51:39+00:00",
+          "pubDate": "2026-09-06T00:00:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Memorandum of Understanding/Agreements",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding with Bochumer Verein Verkehrstechnik GmBH",
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Orders worth Rs. 131.36 Crores in aggregate (incl. taxes) from Transport Corporation of India Limited and Touax Texmaco Ra",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-27T17:58:10+00:00",
+          "pubDate": "2026-09-05T21:40:57+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -93,6 +126,17 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Change in Management",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about restructuring in Management",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T16:22:58+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates - Signing of Memorandum of Undertaking",
@@ -134,6 +178,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Axiscades Tech rises as board clears Rs 200-cr NCD issue",
+          "summary": "Axiscades Technologies gained 2.61% to Rs 1,756.45 after the company announced that its board approved raising up to Rs 200 crore through the issuance of non-convertible debentures (NCDs) on a private placement basis.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/axiscades-tech-rises-as-board-clears-rs-200-cr-ncd-issue-126090700276_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-07T10:52:06+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication titled - \"Notice of 36th AGM and e-Voting information\"",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-06T11:55:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T16:46:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on September 05, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T13:41:53+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -154,17 +242,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Acquisition",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-28T19:10:02+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -173,6 +250,50 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Nomura raises target price of stock that’s up over 150% in 2025; stock soars another 6%",
+          "summary": "Shares of Avalon Technologies rose sharply on Monday after Nomura raised its target price to Rs 2,767 from Rs 2,211 while retaining a Buy rating. The brokerage said Avalon’s joint venture with Zollner Electronic will expand its capabilities, add glob…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-raises-target-price-of-stock-thats-up-over-150-in-2025-stock-soars-another-6/articleshow/133865022.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-07T10:48:15+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T17:26:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'Letter to shareholders whose e-mail address is not registered with Company/RTA/DPs'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T20:48:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T20:30:10+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Change in Management",
           "summary": "Avalon Technologies Limited has informed the Exchange about change in Management",
@@ -194,39 +315,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "Avalon Technologies Limited has informed the Exchange about the Joint Venture Agreement",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T18:51:40+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on September 03, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T18:30:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Options to purchase securities",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Options to purchase securities",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-02T11:08:39+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -241,17 +329,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-04T12:10:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Crisil Ratings reaffirms ratings of Rashi Peripherals at 'AA-/A1+'",
-          "summary": "Rashi Peripherals (RPL) said that Crisil Ratings has reaffirmed its ratings on the bank facilities of the company at 'Crisil AA-/Stable/Crisil A1+'.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-reaffirms-ratings-of-rashi-peripherals-at-aa-a1-126090400609_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-04T14:31:17+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -308,6 +385,17 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Coforge confident of hitting $5 billion revenue target well before FY30, brushes off AI deflation fears",
+          "summary": "Driven by proactive deal wins, legacy modernization, and strategic M&amp;amp;A, CEO Sudhir Singh expects organic growth to keep top-line expansion on track despite industry price wars and governance pushback.",
+          "link": "https://www.livemint.com/companies/news/coforge-ceo-sudhir-singh-interview-ai-revenue-target-11788685575295.html",
+          "source": "livemint",
+          "pubDate": "2026-09-07T07:00:58+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Coforge Limited has informed the Exchange about Webinar on  Operationalizing Enterprise Autonomy   Coforge Vantage Series",
@@ -475,6 +563,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Dcx Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T11:14:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Dcx Systems Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T19:26:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -491,39 +601,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-13T17:29:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Dcx Systems Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T17:23:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Dcx Systems Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T17:21:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding a press release dated August 12, 2026, titled \"Press Release for the un-audited financial results for the quarter ended June 30, 2026\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T19:23:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -655,51 +732,29 @@
           "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-01T11:02:56+00:00",
+          "pubDate": "2026-09-06T13:22:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated August 31, 2026, titled \"E2E Networks Signs Binding Term Sheet Worth approximately Rs. 1,000 Crore with Sovereign AI Comp",
+          "title": "[NSE] General Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about Dispatch of letter to shareholders whose email addresses are not registered with Company/Registrar & Transfer Agent/Depository Participants",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T23:27:56+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "E2E Networks Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T17:20:14+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "E2E Networks Limited has informed the Exchange regarding Grant of 5,45,000  Options.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T14:20:23+00:00",
+          "pubDate": "2026-09-05T18:26:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "E2E Networks Limited has informed the Exchange regarding Outcome of Board Meeting held on August 31, 2026.",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T14:04:47+00:00",
+          "pubDate": "2026-09-05T15:09:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1059,6 +1114,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding ''Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 which is self explanatory.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T19:12:59+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1067,17 +1133,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - update.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T22:00:16+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         },
         {
@@ -1161,6 +1216,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding 'Communication to Shareholders: Dividend for FY 2025-26   Intimation on Tax Deduction at Source (TDS) / withholding tax on Dividend'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T12:58:54+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 29, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T12:31:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Record Date",
           "summary": "PG Electroplast Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1177,28 +1254,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-04T14:18:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended June 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T16:30:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-12T16:53:24+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
