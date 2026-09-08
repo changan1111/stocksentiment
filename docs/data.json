@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-08T07:48:00.845125+00:00",
+  "fetchedAt": "2026-09-08T13:17:05.913408+00:00",
   "tickerCount": 32,
-  "articleCount": 106,
+  "articleCount": 109,
   "overview": {
-    "positive": 12,
+    "positive": 14,
     "negative": 5,
-    "neutral": 89
+    "neutral": 90
   },
   "stocks": [
     {
@@ -13,6 +13,28 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated September 08, 2026, titled \"Jupiter Wagons Bags Order Worth Over Rs. 97.66 Crore from GATX India Private Limited\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-08T13:36:23+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Jupiter Wagons inks Rs 97.66-cr wagon purchase agreement with GATX India",
+          "summary": "Jupiter Wagons has secured a significant order from GATX India, a subsidiary of GATX Corporation, USA, further strengthening Jupiter Wagons' presence in India's private wagon leasing ecosystem.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/jupiter-wagons-inks-rs-97-66-cr-wagon-purchase-agreement-with-gatx-india-126090801180_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-08T17:51:34+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -105,6 +127,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Communication to Shareholders w.r.t. Tax Deduction at Source on Dividend Payout",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-08T16:37:44+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange that Record date for the purpose of Dividend  is 23-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-08T14:17:52+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-08T13:55:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding Outcome of Board Meeting held on September 07, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -121,28 +176,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-05T16:22:58+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about General Updates - Signing of Memorandum of Undertaking",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-26T18:27:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated August 21, 2026, titled \"TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-21T23:43:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -724,6 +757,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding Allotment of Equity Shares under EPACK ESOP Scheme 2023.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-08T18:05:36+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "EPACK Durable Limited has informed the Exchange that, pursuant to Regulation 36(1)(b) of the SEBI Listing Regulations, the Company has dispatched physical communication to shareholders who have not re",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1047,17 +1091,6 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Rentomojo IPO may unlock 152x gain for Nazara Tech founder Nitish Mittersain",
-          "summary": "Rentomojo, the furniture and appliance rental company, is gearing up for a significant IPO, poised to raise over one thousand crore rupees. Nitish Mittersain stands to gain immensely, potentially realizing a staggering 152-fold return on his investme…",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-may-unlock-152x-gain-for-nazara-tech-founder-nitish-mittersain/articleshow/133905697.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-08T09:10:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding ''Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 which is self explanatory.",
