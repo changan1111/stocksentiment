@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-07T14:45:04.526107+00:00",
+  "fetchedAt": "2026-09-08T07:48:00.845125+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 106,
   "overview": {
-    "positive": 10,
-    "negative": 4,
-    "neutral": 90
+    "positive": 12,
+    "negative": 5,
+    "neutral": 89
   },
   "stocks": [
     {
@@ -218,17 +218,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Nomura raises target price of stock that’s up over 150% in 2026; stock soars another 6%",
-          "summary": "Shares of Avalon Technologies rose sharply on Monday after Nomura raised its target price to Rs 2,767 from Rs 2,211 while retaining a Buy rating. The brokerage said Avalon’s joint venture with Zollner Electronic will expand its capabilities, add glob…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-raises-target-price-of-stock-thats-up-over-150-in-2025-stock-soars-another-6/articleshow/133865022.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-07T10:48:15+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -353,6 +342,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Coforge shares double from March low, outperform Nifty IT peers. Is more steam left in the rally?",
+          "summary": "Coforge shares have experienced a remarkable resurgence, doubling since March and leaving its IT competitors behind. The company recently announced impressive growth in net profit and revenue during the first quarter. Analysts anticipate that mid-tie…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-double-from-march-low-outperform-nifty-it-peers-is-more-steam-left-in-the-rally/articleshow/133906415.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-08T09:36:31+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "Coforge confident of hitting $5 billion revenue target well before FY30, brushes off AI deflation fears",
           "summary": "Driven by proactive deal wins, legacy modernization, and strategic M&amp;amp;A, CEO Sudhir Singh expects organic growth to keep top-line expansion on track despite industry price wars and governance pushback.",
           "link": "https://www.livemint.com/companies/news/coforge-ceo-sudhir-singh-interview-ai-revenue-target-11788685575295.html",
@@ -414,6 +414,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "SaaS is beating the ‘SaaSpocalypse’! CLSA explains what AI means for Indian IT stocks",
+          "summary": "CLSA sees AI widening the gap between SaaS platforms and Indian IT services, favouring Persistent Systems and LTIMindtree. SaaS firms are gaining productivity, while system integrators face automation pressure. Both companies are adapting through dea…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/saas-is-beating-the-saaspocalypse-clsa-explains-what-ai-means-for-indian-it-stocks/articleshow/133907841.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-08T10:28:09+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015",
@@ -505,10 +516,21 @@
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-03T12:04:46+00:00",
+          "pubDate": "2026-09-08T11:46:29+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -642,18 +664,7 @@
           "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-07T17:28:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Rumour Verification - Regulation 30(11)",
-          "summary": "Tata Technologies Limited has informed the Exchange about Rumour Verification - Regulation 30(11)",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-07T13:31:20+00:00",
+          "pubDate": "2026-09-08T12:42:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1036,6 +1047,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Rentomojo IPO may unlock 152x gain for Nazara Tech founder Nitish Mittersain",
+          "summary": "Rentomojo, the furniture and appliance rental company, is gearing up for a significant IPO, poised to raise over one thousand crore rupees. Nitish Mittersain stands to gain immensely, potentially realizing a staggering 152-fold return on his investme…",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-may-unlock-152x-gain-for-nazara-tech-founder-nitish-mittersain/articleshow/133905697.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-08T09:10:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding ''Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 which is self explanatory.",
