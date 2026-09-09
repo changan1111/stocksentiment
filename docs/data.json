@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-09T07:50:43.961575+00:00",
+  "fetchedAt": "2026-09-09T13:21:34.477382+00:00",
   "tickerCount": 32,
-  "articleCount": 110,
+  "articleCount": 102,
   "overview": {
-    "positive": 10,
-    "negative": 8,
-    "neutral": 92
+    "positive": 9,
+    "negative": 7,
+    "neutral": 86
   },
   "stocks": [
     {
@@ -116,6 +116,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-09T15:45:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about letters sent to shareholders in pursuant to Regulation 36(1)(b) and 30 of SEBI (LODR) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -143,17 +154,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-08T13:55:56+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding Outcome of Board Meeting held on September 07, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-07T19:17:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -291,6 +291,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Rashi Peripherals Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 09, 2026. Further, the company has informed the Exchange regarding voting re",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-09T17:45:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -322,28 +333,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T12:21:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation",
-          "summary": "Rashi Peripherals Limited has informed the Exchange regarding Resignation of Mr Anil Khandelwal (DIN: 00005619) as Independent Director of the company w.e.f. August 24, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T12:03:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -352,6 +341,17 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Raymond Ltd leads losers in 'A' group",
+          "summary": "Coforge Ltd, Kiri Industries Ltd, Infosys Ltd and Pearl Global Industries Ltd are among the other losers in the BSE's 'A' group today, 09 September 2026.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/raymond-ltd-leads-losers-in-a-group-126090900932_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-09T15:31:30+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Coforge Limited has informed the Exchange about General Updates",
@@ -386,17 +386,6 @@
           }
         },
         {
-          "title": "Coforge plunges as chairman O P Bhatt resigns with immediate effect",
-          "summary": "Coforge tumbled 6.91% to Rs 1814.50 after the company announced that its non-executive independent director and chairman, O. P. Bhatt, resigned from the Board with immediate effect on 9 September 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-plunges-as-chairman-o-p-bhatt-resigns-with-immediate-effect-126090900269_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-09T10:17:02+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "Who is Om Prakash Bhatt? Coforge chairman resigns; what IT firm flagged — updates so far",
           "summary": "Om Prakash Bhatt was appointed chairman of Coforge's board in 2024, with his term originally due to end in April 2027. The company has appointed Vivek Sharma, a non-executive independent director, as interim chair until 31 January 2027.",
           "link": "https://www.livemint.com/companies/people/who-is-om-prakash-bhatt-coforge-chairman-resigns-what-the-it-firm-flagged-updates-so-far-11788926033305.html",
@@ -405,17 +394,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "BEL to Glenmark - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
-          "summary": "Domestic benchmark indices opened lower on September 9 due to rising crude oil prices amid Middle East tensions. Nifty 50 fell 0.56% to 23,511.40. Key stocks like Coforge declined sharply, reflecting broader market pressure as FII positions remained …",
-          "link": "https://www.livemint.com/market/stock-market-news/bel-to-glenmark-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11788922718925.html",
-          "source": "livemint",
-          "pubDate": "2026-09-09T09:31:40+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.333
           }
         },
         {
@@ -565,6 +543,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -694,10 +683,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Schedule of meet",
+          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Meeting held today on September 9, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-08T12:42:45+00:00",
+          "pubDate": "2026-09-09T17:08:14+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -757,17 +746,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Epack Durable allots 48,218 equity shares under ESOS",
-          "summary": "Post allotment of equity shares, the paid-up capital of the Company stands increased from Rs. 96,22,84,770 comprising of 9,62,28,477 equity shares of Rs 10/- each to      Rs. 96,27,66,950 comprising of 9,62,76,695 equity shares of Rs. 10/- each.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/epack-durable-allots-48-218-equity-shares-under-esos-126090900567_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-09T12:55:45+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "EPACK Durable Limited has informed the Exchange regarding Allotment of Equity Shares under EPACK ESOP Scheme 2023.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -819,6 +797,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about letter dispatched to Members providing web link of the Integrated Annual Report for the FY 2025-26",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-09T17:25:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -839,28 +828,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about the Integrated Annual Report for the Financial Year 2025-26",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T18:48:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Electronics Mart India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 25, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T18:38:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -868,52 +835,7 @@
       "symbol": "GRSE.NS",
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith the newspaper clippings regarding completion of dispatch of the Not",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T11:34:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T15:56:10+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "This is to inform that the 110th Annual General Meeting ( AGM ) of the Company will be held on Friday, 25th September, 2026 at 1030 hours through Video Conferencing ( VC )/ Other Audio-Visual Means ( ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T15:52:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "1. In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you th",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T09:48:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "IDEAFORGE.NS",
@@ -1001,22 +923,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] General Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about change in the role of Non-Executive Director",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of Institutional Investors meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T18:30:52+00:00",
+          "pubDate": "2026-09-09T16:39:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] General Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about change in the role of Non-Executive Director",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-27T17:50:59+00:00",
+          "pubDate": "2026-08-31T18:30:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1039,17 +961,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-21T12:34:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "JSW Infrastructure Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 13, 2026. Further, the company has informed the Exchange regarding voting resu",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T18:05:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
