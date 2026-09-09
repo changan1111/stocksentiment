@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-08T13:17:05.913408+00:00",
+  "fetchedAt": "2026-09-09T07:50:43.961575+00:00",
   "tickerCount": 32,
-  "articleCount": 109,
+  "articleCount": 110,
   "overview": {
-    "positive": 14,
-    "negative": 5,
-    "neutral": 90
+    "positive": 10,
+    "negative": 8,
+    "neutral": 92
   },
   "stocks": [
     {
@@ -22,17 +22,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Jupiter Wagons inks Rs 97.66-cr wagon purchase agreement with GATX India",
-          "summary": "Jupiter Wagons has secured a significant order from GATX India, a subsidiary of GATX Corporation, USA, further strengthening Jupiter Wagons' presence in India's private wagon leasing ecosystem.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jupiter-wagons-inks-rs-97-66-cr-wagon-purchase-agreement-with-gatx-india-126090801180_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-08T17:51:34+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -128,13 +117,13 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Communication to Shareholders w.r.t. Tax Deduction at Source on Dividend Payout",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about letters sent to shareholders in pursuant to Regulation 36(1)(b) and 30 of SEBI (LODR) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-08T16:37:44+00:00",
+          "pubDate": "2026-09-08T19:34:12+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Negative",
+            "score": -1.0
           }
         },
         {
@@ -165,17 +154,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-07T19:17:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about restructuring in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T16:22:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -375,66 +353,110 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Coforge shares double from March low, outperform Nifty IT peers. Is more steam left in the rally?",
-          "summary": "Coforge shares have experienced a remarkable resurgence, doubling since March and leaving its IT competitors behind. The company recently announced impressive growth in net profit and revenue during the first quarter. Analysts anticipate that mid-tie…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-double-from-march-low-outperform-nifty-it-peers-is-more-steam-left-in-the-rally/articleshow/133906415.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-08T09:36:31+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Coforge confident of hitting $5 billion revenue target well before FY30, brushes off AI deflation fears",
-          "summary": "Driven by proactive deal wins, legacy modernization, and strategic M&amp;amp;A, CEO Sudhir Singh expects organic growth to keep top-line expansion on track despite industry price wars and governance pushback.",
-          "link": "https://www.livemint.com/companies/news/coforge-ceo-sudhir-singh-interview-ai-revenue-target-11788685575295.html",
-          "source": "livemint",
-          "pubDate": "2026-09-07T07:00:58+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] General Updates",
-          "summary": "Coforge Limited has informed the Exchange about Webinar on  Operationalizing Enterprise Autonomy   Coforge Vantage Series",
+          "summary": "Coforge Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-03T18:20:29+00:00",
+          "pubDate": "2026-09-09T09:21:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "Coforge Limited has informed the Exchange regarding 'Sustainability Report for FY 2025-26 '.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T12:25:37+00:00",
+          "title": "Coforge chairman resigns after internal audit flags disclosure gaps",
+          "summary": "The resignation followed concerns identified in an internal audit review over the handling and disclosure of information relating to the board evaluation report",
+          "link": "https://www.business-standard.com/companies/news/coforge-op-bhatt-resigns-board-evaluation-report-concerns-126090900300_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-09T10:48:30+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 57598  Shares.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T11:57:44+00:00",
+          "title": "Coforge share price cracks 9% after Chairman OP Bhatt resigns following audit | Other IT stocks also in red",
+          "summary": "Coforge shares dropped nearly 9% on September 9 after the resignation of non-executive Director Om Prakash Bhatt. The stock fell to  ₹1,780.10. The Board appointed Vivek Sharma as interim Chairperson until January 31, 2027.",
+          "link": "https://www.livemint.com/market/stock-market-news/coforge-share-price-cracks-9-after-chairman-op-bhatt-resigns-following-audit-other-it-stocks-also-in-red-11788930116417.html",
+          "source": "livemint",
+          "pubDate": "2026-09-09T10:43:30+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 02, 2026, titled \"Coforge Introduces AI Launchpad, the Open-Weight AI Ecosystem for the Enterprise\".",
+          "title": "Coforge plunges as chairman O P Bhatt resigns with immediate effect",
+          "summary": "Coforge tumbled 6.91% to Rs 1814.50 after the company announced that its non-executive independent director and chairman, O. P. Bhatt, resigned from the Board with immediate effect on 9 September 2026.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-plunges-as-chairman-o-p-bhatt-resigns-with-immediate-effect-126090900269_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-09T10:17:02+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Who is Om Prakash Bhatt? Coforge chairman resigns; what IT firm flagged — updates so far",
+          "summary": "Om Prakash Bhatt was appointed chairman of Coforge's board in 2024, with his term originally due to end in April 2027. The company has appointed Vivek Sharma, a non-executive independent director, as interim chair until 31 January 2027.",
+          "link": "https://www.livemint.com/companies/people/who-is-om-prakash-bhatt-coforge-chairman-resigns-what-the-it-firm-flagged-updates-so-far-11788926033305.html",
+          "source": "livemint",
+          "pubDate": "2026-09-09T10:02:23+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "BEL to Glenmark - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
+          "summary": "Domestic benchmark indices opened lower on September 9 due to rising crude oil prices amid Middle East tensions. Nifty 50 fell 0.56% to 23,511.40. Key stocks like Coforge declined sharply, reflecting broader market pressure as FII positions remained …",
+          "link": "https://www.livemint.com/market/stock-market-news/bel-to-glenmark-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11788922718925.html",
+          "source": "livemint",
+          "pubDate": "2026-09-09T09:31:40+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.333
+          }
+        },
+        {
+          "title": "Coforge shares crash 9% after Chairman Om Prakash Bhatt resigns post audit",
+          "summary": "Coforge shares fell after Chairperson Om Prakash Bhatt resigned. An internal audit identified concerns regarding the board evaluation process and its presentation. Bhatt stated his resignation was appropriate given the circumstances and disagreements…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-in-focus-as-chairman-om-prakash-bhatt-resigns-after-audit-heres-why/articleshow/133951301.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-09T09:13:10+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "Coforge chairman resigns after audit finds concerns in board evaluation",
+          "summary": "Bhatt, who previously served as chairman of India's largest lender, State Bank of India, was appointed chair of Coforge's board in 2024 with a term due to finish in April 2027",
+          "link": "https://www.business-standard.com/companies/news/coforge-chairman-resigns-after-audit-finds-concerns-in-board-evaluation-126090900088_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-09T07:59:09+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Coforge Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-02T13:13:49+00:00",
+          "pubDate": "2026-09-09T02:13:18+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "Coforge Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-09T01:54:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -447,17 +469,6 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "SaaS is beating the ‘SaaSpocalypse’! CLSA explains what AI means for Indian IT stocks",
-          "summary": "CLSA sees AI widening the gap between SaaS platforms and Indian IT services, favouring Persistent Systems and LTIMindtree. SaaS firms are gaining productivity, while system integrators face automation pressure. Both companies are adapting through dea…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/saas-is-beating-the-saaspocalypse-clsa-explains-what-ai-means-for-indian-it-stocks/articleshow/133907841.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-08T10:28:09+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015",
@@ -553,17 +564,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -756,6 +756,17 @@
       "name": "Epack Durable",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Epack Durable allots 48,218 equity shares under ESOS",
+          "summary": "Post allotment of equity shares, the paid-up capital of the Company stands increased from Rs. 96,22,84,770 comprising of 9,62,28,477 equity shares of Rs 10/- each to      Rs. 96,27,66,950 comprising of 9,62,76,695 equity shares of Rs. 10/- each.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/epack-durable-allots-48-218-equity-shares-under-esos-126090900567_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-09T12:55:45+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "EPACK Durable Limited has informed the Exchange regarding Allotment of Equity Shares under EPACK ESOP Scheme 2023.",
