@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-09T13:21:34.477382+00:00",
+  "fetchedAt": "2026-09-10T07:50:35.712922+00:00",
   "tickerCount": 32,
-  "articleCount": 102,
+  "articleCount": 106,
   "overview": {
-    "positive": 9,
-    "negative": 7,
-    "neutral": 86
+    "positive": 13,
+    "negative": 6,
+    "neutral": 87
   },
   "stocks": [
     {
@@ -167,6 +167,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Dispatch of letter to shareholders whose e-mail addresses are not registered with Company/Registrar & Transfer Agent/Depository Participa",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-09T19:34:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication titled - \"Notice of 36th AGM and e-Voting information\"",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -205,17 +216,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-03T19:46:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated August 30, 2026, titled \"AXISCADES Technologies to Acquire Cloud Wave Technologies, Accelerating Entry into Aer",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-30T09:00:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -342,11 +342,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Raymond Ltd leads losers in 'A' group",
-          "summary": "Coforge Ltd, Kiri Industries Ltd, Infosys Ltd and Pearl Global Industries Ltd are among the other losers in the BSE's 'A' group today, 09 September 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/raymond-ltd-leads-losers-in-a-group-126090900932_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-09T15:31:30+05:30",
+          "title": "Coforge shares rise 2% as Nuvama, other brokerages say concerns around Chairman's resignation are overdone",
+          "summary": "Coforge shares recovered after brokerages retained Buy calls, saying concerns over Chairman Om Prakash Bhatt’s resignation are overdone. Nuvama and Motilal Oswal see limited business impact and remain positive on the company’s growth outlook.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-rise-2-as-nuvama-other-brokerages-say-concerns-around-chairmans-resignation-are-overdone/articleshow/133994829.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-10T11:02:27+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Coforge top shareholder thumbs-down leads to chairman Bhatt's exit",
+          "summary": "Coforge’s top shareholder Advent voted against chairman Bhatt’s reappointment, weeks after its nominee was part of a panel that backed his tenure extension. The reversal blocked the veteran banker’s second term; he has since quit amid concerns over t…",
+          "link": "https://www.livemint.com/companies/coforge-chairman-op-bhatt-resignation-advent-international-11788960783608.html",
+          "source": "livemint",
+          "pubDate": "2026-09-10T05:45:34+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Coforge Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-09T21:04:17+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -364,22 +386,11 @@
           }
         },
         {
-          "title": "Coforge chairman resigns after internal audit flags disclosure gaps",
+          "title": "OP Bhatt quits as Coforge chair after internal audit flags disclosure gaps",
           "summary": "The resignation followed concerns identified in an internal audit review over the handling and disclosure of information relating to the board evaluation report",
           "link": "https://www.business-standard.com/companies/news/coforge-op-bhatt-resigns-board-evaluation-report-concerns-126090900300_1.html",
           "source": "business-standard",
-          "pubDate": "2026-09-09T10:48:30+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Coforge share price cracks 9% after Chairman OP Bhatt resigns following audit | Other IT stocks also in red",
-          "summary": "Coforge shares dropped nearly 9% on September 9 after the resignation of non-executive Director Om Prakash Bhatt. The stock fell to  ₹1,780.10. The Board appointed Vivek Sharma as interim Chairperson until January 31, 2027.",
-          "link": "https://www.livemint.com/market/stock-market-news/coforge-share-price-cracks-9-after-chairman-op-bhatt-resigns-following-audit-other-it-stocks-also-in-red-11788930116417.html",
-          "source": "livemint",
-          "pubDate": "2026-09-09T10:43:30+05:30",
+          "pubDate": "2026-09-09T10:48:45+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -394,17 +405,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Coforge shares crash 9% after Chairman Om Prakash Bhatt resigns post audit",
-          "summary": "Coforge shares fell after Chairperson Om Prakash Bhatt resigned. An internal audit identified concerns regarding the board evaluation process and its presentation. Bhatt stated his resignation was appropriate given the circumstances and disagreements…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-in-focus-as-chairman-om-prakash-bhatt-resigns-after-audit-heres-why/articleshow/133951301.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-09T09:13:10+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         },
         {
@@ -543,17 +543,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -614,6 +603,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-09T22:49:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Copy of Newspaper Publication of Notice to the Members of the 33rd Annual General Meeting of the Company and Remote E-voting Informat",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -644,28 +644,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Shareholder Meeting- 33rd Annual General Meeting of Dixon Technologies (India) Limited on 28th September, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T21:52:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Allotment of 28455  Shares.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-02T19:07:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -835,7 +813,52 @@
       "symbol": "GRSE.NS",
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith the newspaper clippings regarding completion of dispatch of the Not",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-04T11:34:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "[NSE] Record Date",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T15:56:10+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "This is to inform that the 110th Annual General Meeting ( AGM ) of the Company will be held on Friday, 25th September, 2026 at 1030 hours through Video Conferencing ( VC )/ Other Audio-Visual Means ( ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T15:52:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "1. In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you th",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-03T09:48:05+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "IDEAFORGE.NS",
@@ -922,6 +945,28 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Aegis Logistics among 4 stocks showing RSI trending up",
+          "summary": "Four Nifty500 stocks that gained over 3% on September 9 were highlighted in the RSI Trending Up scan, based on data from StockEdge. Aegis Logistics, Adani Enterprises, Max Healthcare Institute and JSW Infrastructure recorded a rise in RSI, indicating…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-among-4-stocks-showing-rsi-trending-up/slideshow/133992465.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-10T08:54:09+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Breakout stocks to buy: Sumeet Bagadia recommends five shares to buy today —10 September 2026",
+          "summary": "Breakout stocks to buy: Sumeet Bagadia recommends five breakout stocks to buy today — One 97 Communications, Global Health, Adani Power, JSW Infrastructure, and Aditya Birla Sun Life Amc.",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-september-2026-11789001772273.html",
+          "source": "livemint",
+          "pubDate": "2026-09-10T06:41:22+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of Institutional Investors meet",
