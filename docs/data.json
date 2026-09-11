@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-09-11T07:44:51.602043+00:00",
+  "fetchedAt": "2026-09-11T13:13:04.516684+00:00",
   "tickerCount": 32,
-  "articleCount": 102,
+  "articleCount": 103,
   "overview": {
-    "positive": 14,
+    "positive": 15,
     "negative": 7,
     "neutral": 81
   },
@@ -346,7 +346,7 @@
           "summary": "The IT services firm said reports were available only to OP Bhatt and NRC chair DK Singh, while the chairman's lowest rating was not disclosed or discussed with the full board",
           "link": "https://www.business-standard.com/companies/news/coforge-op-bhatt-board-evaluation-report-governance-advent-126091100177_1.html",
           "source": "business-standard",
-          "pubDate": "2026-09-11T09:37:35+05:30",
+          "pubDate": "2026-09-11T09:37:31+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -582,10 +582,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-09T22:49:02+00:00",
+          "pubDate": "2026-09-11T18:22:33+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -611,17 +611,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange that Record date for the purpose of Dividend  is 21-Sep-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T22:09:01+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -896,10 +885,10 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015   Group Investors/Analysts meet   Outcome",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015   Plant Visit   Outcome",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-10T17:39:32+00:00",
+          "pubDate": "2026-09-11T18:11:17+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -913,11 +902,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "JSW Infrastructure completes acquisition of NCR Rail",
-          "summary": "JSW Infrastructure said that it has completed the acquisition of NCR Rail Infrastructure through its wholly owned step-down subsidiary Khurja Rail Terminal, effective 10 September 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jsw-infrastructure-completes-acquisition-of-ncr-rail-126091100522_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-11T12:50:20+05:30",
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Letter of Intent for setting up of an Inland Container Depot at Village Kudathini, Ballari District, Karnataka",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-11T18:03:02+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -964,6 +953,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-11T16:21:40+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Midcap rally hides a deeper split: Every second stock down but index up 11% in 1 year. Are investors walking on thin ice?",
           "summary": "The Nifty Midcap 150 has gained around 11% over the past year, outperforming the Nifty’s 6% decline. However, the gains have been uneven, with more than half of its constituents still in the red and some down as much as 70%. SKF India, KPIT Tech, Syn…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-rally-hides-a-deeper-split-every-second-down-but-index-up-11-in-1-year-are-investors-walking-on-thin-ice/articleshow/134049249.cms",
@@ -995,17 +995,6 @@
             "label": "Neutral",
             "score": 0.0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Reconstitution of Nomination and Remuneration (HR) Committee of the Board.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-26T13:47:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1014,6 +1003,28 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding a press release dated September 11, 2026, titled \"Nazara launches Bodycam in Fortnite through an official UEFN adaptation.\"",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-11T13:50:03+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Nazara partners with Virstate to launch Bodycam UEFN",
+          "summary": "Nazara Technologies and Virstate today announced that Bodycam UEFN, the official Bodycam game adaptation for Fortnite developed under agreement with Reissad Studio is now available to players worldwide starting today.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nazara-partners-with-virstate-to-launch-bodycam-uefn-126091100780_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-11T15:50:02+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding ''Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 which is self explanatory.",
