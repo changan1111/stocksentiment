@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-11T13:13:04.516684+00:00",
+  "fetchedAt": "2026-09-14T08:31:03.686718+00:00",
   "tickerCount": 32,
-  "articleCount": 103,
+  "articleCount": 100,
   "overview": {
-    "positive": 15,
-    "negative": 7,
-    "neutral": 81
+    "positive": 13,
+    "negative": 5,
+    "neutral": 82
   },
   "stocks": [
     {
@@ -342,44 +342,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Chairman OP Bhatt hid audit findings from board members, says Coforge",
-          "summary": "The IT services firm said reports were available only to OP Bhatt and NRC chair DK Singh, while the chairman's lowest rating was not disclosed or discussed with the full board",
-          "link": "https://www.business-standard.com/companies/news/coforge-op-bhatt-board-evaluation-report-governance-advent-126091100177_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-11T09:37:31+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Experts call for intense evaluation of boards as Coforge chairman exits under a cloud",
-          "summary": "Bhatt's resignation from Coforge, linked to undisclosed findings in its board evaluation report, has put the spotlight on India's board practices. The Sebi-mandated exercise is often a formality rather than a rigorous assessment. Some advisory firms …",
-          "link": "https://www.livemint.com/companies/news/coforge-chairman-op-bhatt-resignation-corporate-governance-in-india-11789026227593.html",
-          "source": "livemint",
-          "pubDate": "2026-09-11T05:50:15+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Coforge Limited has informed the Exchange about General Updates",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 14, 2026, titled \"Coforge Global Event Advances Workforce Readiness for Enterprise AI Adoption\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-10T22:58:02+00:00",
+          "pubDate": "2026-09-14T11:16:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "Coforge top shareholder thumbs-down leads to chairman Bhatt's exit",
-          "summary": "Coforge’s top shareholder Advent voted against chairman Bhatt’s reappointment, weeks after its nominee was part of a panel that backed his tenure extension. The reversal blocked the veteran banker’s second term; he has since quit amid concerns over t…",
-          "link": "https://www.livemint.com/companies/coforge-chairman-op-bhatt-resignation-advent-international-11788960783608.html",
-          "source": "livemint",
-          "pubDate": "2026-09-10T05:45:34+05:30",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Schedule of Conference Call",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-11T20:11:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -390,21 +368,21 @@
           "summary": "Coforge Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-09T21:04:17+00:00",
+          "pubDate": "2026-09-11T19:53:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Trading Window",
-          "summary": "Coforge Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-09T02:13:18+00:00",
+          "title": "Coforge NRC chair resigns citing differences, tension between directors",
+          "summary": "In another major boardroom fallout at Coforge, its non-executive independent director and Nomination and Remuneration Committee Chairperson D K Singh has resigned, alleging \"differences and tension\" between independent and executive directors.\nThe IT…",
+          "link": "https://www.business-standard.com/companies/news/coforge-nrc-chair-resigns-citing-differences-tension-between-directors-126091101348_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-11T23:42:16+05:30",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         }
       ]
@@ -414,6 +392,28 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-13T22:55:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on October 05, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-12T12:22:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015",
@@ -431,17 +431,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-02T22:16:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Intimation regarding cancellation of call.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T20:06:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -628,10 +617,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Meeting held today on September 9, 2026",
+          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Conference",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-09T17:08:14+00:00",
+          "pubDate": "2026-09-11T19:05:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -782,6 +771,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Record Date",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-14T13:16:33+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith the newspaper clippings regarding completion of dispatch of the Not",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -790,17 +790,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T15:56:10+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -964,17 +953,6 @@
           }
         },
         {
-          "title": "Midcap rally hides a deeper split: Every second stock down but index up 11% in 1 year. Are investors walking on thin ice?",
-          "summary": "The Nifty Midcap 150 has gained around 11% over the past year, outperforming the Nifty’s 6% decline. However, the gains have been uneven, with more than half of its constituents still in the red and some down as much as 70%. SKF India, KPIT Tech, Syn…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-rally-hides-a-deeper-split-every-second-down-but-index-up-11-in-1-year-are-investors-walking-on-thin-ice/articleshow/134049249.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-11T11:36:08+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
-        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Please find attached Scrutinizers report and voting results of 9th Annual General Meeting held on August 31, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1009,17 +987,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-11T13:50:03+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Nazara partners with Virstate to launch Bodycam UEFN",
-          "summary": "Nazara Technologies and Virstate today announced that Bodycam UEFN, the official Bodycam game adaptation for Fortnite developed under agreement with Reissad Studio is now available to players worldwide starting today.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nazara-partners-with-virstate-to-launch-bodycam-uefn-126091100780_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-11T15:50:02+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
