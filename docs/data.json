@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-15T08:21:13.979438+00:00",
+  "fetchedAt": "2026-09-15T14:08:38.741367+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 101,
   "overview": {
-    "positive": 17,
+    "positive": 15,
     "negative": 6,
-    "neutral": 81
+    "neutral": 80
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about incorporation of a subsidiary",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-15T16:56:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated September 08, 2026, titled \"Jupiter Wagons Bags Order Worth Over Rs. 97.66 Crore from GATX India Private Limited\".",
@@ -55,17 +66,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 29, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T12:54:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -116,6 +116,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Arrangements for strategic, technical, manufacturing, or marketing tie up",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Signing of Joint Venture Agreement with Bharat Heavy Electricals Ltd",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-15T16:21:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "BHEL, Titagarh Rail to form JV for Vande Bharat sleeper maintenance",
+          "summary": "Bharat Heavy Electricals and Titagarh Rail Systems have formed a joint venture. This new company will maintain Vande Bharat sleeper train sets for thirty-five years. Both state-owned firms will hold an equal fifty percent stake each. The joint ventur…",
+          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/bhel-and-titagarh-rail-set-to-form-joint-venture-for-vande-bharat-sleeper-train-maintenance/articleshow/134261238.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-15T17:28:04+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "BHEL, Titagarh Rail sign JV for 35-year Vande Bharat sleeper trains upkeep",
+          "summary": "Bharat Heavy Electricals and Titagarh Rail Systems will hold equal stakes in the proposed company, with each owning 50 per cent",
+          "link": "https://www.business-standard.com/companies/news/bhel-titagarh-rail-joint-venture-vande-bharat-sleeper-trains-maintenance-126091500823_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-15T16:51:39+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -146,17 +179,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-08T13:55:56+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -353,14 +375,14 @@
           }
         },
         {
-          "title": "KEC International, Coforge shares jump up to 5% - What's behind the surge",
-          "summary": "KEC International shares surged over 5% following new orders worth  ₹1,303 crore, covering projects in India, the Middle East, and Americas. Coforge shares gained 2.4% after board committee changes, prompted by the resignation of an independent direc…",
-          "link": "https://www.livemint.com/market/stock-market-news/kec-international-coforge-shares-jump-up-to-5-whats-behind-the-surge-11789446308266.html",
-          "source": "livemint",
-          "pubDate": "2026-09-15T10:14:32+05:30",
+          "title": "Coforge shares fall over 3%. What are Jefferies, Emkay saying after Chairman, independent director exit?",
+          "summary": "Coforge shares fell after independent director and NRC chairperson DK Singh resigned, days after chairman OP Bhatt stepped down, raising concerns over the board changes. However, the company reiterated its FY27 guidance, retaining its targets of 20.5…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-fall-over-3-what-are-jefferies-emkay-saying-after-chairman-independent-director-exit/articleshow/134256354.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-15T13:55:27+05:30",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0.0
           }
         },
         {
@@ -394,17 +416,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Coforge NRC chair resigns citing differences, tension between directors",
-          "summary": "In another major boardroom fallout at Coforge, its non-executive independent director and Nomination and Remuneration Committee Chairperson D K Singh has resigned, alleging \"differences and tension\" between independent and executive directors.\nThe IT…",
-          "link": "https://www.business-standard.com/companies/news/coforge-nrc-chair-resigns-citing-differences-tension-between-directors-126091101348_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-11T23:42:16+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -521,17 +532,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -596,7 +596,7 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-11T18:22:33+00:00",
+          "pubDate": "2026-09-15T16:41:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -608,17 +608,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-04T14:52:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Business Responsibility and Sustainability Report - FY 2025-26",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T22:25:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1055,17 +1044,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Netweb Tech shares crash over 5%— Is it an opportunity to buy this multibagger stock?",
-          "summary": "Netweb Tech shares opened at  ₹4,979.45 against their previous close of  ₹5,026.90 and declined as much as 5.4% to an intraday low of  ₹4,754.90, looking set to snap its two-day winning run.",
-          "link": "https://www.livemint.com/market/stock-market-news/netweb-tech-shares-crash-over-5-is-it-an-opportunity-to-buy-this-multibagger-stock-11789447150079.html",
-          "source": "livemint",
-          "pubDate": "2026-09-15T10:18:14+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
-        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding allotment of 1645 securities pursuant to ESOP/ESPS at its meeting held on September 03, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1280,7 +1258,7 @@
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-15T13:07:42+00:00",
+          "pubDate": "2026-09-15T16:28:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1314,17 +1292,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-07T13:40:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Shareholders meeting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-31T16:43:22+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
