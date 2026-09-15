@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-14T15:37:46.579848+00:00",
+  "fetchedAt": "2026-09-15T08:21:13.979438+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 104,
   "overview": {
-    "positive": 13,
-    "negative": 5,
-    "neutral": 82
+    "positive": 17,
+    "negative": 6,
+    "neutral": 81
   },
   "stocks": [
     {
@@ -343,35 +343,57 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 14, 2026, titled \"Coforge Global Event Advances Workforce Readiness for Enterprise AI Adoption\".",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 15, 2026, titled \"\"Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-14T11:16:50+00:00",
+          "pubDate": "2026-09-15T12:11:54+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "KEC International, Coforge shares jump up to 5% - What's behind the surge",
+          "summary": "KEC International shares surged over 5% following new orders worth  ₹1,303 crore, covering projects in India, the Middle East, and Americas. Coforge shares gained 2.4% after board committee changes, prompted by the resignation of an independent direc…",
+          "link": "https://www.livemint.com/market/stock-market-news/kec-international-coforge-shares-jump-up-to-5-whats-behind-the-surge-11789446308266.html",
+          "source": "livemint",
+          "pubDate": "2026-09-15T10:14:32+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks in news: Tata Group stocks, HDFC Bank, Coforge, HFCL, Sun Pharma and Varun Beverages",
+          "summary": "On September 11, Indian stock markets experienced a remarkable bounce back after an initial dip at opening. Key index heavyweights attracted selective buying, which limited the day’s overall losses. Major players like HDFC Bank and IT sectors remaine…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-coforge-hfcl-sun-pharma-and-varun-beverages/articleshow/134245046.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-15T06:00:00+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
           }
         },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Schedule of Conference Call",
+          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-11T20:11:00+00:00",
+          "pubDate": "2026-09-14T21:22:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Coforge Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-11T19:53:08+00:00",
+          "title": "Coforge tasks Egon Zehnder to find independent director as next board chair",
+          "summary": "Coforge has hired Egon Zehnder to find two independent directors and a new chair after OP Bhatt and DK Singh resigned amid governance concerns. The company said the board turmoil will not affect business, highlighting strong large-deal momentum and i…",
+          "link": "https://www.livemint.com/companies/news/coforge-egon-zehnder-board-chairman-op-bhatt-dk-singh-resignations-governance-concerns-11789393138204.html",
+          "source": "livemint",
+          "pubDate": "2026-09-14T21:24:30+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -1033,6 +1055,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Netweb Tech shares crash over 5%— Is it an opportunity to buy this multibagger stock?",
+          "summary": "Netweb Tech shares opened at  ₹4,979.45 against their previous close of  ₹5,026.90 and declined as much as 5.4% to an intraday low of  ₹4,754.90, looking set to snap its two-day winning run.",
+          "link": "https://www.livemint.com/market/stock-market-news/netweb-tech-shares-crash-over-5-is-it-an-opportunity-to-buy-this-multibagger-stock-11789447150079.html",
+          "source": "livemint",
+          "pubDate": "2026-09-15T10:18:14+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding allotment of 1645 securities pursuant to ESOP/ESPS at its meeting held on September 03, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1242,6 +1275,17 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Credit Rating",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-15T13:07:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Further investment in Dheya Engineering Technologies Private Limited pursuant to the Share Purchase Agreement (SPA) dated August 07, 2026",
