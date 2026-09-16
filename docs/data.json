@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-16T08:14:59.327966+00:00",
+  "fetchedAt": "2026-09-16T14:00:55.480366+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 97,
   "overview": {
     "positive": 15,
     "negative": 5,
-    "neutral": 80
+    "neutral": 77
   },
   "stocks": [
     {
@@ -138,17 +138,6 @@
           }
         },
         {
-          "title": "BHEL, Titagarh Rail to form JV for Vande Bharat sleeper maintenance",
-          "summary": "Bharat Heavy Electricals and Titagarh Rail Systems have formed a joint venture. This new company will maintain Vande Bharat sleeper train sets for thirty-five years. Both state-owned firms will hold an equal fifty percent stake each. The joint ventur…",
-          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/bhel-and-titagarh-rail-set-to-form-joint-venture-for-vande-bharat-sleeper-train-maintenance/articleshow/134261238.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-15T17:28:04+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "BHEL, Titagarh Rail sign JV for 35-year Vande Bharat sleeper trains upkeep",
           "summary": "Bharat Heavy Electricals and Titagarh Rail Systems will hold equal stakes in the proposed company, with each owning 50 per cent",
           "link": "https://www.business-standard.com/companies/news/bhel-titagarh-rail-joint-venture-vande-bharat-sleeper-trains-maintenance-126091500823_1.html",
@@ -193,7 +182,7 @@
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-11T11:34:22+00:00",
+          "pubDate": "2026-09-16T18:23:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -227,17 +216,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-06T11:55:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T16:46:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -383,17 +361,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Coforge shares fall over 3%. What are Jefferies, Emkay saying after Chairman, independent director exit?",
-          "summary": "Coforge shares fell after independent director and NRC chairperson DK Singh resigned, days after chairman OP Bhatt stepped down, raising concerns over the board changes. However, the company reiterated its FY27 guidance, retaining its targets of 20.5…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-fall-over-3-what-are-jefferies-emkay-saying-after-chairman-independent-director-exit/articleshow/134256354.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-15T13:55:27+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -632,7 +599,19 @@
       "symbol": "TANEJAERO.BO",
       "name": "Taneja Aerospace",
       "exchange": "BSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "1:5 stock split alert! Mukul Agrawal-portfolio stock nearing record date; delivers 400% return in 5 years | Do you own?",
+          "summary": "TAAL Tech Limited shares rose 2% on September 16 ahead of a stock split record date. The 1:5 split increases liquidity, making shares more affordable. Investors must own stock before record date to qualify",
+          "link": "https://www.livemint.com/market/stock-market-news/15-stock-split-alert-mukul-agrawal-portfolio-stock-nearing-record-date-delivers-400-return-in-5-years-do-you-own-11789555598323.html",
+          "source": "livemint",
+          "pubDate": "2026-09-16T16:50:05+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "E2E.NS",
@@ -943,7 +922,7 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of Investors/Analyst Conference to be held on Monday, September 21, 2026.",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-11T16:21:40+00:00",
@@ -982,6 +961,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on Appointment of Chief Executive Officer.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-16T17:43:59+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Nazara Technologies Limited informs the Exchange regarding a press release dated September 11, 2026, titled \"Nazara launches Bodycam in Fortnite through an official UEFN adaptation.\"",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -993,33 +983,11 @@
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding ''Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 which is self explanatory.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T19:12:59+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-04T11:24:17+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Notice convening the 27th Annual General Meeting of the Company for the FY 2025-26 scheduled to be held on Friday, September 25, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T21:06:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
