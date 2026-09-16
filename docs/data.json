@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-15T14:08:38.741367+00:00",
+  "fetchedAt": "2026-09-16T08:14:59.327966+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 100,
   "overview": {
     "positive": 15,
-    "negative": 6,
+    "negative": 5,
     "neutral": 80
   },
   "stocks": [
@@ -116,6 +116,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated September 15, 2026, titled \"Titagarh Rail Systems and Bharat Heavy Electricals Limited Sign Contract for Long-Te",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-15T20:47:47+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Arrangements for strategic, technical, manufacturing, or marketing tie up",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Signing of Joint Venture Agreement with Bharat Heavy Electricals Ltd",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -168,17 +179,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange that Record date for the purpose of Dividend  is 23-Sep-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-08T14:17:52+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -364,14 +364,25 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 15, 2026, titled \"\"Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-15T12:11:54+00:00",
+          "pubDate": "2026-09-16T12:39:44+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 16, 2026, titled \" Coforge Accelerates the Shift from AI Features to Enterprise Outcomes in Hi-Tech. \".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-16T09:53:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -383,39 +394,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "Stocks in news: Tata Group stocks, HDFC Bank, Coforge, HFCL, Sun Pharma and Varun Beverages",
-          "summary": "On September 11, Indian stock markets experienced a remarkable bounce back after an initial dip at opening. Key index heavyweights attracted selective buying, which limited the day’s overall losses. Major players like HDFC Bank and IT sectors remaine…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-coforge-hfcl-sun-pharma-and-varun-beverages/articleshow/134245046.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-15T06:00:00+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-14T21:22:39+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Coforge tasks Egon Zehnder to find independent director as next board chair",
-          "summary": "Coforge has hired Egon Zehnder to find two independent directors and a new chair after OP Bhatt and DK Singh resigned amid governance concerns. The company said the board turmoil will not affect business, highlighting strong large-deal momentum and i…",
-          "link": "https://www.livemint.com/companies/news/coforge-egon-zehnder-board-chairman-op-bhatt-dk-singh-resignations-governance-concerns-11789393138204.html",
-          "source": "livemint",
-          "pubDate": "2026-09-14T21:24:30+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -477,6 +455,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Spurt in Volume",
+          "summary": "Significant increase in volume has been observed in Redtape Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place s",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-16T10:41:55+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "Redtape Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -493,17 +482,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-26T15:38:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Redtape Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T16:12:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -531,6 +509,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -954,7 +943,7 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of Investors/Analyst Conference to be held on Monday, September 21, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-11T16:21:40+00:00",
