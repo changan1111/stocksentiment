@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-16T14:00:55.480366+00:00",
+  "fetchedAt": "2026-09-17T08:21:35.385471+00:00",
   "tickerCount": 32,
-  "articleCount": 97,
+  "articleCount": 99,
   "overview": {
     "positive": 15,
     "negative": 5,
-    "neutral": 77
+    "neutral": 79
   },
   "stocks": [
     {
@@ -342,22 +342,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 17, 2026, titled \"\"Coforge Positioned as a Leader Across Six Segments in NelsonHall s 2026 NEAT for AI-Enabled Cloud",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-16T12:39:44+00:00",
+          "pubDate": "2026-09-17T11:09:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 16, 2026, titled \" Coforge Accelerates the Shift from AI Features to Enterprise Outcomes in Hi-Tech. \".",
+          "title": "Coforge named Leader in AI-Enabled Cloud Infrastructure Management Services",
+          "summary": "In NelsonHall's 2026 NEAT report",
+          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-named-leader-in-ai-enabled-cloud-infrastructure-management-services-126091700459_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-17T12:50:06+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-16T09:53:19+00:00",
+          "pubDate": "2026-09-16T12:39:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -370,6 +381,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-16T22:19:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -552,18 +574,7 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-15T16:41:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Copy of Newspaper Publication of Notice to the Members of the 33rd Annual General Meeting of the Company and Remote E-voting Informat",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T14:52:41+00:00",
+          "pubDate": "2026-09-17T13:20:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -599,19 +610,7 @@
       "symbol": "TANEJAERO.BO",
       "name": "Taneja Aerospace",
       "exchange": "BSE",
-      "articles": [
-        {
-          "title": "1:5 stock split alert! Mukul Agrawal-portfolio stock nearing record date; delivers 400% return in 5 years | Do you own?",
-          "summary": "TAAL Tech Limited shares rose 2% on September 16 ahead of a stock split record date. The 1:5 split increases liquidity, making shares more affordable. Investors must own stock before record date to qualify",
-          "link": "https://www.livemint.com/market/stock-market-news/15-stock-split-alert-mukul-agrawal-portfolio-stock-nearing-record-date-delivers-400-return-in-5-years-do-you-own-11789555598323.html",
-          "source": "livemint",
-          "pubDate": "2026-09-16T16:50:05+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "E2E.NS",
@@ -749,6 +748,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "GRSE vs Cochin Shipyard dividend comparison ahead of record date: Which defence PSU wins on yield, stock performance?",
+          "summary": "Shares of Garden Reach Shipbuilders and Cochin Shipyard surged ahead of their dividend record date. GRSE announced an interim dividend of  ₹6.75 per share while Cochin Shipyard approved a final dividend of  ₹1.5 per share, with a record date set for …",
+          "link": "https://www.livemint.com/market/stock-market-news/grse-vs-cochin-shipyard-dividend-comparison-ahead-of-record-date-which-defence-psu-wins-on-yield-stock-performance-11789617257760.html",
+          "source": "livemint",
+          "pubDate": "2026-09-17T10:24:10+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Record Date",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
@@ -1261,6 +1271,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-17T11:28:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "Zen Technologies Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 29, 2026. Further, the company has informed the Exchange regarding voting result",
