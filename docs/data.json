@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-17T08:21:35.385471+00:00",
+  "fetchedAt": "2026-09-17T14:05:34.735720+00:00",
   "tickerCount": 32,
-  "articleCount": 99,
+  "articleCount": 101,
   "overview": {
-    "positive": 15,
+    "positive": 16,
     "negative": 5,
-    "neutral": 79
+    "neutral": 80
   },
   "stocks": [
     {
@@ -76,6 +76,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-17T16:02:05+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Order worth Rs. 27.82 Crores (incl. taxes) from Hindalco Industries Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -132,17 +143,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-15T16:21:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "BHEL, Titagarh Rail sign JV for 35-year Vande Bharat sleeper trains upkeep",
-          "summary": "Bharat Heavy Electricals and Titagarh Rail Systems will hold equal stakes in the proposed company, with each owning 50 per cent",
-          "link": "https://www.business-standard.com/companies/news/bhel-titagarh-rail-joint-venture-vande-bharat-sleeper-trains-maintenance-126091500823_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-15T16:51:39+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -342,22 +342,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 17, 2026, titled \"\"Coforge Positioned as a Leader Across Six Segments in NelsonHall s 2026 NEAT for AI-Enabled Cloud",
+          "title": "[NSE] General Updates",
+          "summary": "Coforge Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-17T11:09:27+00:00",
+          "pubDate": "2026-09-17T18:09:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "Coforge named Leader in AI-Enabled Cloud Infrastructure Management Services",
-          "summary": "In NelsonHall's 2026 NEAT report",
-          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-named-leader-in-ai-enabled-cloud-infrastructure-management-services-126091700459_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-17T12:50:06+05:30",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 17, 2026, titled \"\"Coforge Positioned as a Leader Across Six Segments in NelsonHall s 2026 NEAT for AI-Enabled Cloud",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-17T11:09:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -482,7 +482,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "India Glycols Ltd leads losers in 'A' group",
+          "summary": "Alok Industries Ltd, Aditya Infotech Ltd, KRN Heat Exchanger and Refrigeration Ltd and PB Fintech Ltd are among the other losers in the BSE's 'A' group today, 17 September 2026.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/india-glycols-ltd-leads-losers-in-a-group-126091700666_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-17T15:04:06+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -812,10 +824,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Transcript",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-18T10:14:39+00:00",
+          "pubDate": "2026-09-17T14:13:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -838,17 +850,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-10T20:23:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T20:02:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -970,6 +971,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Up to 152X return! Rentomojo IPO delivers eye-popping gains to Nitish Mittersain, other early backers",
+          "summary": "Rentomojo’s stock market debut has turned into a major windfall for early investors, with Nazara Technologies founder Nitish Mittersain set to clock a 152X return on his investment based on the IPO’s upper price band. Several other early backers, inc…",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/up-to-152x-return-rentomojo-ipo-delivers-eye-popping-gains-to-nitish-mittersain-other-early-backers/articleshow/134307877.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-17T15:22:34+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on Appointment of Chief Executive Officer.",
@@ -1221,6 +1233,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-17T16:16:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1252,17 +1275,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-07T13:40:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1277,6 +1289,17 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-17T11:28:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Zen Technologies transfers 500 equity shares to ESOP trust",
+          "summary": "",
+          "link": "https://www.business-standard.com/markets/capital-market-news/zen-technologies-transfers-500-equity-shares-to-esop-trust-126091700612_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-17T14:31:01+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
