@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-17T14:05:34.735720+00:00",
+  "fetchedAt": "2026-09-18T07:56:51.593068+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 103,
   "overview": {
-    "positive": 16,
-    "negative": 5,
-    "neutral": 80
+    "positive": 18,
+    "negative": 6,
+    "neutral": 79
   },
   "stocks": [
     {
@@ -229,6 +229,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Avalon Technologies Ltd leads gainers in 'A' group",
+          "summary": "India Glycols Ltd, Syrma SGS Technology Ltd, Adani Total Gas Ltd and Prudent Corporate Advisory Services Ltd are among the other gainers in the BSE's 'A' group today, 18 September 2026.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/avalon-technologies-ltd-leads-gainers-in-a-group-126091800451_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-18T12:31:12+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -342,6 +353,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Coforge confident of growth outlook, deal pipeline at record: JM Financial",
+          "summary": "Coforge expects constant-currency revenue growth of 3-4 per cent sequentially, while its large-deal pipeline is at a record level, according to JM Financial",
+          "link": "https://www.business-standard.com/companies/news/coforge-confident-of-growth-outlook-deal-pipeline-at-record-jm-financial-126091800037_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-18T00:43:41+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Coforge Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -350,6 +372,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Biggest opportunity lies in operationalising AI across firms: Coforge CEO",
+          "summary": "Coforge CEO Sudhir Singh says IT services firms can bridge the gap between AI adoption and operationalisation as the technology puts pressure on traditional businesses.",
+          "link": "https://www.business-standard.com/companies/news/biggest-opportunity-lies-in-operationalising-ai-across-firms-coforge-ceo-126091701353_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-17T20:47:17+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
           }
         },
         {
@@ -386,7 +419,7 @@
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-16T22:19:03+00:00",
+          "pubDate": "2026-09-17T22:02:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -423,17 +456,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Board Meeting held on September 02, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-02T22:16:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -484,11 +506,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "India Glycols Ltd leads losers in 'A' group",
-          "summary": "Alok Industries Ltd, Aditya Infotech Ltd, KRN Heat Exchanger and Refrigeration Ltd and PB Fintech Ltd are among the other losers in the BSE's 'A' group today, 17 September 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/india-glycols-ltd-leads-losers-in-a-group-126091700666_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-17T15:04:06+05:30",
+          "title": "14 stocks held by 100+ MFs in August surged up to 200%; 5 turned multibaggers in CY26",
+          "summary": "Fourteen stocks held by over 100 mutual fund schemes each surged 60-200% in CY26 through August, with Welspun Corp, Aditya Infotech and Apar Industries among the biggest gainers.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-stocks-held-by-100-mfs-in-august-surged-up-to-200-5-turned-multibaggers-in-cy26/slideshow/134328934.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-18T12:28:39+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -586,10 +608,32 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-17T13:20:01+00:00",
+          "pubDate": "2026-09-18T11:30:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Dividend record date alert: Last chance to buy today - Maharashtra Scooters, Dixon, Concor | Highest payout revealed!",
+          "summary": "Bajaj Holdings, Maharashtra Scooters, and 52 others set September 21 as the dividend record date. Investors must purchase shares by September 18 to qualify for dividends. Check the highest dividend payout!&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/dividend-record-date-alert-last-chance-to-buy-today-maharashtra-scooters-dixon-concor-highest-payout-revealed-11789701638392.html",
+          "source": "livemint",
+          "pubDate": "2026-09-18T09:12:40+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Dividend alert! Last day to buy Bharat Dynamics, Dixon Tech among 55 stocks for dividends. Do you own any?",
+          "summary": "As per Sebi's T+1 settlement norm, investors need to buy a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-bharat-dynamics-dixon-tech-among-55-stocks-for-dividends-do-you-own-any/articleshow/134324303.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-18T08:21:08+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.6
           }
         }
       ]
@@ -721,6 +765,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "iPhone 18 sales open: Electronics Mart, Redington, Eternal rise up to 8%",
+          "summary": "The latest Pro models can be purchased through Apple's online store, six retail outlets and select authorised third-party retailers, as well as on quick-commerce platforms",
+          "link": "https://www.business-standard.com/markets/news/iphone-18-sales-open-electronics-mart-redington-eternal-rise-up-to-8-126091800464_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-18T12:41:20+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about letter dispatched to Members providing web link of the Integrated Annual Report for the FY 2025-26",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -760,17 +815,6 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "GRSE vs Cochin Shipyard dividend comparison ahead of record date: Which defence PSU wins on yield, stock performance?",
-          "summary": "Shares of Garden Reach Shipbuilders and Cochin Shipyard surged ahead of their dividend record date. GRSE announced an interim dividend of  ₹6.75 per share while Cochin Shipyard approved a final dividend of  ₹1.5 per share, with a record date set for …",
-          "link": "https://www.livemint.com/market/stock-market-news/grse-vs-cochin-shipyard-dividend-comparison-ahead-of-record-date-which-defence-psu-wins-on-yield-stock-performance-11789617257760.html",
-          "source": "livemint",
-          "pubDate": "2026-09-17T10:24:10+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Record Date",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
@@ -971,17 +1015,6 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Up to 152X return! Rentomojo IPO delivers eye-popping gains to Nitish Mittersain, other early backers",
-          "summary": "Rentomojo’s stock market debut has turned into a major windfall for early investors, with Nazara Technologies founder Nitish Mittersain set to clock a 152X return on his investment based on the IPO’s upper price band. Several other early backers, inc…",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/up-to-152x-return-rentomojo-ipo-delivers-eye-popping-gains-to-nitish-mittersain-other-early-backers/articleshow/134307877.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-17T15:22:34+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on Appointment of Chief Executive Officer.",
@@ -1289,17 +1322,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-17T11:28:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Zen Technologies transfers 500 equity shares to ESOP trust",
-          "summary": "",
-          "link": "https://www.business-standard.com/markets/capital-market-news/zen-technologies-transfers-500-equity-shares-to-esop-trust-126091700612_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-17T14:31:01+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
