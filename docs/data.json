@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-18T07:56:51.593068+00:00",
+  "fetchedAt": "2026-09-18T13:21:28.652634+00:00",
   "tickerCount": 32,
-  "articleCount": 103,
+  "articleCount": 102,
   "overview": {
-    "positive": 18,
-    "negative": 6,
-    "neutral": 79
+    "positive": 16,
+    "negative": 5,
+    "neutral": 81
   },
   "stocks": [
     {
@@ -76,6 +76,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T15:54:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 18, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T15:52:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -103,17 +125,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-06T00:12:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-06T00:00:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -229,17 +240,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Avalon Technologies Ltd leads gainers in 'A' group",
-          "summary": "India Glycols Ltd, Syrma SGS Technology Ltd, Adani Total Gas Ltd and Prudent Corporate Advisory Services Ltd are among the other gainers in the BSE's 'A' group today, 18 September 2026.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/avalon-technologies-ltd-leads-gainers-in-a-group-126091800451_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-18T12:31:12+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -353,6 +353,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 18, 2026, titled \"\"Coforge Research Finds Growing Gap in Private Equity Between AI Ambitions and Portfolio Value Cre",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T13:33:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Coforge confident of growth outlook, deal pipeline at record: JM Financial",
           "summary": "Coforge expects constant-currency revenue growth of 3-4 per cent sequentially, while its large-deal pipeline is at a record level, according to JM Financial",
           "link": "https://www.business-standard.com/companies/news/coforge-confident-of-growth-outlook-deal-pipeline-at-record-jm-financial-126091800037_1.html",
@@ -386,17 +397,6 @@
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 17, 2026, titled \"\"Coforge Positioned as a Leader Across Six Segments in NelsonHall s 2026 NEAT for AI-Enabled Cloud",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-17T11:09:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Coforge Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -414,6 +414,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T14:16:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
@@ -445,17 +456,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-02T22:23:10+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -604,6 +604,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about ESG Rating assigned by Niche Ninety Nine Capability and Certifications (OPC) Private Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T14:41:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -612,17 +623,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Dividend record date alert: Last chance to buy today - Maharashtra Scooters, Dixon, Concor | Highest payout revealed!",
-          "summary": "Bajaj Holdings, Maharashtra Scooters, and 52 others set September 21 as the dividend record date. Investors must purchase shares by September 18 to qualify for dividends. Check the highest dividend payout!&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/dividend-record-date-alert-last-chance-to-buy-today-maharashtra-scooters-dixon-concor-highest-payout-revealed-11789701638392.html",
-          "source": "livemint",
-          "pubDate": "2026-09-18T09:12:40+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -714,6 +714,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 18, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T17:23:12+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "EPACK Durable Limited has informed the Exchange regarding Allotment of Equity Shares under EPACK ESOP Scheme 2023.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -745,17 +756,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 18, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-26T23:51:55+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -764,17 +764,6 @@
       "name": "Electronics Mart India",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "iPhone 18 sales open: Electronics Mart, Redington, Eternal rise up to 8%",
-          "summary": "The latest Pro models can be purchased through Apple's online store, six retail outlets and select authorised third-party retailers, as well as on quick-commerce platforms",
-          "link": "https://www.business-standard.com/markets/news/iphone-18-sales-open-electronics-mart-redington-eternal-rise-up-to-8-126091800464_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-18T12:41:20+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about letter dispatched to Members providing web link of the Integrated Annual Report for the FY 2025-26",
@@ -1056,6 +1045,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T16:40:00+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding allotment of 1645 securities pursuant to ESOP/ESPS at its meeting held on September 03, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1094,17 +1094,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-28T13:04:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 19, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-28T12:38:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
