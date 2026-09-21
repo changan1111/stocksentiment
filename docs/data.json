@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-18T13:21:28.652634+00:00",
+  "fetchedAt": "2026-09-21T08:32:42.072860+00:00",
   "tickerCount": 32,
-  "articleCount": 102,
+  "articleCount": 100,
   "overview": {
-    "positive": 16,
-    "negative": 5,
-    "neutral": 81
+    "positive": 17,
+    "negative": 6,
+    "neutral": 77
   },
   "stocks": [
     {
@@ -76,22 +76,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] General Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about General Updates",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Texmaco Rail & Engineering Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-18T15:54:04+00:00",
+          "pubDate": "2026-09-19T17:44:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 18, 2026",
+          "title": "[NSE] General Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-18T15:52:26+00:00",
+          "pubDate": "2026-09-18T15:54:04+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -117,17 +117,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Options to purchase securities",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Options to purchase securities",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-06T00:12:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -353,25 +342,25 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 18, 2026, titled \"\"Coforge Research Finds Growing Gap in Private Equity Between AI Ambitions and Portfolio Value Cre",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-18T13:33:30+00:00",
+          "title": "OFSS shares tumble 7%; Wipro, Coforge, Infosys shares down up to 2%. Why are IT stocks under pressure today?",
+          "summary": "Shares of OFSS fell over 7% while top IT stocks including Infosys, Wipro, and Coforge dropped up to 2% on Monday. The drag comes following reports of Oracle's $18 billion data centre debt pressure and US President Donald Trump extending the $100,000 …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-tumble-7-wipro-coforge-infosys-shares-down-up-to-2-why-are-it-stocks-under-pressure-today/articleshow/134381888.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-21T11:52:19+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Negative",
+            "score": -1.0
           }
         },
         {
-          "title": "Coforge confident of growth outlook, deal pipeline at record: JM Financial",
-          "summary": "Coforge expects constant-currency revenue growth of 3-4 per cent sequentially, while its large-deal pipeline is at a record level, according to JM Financial",
-          "link": "https://www.business-standard.com/companies/news/coforge-confident-of-growth-outlook-deal-pipeline-at-record-jm-financial-126091800037_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-18T00:43:41+05:30",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 20, 2026, titled \"\"Coforge Advances AI-Powered Vehicle Lifecycle Intelligence\"\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-20T11:45:39+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -380,28 +369,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-17T18:09:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Biggest opportunity lies in operationalising AI across firms: Coforge CEO",
-          "summary": "Coforge CEO Sudhir Singh says IT services firms can bridge the gap between AI adoption and operationalisation as the technology puts pressure on traditional businesses.",
-          "link": "https://www.business-standard.com/companies/news/biggest-opportunity-lies-in-operationalising-ai-across-firms-coforge-ceo-126091701353_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-17T20:47:17+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-16T12:39:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -415,11 +382,44 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated September 21, 2026, titled \"Persistent Earns Databricks Brickbuilder Specialization for BFSI to Advance Governed AI",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T12:35:37+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Persistent Systems Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-19T22:38:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Persistent Systems Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-19T12:24:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-18T14:16:38+00:00",
+          "pubDate": "2026-09-18T21:51:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -430,29 +430,7 @@
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-17T22:02:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-13T22:55:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on October 05, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-12T12:22:19+00:00",
+          "pubDate": "2026-09-18T21:15:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -504,19 +482,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "14 stocks held by 100+ MFs in August surged up to 200%; 5 turned multibaggers in CY26",
-          "summary": "Fourteen stocks held by over 100 mutual fund schemes each surged 60-200% in CY26 through August, with Welspun Corp, Aditya Infotech and Apar Industries among the biggest gainers.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-stocks-held-by-100-mfs-in-august-surged-up-to-200-5-turned-multibaggers-in-cy26/slideshow/134328934.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-18T12:28:39+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -604,6 +570,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-18T20:22:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about ESG Rating assigned by Niche Ninety Nine Capability and Certifications (OPC) Private Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -612,28 +589,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-18T11:30:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Dividend alert! Last day to buy Bharat Dynamics, Dixon Tech among 55 stocks for dividends. Do you own any?",
-          "summary": "As per Sebi's T+1 settlement norm, investors need to buy a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-bharat-dynamics-dixon-tech-among-55-stocks-for-dividends-do-you-own-any/articleshow/134324303.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-18T08:21:08+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
           }
         }
       ]
@@ -666,7 +621,19 @@
       "symbol": "TANEJAERO.BO",
       "name": "Taneja Aerospace",
       "exchange": "BSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "Stock split alert! 3 stocks turning ex-record date for stock splits next week. Do you own any?",
+          "summary": "Three stocks, including Taal Tech, Midwest Energy and Naturite Agro Products, will turn ex-split next week, with investors needing to buy before their respective record dates.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-3-stocks-turning-ex-record-date-for-stock-splits-next-week-do-you-own-any/slideshow/134347867.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-19T10:03:43+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "E2E.NS",
@@ -965,6 +932,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Ather Energy among 5 F&amp;O stocks with a sharp rise in futures open interest",
+          "summary": "Five NSE F&amp;O stocks recorded a rise of more than 5% in futures open interest on September 18 compared with the previous session. Ather Energy, Waaree Energies, KPIT Technologies, Nestle India and LTM saw notable increases in open interest.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134379781.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-21T09:49:13+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1045,6 +1023,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Netweb Technologies India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 19, 2026. Further, the company has informed the Exchange regarding v",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-20T12:30:53+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1076,28 +1065,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding 'Book Closure '.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-28T13:09:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Intimation regarding dispatch of physical letter Containing weblink and QR code",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-28T13:04:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1106,6 +1073,28 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T12:36:25+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T12:22:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "PG Electroplast Limited has informed the Exchange about Disclosure under Regulation 36(1)(b) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
@@ -1137,17 +1126,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 29, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T12:31:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
