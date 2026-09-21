@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-21T08:32:42.072860+00:00",
+  "fetchedAt": "2026-09-21T15:38:07.409585+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 104,
   "overview": {
     "positive": 17,
-    "negative": 6,
-    "neutral": 77
+    "negative": 7,
+    "neutral": 80
   },
   "stocks": [
     {
@@ -393,6 +393,17 @@
           }
         },
         {
+          "title": "Persistent Systems achieves Databricks Brickbuilder Specialization for BFSI",
+          "summary": "Strengthening its expertise in delivering solutions on the Databricks Data Intelligence Platform",
+          "link": "https://www.business-standard.com/markets/capital-market-news/persistent-systems-achieves-databricks-brickbuilder-specialization-for-bfsi-126092100730_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-21T16:16:27+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Persistent Systems Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -443,6 +454,17 @@
       "name": "Red Tape",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Redtape Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T16:46:21+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Spurt in Volume",
           "summary": "Significant increase in volume has been observed in Redtape Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place s",
@@ -570,6 +592,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Acquisition",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T18:40:49+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -621,19 +654,7 @@
       "symbol": "TANEJAERO.BO",
       "name": "Taneja Aerospace",
       "exchange": "BSE",
-      "articles": [
-        {
-          "title": "Stock split alert! 3 stocks turning ex-record date for stock splits next week. Do you own any?",
-          "summary": "Three stocks, including Taal Tech, Midwest Energy and Naturite Agro Products, will turn ex-split next week, with investors needing to buy before their respective record dates.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-3-stocks-turning-ex-record-date-for-stock-splits-next-week-do-you-own-any/slideshow/134347867.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-19T10:03:43+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "E2E.NS",
@@ -682,10 +703,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 18, 2026",
+          "summary": "EPACK Durable Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding voting result",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-18T17:23:12+00:00",
+          "pubDate": "2026-09-21T17:01:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -732,6 +753,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Commencement of commercial production/operations",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T17:14:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about letter dispatched to Members providing web link of the Integrated Annual Report for the FY 2025-26",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -772,6 +804,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "This disclosure is in continuation to the disclosure filed by the Company on 24 Aug 2026 regarding Capacity Expansion through three new facilities including Raichak.In terms of Regulation 30 and other",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T18:27:48+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Top stocks in focus tomorrow: Investors must watch Pine Labs, Waaree Energies, GRSE shares on Tue, 22 Sept | Triggers",
+          "summary": "Indian investors will focus on companies like Pine Labs and Waaree Energies on September 22 due to significant business updates, including funding and expansion plans. Key players include Motilal Oswal, GK Energy, and Transrail Lighting.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-pine-labs-waaree-energies-grse-shares-on-tue-22-sept-triggers-11789998888451.html",
+          "source": "livemint",
+          "pubDate": "2026-09-21T19:58:01+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Record Date",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -802,17 +856,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "1. In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you th",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T09:48:05+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -984,10 +1027,10 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update on Appointment of Chief Executive Officer.",
+          "summary": "Nazara Technologies Limited has informed the Exchange regarding 'Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-16T17:43:59+00:00",
+          "pubDate": "2026-09-21T15:54:44+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
