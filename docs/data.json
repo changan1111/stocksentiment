@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-21T15:38:07.409585+00:00",
+  "fetchedAt": "2026-09-22T08:13:11.696856+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 103,
   "overview": {
-    "positive": 17,
+    "positive": 19,
     "negative": 7,
-    "neutral": 80
+    "neutral": 77
   },
   "stocks": [
     {
@@ -126,6 +126,17 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dividend countdown begins! Last chance to buy today GMDC, Titagarh Rail, AGI Infra, others ahead of record date",
+          "summary": "Shares of GMDC, Talbros Engineering, and others will be in focus on Tuesday due to upcoming dividend record dates. Investors must acquire stocks by September 22 to qualify for payouts.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/dividend-countdown-begins-last-chance-to-buy-today-gmdc-titagarh-rail-agi-infra-others-ahead-of-record-date-11790046233344.html",
+          "source": "livemint",
+          "pubDate": "2026-09-22T08:57:29+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated September 15, 2026, titled \"Titagarh Rail Systems and Bharat Heavy Electricals Limited Sign Contract for Long-Te",
@@ -382,6 +393,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-21T23:47:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated September 21, 2026, titled \"Persistent Earns Databricks Brickbuilder Specialization for BFSI to Advance Governed AI",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -390,17 +412,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Persistent Systems achieves Databricks Brickbuilder Specialization for BFSI",
-          "summary": "Strengthening its expertise in delivering solutions on the Databricks Data Intelligence Platform",
-          "link": "https://www.business-standard.com/markets/capital-market-news/persistent-systems-achieves-databricks-brickbuilder-specialization-for-bfsi-126092100730_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-21T16:16:27+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -431,17 +442,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-18T21:51:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-18T21:15:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -504,7 +504,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "Engineers India among 4 stocks showing White Marubozu pattern",
+          "summary": "Four Nifty500 stocks appeared on the White Marubozu bullish scanner on September 21, according to StockEdge’s technical scan data. Engineers India, Mankind Pharma, Aditya Infotech and UTI Asset Management Company recorded gains during the session.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/engineers-india-among-4-stocks-showing-white-marubozu-pattern/slideshow/134401597.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-22T09:08:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -592,6 +604,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-22T10:56:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Acquisition",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -600,17 +623,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-18T20:22:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -804,6 +816,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "GRSE shares rise 3.6% after big shipyard push | Can the stock reverse its downtrend?",
+          "summary": "Garden Reach Shipbuilders &amp;amp; Engineers' shares rose 3.6% after approving a  ₹2,896 crore budget for a new shipyard in Raichak, West Bengal. This expansion is crucial for enhancing shipbuilding capacity, but investors are cautious about its lon…",
+          "link": "https://www.livemint.com/market/stock-market-news/grse-shares-rise-3-6-after-big-shipyard-push-can-the-stock-reverse-its-downtrend-11790052386478.html",
+          "source": "livemint",
+          "pubDate": "2026-09-22T10:35:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks in news: ONGC, Lloyds Metals, Canara Bank, Rays of Belief and GRSE",
+          "summary": "Indian stock markets closed higher on Monday, with the Nifty 50 and BSE Sensex gaining points. Several companies, including ONGC and Canara Bank, are expected to be active on Tuesday. ONGC announced a gas discovery in the Mahanadi Offshore Basin, whi…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ongc-lloyds-metals-canara-bank-rays-of-belief-and-grse/articleshow/134394479.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-22T06:00:00+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "This disclosure is in continuation to the disclosure filed by the Company on 24 Aug 2026 regarding Capacity Expansion through three new facilities including Raichak.In terms of Regulation 30 and other",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -812,17 +846,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Top stocks in focus tomorrow: Investors must watch Pine Labs, Waaree Energies, GRSE shares on Tue, 22 Sept | Triggers",
-          "summary": "Indian investors will focus on companies like Pine Labs and Waaree Energies on September 22 due to significant business updates, including funding and expansion plans. Key players include Motilal Oswal, GK Energy, and Transrail Lighting.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-pine-labs-waaree-energies-grse-shares-on-tue-22-sept-triggers-11789998888451.html",
-          "source": "livemint",
-          "pubDate": "2026-09-21T19:58:01+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -866,33 +889,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 8826 securities pursuant to ESOP/ESPS at its meeting held on September 22, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-22T11:43:33+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-17T14:13:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 14135 securities pursuant to ESOP/ESPS at its meeting held on August 14, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-14T12:08:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding a press release dated August 10, 2026, titled \"Press release for the financial results for the quarter ended June 30, 2026\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T20:23:37+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -975,22 +987,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Ather Energy among 5 F&amp;O stocks with a sharp rise in futures open interest",
-          "summary": "Five NSE F&amp;O stocks recorded a rise of more than 5% in futures open interest on September 18 compared with the previous session. Ather Energy, Waaree Energies, KPIT Technologies, Nestle India and LTM saw notable increases in open interest.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134379781.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-21T09:49:13+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-11T16:21:40+00:00",
+          "pubDate": "2026-09-21T21:51:30+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1005,17 +1006,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Action(s) taken or orders passed",
-          "summary": "Disclosure under Regulation 30 of SEBI LODR - adjudication order from the Office of the Collector of Stamps",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-27T16:34:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
