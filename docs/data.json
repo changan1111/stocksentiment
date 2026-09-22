@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-22T08:13:11.696856+00:00",
+  "fetchedAt": "2026-09-22T13:52:46.572255+00:00",
   "tickerCount": 32,
-  "articleCount": 103,
+  "articleCount": 102,
   "overview": {
-    "positive": 19,
+    "positive": 17,
     "negative": 7,
-    "neutral": 77
+    "neutral": 78
   },
   "stocks": [
     {
@@ -126,17 +126,6 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Dividend countdown begins! Last chance to buy today GMDC, Titagarh Rail, AGI Infra, others ahead of record date",
-          "summary": "Shares of GMDC, Talbros Engineering, and others will be in focus on Tuesday due to upcoming dividend record dates. Investors must acquire stocks by September 22 to qualify for payouts.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/dividend-countdown-begins-last-chance-to-buy-today-gmdc-titagarh-rail-agi-infra-others-ahead-of-record-date-11790046233344.html",
-          "source": "livemint",
-          "pubDate": "2026-09-22T08:57:29+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Press Release",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated September 15, 2026, titled \"Titagarh Rail Systems and Bharat Heavy Electricals Limited Sign Contract for Long-Te",
@@ -353,17 +342,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "OFSS shares tumble 7%; Wipro, Coforge, Infosys shares down up to 2%. Why are IT stocks under pressure today?",
-          "summary": "Shares of OFSS fell over 7% while top IT stocks including Infosys, Wipro, and Coforge dropped up to 2% on Monday. The drag comes following reports of Oracle's $18 billion data centre debt pressure and US President Donald Trump extending the $100,000 …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-tumble-7-wipro-coforge-infosys-shares-down-up-to-2-why-are-it-stocks-under-pressure-today/articleshow/134381888.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-21T11:52:19+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 20, 2026, titled \"\"Coforge Advances AI-Powered Vehicle Lifecycle Intelligence\"\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -393,6 +371,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated September 22, 2026, titled \"Persistent s Takeover Offer for Nagarro Successful - Additional Acceptance Period to ru",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-22T17:23:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding 'Update on Voluntary Public Takeover Offer made by Persistent Systems Limited to the shareholders of Nagarro SE '.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-22T17:12:58+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -404,44 +404,11 @@
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated September 21, 2026, titled \"Persistent Earns Databricks Brickbuilder Specialization for BFSI to Advance Governed AI",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-21T12:35:37+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Investor Presentation",
           "summary": "Persistent Systems Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-19T22:38:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Persistent Systems Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-19T12:24:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-18T21:51:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -650,6 +617,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-22T15:48:15+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Tata Technologies Limited has informed the Exchange about Copy of Newspaper Publication - Notice to shareholders regarding transfer of equity shares of the Company to Investor Education and Protection",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-22T14:02:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Conference",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -816,17 +805,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "GRSE shares rise 3.6% after big shipyard push | Can the stock reverse its downtrend?",
-          "summary": "Garden Reach Shipbuilders &amp;amp; Engineers' shares rose 3.6% after approving a  ₹2,896 crore budget for a new shipyard in Raichak, West Bengal. This expansion is crucial for enhancing shipbuilding capacity, but investors are cautious about its lon…",
-          "link": "https://www.livemint.com/market/stock-market-news/grse-shares-rise-3-6-after-big-shipyard-push-can-the-stock-reverse-its-downtrend-11790052386478.html",
-          "source": "livemint",
-          "pubDate": "2026-09-22T10:35:51+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "Stocks in news: ONGC, Lloyds Metals, Canara Bank, Rays of Belief and GRSE",
           "summary": "Indian stock markets closed higher on Monday, with the Nifty 50 and BSE Sensex gaining points. Several companies, including ONGC and Canara Bank, are expected to be active on Tuesday. ONGC announced a gas discovery in the Mahanadi Offshore Basin, whi…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ongc-lloyds-metals-canara-bank-rays-of-belief-and-grse/articleshow/134394479.cms",
@@ -935,6 +913,17 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "RBL Bank, Engineers India, Syrma, JSW Infra rally up to 7%; log 52-wk highs",
+          "summary": "ACME Solar, Aegis Logistics, Aegis Vopak Terminals, Apar Ind, Ipca Labs, Laurus Labs, Shyam Metalics and Welspun Corp from the BSE 500 index also hit their respective 52-week highs in Tuesday's trade.",
+          "link": "https://www.business-standard.com/markets/news/rbl-bank-engineers-india-syrma-jsw-infra-rally-up-to-7-log-52-wk-highs-126092200692_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-22T15:16:46+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Letter of Intent for setting up of an Inland Container Depot at Village Kudathini, Ballari District, Karnataka",
