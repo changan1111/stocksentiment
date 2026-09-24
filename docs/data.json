@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-23T08:15:22.659293+00:00",
+  "fetchedAt": "2026-09-24T08:06:46.060764+00:00",
   "tickerCount": 32,
-  "articleCount": 102,
+  "articleCount": 98,
   "overview": {
-    "positive": 19,
+    "positive": 17,
     "negative": 7,
-    "neutral": 76
+    "neutral": 74
   },
   "stocks": [
     {
@@ -178,6 +178,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding allotment of 20000 securities pursuant to Non Convertible Securities through Circular Resolution passed on September 24, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-24T11:27:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Acquisition",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a Subsidiary Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -194,17 +205,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-16T18:23:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Dispatch of letter to shareholders whose e-mail addresses are not registered with Company/Registrar & Transfer Agent/Depository Participa",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-09T19:34:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -360,22 +360,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Stocks in news: Adani Group, OMCs, Persistent Systems and IRB Infra",
-          "summary": "The Indian stock market closed lower on Tuesday, with profit-taking affecting investor sentiment. Adani Group companies resolved their SEBI adjudication issues tied to potential infractions. Focus turned to oil marketing firms in light of a sharp fal…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-group-omcs-persistent-systems-and-irb-infra/articleshow/134416639.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-23T06:00:00+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-22T19:53:17+00:00",
+          "pubDate": "2026-09-23T19:41:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -387,17 +376,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-22T17:23:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding 'Update on Voluntary Public Takeover Offer made by Persistent Systems Limited to the shareholders of Nagarro SE '.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-22T17:12:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -462,22 +440,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Aditya Infotech hits 5% upper circuit as QIP opens; stock up 151% YTD",
-          "summary": "Aditya Infotech's board at its meeting held a day ago authorised the launch of a QIP on September 22 at a floor price of ₹3,648.43 apiece.",
-          "link": "https://www.business-standard.com/markets/news/aditya-infotech-share-price-hits-5-upper-circuit-as-qip-opens-stock-up-151-ytd-126092300248_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-23T10:20:20+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Aditya Infotech stock hits upper circuit after QIP; know floor price, up 172% in 1 yr: CP Plus firm  ₹1500 cr fundraise",
-          "summary": "Aditya Infotech's shares rose nearly 5% after the company launched a  ₹1500 crore QIP, setting a floor price of  ₹3,648.43 per share. The company may offer a discount of up to 5% on this price, reflecting strong market interest.",
-          "link": "https://www.livemint.com/market/stock-market-news/aditya-infotech-stock-hits-upper-circuit-after-qip-know-floor-price-up-172-in-1-yr-cp-plus-firm-rs-1500-cr-fundraise-11790135755330.html",
-          "source": "livemint",
-          "pubDate": "2026-09-23T10:01:51+05:30",
+          "title": "Steel Authority of India among 3 stocks showing White Marubozu pattern",
+          "summary": "Three stocks in the Nifty 500 pack, including Steel Authority of India, Whirlpool of India, and Aditya Infotech, gained 5% or more on September 23 and formed a 'White Marubozu' bullish candlestick pattern. StockEdge technical scan data indicates stro…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/steel-authority-of-india-among-3-stocks-showing-white-marubozu-pattern/slideshow/134451812.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-24T10:15:44+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -586,7 +553,7 @@
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-23T12:01:25+00:00",
+          "pubDate": "2026-09-24T10:59:46+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -627,6 +594,17 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Tata Technologies’ China unit steps up work for Agratas",
+          "summary": "Tata Technologies’ China unit provided services worth  ₹7.34 crore to Agratas in FY26",
+          "link": "https://www.livemint.com/companies/news/tata-technologies-china-agratas-lithium-ion-battery-production-11790157502423.html",
+          "source": "livemint",
+          "pubDate": "2026-09-24T06:00:31+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -765,6 +743,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-23T17:39:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Commencement of commercial production/operations",
           "summary": "Electronics Mart India Limited has informed the Exchange about Commencement of commercial production/operations",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -781,28 +770,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-09T17:25:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T18:12:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-02T15:39:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -914,55 +881,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Market Trading Guide: Finolex Cables among 3 stock recommendations for Wednesday",
-          "summary": "Falling crude oil prices and Brent slipping below $100 a barrel helped Indian markets recover from intraday lows. Analysts highlighted BlueStone Jewellery, JSW Infrastructure and Finolex Cables as three stocks showing breakout setups, bullish momentu…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-finolex-cables-among-3-stock-recommendations-for-wednesday/slideshow/134415805.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-22T21:11:16+05:30",
+          "title": "[NSE] Credit Rating- New",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating assigned to one of the subsidiary company- JSW Jatadhar Marine Services Private Limited.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-23T16:39:28+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Letter of Intent for setting up of an Inland Container Depot at Village Kudathini, Ballari District, Karnataka",
+          "title": "[NSE] Credit Rating- Revision",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about revision in Credit Rating of one of the subsidiary company- JSW Dharamtar Port Private Limited.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-11T18:03:02+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "JSWINFRA: JSW Infrastructure Limited has informed the Exchange about Acquisition of NCR Rail Infrastructure Limited on implementation of the Resolution Plan under the Insolvency and Bankruptcy Code, 2",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-10T19:03:38+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of Institutional Investors meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-09T16:39:44+00:00",
+          "pubDate": "2026-09-23T16:26:04+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about change in the role of Non-Executive Director",
+          "title": "[NSE] Credit Rating",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-08-31T18:30:52+00:00",
+          "pubDate": "2026-09-23T16:08:16+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -975,6 +920,17 @@
       "name": "KPIT Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "10 midcap stocks that have fallen up to 58% from their 52-week highs",
+          "summary": "Despite the Nifty Midcap 150 trading near peak levels, several individual constituents have suffered deep corrections. Data from ACE Equity reveals 10 prominent midcap stocks, including KPIT Technologies, RVNL, Tata Elxsi, and Swiggy, that have falle…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-that-have-fallen-up-to-58-from-their-52-week-highs/slideshow/134455492.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-24T13:09:43+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Outcome",
@@ -1045,6 +1001,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about ESG Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-23T14:17:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Netweb Technologies India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 19, 2026. Further, the company has informed the Exchange regarding v",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1072,17 +1039,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-03T13:30:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-29T11:07:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1164,6 +1120,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Amalgamation/Merger",
+          "summary": "Saksoft Limited has informed the Exchange about Amalgamation/Merger",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-23T15:17:21+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Saksoft Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1180,17 +1147,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-02T15:17:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Saksoft Limited has informed the Exchange about Scrutinizer Report of Shareholders meeting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-10T19:01:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
