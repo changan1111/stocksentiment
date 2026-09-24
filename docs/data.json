@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-24T08:06:46.060764+00:00",
+  "fetchedAt": "2026-09-24T14:00:02.442988+00:00",
   "tickerCount": 32,
-  "articleCount": 98,
+  "articleCount": 101,
   "overview": {
     "positive": 17,
-    "negative": 7,
-    "neutral": 74
+    "negative": 11,
+    "neutral": 73
   },
   "stocks": [
     {
@@ -178,6 +178,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Giving guarantees/indemnity/ becoming a surety for third party",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Giving guarantees/indemnity/ becoming a surety for third party",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-24T19:08:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding allotment of 20000 securities pursuant to Non Convertible Securities through Circular Resolution passed on September 24, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -331,6 +342,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 60532  Shares.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-24T17:22:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 22, 2026, titled \"\"Coforge Expands AgenticOps Capabilities to Power Enterprise Autonomy at Scale\"\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -339,17 +361,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Coforge Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-17T18:09:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -560,17 +571,6 @@
           }
         },
         {
-          "title": "Dixon Technologies eyes growth beyond smartphones to add global clout",
-          "summary": "The contract manufacturer is seeking higher margins by making electronics components like camera modules, while deepening its smartphone and laptop production",
-          "link": "https://www.business-standard.com/companies/news/dixon-technologies-eyes-growth-beyond-smartphones-to-add-global-clout-126092300152_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-23T08:57:48+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Acquisition",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -651,6 +651,17 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Appointment",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Appointment of Mr. Anand Ganapathy as Chief Revenue Officer (CRO) of the company w.e.f. September 24, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-24T13:39:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -783,6 +794,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-24T14:12:18+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "This disclosure is in continuation to the disclosure filed by the Company on 24 Aug 2026 regarding Capacity Expansion through three new facilities including Raichak.In terms of Regulation 30 and other",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -813,17 +835,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "This is to inform that the 110th Annual General Meeting ( AGM ) of the Company will be held on Friday, 25th September, 2026 at 1030 hours through Video Conferencing ( VC )/ Other Audio-Visual Means ( ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T15:52:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -862,6 +873,17 @@
       "name": "IKIO Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-24T16:27:43+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "IKIO Technologies Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015   Plant Visit   Outcome",
@@ -960,6 +982,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Nazara Technologies Ltd spurts 1.06%, rises for third straight session",
+          "summary": "Nazara Technologies Ltd is quoting at Rs 376.65, up 1.06% on the day as on 12:49 IST on the NSE. The stock is up 35% in last one year as compared to a 6.91% fall in NIFTY and a 1.4% fall in the Nifty Media index.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nazara-technologies-ltd-spurts-1-06-rises-for-third-straight-session-126092400617_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-24T14:16:26+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.333
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited has informed the Exchange regarding 'Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015'.",
@@ -1262,6 +1295,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-24T15:08:48+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1289,17 +1333,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-27T12:01:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1900  Options.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T17:55:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
