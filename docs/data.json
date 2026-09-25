@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-24T14:00:02.442988+00:00",
+  "fetchedAt": "2026-09-25T08:30:57.894461+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 100,
   "overview": {
     "positive": 17,
-    "negative": 11,
-    "neutral": 73
+    "negative": 12,
+    "neutral": 71
   },
   "stocks": [
     {
@@ -75,6 +75,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Market Trading Guide: Allied Blenders among 3 stock recommendations for Friday",
+          "summary": "Indian equities ended higher as investors focused on domestic growth momentum despite crude volatility and geopolitical risks. For Friday, analysts recommended Texmaco Rail, South Indian Bank and Allied Blenders.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-allied-blenders-among-3-stock-recommendations-for-friday/slideshow/134465077.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-24T20:00:56+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "Texmaco Rail & Engineering Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding ",
@@ -291,6 +302,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T10:32:48+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Rashi Peripherals Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 09, 2026. Further, the company has informed the Exchange regarding voting re",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -318,17 +340,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-01T17:49:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Rashi Peripherals Limited has informed the Exchange regarding 'update by the company on resignation by Independent Director'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-25T22:44:02+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -375,18 +386,7 @@
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-23T19:41:56+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated September 22, 2026, titled \"Persistent s Takeover Offer for Nagarro Successful - Additional Acceptance Period to ru",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-22T17:23:38+00:00",
+          "pubDate": "2026-09-24T20:04:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -449,19 +449,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Steel Authority of India among 3 stocks showing White Marubozu pattern",
-          "summary": "Three stocks in the Nifty 500 pack, including Steel Authority of India, Whirlpool of India, and Aditya Infotech, gained 5% or more on September 23 and formed a 'White Marubozu' bullish candlestick pattern. StockEdge technical scan data indicates stro…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/steel-authority-of-india-among-3-stocks-showing-white-marubozu-pattern/slideshow/134451812.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-24T10:15:44+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -794,6 +782,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Appointment",
+          "summary": "Pursuant to Regulation 30 of SEBI (Listing Obligation & Disclosure Requirements) Regulations, 2015, we hereby informed that the Comptroller & Auditor General of India vide its letter No./CA. V/ COY/CE",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T13:32:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -844,6 +843,17 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T10:36:06+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Allotment of Securities",
           "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 8826 securities pursuant to ESOP/ESPS at its meeting held on September 22, 2026",
@@ -943,17 +953,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "10 midcap stocks that have fallen up to 58% from their 52-week highs",
-          "summary": "Despite the Nifty Midcap 150 trading near peak levels, several individual constituents have suffered deep corrections. Data from ACE Equity reveals 10 prominent midcap stocks, including KPIT Technologies, RVNL, Tata Elxsi, and Swiggy, that have falle…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-that-have-fallen-up-to-58-from-their-52-week-highs/slideshow/134455492.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-24T13:09:43+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Outcome",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -982,17 +981,6 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Nazara Technologies Ltd spurts 1.06%, rises for third straight session",
-          "summary": "Nazara Technologies Ltd is quoting at Rs 376.65, up 1.06% on the day as on 12:49 IST on the NSE. The stock is up 35% in last one year as compared to a 6.91% fall in NIFTY and a 1.4% fall in the Nifty Media index.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nazara-technologies-ltd-spurts-1-06-rises-for-third-straight-session-126092400617_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-24T14:16:26+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.333
-          }
-        },
         {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited has informed the Exchange regarding 'Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015'.",
