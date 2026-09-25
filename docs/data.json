@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-25T08:30:57.894461+00:00",
+  "fetchedAt": "2026-09-25T14:24:37.853132+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 101,
   "overview": {
     "positive": 17,
-    "negative": 12,
-    "neutral": 71
+    "negative": 14,
+    "neutral": 70
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T15:53:44+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Schedule of meet",
@@ -56,17 +67,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding 'Letter to the Members pursuant to Regulation 36(1)(B) of SEBI (LODR) Regulations, 2015'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T15:23:57+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -75,6 +75,28 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T17:39:10+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "60% rally in FY27! Ventura Securities sees 32% more upside in short term | Technical outlook, target, stoploss",
+          "summary": "Texmaco Rail stock declined nearly 1% on BSE, with intraday prices ranging from  ₹124 to  ₹128.55. The company reported a 70.7% increase in net profit, despite a decline in consolidated income during Q1 FY27.",
+          "link": "https://www.livemint.com/market/stock-market-news/60-rally-in-fy27-ventura-securities-sees-32-more-upside-in-short-term-technical-outlook-target-stoploss-11790334304008.html",
+          "source": "livemint",
+          "pubDate": "2026-09-25T17:25:40+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.5
+          }
+        },
         {
           "title": "Market Trading Guide: Allied Blenders among 3 stock recommendations for Friday",
           "summary": "Indian equities ended higher as investors focused on domestic growth momentum despite crude volatility and geopolitical risks. For Friday, analysts recommended Texmaco Rail, South Indian Bank and Allied Blenders.",
@@ -117,17 +139,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Order worth Rs. 27.82 Crores (incl. taxes) from Hindalco Industries Limited",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-10T16:42:47+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -383,10 +394,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-24T20:04:27+00:00",
+          "pubDate": "2026-09-25T19:37:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -583,17 +594,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Tata Technologies’ China unit steps up work for Agratas",
-          "summary": "Tata Technologies’ China unit provided services worth  ₹7.34 crore to Agratas in FY26",
-          "link": "https://www.livemint.com/companies/news/tata-technologies-china-agratas-lithium-ion-battery-production-11790157502423.html",
-          "source": "livemint",
-          "pubDate": "2026-09-24T06:00:31+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Trading Window",
           "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -691,6 +691,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T17:58:41+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "EPACK Durable Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding voting result",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -722,17 +733,6 @@
             "label": "Neutral",
             "score": 0.0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "EPACK Durable Limited has informed the Exchange about Copy of Newspaper Publication regarding Notice of 07th Annual General Meeting of the Company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-27T16:24:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -741,6 +741,17 @@
       "name": "Electronics Mart India",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Electronics Mart India Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 25, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T14:54:18+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
@@ -781,6 +792,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "The 110th Annual General Meeting of the Members of the Company was heldon Friday, 25th September, 2026 at 1030 Hrs., through Video Conferencing (VC) /Other Audio Visual Means (OAVM), in accordance wit",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T19:38:36+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Appointment",
           "summary": "Pursuant to Regulation 30 of SEBI (Listing Obligation & Disclosure Requirements) Regulations, 2015, we hereby informed that the Comptroller & Auditor General of India vide its letter No./CA. V/ COY/CE",
@@ -823,17 +845,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we have enclosed herewith the newspaper clippings regarding completion of dispatch of the Not",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T11:34:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -982,6 +993,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of 27th Annual General Meeting held on September 25, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T18:13:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Nazara Technologies Limited has informed the Exchange regarding 'Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1001,17 +1023,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T11:24:17+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
