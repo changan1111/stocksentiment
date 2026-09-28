@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-28T09:19:17.031379+00:00",
+  "fetchedAt": "2026-09-28T19:59:07.390476+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 109,
   "overview": {
-    "positive": 15,
-    "negative": 17,
+    "positive": 13,
+    "negative": 24,
     "neutral": 72
   },
   "stocks": [
@@ -189,6 +189,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T18:21:46+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T18:19:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Giving guarantees/indemnity/ becoming a surety for third party",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Giving guarantees/indemnity/ becoming a surety for third party",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -220,17 +242,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-16T18:23:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -239,6 +250,17 @@
       "name": "Avalon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T18:57:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -262,33 +284,11 @@
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T20:30:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Change in Management",
           "summary": "Avalon Technologies Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-03T19:06:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated September 03, 2026, on the Joint Venture Agreement between Avalon and Zollner.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T18:55:08+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -353,6 +353,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 28, 2026, titled \" Coforge appoints Akhil Gupta as Chairperson of the company\"\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T22:31:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "Coforge Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T22:20:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Coforge Limited has informed the Exchange regarding Outcome of Board Meeting held on September 28, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T22:19:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Coforge appoints Akhil Kumar Gupta as chairperson",
+          "summary": "Gupta, who has four decades of experience as a chartered accountant, currently chairs ONE WAM and Bharti Life Insurance. He also serves on the boards of Zepto, Snapdeal, Eutelsat Communications and Lodha Developers.",
+          "link": "https://www.livemint.com/companies/coforge-appoints-akhil-kumar-gupta-as-chairperson-11790618685616.html",
+          "source": "livemint",
+          "pubDate": "2026-09-29T00:08:15+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "How mid-sized IT firms are turning AI cost cuts into new revenue",
           "summary": "As AI automates work traditionally performed by IT services firms and software products, companies like LTM, Coforge and Hexaware are helping clients reduce those costs. The shift could create new revenue streams even as it puts pressure on tradition…",
           "link": "https://www.livemint.com/companies/news/mid-sized-it-firms-ai-cost-cuts-ltm-coforge-hexaware-11790522363302.html",
@@ -384,17 +428,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 22, 2026, titled \"\"Coforge Expands AgenticOps Capabilities to Power Enterprise Autonomy at Scale\"\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-22T20:06:57+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -405,10 +438,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-25T19:37:08+00:00",
+          "pubDate": "2026-09-28T19:44:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -499,17 +532,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -519,22 +541,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Dcx Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Dcx Systems Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-05T11:14:01+00:00",
+          "pubDate": "2026-09-28T18:36:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
+          "title": "[NSE] Trading Window",
+          "summary": "Dcx Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-04T19:26:21+00:00",
+          "pubDate": "2026-09-28T18:33:39+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Dcx Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-05T11:14:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -550,17 +583,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding 'Updates on signing of  MOU.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-13T17:29:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -569,6 +591,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Proceeding of 33rd AGM of Dixon Technologies (India) Limited held on 28th September, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T19:26:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
@@ -605,6 +638,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Tata Technologies Limited has informed the Exchange about Analyst / Institutional Investor(s) Meeting scheduled on Wednesday, 14th October 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T14:53:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -625,17 +669,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of Investor Conference",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-11T19:05:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -650,6 +683,17 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T15:25:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "E2E Networks Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -924,6 +968,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T18:11:48+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating- New",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating assigned to one of the subsidiary company- JSW Jatadhar Marine Services Private Limited.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -940,17 +995,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-23T16:26:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-23T16:08:16+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -993,17 +1037,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Nazara Technologies Ltd spurts 1.43%, up for fifth straight session",
-          "summary": "Nazara Technologies Ltd is quoting at Rs 381.85, up 1.43% on the day as on 12:44 IST on the NSE. The stock is up 43.55% in last one year as compared to a 7.29% slide in NIFTY and a 1.03% slide in the Nifty Media.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nazara-technologies-ltd-spurts-1-43-up-for-fifth-straight-session-126092800426_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-28T13:04:11+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of 27th Annual General Meeting held on September 25, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1043,6 +1076,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top 3 stocks to buy: Apollo Micro Systems, Netweb Technologies, Blue Dart by Vaishali Parekh| Target, stop-loss",
+          "summary": "Vaishali Parekh of Prabhudas Lilladher suggests three stocks for intraday trading on September 29: Apollo Micro Systems, Netweb Technologies, and Blue Dart Express. Market sentiment remains negative amid selling pressure, with the Nifty 50 dropping t…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-apollo-micro-systems-netweb-technologies-blue-dart-by-vaishali-parekh-target-stoploss-11790612687438.html",
+          "source": "livemint",
+          "pubDate": "2026-09-28T23:18:34+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.5
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -1163,6 +1207,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating- Revision",
+          "summary": "Saksoft Limited has informed the Exchange about Credit Rating- Revision",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T20:05:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Saksoft Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T19:44:02+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "Saksoft Limited has informed the Exchange regarding Outcome of Board Meeting held on September 28, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1194,17 +1260,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-02T15:17:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1213,6 +1268,17 @@
       "name": "TVS Supply Chain Solutions",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T16:49:31+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Schedule of Institutional Investor meet to be held on 11th September, 2026",
@@ -1245,17 +1311,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Copy of Newspaper Publication of the Unaudited Standalone and Consolidated Financial Results for the Quarter Ended June 30,2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-11T18:26:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1264,6 +1319,17 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T15:07:15+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
@@ -1295,17 +1361,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-07T15:33:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
