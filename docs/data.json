@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-25T14:24:37.853132+00:00",
+  "fetchedAt": "2026-09-28T09:19:17.031379+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 104,
   "overview": {
-    "positive": 17,
-    "negative": 14,
-    "neutral": 70
+    "positive": 15,
+    "negative": 17,
+    "neutral": 72
   },
   "stocks": [
     {
@@ -76,6 +76,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-26T17:26:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -84,28 +95,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "60% rally in FY27! Ventura Securities sees 32% more upside in short term | Technical outlook, target, stoploss",
-          "summary": "Texmaco Rail stock declined nearly 1% on BSE, with intraday prices ranging from  ₹124 to  ₹128.55. The company reported a 70.7% increase in net profit, despite a decline in consolidated income during Q1 FY27.",
-          "link": "https://www.livemint.com/market/stock-market-news/60-rally-in-fy27-ventura-securities-sees-32-more-upside-in-short-term-technical-outlook-target-stoploss-11790334304008.html",
-          "source": "livemint",
-          "pubDate": "2026-09-25T17:25:40+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.5
-          }
-        },
-        {
-          "title": "Market Trading Guide: Allied Blenders among 3 stock recommendations for Friday",
-          "summary": "Indian equities ended higher as investors focused on domestic growth momentum despite crude volatility and geopolitical risks. For Friday, analysts recommended Texmaco Rail, South Indian Bank and Allied Blenders.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-allied-blenders-among-3-stock-recommendations-for-friday/slideshow/134465077.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-24T20:00:56+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -129,17 +118,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-17T16:02:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -148,6 +126,17 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-26T13:04:19+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding a press release dated September 15, 2026, titled \"Titagarh Rail Systems and Bharat Heavy Electricals Limited Sign Contract for Long-Te",
@@ -363,6 +352,28 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "How mid-sized IT firms are turning AI cost cuts into new revenue",
+          "summary": "As AI automates work traditionally performed by IT services firms and software products, companies like LTM, Coforge and Hexaware are helping clients reduce those costs. The shift could create new revenue streams even as it puts pressure on tradition…",
+          "link": "https://www.livemint.com/companies/news/mid-sized-it-firms-ai-cost-cuts-ltm-coforge-hexaware-11790522363302.html",
+          "source": "livemint",
+          "pubDate": "2026-09-28T11:13:15+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-25T20:52:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Coforge Limited has informed the Exchange regarding Allotment of 60532  Shares.",
@@ -640,6 +651,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "E2E Networks Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T13:50:58+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Appointment",
           "summary": "E2E Networks Limited has informed the Exchange regarding Appointment of Mr. Anand Ganapathy as Chief Revenue Officer (CRO) of the company w.e.f. September 24, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -667,17 +689,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-05T18:26:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "E2E Networks Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T15:09:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -743,10 +754,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Electronics Mart India Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 25, 2026",
+          "summary": "Electronics Mart India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 25, 2026. Further, the company has informed the Exchange regarding voti",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-25T14:54:18+00:00",
+          "pubDate": "2026-09-26T16:04:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -794,10 +805,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "The 110th Annual General Meeting of the Members of the Company was heldon Friday, 25th September, 2026 at 1030 Hrs., through Video Conferencing (VC) /Other Audio Visual Means (OAVM), in accordance wit",
+          "summary": "This has reference to our letter No. SECY/GRSE/BD-69/CA/25/26-27 dated 03 Sep2026 on the subject matter of 'Intimation of 110th Annual General Meeting, Book Closure andDividend'.In this regard, please",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-25T19:38:36+00:00",
+          "pubDate": "2026-09-26T12:56:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -831,17 +842,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-21T18:27:48+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Record Date",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange that Record date for the purpose of Dividend  is 18-Sep-2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-14T13:16:33+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -993,6 +993,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Nazara Technologies Ltd spurts 1.43%, up for fifth straight session",
+          "summary": "Nazara Technologies Ltd is quoting at Rs 381.85, up 1.43% on the day as on 12:44 IST on the NSE. The stock is up 43.55% in last one year as compared to a 7.29% slide in NIFTY and a 1.03% slide in the Nifty Media.",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nazara-technologies-ltd-spurts-1-43-up-for-fifth-straight-session-126092800426_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-28T13:04:11+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of 27th Annual General Meeting held on September 25, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1033,6 +1044,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T12:52:14+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about ESG Rating",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1060,17 +1082,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-18T16:40:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding allotment of 1645 securities pursuant to ESOP/ESPS at its meeting held on September 03, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T13:30:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1151,6 +1162,17 @@
       "name": "Saksoft",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Saksoft Limited has informed the Exchange regarding Outcome of Board Meeting held on September 28, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-28T14:23:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Amalgamation/Merger",
           "summary": "Saksoft Limited has informed the Exchange about Amalgamation/Merger",
@@ -1293,6 +1315,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Zen Technologies among 3 stocks that closed crossing above VWAP",
+          "summary": "On September 25, three Nifty 500 stocks closed more than 1.5% above their VWAPs, indicating stronger closing prices relative to their volume-weighted average traded prices during the session.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-3-stocks-that-closed-crossing-above-vwap/slideshow/134531262.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-28T09:24:27+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
