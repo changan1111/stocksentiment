@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-28T19:59:07.390476+00:00",
+  "fetchedAt": "2026-09-29T09:26:28.397467+00:00",
   "tickerCount": 32,
-  "articleCount": 109,
+  "articleCount": 112,
   "overview": {
-    "positive": 13,
-    "negative": 24,
-    "neutral": 72
+    "positive": 16,
+    "negative": 23,
+    "neutral": 73
   },
   "stocks": [
     {
@@ -189,6 +189,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Axiscades Tech shares hit 10% upper circuit on block deal in defence firm",
+          "summary": "Axiscade has delivered solid gains to investors amid a bullish sentiment towards the sector, having risen 54 per cent in 2026 so far, 25 per cent in a year, shows NSE data.",
+          "link": "https://www.business-standard.com/markets/news/axiscades-tech-shares-hit-10-upper-circuit-on-block-deal-in-defence-firm-126092900424_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-29T12:17:43+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Axiscades Tech share price locked in 10% upper circuit | What’s driving the stock and what lies ahead?",
+          "summary": "Axiscades Technologies share price soared 10% on September 29 after a significant block deal, marking its largest single-day gain since July 1, 2024. Approximately 40.61 lakh shares were traded at  ₹1,824 each, totaling around  ₹741 crore.",
+          "link": "https://www.livemint.com/market/stock-market-news/axiscades-tech-share-price-locked-in-10-upper-circuit-what-s-driving-the-stock-and-what-lies-ahead-11790659043874.html",
+          "source": "livemint",
+          "pubDate": "2026-09-29T11:03:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -353,6 +375,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Coforge appoints Akhil Gupta as independent chairperson for five years",
+          "summary": "Gupta, former vice chairman of Bharti Enterprises, will serve for five years from September 29 as non-executive independent director and chairperson",
+          "link": "https://www.business-standard.com/companies/news/coforge-appoints-akhil-gupta-chairperson-after-op-bhatt-exit-126092900174_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-29T09:20:19+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Coforge shares rise 2% after firm appoints Akhil Kumar Gupta as chairman post OP Bhatt’s abrupt resignation",
+          "summary": "Coforge appoints former Bharti Enterprises vice-chairman Akhil Kumar Gupta as chairperson and independent director for five years, following boardroom turmoil triggered by O P Bhatt’s resignation. The IT services firm retains its FY27 guidance and lo…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-in-focus-after-appointing-akhil-kumar-gupta-as-chairman-after-op-bhatts-abrupt-resignation/articleshow/134555215.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-29T09:06:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Coforge appoints former Bharti Enterprises VC Akhil Gupta as chairperson",
+          "summary": "IT services firm Coforge Ltd has appointed former\nBharti Enterprises vice-chairman Akhil Kumar Gupta as its chairperson and non-executive independent director for five years, effective Tuesday.\nThe appointment follows weeks of intense boardroom turmo…",
+          "link": "https://www.business-standard.com/companies/news/coforge-appoints-former-bharti-enterprises-vc-akhil-gupta-as-chairperson-126092900018_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-09-29T08:07:24+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 28, 2026, titled \" Coforge appoints Akhil Gupta as Chairperson of the company\"\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -394,17 +449,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "How mid-sized IT firms are turning AI cost cuts into new revenue",
-          "summary": "As AI automates work traditionally performed by IT services firms and software products, companies like LTM, Coforge and Hexaware are helping clients reduce those costs. The shift could create new revenue streams even as it puts pressure on tradition…",
-          "link": "https://www.livemint.com/companies/news/mid-sized-it-firms-ai-cost-cuts-ltm-coforge-hexaware-11790522363302.html",
-          "source": "livemint",
-          "pubDate": "2026-09-28T11:13:15+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
           }
         },
         {
@@ -531,6 +575,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -1077,17 +1132,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top 3 stocks to buy: Apollo Micro Systems, Netweb Technologies, Blue Dart by Vaishali Parekh| Target, stop-loss",
-          "summary": "Vaishali Parekh of Prabhudas Lilladher suggests three stocks for intraday trading on September 29: Apollo Micro Systems, Netweb Technologies, and Blue Dart Express. Market sentiment remains negative amid selling pressure, with the Nifty 50 dropping t…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-apollo-micro-systems-netweb-technologies-blue-dart-by-vaishali-parekh-target-stoploss-11790612687438.html",
-          "source": "livemint",
-          "pubDate": "2026-09-28T23:18:34+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.5
-          }
-        },
-        {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1370,17 +1414,6 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Zen Technologies among 3 stocks that closed crossing above VWAP",
-          "summary": "On September 25, three Nifty 500 stocks closed more than 1.5% above their VWAPs, indicating stronger closing prices relative to their volume-weighted average traded prices during the session.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-3-stocks-that-closed-crossing-above-vwap/slideshow/134531262.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-28T09:24:27+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
