@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-29T09:26:28.397467+00:00",
+  "fetchedAt": "2026-09-29T18:27:40.360671+00:00",
   "tickerCount": 32,
-  "articleCount": 112,
+  "articleCount": 111,
   "overview": {
-    "positive": 16,
-    "negative": 23,
-    "neutral": 73
+    "positive": 11,
+    "negative": 25,
+    "neutral": 75
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-29T16:08:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -55,17 +66,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-07T13:04:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -189,25 +189,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Axiscades Tech shares hit 10% upper circuit on block deal in defence firm",
-          "summary": "Axiscade has delivered solid gains to investors amid a bullish sentiment towards the sector, having risen 54 per cent in 2026 so far, 25 per cent in a year, shows NSE data.",
-          "link": "https://www.business-standard.com/markets/news/axiscades-tech-shares-hit-10-upper-circuit-on-block-deal-in-defence-firm-126092900424_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-29T12:17:43+05:30",
+          "title": "[NSE] Shareholders meeting",
+          "summary": "AXISCADES Technologies Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange regarding voti",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-29T23:05:22+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Axiscades Tech share price locked in 10% upper circuit | What’s driving the stock and what lies ahead?",
-          "summary": "Axiscades Technologies share price soared 10% on September 29 after a significant block deal, marking its largest single-day gain since July 1, 2024. Approximately 40.61 lakh shares were traded at  ₹1,824 each, totaling around  ₹741 crore.",
-          "link": "https://www.livemint.com/market/stock-market-news/axiscades-tech-share-price-locked-in-10-upper-circuit-what-s-driving-the-stock-and-what-lies-ahead-11790659043874.html",
-          "source": "livemint",
-          "pubDate": "2026-09-29T11:03:51+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -219,17 +208,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T18:19:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -252,17 +230,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a Subsidiary Company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-22T20:57:53+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -323,6 +290,17 @@
       "name": "Rashi Peripherals",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Market Trading Guide: Adani Ports, Rashi Peripherals among 6 stock recommendations for Wednesday",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-ports-rashi-peripherals-among-6-stock-recommendations-for-wednesday/slideshow/134569608.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-29T20:21:18+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Rashi Peripherals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -482,10 +460,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-28T19:44:25+00:00",
+          "pubDate": "2026-09-29T19:01:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -556,6 +534,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Cyient Dlm Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-29T14:57:00+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Please find enclosed the intimation of change in name of our Step-Down Subsidiary",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -597,10 +586,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Dcx Systems Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
+          "summary": "Dcx Systems Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange regarding voting results.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-28T18:36:59+00:00",
+          "pubDate": "2026-09-29T17:38:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -627,17 +616,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Dcx Systems Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-17T16:50:07+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -647,11 +625,33 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Proceeding of 33rd AGM of Dixon Technologies (India) Limited held on 28th September, 2026.",
+          "title": "[NSE] Change in Management",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-28T19:26:50+00:00",
+          "pubDate": "2026-09-29T18:33:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-29T18:11:56+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Dixon Technologies (India) Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange regarding ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-29T17:38:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -667,17 +667,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Acquisition",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-21T18:40:49+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -692,6 +681,17 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] News Verification",
+          "summary": "The Exchange has sought clarification from Tata Technologies Limited with respect to recent news item captioned Why are Tata group stocks falling today? TTML, Tata Chem, TMPV dip up to 5%.  The respon",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-29T17:37:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Analyst / Institutional Investor(s) Meeting scheduled on Wednesday, 14th October 2026",
@@ -740,10 +740,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "E2E Networks Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
+          "summary": "E2E Networks Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-28T15:25:19+00:00",
+          "pubDate": "2026-09-29T15:42:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -777,17 +777,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-06T13:22:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about Dispatch of letter to shareholders whose email addresses are not registered with Company/Registrar & Transfer Agent/Depository Participants",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T18:26:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1093,10 +1082,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Proceedings of 27th Annual General Meeting held on September 25, 2026.",
+          "summary": "Nazara Technologies Limited has submitted the Exchange a copy of Srutinizers report and Voting Results of 27th Annual General Meeting held on September 25, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-25T18:13:56+00:00",
+          "pubDate": "2026-09-29T19:35:37+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1183,6 +1172,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-29T17:54:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "PG Electroplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1224,17 +1224,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding 'Communication to Shareholders: Dividend for FY 2025-26   Intimation on Tax Deduction at Source (TDS) / withholding tax on Dividend'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T12:58:54+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
