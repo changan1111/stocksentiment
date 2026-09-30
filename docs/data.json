@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-29T18:27:40.360671+00:00",
+  "fetchedAt": "2026-09-30T09:16:48.273660+00:00",
   "tickerCount": 32,
-  "articleCount": 111,
+  "articleCount": 110,
   "overview": {
-    "positive": 11,
+    "positive": 14,
     "negative": 25,
-    "neutral": 75
+    "neutral": 71
   },
   "stocks": [
     {
@@ -189,6 +189,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Axiscades Technologies rises 5% as Sunil Singhania's Abakkus buys 3.03% stake",
+          "summary": "Axiscades Technologies shares rose on Wednesday after Abakkus Asset Manager bought a 3.03% stake for around Rs 235 crore through a block deal. Kotak Mahindra Mutual Fund also picked up a 4.89% stake. Promoter Jupiter Capital sold a 10.69% stake for R…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axiscades-technologies-rises-5-as-sunil-singhanias-abakkus-buys-3-03-stake/articleshow/134584833.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-30T12:51:12+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "AXISCADES Technologies Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange regarding voti",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -240,6 +251,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated September 30, 2026, titled \"Clarification on Media Reports regarding Proposed Stake Sale by Mr. Bhaskar Srinivasan",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T11:02:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
+          "summary": "Avalon Technologies shares sharply on Wednesday after an Rs 883 crore block deal involving 6.06% of the company’s equity. Three promoter entities were reported to be the likely sellers. The transaction is estimated to be worth between Rs 861.9 crore …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-shares-fall-6-after-rs-883-crore-block-deal-3-promoter-entities-likely-sellers/articleshow/134583113.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-30T11:32:08+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -267,17 +300,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-04T20:48:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Avalon Technologies Limited has informed the Exchange about change in Management",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-03T19:06:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -353,6 +375,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 30, 2026, titled \"\"Coforge felicitated at ET Edge Best Tech Brands 2026\"\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T11:17:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "TCS, Wipro, other IT stocks rebound up to 6%, snapping 8-day losing streak. Why is Jefferies cautious?",
+          "summary": "IT stocks rebounded on Wednesday, with TCS, Wipro and Coforge snapping an eight-session losing streak. The Nifty IT index rose nearly 3%, aided by a stronger US dollar and higher US bond yields, though brokerages remain cautious ahead of the Q2 earni…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-rebound-up-to-6-snapping-8-day-losing-streak-why-is-jefferies-cautious/articleshow/134583730.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-30T11:51:29+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "Coforge appoints Akhil Gupta as independent chairperson for five years",
           "summary": "Gupta, former vice chairman of Bharti Enterprises, will serve for five years from September 29 as non-executive independent director and chairperson",
           "link": "https://www.business-standard.com/companies/news/coforge-appoints-akhil-gupta-chairperson-after-op-bhatt-exit-126092900174_1.html",
@@ -361,17 +405,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Coforge shares rise 2% after firm appoints Akhil Kumar Gupta as chairman post OP Bhatt’s abrupt resignation",
-          "summary": "Coforge appoints former Bharti Enterprises vice-chairman Akhil Kumar Gupta as chairperson and independent director for five years, following boardroom turmoil triggered by O P Bhatt’s resignation. The IT services firm retains its FY27 guidance and lo…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-in-focus-after-appointing-akhil-kumar-gupta-as-chairman-after-op-bhatts-abrupt-resignation/articleshow/134555215.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-29T09:06:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -386,66 +419,11 @@
           }
         },
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 28, 2026, titled \" Coforge appoints Akhil Gupta as Chairperson of the company\"\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T22:31:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Coforge Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-28T22:20:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Coforge Limited has informed the Exchange regarding Outcome of Board Meeting held on September 28, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T22:19:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Coforge appoints Akhil Kumar Gupta as chairperson",
-          "summary": "Gupta, who has four decades of experience as a chartered accountant, currently chairs ONE WAM and Bharti Life Insurance. He also serves on the boards of Zepto, Snapdeal, Eutelsat Communications and Lodha Developers.",
-          "link": "https://www.livemint.com/companies/coforge-appoints-akhil-kumar-gupta-as-chairperson-11790618685616.html",
-          "source": "livemint",
-          "pubDate": "2026-09-29T00:08:15+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-25T20:52:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 60532  Shares.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-24T17:22:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -625,6 +603,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Execution of Intellectual Property License Agreement between Dixon Electro Appliances Private Limited,  a Subsidiary / Joint Venture ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T14:45:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -656,17 +645,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-24T10:59:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -686,7 +664,7 @@
           "summary": "The Exchange has sought clarification from Tata Technologies Limited with respect to recent news item captioned Why are Tata group stocks falling today? TTML, Tata Chem, TMPV dip up to 5%.  The respon",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-29T17:37:39+00:00",
+          "pubDate": "2026-09-30T10:44:41+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1051,6 +1029,17 @@
       "name": "KPIT Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "KPIT Tech plunges 24% in 3 months as auto demand weakens",
+          "summary": "KPIT Technologies faces a substantial 24% decline in stock value, predominantly due to obstacles in the automotive sector. The company's net profit has notably decreased, attributed to project delays and financial cutbacks. Although management foreca…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-30T06:17:09+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Outcome",
