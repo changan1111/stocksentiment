@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-30T09:16:48.273660+00:00",
+  "fetchedAt": "2026-09-30T18:16:12.309223+00:00",
   "tickerCount": 32,
-  "articleCount": 110,
+  "articleCount": 109,
   "overview": {
-    "positive": 14,
-    "negative": 25,
-    "neutral": 71
+    "positive": 16,
+    "negative": 29,
+    "neutral": 64
   },
   "stocks": [
     {
@@ -14,11 +14,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026",
+          "title": "[NSE] Spurt in Volume",
+          "summary": "Significant increase in volume has been observed in Jupiter Wagons Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-29T16:08:08+00:00",
+          "pubDate": "2026-09-30T19:32:25+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Jupiter Wagons Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting resul",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T19:28:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -45,28 +56,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about incorporation of a subsidiary",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-15T16:56:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated September 08, 2026, titled \"Jupiter Wagons Bags Order Worth Over Rs. 97.66 Crore from GATX India Private Limited\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-08T13:36:23+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -75,6 +64,28 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Acquisition of Indolem Technologies Systems Private Limited by Subsidiary Company Texmaco Defence Technologies Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T17:30:48+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Top 5 breakout stocks to buy: PVRINOX, JK Tyre, ICICIGI, Texmaco Rail, Mishra Dhatu by Sumeet Bagadia | Target, stoploss",
+          "summary": "Sumeet Bagadia believes the short-term trends of the Indian stock market has turned sideways-to-bearish",
+          "link": "https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-pvrinox-jk-tyre-icicigi-texmaco-rail-mishra-dhatu-by-sumeet-bagadia-target-stoploss-11790778479716.html",
+          "source": "livemint",
+          "pubDate": "2026-09-30T22:25:51+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
@@ -107,17 +118,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-18T15:54:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -126,6 +126,17 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T17:32:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -168,17 +179,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about letters sent to shareholders in pursuant to Regulation 36(1)(b) and 30 of SEBI (LODR) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-08T19:34:12+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -251,6 +251,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Avalon Technologies Limited has submitted the Exchange a copy of the Scrutinizer's report of the 27th Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T19:12:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T17:33:42+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "Avalon Tech block deal: Promoters divest 6% stake worth Rs 871 crore",
+          "summary": "Avalon Technologies saw an Rs 870.6 crore bulk deal as three promoter entities sold 40.08 lakh shares, representing 6% equity. Kotak Mahindra Mutual Fund bought 24.02 lakh shares, while Nomura retained its Buy rating and raised its target price.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-block-deal-promoters-divest-6-stake-worth-rs-871-crore/articleshow/134598495.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-30T21:39:16+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore",
+          "summary": "Avalon Technologies saw three of its promoter entities divest a collective 6% stake for a substantial Rs 871 crore via bulk deals, bringing their ownership down from 44.39% to 38.4%. In this strategic move, Kotak Mahindra Mutual Fund bought 24.01 lak…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/promoters-dilute-6-stake-in-avalon-technologies-for-rs-871-crore/articleshow/134597842.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-09-30T20:55:08+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated September 30, 2026, titled \"Clarification on Media Reports regarding Proposed Stake Sale by Mr. Bhaskar Srinivasan",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -273,33 +317,11 @@
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T18:57:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-05T17:26:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'Letter to shareholders whose e-mail address is not registered with Company/RTA/DPs'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T20:48:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -312,17 +334,6 @@
       "name": "Rashi Peripherals",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Market Trading Guide: Adani Ports, Rashi Peripherals among 6 stock recommendations for Wednesday",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-ports-rashi-peripherals-among-6-stock-recommendations-for-wednesday/slideshow/134569608.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-29T20:21:18+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Rashi Peripherals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -397,28 +408,6 @@
           }
         },
         {
-          "title": "Coforge appoints Akhil Gupta as independent chairperson for five years",
-          "summary": "Gupta, former vice chairman of Bharti Enterprises, will serve for five years from September 29 as non-executive independent director and chairperson",
-          "link": "https://www.business-standard.com/companies/news/coforge-appoints-akhil-gupta-chairperson-after-op-bhatt-exit-126092900174_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-29T09:20:19+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Coforge appoints former Bharti Enterprises VC Akhil Gupta as chairperson",
-          "summary": "IT services firm Coforge Ltd has appointed former\nBharti Enterprises vice-chairman Akhil Kumar Gupta as its chairperson and non-executive independent director for five years, effective Tuesday.\nThe appointment follows weeks of intense boardroom turmo…",
-          "link": "https://www.business-standard.com/companies/news/coforge-appoints-former-bharti-enterprises-vc-akhil-gupta-as-chairperson-126092900018_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-09-29T08:07:24+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Coforge Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -437,11 +426,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Trading Window",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-29T19:01:27+00:00",
+          "pubDate": "2026-09-30T19:41:40+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T19:18:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -819,6 +819,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Trading Window",
+          "summary": "Electronics Mart India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T17:26:25+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Electronics Mart India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 25, 2026. Further, the company has informed the Exchange regarding voti",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -846,17 +857,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-21T17:14:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about letter dispatched to Members providing web link of the Integrated Annual Report for the FY 2025-26",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-09T17:25:24+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -920,6 +920,17 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T15:33:47+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Ideaforge Technology Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
@@ -1030,14 +1041,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "KPIT Tech plunges 24% in 3 months as auto demand weakens",
-          "summary": "KPIT Technologies faces a substantial 24% decline in stock value, predominantly due to obstacles in the automotive sector. The company's net profit has notably decreased, attributed to project delays and financial cutbacks. Although management foreca…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-30T06:17:09+05:30",
+          "title": "[NSE] Trading Window",
+          "summary": "KPIT Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T16:06:46+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 0.333
+            "label": "Negative",
+            "score": -1.0
           }
         },
         {
@@ -1050,17 +1061,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Please find attached Scrutinizers report and voting results of 9th Annual General Meeting held on August 31, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T11:49:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1069,6 +1069,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Trading Window",
+          "summary": "Nazara Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-09-30T16:39:53+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "Nazara Technologies Limited has submitted the Exchange a copy of Srutinizers report and Voting Results of 27th Annual General Meeting held on September 25, 2026.",
@@ -1089,17 +1100,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding a press release dated September 11, 2026, titled \"Nazara launches Bodycam in Fortnite through an official UEFN adaptation.\"",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-11T13:50:03+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1162,10 +1162,10 @@
       "articles": [
         {
           "title": "[NSE] Shareholders meeting",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026",
+          "summary": "PG Electroplast Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting resu",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-29T17:54:56+00:00",
+          "pubDate": "2026-09-30T19:29:32+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1202,17 +1202,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "PG Electroplast Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-07T17:55:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
