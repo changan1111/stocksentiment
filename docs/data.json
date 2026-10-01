@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-30T18:16:12.309223+00:00",
+  "fetchedAt": "2026-10-01T09:44:27.961475+00:00",
   "tickerCount": 32,
-  "articleCount": 109,
+  "articleCount": 107,
   "overview": {
     "positive": 16,
     "negative": 29,
-    "neutral": 64
+    "neutral": 62
   },
   "stocks": [
     {
@@ -14,11 +14,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Credit Rating",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-01T12:35:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Spurt in Volume",
           "summary": "Significant increase in volume has been observed in Jupiter Wagons Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-30T19:32:25+00:00",
+          "pubDate": "2026-10-01T11:38:15+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -30,28 +41,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-30T19:28:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-25T15:53:44+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-23T13:41:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -73,17 +62,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Top 5 breakout stocks to buy: PVRINOX, JK Tyre, ICICIGI, Texmaco Rail, Mishra Dhatu by Sumeet Bagadia | Target, stoploss",
-          "summary": "Sumeet Bagadia believes the short-term trends of the Indian stock market has turned sideways-to-bearish",
-          "link": "https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-pvrinox-jk-tyre-icicigi-texmaco-rail-mishra-dhatu-by-sumeet-bagadia-target-stoploss-11790778479716.html",
-          "source": "livemint",
-          "pubDate": "2026-09-30T22:25:51+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
           }
         },
         {
@@ -189,17 +167,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Axiscades Technologies rises 5% as Sunil Singhania's Abakkus buys 3.03% stake",
-          "summary": "Axiscades Technologies shares rose on Wednesday after Abakkus Asset Manager bought a 3.03% stake for around Rs 235 crore through a block deal. Kotak Mahindra Mutual Fund also picked up a 4.89% stake. Promoter Jupiter Capital sold a 10.69% stake for R…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axiscades-technologies-rises-5-as-sunil-singhanias-abakkus-buys-3-03-stake/articleshow/134584833.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-30T12:51:12+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Shareholders meeting",
           "summary": "AXISCADES Technologies Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange regarding voti",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -251,6 +218,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'Disclosures under Reg 29(2) of SEBI (SAST) Regulations, 2011'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-01T13:04:44+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Avalon Technologies Limited has submitted the Exchange a copy of the Scrutinizer's report of the 27th Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -300,28 +278,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-30T11:02:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
-          "summary": "Avalon Technologies shares sharply on Wednesday after an Rs 883 crore block deal involving 6.06% of the company’s equity. Three promoter entities were reported to be the likely sellers. The transaction is estimated to be worth between Rs 861.9 crore …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-shares-fall-6-after-rs-883-crore-block-deal-3-promoter-entities-likely-sellers/articleshow/134583113.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-30T11:32:08+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-05T17:26:37+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -387,35 +343,35 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated September 30, 2026, titled \"\"Coforge felicitated at ET Edge Best Tech Brands 2026\"\".",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 01, 2026, titled \"\"Coforge Expands Kraków Engineering Center as Strategic AI Engineering and Nearshore Delivery Hub\"\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-30T11:17:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "TCS, Wipro, other IT stocks rebound up to 6%, snapping 8-day losing streak. Why is Jefferies cautious?",
-          "summary": "IT stocks rebounded on Wednesday, with TCS, Wipro and Coforge snapping an eight-session losing streak. The Nifty IT index rose nearly 3%, aided by a stronger US dollar and higher US bond yields, though brokerages remain cautious ahead of the Q2 earni…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-rebound-up-to-6-snapping-8-day-losing-streak-why-is-jefferies-cautious/articleshow/134583730.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-09-30T11:51:29+05:30",
+          "pubDate": "2026-10-01T08:46:58+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "[NSE] Change in Director(s)",
-          "summary": "Coforge Limited has informed the Exchange regarding Change in Director(s) of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T22:20:47+00:00",
+          "title": "Nifty IT jumps 2%; Mphasis, Coforge, Infosys, TCS among top gainers - Reason behind the rally, Q2 results expectations",
+          "summary": "Despite a shaky market, the Nifty IT index rose over 2% intraday on October 1st, buoyed by a weaker rupee and positive forecasts from major financial firms, with Mphasis, Coforge, and Infosys leading the charge.",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-it-jumps-2-mphasis-coforge-infosys-tcs-among-top-gainers-reason-behind-the-rally-q2-results-expectations-11790839248589.html",
+          "source": "livemint",
+          "pubDate": "2026-10-01T13:31:45+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Nifty IT defies market weakness, rises 2%; Mphasis, Coforge, TCS lead",
+          "summary": "The Nifty IT index advanced 2.1 per cent during intra-day deals, with nine out of ten constituent stocks of the index trading in the green.",
+          "link": "https://www.business-standard.com/markets/news/nifty-it-defies-market-weakness-rises-2-mphasis-coforge-tcs-lead-126100100335_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-01T11:10:25+05:30",
           "sentiment": {
             "label": "Neutral",
-            "score": 0
+            "score": 0.0
           }
         }
       ]
@@ -1000,6 +956,28 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Jatin Gedia bullish on JSW Infra, Varroc Engg; flags caution on PowerGrid",
+          "summary": "On the broader market outlook, Jatin Gedia of Teji Mandi expects the Nifty to consolidate within 22,500-22,800 band for now.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-jatin-gedia-bullish-on-jsw-infra-varroc-engg-flags-caution-on-powergrid-126100100098_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-01T07:52:29+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Sona BLW, JSW Infra among 3 stock ideas by Bonanza; check key levels here",
+          "summary": "Stocks to buy today: Kunal Kamble, technical analyst at Bonanza Sona BLW stock has broken out of the falling channel that capped the price movement through August and September.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-sona-blw-jsw-infra-among-3-stock-ideas-by-bonanza-check-key-levels-here-126100100096_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-01T07:43:19+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
