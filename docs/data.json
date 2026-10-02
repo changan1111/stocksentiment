@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-02T09:18:52.655133+00:00",
+  "fetchedAt": "2026-10-02T18:11:59.313349+00:00",
   "tickerCount": 32,
-  "articleCount": 106,
+  "articleCount": 107,
   "overview": {
     "positive": 14,
     "negative": 29,
-    "neutral": 63
+    "neutral": 64
   },
   "stocks": [
     {
@@ -348,6 +348,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding allotment of 400000 securities pursuant to ESOP/ESPS at its meeting held on October 02, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-02T23:16:35+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Persistent Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
