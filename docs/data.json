@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-05T09:58:37.409004+00:00",
+  "fetchedAt": "2026-10-05T21:02:18.807985+00:00",
   "tickerCount": 32,
   "articleCount": 113,
   "overview": {
-    "positive": 18,
+    "positive": 16,
     "negative": 30,
-    "neutral": 65
+    "neutral": 67
   },
   "stocks": [
     {
@@ -360,6 +360,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Proceedings of Extraordinary General Meeting held on October 05, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-05T19:21:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Persistent Systems Limited has informed the Exchange regarding allotment of 400000 securities pursuant to ESOP/ESPS at its meeting held on October 02, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -449,7 +460,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "How AI is impacting CCTV Stocks: Upper circuit — Check CP Plus brand Aditya Infotech, Prizor Viztech one-year returns",
+          "summary": "Experts believe growin AI theme is trickling down into the CC TV market companies and their stock performance",
+          "link": "https://www.livemint.com/market/stock-market-news/how-ai-is-impacting-cctv-stocks-upper-circuit-check-cp-plus-brand-aditya-infotech-prizor-viztech-one-year-returns-11791196080142.html",
+          "source": "livemint",
+          "pubDate": "2026-10-05T16:32:44+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -498,17 +521,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -626,17 +638,6 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Honda targets 20% cost cuts, faster car development in India with Tata Technologies: Report",
-          "summary": "Honda Motor aims to decrease costs and development times by outsourcing vehicle production to Tata Technologies in India. The partnership is expected to lead to significant savings of up to 20% and shorter development timelines. Honda is currently fa…",
-          "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/honda-targets-20-cost-cuts-faster-car-development-in-india-with-tata-technologies-report/articleshow/134688084.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-05T11:48:06+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] News Verification",
           "summary": "The Exchange has sought clarification from Tata Technologies Limited with respect to recent news item captioned Why are Tata group stocks falling today? TTML, Tata Chem, TMPV dip up to 5%.  The respon",
@@ -1070,6 +1071,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding a press release dated October 05, 2026, titled \"Step into the castle The Traitors: Interactive Game is out now on iOS and Android\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-05T17:37:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Nazara Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1109,17 +1121,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "50% up in 2026! Netweb Technologies share price rises 4% | Is it time to book profits?",
-          "summary": "Netweb Technologies shares opened at  ₹4,543 per share today, as compared to previous close of  ₹4,520.30 on Thursday and touched an intraday high of  ₹4,697 on 5 October.",
-          "link": "https://www.livemint.com/market/stock-market-news/50-up-in-2026-netweb-technologies-share-price-rises-4-is-it-time-to-book-profits-11791175724516.html",
-          "source": "livemint",
-          "pubDate": "2026-10-05T11:49:53+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
