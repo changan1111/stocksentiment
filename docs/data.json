@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-06T09:44:52.304649+00:00",
+  "fetchedAt": "2026-10-06T18:45:42.438350+00:00",
   "tickerCount": 32,
-  "articleCount": 116,
+  "articleCount": 114,
   "overview": {
-    "positive": 18,
+    "positive": 17,
     "negative": 34,
-    "neutral": 64
+    "neutral": 63
   },
   "stocks": [
     {
@@ -360,11 +360,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Proceedings of Extraordinary General Meeting held on October 05, 2026",
+          "title": "[NSE] Amendment to AOA/MOA",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-05T19:21:09+00:00",
+          "pubDate": "2026-10-06T21:54:06+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding voting results of  Extraordinary General Meeting held on October 05, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T21:36:33+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -376,28 +387,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-02T23:16:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T19:41:40+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T19:18:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -460,7 +449,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "HFCL among 4 stocks hitting 52-week highs; rallied up to 15% in a month",
+          "summary": "HFCL, Aether Industries, Aditya Infotech and BHEL hit fresh 52-week highs, with the four stocks gaining up to 14% over the past month.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-4-stocks-hitting-52-week-highs-rallied-up-to-15-in-a-month/slideshow/134740315.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-06T17:39:56+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -509,17 +510,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -695,6 +685,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "E2E Networks Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participant) Regulations, 2018 for the Quarter ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T16:01:42+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "E2E Networks Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -725,17 +726,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-06T13:22:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -859,6 +849,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T15:53:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "This has reference to our letter No. SECY/GRSE/BD-69/CA/25/26-27 dated 03 Sep2026 on the subject matter of 'Intimation of 110th Annual General Meeting, Book Closure andDividend'.In this regard, please",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -889,17 +890,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "This disclosure is in continuation to the disclosure filed by the Company on 24 Aug 2026 regarding Capacity Expansion through three new facilities including Raichak.In terms of Regulation 30 and other",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-21T18:27:48+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1165,17 +1155,6 @@
           }
         },
         {
-          "title": "Netweb Technologies among 3 stocks showing White Marubozu Pattern",
-          "summary": "Three Nifty500 stocks gained over 5% on October 5 and featured on StockEdge’s White Marubozu bullish scanner, signalling strong upward price momentum during the session.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/134721898.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-06T08:41:17+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1335,6 +1314,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Acquisition",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Update on Acquisition.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T20:03:00+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Amalgamation/Merger",
           "summary": "TVS Supply Chain Solutions Limited has informed the Stock exchanges that the Hon'ble National Company Law Tribunal, Bengaluru Bench has Sanctioned the Scheme of Amalgamation.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1373,17 +1363,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-08-24T09:50:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange regarding Unaudited Standalone and Consolidated Financial Results in Machine Readable Format For the quarter ended June 30,2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-21T16:12:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
