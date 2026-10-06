@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-05T21:02:18.807985+00:00",
+  "fetchedAt": "2026-10-06T09:44:52.304649+00:00",
   "tickerCount": 32,
-  "articleCount": 113,
+  "articleCount": 116,
   "overview": {
-    "positive": 16,
-    "negative": 30,
-    "neutral": 67
+    "positive": 18,
+    "negative": 34,
+    "neutral": 64
   },
   "stocks": [
     {
@@ -127,6 +127,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T13:29:37+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding votin",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -158,17 +169,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Arrangements for strategic, technical, manufacturing, or marketing tie up",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Signing of Joint Venture Agreement with Bharat Heavy Electricals Ltd",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-15T16:21:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -177,6 +177,17 @@
       "name": "Axiscades Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Acquisition",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a Subsidiary Company",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T13:57:25+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"AXISCADES Initiates Voluntary Solvent Liquidation of German Subsidiary add-solution G",
@@ -219,17 +230,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T18:21:46+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -460,19 +460,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "How AI is impacting CCTV Stocks: Upper circuit — Check CP Plus brand Aditya Infotech, Prizor Viztech one-year returns",
-          "summary": "Experts believe growin AI theme is trickling down into the CC TV market companies and their stock performance",
-          "link": "https://www.livemint.com/market/stock-market-news/how-ai-is-impacting-cctv-stocks-upper-circuit-check-cp-plus-brand-aditya-infotech-prizor-viztech-one-year-returns-11791196080142.html",
-          "source": "livemint",
-          "pubDate": "2026-10-05T16:32:44+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -521,6 +509,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -798,6 +797,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "MFs kept buying these 10 microcaps for 2 straight quarters; stocks surge up to 70% in 3 months",
+          "summary": "Mutual funds increased holdings in 64 Nifty Microcap 250 companies for two consecutive quarters. Ten microcap stocks gained 25%-68% in three months, led by Electronics Mart India, Sky Gold, Bluestone Jewellery, Sudarshan Chemical and Timex Group, hig…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-10-microcaps-for-2-straight-quarters-stocks-surge-up-to-70-in-3-months/slideshow/134730010.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-06T13:52:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Electronics Mart India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -962,6 +972,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations 2018 for the quarter ended 30\" September, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T13:43:08+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "IKIO Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -990,6 +1011,17 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T12:36:13+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Credit Rating- Others",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Credit Rating- Others",
@@ -1122,6 +1154,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T14:02:52+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "Netweb Technologies among 3 stocks showing White Marubozu Pattern",
+          "summary": "Three Nifty500 stocks gained over 5% on October 5 and featured on StockEdge’s White Marubozu bullish scanner, signalling strong upward price momentum during the session.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/134721898.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-06T08:41:17+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1153,17 +1207,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-18T16:40:00+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1172,17 +1215,6 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Power &amp; Electrical Equipment stocks rise | What’s driving CESC, TD Power, RR Kabel Transformers &amp; Rectifiers?",
-          "summary": "Shares of CESC, Transformers &amp;amp; Rectifiers, RR Kabel, PG Electroplast, and TD Power Systems rose on Monday, driven by company-specific developments and broader market recovery. Key movers include TD Power Systems and Transformers &amp;amp; Rec…",
-          "link": "https://www.livemint.com/market/stock-market-news/power-stocks-surge-what-s-behind-cesc-transformers-rectifiers-rr-kabel-pg-electroplast-td-power-systems-rally-11791190120645.html",
-          "source": "livemint",
-          "pubDate": "2026-10-05T14:46:24+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Shareholders meeting",
           "summary": "PG Electroplast Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting resu",
@@ -1427,6 +1459,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Zen Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-06T13:13:12+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1454,17 +1497,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-01T16:16:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Zen Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-27T12:01:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
