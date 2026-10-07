@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-06T18:45:42.438350+00:00",
+  "fetchedAt": "2026-10-07T09:44:11.725337+00:00",
   "tickerCount": 32,
-  "articleCount": 114,
+  "articleCount": 113,
   "overview": {
-    "positive": 17,
-    "negative": 34,
-    "neutral": 63
+    "positive": 16,
+    "negative": 36,
+    "neutral": 61
   },
   "stocks": [
     {
@@ -291,6 +291,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T10:46:17+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "Rashi Peripherals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -318,17 +329,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-04T12:10:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Intimation Regarding Completion/Closure Of The Business Transfer Agreement.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T17:49:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -560,6 +560,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Agreements",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technolo",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T15:01:51+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -601,17 +612,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Dixon Technologies (India) Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange regarding ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-29T17:38:55+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -787,17 +787,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "MFs kept buying these 10 microcaps for 2 straight quarters; stocks surge up to 70% in 3 months",
-          "summary": "Mutual funds increased holdings in 64 Nifty Microcap 250 companies for two consecutive quarters. Ten microcap stocks gained 25%-68% in three months, led by Electronics Mart India, Sky Gold, Bluestone Jewellery, Sudarshan Chemical and Timex Group, hig…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-10-microcaps-for-2-straight-quarters-stocks-surge-up-to-70-in-3-months/slideshow/134730010.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-06T13:52:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Trading Window",
           "summary": "Electronics Mart India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -900,6 +889,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for quarter and half year ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T11:52:19+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -938,17 +938,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-22T11:43:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-17T14:13:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
