@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-07T09:44:11.725337+00:00",
+  "fetchedAt": "2026-10-07T19:11:47.273939+00:00",
   "tickerCount": 32,
-  "articleCount": 113,
+  "articleCount": 116,
   "overview": {
-    "positive": 16,
-    "negative": 36,
-    "neutral": 61
+    "positive": 17,
+    "negative": 39,
+    "neutral": 60
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T17:09:06+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"Jupiter Wagons wins 41 MW/102.5 MWh BESS project in Uttarakhand; receives Letter of Award for",
@@ -65,6 +76,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T16:14:32+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of order worth Rs. 3.65 Crores (incl. taxes) from West Central Railway",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -106,17 +128,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Texmaco Rail & Engineering Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-19T17:44:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -449,19 +460,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "HFCL among 4 stocks hitting 52-week highs; rallied up to 15% in a month",
-          "summary": "HFCL, Aether Industries, Aditya Infotech and BHEL hit fresh 52-week highs, with the four stocks gaining up to 14% over the past month.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-4-stocks-hitting-52-week-highs-rallied-up-to-15-in-a-month/slideshow/134740315.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-06T17:39:56+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -560,6 +559,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Top stocks in focus today: Investors must watch Tata Power, Senco Gold, Dixon Tech shares on Thu, 8 Oct | Triggers",
+          "summary": "Indian stock market investors are set to monitor key companies on October 8, including Tata Power, Senco Gold, and Fino Payments Bank, due to significant order wins and business updates. Various firms are expected to draw attention amid ongoing marke…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-tata-power-senco-gold-dixon-tech-shares-on-thu-8-oct-triggers-11791383936715.html",
+          "source": "livemint",
+          "pubDate": "2026-10-07T20:32:01+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Agreements",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technolo",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -568,6 +578,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Dixon Technologies signs JV pact with Gemtek to manufacture optical transceivers",
+          "summary": "Dixon Technologies India Ltd has entered a joint venture with Gemtek Technology Co to produce telecom products. This joint venture, named Dixon Electroconnect Pvt Ltd, will give Dixon a 60 percent stake. The partnership aims to combine manufacturing …",
+          "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/dixon-technologies-signs-jv-pact-with-gemtek-to-manufacture-optical-transceivers/articleshow/134763303.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-07T16:02:19+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -628,6 +649,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Tata Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T16:57:49+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] News Verification",
           "summary": "The Exchange has sought clarification from Tata Technologies Limited with respect to recent news item captioned Why are Tata group stocks falling today? TTML, Tata Chem, TMPV dip up to 5%.  The respon",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -658,17 +690,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Tata Technologies Limited has informed the Exchange about Copy of Newspaper Publication - Notice to shareholders regarding transfer of equity shares of the Company to Investor Education and Protection",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-22T14:02:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -838,6 +859,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Structural Digital Database",
+          "summary": "Pursuant to the provisions of Regulation 3(5) and 3(6) of Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 (PIT Regulations), we are submitting herewith the Co",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T15:46:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "We are submitting herewith the Compliance Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 received from M/s. Alankit Assignments Limited, the Registrar",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T15:42:12+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -857,28 +900,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "Pursuant to Regulation 30 of SEBI (Listing Obligation & Disclosure Requirements) Regulations, 2015, we hereby informed that the Comptroller & Auditor General of India vide its letter No./CA. V/ COY/CE",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-25T13:32:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-24T14:12:18+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1426,6 +1447,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 2000  Options.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-07T23:47:04+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Zen Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
