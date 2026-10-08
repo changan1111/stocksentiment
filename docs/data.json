@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-08T09:54:45.859032+00:00",
+  "fetchedAt": "2026-10-08T19:08:12.061030+00:00",
   "tickerCount": 32,
-  "articleCount": 116,
+  "articleCount": 117,
   "overview": {
-    "positive": 16,
-    "negative": 39,
-    "neutral": 61
+    "positive": 15,
+    "negative": 38,
+    "neutral": 64
   },
   "stocks": [
     {
@@ -252,13 +252,24 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'Disclosures under Reg 29(2) of SEBI (SAST) Regulations, 2011'.",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Clarification on the Disclosure made on September 03, 2026 regarding appointment and re-appointment of Directors of the Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-01T13:04:44+00:00",
+          "pubDate": "2026-10-08T18:36:30+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Agreements",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Execution of Lease Agreement with State Industries Promotion Corporation of Tamil Nadu Limited ( SIPCOT ).",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-08T18:04:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -281,17 +292,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated September 30, 2026, titled \"Clarification on Media Reports regarding Proposed Stake Sale by Mr. Bhaskar Srinivasan",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T11:02:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -370,6 +370,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Corrigendum",
+          "summary": "Corrigendum to our earlier letter under Ref. no. NSE & BSE / 2026-27 / 143 dated September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-08T17:20:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Schedule of meet",
@@ -510,17 +521,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -569,17 +569,6 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Lava, Optiemus among firms eyeing smartphone brand incentives",
-          "summary": "Companies said to be seeking Meity’s incentives include electronics manufacturers Dixon Technologies and Optiemus Infracom, and electronics brands Lava, Mivi, Boltt and CMF.",
-          "link": "https://www.livemint.com/companies/lava-optiemus-among-firms-eyeing-smartphone-brand-incentives-11791367724039.html",
-          "source": "livemint",
-          "pubDate": "2026-10-08T06:00:02+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
         {
           "title": "[NSE] Agreements",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technolo",
@@ -633,6 +622,17 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
+          }
+        },
+        {
+          "title": "Lava, Optiemus among firms eyeing smartphone brand incentives",
+          "summary": "Companies said to be seeking Meity’s incentives include electronics manufacturers Dixon Technologies and Optiemus Infracom, and electronics brands Lava, Mivi, Boltt and CMF.",
+          "link": "https://www.livemint.com/companies/lava-optiemus-among-firms-eyeing-smartphone-brand-incentives-11791367724039.html",
+          "source": "livemint",
+          "pubDate": null,
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
           }
         }
       ]
@@ -971,6 +971,17 @@
       "name": "IKIO Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of Securities and Exchange Board of India (LODR) Regulations, 2015   Execution of Vendor Exclusivity Under",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-08T16:25:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "IKIO Technologies Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations 2018 for the quarter ended 30\" September, 2026",
