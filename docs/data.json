@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-08T19:08:12.061030+00:00",
+  "fetchedAt": "2026-10-09T09:58:41.307282+00:00",
   "tickerCount": 32,
-  "articleCount": 117,
+  "articleCount": 123,
   "overview": {
-    "positive": 15,
+    "positive": 21,
     "negative": 38,
     "neutral": 64
   },
@@ -353,6 +353,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Nifty IT becomes rocket! 3% up; Check TCS, Infosys, Wipro, Mphasis, HCL, Oracle, Tech Mahindra, Coforge performance",
+          "summary": "Nifty IT jumped over 3% in the morning trade, with TCS leading the charge, surging almost 6%. On Thursday, TCS reported Q2 revenue of  ₹73,188 crore, up 11.20% year-on-year (YoY). Consolidated net profit rose by 15% YoY to  ₹13,884 crore.",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-it-becomes-rocket-3-up-check-tcs-infosys-wipro-mphasis-hcl-oracle-tech-mahindra-coforge-performance-11791520174506.html",
+          "source": "livemint",
+          "pubDate": "2026-10-09T10:13:14+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Infosys, TCS, Wipro and other IT stocks rise up to 4%. Here are 3 important triggers to watch",
+          "summary": "IT stocks including TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Coforge and Persistent Systems rose up to 4% on Friday. The gains came amid a confluence of factors, including second-quarter earnings and the US suspension of a certification programme…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-will-be-in-focus-on-friday-here-are-3-important-triggers-to-watch/articleshow/134805016.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-09T08:41:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \" Coforge Introduces Intent Engineering Framework to Help Enterprises Build Outcome-Aligned AI Agents",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -370,6 +392,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Infosys, TCS, Wipro and other IT stocks rise up to 4%. Here are 3 important triggers to watch",
+          "summary": "IT stocks including TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Coforge and Persistent Systems rose up to 4% on Friday. The gains came amid a confluence of factors, including second-quarter earnings and the US suspension of a certification programme…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-will-be-in-focus-on-friday-here-are-3-important-triggers-to-watch/articleshow/134805016.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-09T08:41:03+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Corrigendum",
           "summary": "Corrigendum to our earlier letter under Ref. no. NSE & BSE / 2026-27 / 143 dated September 30, 2026",
@@ -521,6 +554,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -569,6 +613,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Lava, Optiemus among firms eyeing smartphone brand incentives",
+          "summary": "Companies said to be seeking Meity’s incentives include electronics manufacturers Dixon Technologies and Optiemus Infracom, and electronics brands Lava, Mivi, Boltt and CMF.",
+          "link": "https://www.livemint.com/companies/lava-optiemus-among-firms-eyeing-smartphone-brand-incentives-11791367724039.html",
+          "source": "livemint",
+          "pubDate": "2026-10-08T06:00:02+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Agreements",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technolo",
@@ -623,17 +678,6 @@
             "label": "Negative",
             "score": -1.0
           }
-        },
-        {
-          "title": "Lava, Optiemus among firms eyeing smartphone brand incentives",
-          "summary": "Companies said to be seeking Meity’s incentives include electronics manufacturers Dixon Technologies and Optiemus Infracom, and electronics brands Lava, Mivi, Boltt and CMF.",
-          "link": "https://www.livemint.com/companies/lava-optiemus-among-firms-eyeing-smartphone-brand-incentives-11791367724039.html",
-          "source": "livemint",
-          "pubDate": null,
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -648,6 +692,17 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Tata Technologies stock jumps 30% in 6 months, up 6% today: Should you buy now? Check target, support levels",
+          "summary": "Tata Technologies shares rose 6% to  ₹736.50, rebounding from recent lows as investors watched key technical levels. Analysts see support around  ₹680–700 and resistance at  ₹776–800. The company also reported higher first-quarter revenue and profit.",
+          "link": "https://www.livemint.com/market/stock-market-news/tata-technologies-stock-jumps-30-in-6-months-up-6-today-should-you-buy-now-check-target-support-levels-11791525923370.html",
+          "source": "livemint",
+          "pubDate": "2026-10-09T11:56:39+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Tata Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
@@ -1396,6 +1451,17 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "6 Defence stocks turn multibaggers in H1 FY27, rally up to 600%",
+          "summary": "The Nifty India Defence index rallied 25% in H1 FY27 despite broader market volatility, with 10 defence stocks gaining 50% to 600%. Six stocks, led by Sigma Advanced Systems, Unimech Aerospace, and MTAR Technologies, turned multibaggers by more than …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-defence-stocks-turn-multibaggers-in-h1-fy27-rally-up-to-600/slideshow/134826395.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-09T14:03:53+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated October 01, 2026, titled \"Unimech Aerospace strengthens presence in Saudi Arabia s Oil & Gas marke",
