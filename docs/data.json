@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T10:03:40.545412+00:00",
+  "fetchedAt": "2026-10-13T19:44:12.409240+00:00",
   "tickerCount": 32,
-  "articleCount": 124,
+  "articleCount": 123,
   "overview": {
-    "positive": 20,
+    "positive": 18,
     "negative": 45,
-    "neutral": 59
+    "neutral": 60
   },
   "stocks": [
     {
@@ -473,11 +473,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Four stocks that saw a sharp rise in DII holding in September quarter",
-          "summary": "Spectrum Electrical, Meesho, Neogen Chemicals and Aditya Infotech drew higher domestic institutional ownership amid strong growth and expansion plans.",
-          "link": "https://www.livemint.com/market/stock-market-news/four-stocks-that-saw-a-sharp-rise-in-dii-holding-in-september-quarter-11791821897304.html",
-          "source": "livemint",
-          "pubDate": "2026-10-13T08:00:19+05:30",
+          "title": "Market Trading Guide: Balrampur Chini Mills among 4 stock recommendations for Wednesday",
+          "summary": "Balrampur Chini Mills, Cyient, Aditya Infotech and eClerx Services feature among four stock recommendations for Wednesday, with analysts outlining entry levels, stop losses and upside targets based on technical indicators.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-balrampur-chini-mills-among-4-stock-recommendations-for-wednesday/slideshow/134921277.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-13T20:36:53+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "PTC Industries among 4 stocks hitting 52-week highs; rally up to 15% in a month",
+          "summary": "Four BSE 500 stocks, including PTC Industries and Aditya Infotech, hit fresh 52-week highs as the Sensex rallied 1,109 points on Tuesday. The stocks have gained up to 14% over the past month, reflecting continued buying interest across select counter…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ptc-industries-among-4-stocks-hitting-52-week-highs-rally-up-to-15-in-a-month/slideshow/134919958.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-13T19:27:50+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -532,17 +543,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1131,6 +1131,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-13T21:20:01+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "KPIT Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1160,6 +1171,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Nazara Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-13T17:46:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech",
           "summary": "Tata Elxsi, Hero Motors, Anand Rathi Share and Stock Brokers, Den Networks, GTPL Hathway, PNB Gilts, ICICI Prudential Life Insurance will announce their quarterly earnings on October 13.",
           "link": "https://www.business-standard.com/markets/news/stocks-to-watch-hcltech-rbl-bank-ircon-tmpv-hero-motors-nazara-tech-126101300084_1.html",
@@ -1168,17 +1190,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Stocks in news: HCL Tech, RBL Bank, Nazara Tech, Hero Motors, Power Grid and IRCON",
-          "summary": "Indian stock markets struggled on Monday, as the Nifty 50 saw a considerable drop. The falls were attributed to increasing bond yields, consistent outflows from foreign institutional investors, and pervasive global concerns. Attention now shifts to f…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hcl-tech-rbl-bank-nazara-tech-hero-motors-power-grid-and-ircon/articleshow/134902392.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-13T06:00:00+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         },
         {
@@ -1215,17 +1226,6 @@
           }
         },
         {
-          "title": "[NSE] Change in Director(s)",
-          "summary": "Nazara Technologies Limited has informed the Exchange regarding Change in Director(s) of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-12T18:23:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "Nazara founder Nitish Mittersain steps down as MD after nearly 27 years",
           "summary": "Mittersain will become a non-executive director as Nazara reshuffles its leadership, appoints a new CFO and approves a ₹730.78 crore share allotment to five individuals",
           "link": "https://www.business-standard.com/companies/people/nazara-founder-nitish-mittersain-steps-down-as-md-after-nearly-27-years-126101201236_1.html",
@@ -1243,17 +1243,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Up 50% in 6 months, Netweb Technologies shares fall 5% today: Should you buy, sell, or hold? Experts suggest this",
-          "summary": "Netweb Technologies shares fell 5% after a three-session rally, but analysts say the long-term trend and momentum remain constructive. They identify support around  ₹4,700– ₹4,780 and resistance at  ₹5,100– ₹5,200; a break below  ₹4,700 could weaken …",
-          "link": "https://www.livemint.com/market/stock-market-news/up-50-in-6-months-netweb-technologies-shares-fall-5-today-should-you-buy-sell-or-hold-experts-suggest-this-11791870503737.html",
-          "source": "livemint",
-          "pubDate": "2026-10-13T11:55:01+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.2
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
