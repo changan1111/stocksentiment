@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-12T21:32:44.066583+00:00",
+  "fetchedAt": "2026-10-13T10:03:40.545412+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 124,
   "overview": {
-    "positive": 19,
-    "negative": 42,
-    "neutral": 61
+    "positive": 20,
+    "negative": 45,
+    "neutral": 59
   },
   "stocks": [
     {
@@ -371,22 +371,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Tech Picks: Trent, Physicswallah among 5 stocks to buy for up to 23% returns",
-          "summary": "In a recent trading session, the Indian stock market showed a mixed performance, with the Sensex falling while the Nifty posted minor gains. Analysts have identified five stocks worth considering for short-term investment: Persistent Systems, Physics…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-trent-physicswallah-among-5-stocks-to-buy-for-up-to-23-returns/slideshow/134883091.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-12T10:22:18+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Persistent to squeeze out existing Nagarro shareholders en route to become seventh-largest",
-          "summary": "Persistent Systems has crossed the 90% ownership threshold in Nagarro, giving it the right to squeeze out minority shareholders and complete a full takeover of the German IT firm.",
-          "link": "https://www.livemint.com/companies/persistent-to-squeeze-out-existing-nagarro-shareholders-en-route-to-become-seventhlargest-11791620781979.html",
-          "source": "livemint",
-          "pubDate": "2026-10-10T16:50:54+05:30",
+          "title": "[NSE] Press Release",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated October 13, 2026, titled \"Persistent Opens Third Hyderabad Facility to Strengthen AI and Modernization Delivery  \".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-13T14:55:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -420,28 +409,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-09T19:24:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated October 09, 2026, titled \"Persistent Secures Strong Majority Stake\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T19:00:33+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding 'Update on Voluntary Public Takeover Offer made by Persistent Systems Limited to the shareholders of Nagarro SE'.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T17:37:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -506,14 +473,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "PVR Inox among 4 stocks hitting 52-week highs; rallied up to 13% in a month",
-          "summary": "Four BSE 500 stocks, including PVR Inox, PTC Industries, Aditya Infotech and Laurus Labs, hit fresh 52-week highs despite a decline in benchmark Sensex, gaining up to 13% in a month.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-4-stocks-hitting-52-week-highs-rallied-up-to-13-in-a-month/slideshow/134893470.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-12T18:03:44+05:30",
+          "title": "Four stocks that saw a sharp rise in DII holding in September quarter",
+          "summary": "Spectrum Electrical, Meesho, Neogen Chemicals and Aditya Infotech drew higher domestic institutional ownership amid strong growth and expansion plans.",
+          "link": "https://www.livemint.com/market/stock-market-news/four-stocks-that-saw-a-sharp-rise-in-dii-holding-in-september-quarter-11791821897304.html",
+          "source": "livemint",
+          "pubDate": "2026-10-13T08:00:19+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -532,17 +499,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Sunil Singhania adds new stock to portfolio in Q2 after 140% rally; likely exits Cyient DLM",
-          "summary": "Veteran investor Sunil Singhania's Abakkus Flexi Cap Fund acquired a 1.15% stake in Aether Industries and raised its holdings in Heritage Foods during Q2 FY27. Meanwhile, the fund appears to have exited Cyient DLM as its holding dropped below 1% foll…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sunil-singhania-adds-new-stock-to-portfolio-in-q2-after-140-rally-likely-exits-cyient-dlm/articleshow/134889116.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-12T15:27:43+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.5
           }
         },
         {
@@ -576,6 +532,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -686,7 +653,19 @@
       "symbol": "QUADRANT.NS",
       "name": "Quadrant Future Tek",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "Cable & Wire stocks: Polycab, KEI, R R Kabel, Quadrant Future slip up to 5%",
+          "summary": "As of Tuesday, Polycab, KEI Industries, R R Kabel and Quadrant Future Tek were down up to 24% from their respective 52-week highs touched in September.",
+          "link": "https://www.business-standard.com/markets/news/cable-wire-stocks-polycab-kei-r-r-kabel-quadrant-future-slip-up-to-5-126101300557_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-13T14:03:58+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        }
+      ]
     },
     {
       "symbol": "TATATECH.NS",
@@ -751,6 +730,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Hitachi Energy, E2E Networks, Anant Raj, other AI-linked stocks slide up to 5% as global AI rout hits Indian markets",
+          "summary": "Indian AI- and energy-linked stocks decline as a global technology sell-off deepens, with South Korea’s KOSPI plunging amid intensifying competition in the AI sector. Investors reassess AI valuations following sharp losses in Asian semiconductor stoc…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-e2e-networks-anant-raj-other-ai-linked-stocks-slide-up-to-5-as-global-ai-rout-hits-indian-markets/articleshow/134913521.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-13T14:49:29+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "E2E Networks Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -813,6 +803,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "EPACK Durable Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-13T12:42:28+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Trading Window",
           "summary": "EPACK Durable Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -843,17 +844,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "EPACK Durable Limited has informed the Exchange that, pursuant to Regulation 36(1)(b) of the SEBI Listing Regulations, the Company has dispatched physical communication to shareholders who have not re",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-08-27T20:30:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         }
       ]
@@ -1170,6 +1160,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech",
+          "summary": "Tata Elxsi, Hero Motors, Anand Rathi Share and Stock Brokers, Den Networks, GTPL Hathway, PNB Gilts, ICICI Prudential Life Insurance will announce their quarterly earnings on October 13.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-hcltech-rbl-bank-ircon-tmpv-hero-motors-nazara-tech-126101300084_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-13T07:58:59+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks in news: HCL Tech, RBL Bank, Nazara Tech, Hero Motors, Power Grid and IRCON",
+          "summary": "Indian stock markets struggled on Monday, as the Nifty 50 saw a considerable drop. The falls were attributed to increasing bond yields, consistent outflows from foreign institutional investors, and pervasive global concerns. Attention now shifts to f…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hcl-tech-rbl-bank-nazara-tech-hero-motors-power-grid-and-ircon/articleshow/134902392.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-13T06:00:00+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 2,38,81,711 Equity Shares by way of Preferential issue on private placement basis at its meeting held on October 12, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1231,6 +1243,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Up 50% in 6 months, Netweb Technologies shares fall 5% today: Should you buy, sell, or hold? Experts suggest this",
+          "summary": "Netweb Technologies shares fell 5% after a three-session rally, but analysts say the long-term trend and momentum remain constructive. They identify support around  ₹4,700– ₹4,780 and resistance at  ₹5,100– ₹5,200; a break below  ₹4,700 could weaken …",
+          "link": "https://www.livemint.com/market/stock-market-news/up-50-in-6-months-netweb-technologies-shares-fall-5-today-should-you-buy-sell-or-hold-experts-suggest-this-11791870503737.html",
+          "source": "livemint",
+          "pubDate": "2026-10-13T11:55:01+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.2
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
