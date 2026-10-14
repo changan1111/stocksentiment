@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T08:21:31.351465+00:00",
+  "fetchedAt": "2026-10-14T14:18:59.922457+00:00",
   "tickerCount": 32,
-  "articleCount": 124,
+  "articleCount": 128,
   "overview": {
-    "positive": 18,
-    "negative": 45,
-    "neutral": 61
+    "positive": 22,
+    "negative": 44,
+    "neutral": 62
   },
   "stocks": [
     {
@@ -251,6 +251,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'ESG Rating'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T18:29:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Avalon Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -262,33 +273,11 @@
           }
         },
         {
-          "title": "[NSE] Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding Clarification on the Disclosure made on September 03, 2026 regarding appointment and re-appointment of Directors of the Company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-08T18:36:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Agreements",
           "summary": "Avalon Technologies Limited has informed the Exchange about Execution of Lease Agreement with State Industries Promotion Corporation of Tamil Nadu Limited ( SIPCOT ).",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-08T18:04:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Avalon Technologies Limited has submitted the Exchange a copy of the Scrutinizer's report of the 27th Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T19:12:46+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -352,6 +341,17 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Coforge Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T14:04:58+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \" Coforge Introduces Intent Engineering Framework to Help Enterprises Build Outcome-Aligned AI Agents",
@@ -473,6 +473,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
+          "summary": "Seven BSE 1000 stocks touched fresh 52-week highs despite the Sensex closing lower on Wednesday. West Coast Paper Mills led the list with a 32% monthly gain, followed by Dynamatic Technologies, Cyient DLM and Aditya Infotech.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-14T17:35:40+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "Market Trading Guide: Balrampur Chini Mills among 4 stock recommendations for Wednesday",
           "summary": "Balrampur Chini Mills, Cyient, Aditya Infotech and eClerx Services feature among four stock recommendations for Wednesday, with analysts outlining entry levels, stop losses and upside targets based on technical indicators.",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-balrampur-chini-mills-among-4-stock-recommendations-for-wednesday/slideshow/134921277.cms",
@@ -501,6 +512,17 @@
       "name": "Cyient DLM",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
+          "summary": "Seven BSE 1000 stocks touched fresh 52-week highs despite the Sensex closing lower on Wednesday. West Coast Paper Mills led the list with a 32% monthly gain, followed by Dynamatic Technologies, Cyient DLM and Aditya Infotech.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-14T17:35:40+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
@@ -615,6 +637,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange ESG Rating by Crisil ESG Ratings & Analystics Ltd.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T18:25:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investor Meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -646,17 +679,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Execution of Intellectual Property License Agreement between Dixon Electro Appliances Private Limited,  a Subsidiary / Joint Venture ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T14:45:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -664,19 +686,7 @@
       "symbol": "QUADRANT.NS",
       "name": "Quadrant Future Tek",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Cable & Wire stocks: Polycab, KEI, R R Kabel, Quadrant Future slip up to 5%",
-          "summary": "As of Tuesday, Polycab, KEI Industries, R R Kabel and Quadrant Future Tek were down up to 24% from their respective 52-week highs touched in September.",
-          "link": "https://www.business-standard.com/markets/news/cable-wire-stocks-polycab-kei-r-r-kabel-quadrant-future-slip-up-to-5-126101300557_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-13T14:03:58+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "TATATECH.NS",
@@ -684,11 +694,66 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Tata Technologies Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T16:30:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Tata Technologies Limited has informed the Exchange regarding a press release dated October 14, 2026, titled \"Unaudited Standalone and Consolidated Financial Results for the quarter and half year ende",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T16:28:21+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Tata Technologies Limited has submitted to the Exchange, the Outcome of Board Meeting for Unaudited Standalone and Consolidated Financial Results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T16:09:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Tata Technologies Q2 results: Profit rises 4% YoY to Rs 171 crore; revenue jumps 28%",
+          "summary": "Tata Technologies has reported an 4% increase in profits year-on-year for the second quarter of FY27, with its operating revenue soaring 28% to Rs 1,699 crore. The net income for this quarter stood at Rs 171 crore, indicating a healthy growth. Additi…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q2-results-profit-rises-4-yoy-to-rs-171-crore-revenue-jumps-28/articleshow/134939893.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-14T16:59:25+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Q2 Earnings Results Live Updates: Tata Technologies Q2 profit rises 4% YoY to Rs 171.4 crore, revenue rises 28.4% YoY to Rs 1,698 crore",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/tata-tech-groww-q2-results-fy27-bhel-canara-bank-tata-technologies-earnings-dividend-2026-share-price-updates/liveblog/134933806.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-14T11:13:38+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "Q2 results today: BHEL, Canara Bank, Groww, 24 others to report earnings",
           "summary": "Q2FY27 results today: Aditya Birla Money, Elecon Engineering Company, Emmvee Photovoltaic Power, Tata Technologies and Groww will announce their quarterly results today",
           "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-today-bhel-canara-bank-groww-24-others-to-report-earnings-126101400177_1.html",
           "source": "business-standard",
-          "pubDate": "2026-10-14T09:22:11+05:30",
+          "pubDate": "2026-10-14T09:22:36+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -726,28 +791,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Analyst / Institutional Investor(s) Meeting scheduled on Wednesday, 14th October 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T14:53:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Tata Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-22T15:48:15+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -762,17 +805,6 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Hitachi Energy, E2E Networks, Anant Raj, other AI-linked stocks slide up to 5% as global AI rout hits Indian markets",
-          "summary": "Indian AI- and energy-linked stocks decline as a global technology sell-off deepens, with South Korea’s KOSPI plunging amid intensifying competition in the AI sector. Investors reassess AI valuations following sharp losses in Asian semiconductor stoc…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-e2e-networks-anant-raj-other-ai-linked-stocks-slide-up-to-5-as-global-ai-rout-hits-indian-markets/articleshow/134913521.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-13T14:49:29+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
         {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "E2E Networks Limited has informed the Exchange about Resignation of Director/KMP/SMP",
@@ -1163,6 +1195,17 @@
       "name": "KPIT Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "10 Nifty500 stocks that have fallen up to 58% in a year",
+          "summary": "Ten Nifty 500 stocks have fallen between 47% and 58% over the past year, significantly underperforming the broader market. KEC International, Reliance Power and KPIT Technologies lead the list of laggards, as nearly 50 stocks in the index have declin…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty500-stocks-that-have-fallen-up-to-58-in-a-year/slideshow/134939701.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-14T16:03:42+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
