@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T19:44:12.409240+00:00",
+  "fetchedAt": "2026-10-14T08:21:31.351465+00:00",
   "tickerCount": 32,
-  "articleCount": 123,
+  "articleCount": 124,
   "overview": {
     "positive": 18,
     "negative": 45,
-    "neutral": 60
+    "neutral": 61
   },
   "stocks": [
     {
@@ -544,6 +544,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -672,6 +683,28 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Q2 results today: BHEL, Canara Bank, Groww, 24 others to report earnings",
+          "summary": "Q2FY27 results today: Aditya Birla Money, Elecon Engineering Company, Emmvee Photovoltaic Power, Tata Technologies and Groww will announce their quarterly results today",
+          "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-today-bhel-canara-bank-groww-24-others-to-report-earnings-126101400177_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-14T09:22:11+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks to watch: Hyundai, Tata Elxsi, BHEL, HDB Fin, Adani Enterprises",
+          "summary": "HDB Financial Services, Groww, BHEL, Tata Technologies, and Bajaj Consumer are among the companies that will report their Q2FY27 results on Wednesday.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-hyundai-tata-elxsi-bhel-hdb-fin-adani-enterprises-126101400117_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-14T07:52:30+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Tata Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
@@ -1069,6 +1102,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T12:56:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1110,17 +1154,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating- Revision",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about revision in Credit Rating of one of the subsidiary company- JSW Dharamtar Port Private Limited.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-23T16:26:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1182,17 +1215,6 @@
           }
         },
         {
-          "title": "Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech",
-          "summary": "Tata Elxsi, Hero Motors, Anand Rathi Share and Stock Brokers, Den Networks, GTPL Hathway, PNB Gilts, ICICI Prudential Life Insurance will announce their quarterly earnings on October 13.",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-hcltech-rbl-bank-ircon-tmpv-hero-motors-nazara-tech-126101300084_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-13T07:58:59+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 2,38,81,711 Equity Shares by way of Preferential issue on private placement basis at its meeting held on October 12, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1223,17 +1245,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Nazara founder Nitish Mittersain steps down as MD after nearly 27 years",
-          "summary": "Mittersain will become a non-executive director as Nazara reshuffles its leadership, appoints a new CFO and approves a ₹730.78 crore share allotment to five individuals",
-          "link": "https://www.business-standard.com/companies/people/nazara-founder-nitish-mittersain-steps-down-as-md-after-nearly-27-years-126101201236_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-12T20:51:03+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
