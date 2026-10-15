@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T14:18:59.922457+00:00",
+  "fetchedAt": "2026-10-15T07:58:27.481823+00:00",
   "tickerCount": 32,
-  "articleCount": 128,
+  "articleCount": 127,
   "overview": {
-    "positive": 22,
+    "positive": 20,
     "negative": 44,
-    "neutral": 62
+    "neutral": 63
   },
   "stocks": [
     {
@@ -189,6 +189,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"AXISCADES  XIDA to acquire Silicon Valley-based ITSJ business   a ready-made US base ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-15T09:12:40+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Acquisition",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Update on  Acquisition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T23:35:50+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -197,50 +219,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a Subsidiary Company",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-06T13:57:25+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"AXISCADES Initiates Voluntary Solvent Liquidation of German Subsidiary add-solution G",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-05T09:51:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-03T21:28:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Sale or disposal",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Update on Restructuring.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-01T20:22:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -371,6 +349,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T20:03:57+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated October 13, 2026, titled \"Persistent Opens Third Hyderabad Facility to Strengthen AI and Modernization Delivery  \".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -478,28 +467,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
           "source": "economictimes.indiatimes",
           "pubDate": "2026-10-14T17:35:40+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Market Trading Guide: Balrampur Chini Mills among 4 stock recommendations for Wednesday",
-          "summary": "Balrampur Chini Mills, Cyient, Aditya Infotech and eClerx Services feature among four stock recommendations for Wednesday, with analysts outlining entry levels, stop losses and upside targets based on technical indicators.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-balrampur-chini-mills-among-4-stock-recommendations-for-wednesday/slideshow/134921277.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-13T20:36:53+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "PTC Industries among 4 stocks hitting 52-week highs; rally up to 15% in a month",
-          "summary": "Four BSE 500 stocks, including PTC Industries and Aditya Infotech, hit fresh 52-week highs as the Sensex rallied 1,109 points on Tuesday. The stocks have gained up to 14% over the past month, reflecting continued buying interest across select counter…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ptc-industries-among-4-stocks-hitting-52-week-highs-rally-up-to-15-in-a-month/slideshow/134919958.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-13T19:27:50+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -694,6 +661,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Tata Technologies Limited has informed the Exchange about Copy of Newspaper Publication-Unaudited Financial Results for quarter and half year ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-15T11:35:17+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Tata Tech shares rally 8% after Q2 results, but Goldman Sachs and JM Financial stay bearish. Here's why",
+          "summary": "Tata Technologies shares surged after reporting a 4% YoY rise in Q2 net profit to Rs 171 crore. Revenue grew 28% to Rs 1,699 crore, led by a 34% jump in services revenue to Rs 1,356 crore. EBITDA rose 32% to Rs 273 crore, with margins expanding 40 bp…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-tech-shares-rally-8-after-q2-results-but-goldman-sachs-and-jm-financial-stay-bearish-heres-why/articleshow/134957050.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-15T09:34:35+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.714
+          }
+        },
+        {
+          "title": "Top stocks to watch today: Reliance Industries, IDBI Bank, Wipro shares in focus on Thursday, 15 Oct | Full list",
+          "summary": "Top stocks to watch: Reliance Industries, IDBI Bank, Wipro, Nestle India, Tata Technologies, Jio Financial Services, HDB Financial Services are among the shares that will remain in focus on Thursday.",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-industries-idbi-bank-wipro-shares-in-focus-on-thursday-15-oct-full-list-11792027834869.html",
+          "source": "livemint",
+          "pubDate": "2026-10-15T07:31:09+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Tata Technologies Limited has informed the Exchange about Audio recording of the earnings conference call on Unaudited Standalone and Consolidated Financial Results for quarter and half year ended Sep",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T22:14:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Tata Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -727,28 +738,6 @@
           }
         },
         {
-          "title": "Tata Technologies Q2 results: Profit rises 4% YoY to Rs 171 crore; revenue jumps 28%",
-          "summary": "Tata Technologies has reported an 4% increase in profits year-on-year for the second quarter of FY27, with its operating revenue soaring 28% to Rs 1,699 crore. The net income for this quarter stood at Rs 171 crore, indicating a healthy growth. Additi…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q2-results-profit-rises-4-yoy-to-rs-171-crore-revenue-jumps-28/articleshow/134939893.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-14T16:59:25+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Q2 Earnings Results Live Updates: Tata Technologies Q2 profit rises 4% YoY to Rs 171.4 crore, revenue rises 28.4% YoY to Rs 1,698 crore",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/tata-tech-groww-q2-results-fy27-bhel-canara-bank-tata-technologies-earnings-dividend-2026-share-price-updates/liveblog/134933806.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-14T11:13:38+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "Q2 results today: BHEL, Canara Bank, Groww, 24 others to report earnings",
           "summary": "Q2FY27 results today: Aditya Birla Money, Elecon Engineering Company, Emmvee Photovoltaic Power, Tata Technologies and Groww will announce their quarterly results today",
           "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-today-bhel-canara-bank-groww-24-others-to-report-earnings-126101400177_1.html",
@@ -757,39 +746,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "Stocks to watch: Hyundai, Tata Elxsi, BHEL, HDB Fin, Adani Enterprises",
-          "summary": "HDB Financial Services, Groww, BHEL, Tata Technologies, and Bajaj Consumer are among the companies that will report their Q2FY27 results on Wednesday.",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-hyundai-tata-elxsi-bhel-hdb-fin-adani-enterprises-126101400117_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-14T07:52:30+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Tata Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-07T16:57:49+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] News Verification",
-          "summary": "The Exchange has sought clarification from Tata Technologies Limited with respect to recent news item captioned Why are Tata group stocks falling today? TTML, Tata Chem, TMPV dip up to 5%.  The respon",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T10:44:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1021,6 +977,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-15T10:28:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Resignation",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding Resignation of Mr Nilesh Ranj as Company Secretary & Compliance Officer of the company w.e.f. December 25, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-14T20:39:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Agreements",
           "summary": "Ideaforge Technology Limited has entered into loan agreement dated October 09, 2026, with Technology Development Board for availing loan of Rs. 151 Crores (One Hundred and Fifty-One Crores) in tranche",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1051,28 +1029,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T15:33:47+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-25T10:36:06+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1298,6 +1254,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Smallcap stocks under pressure; Sterlite, MTAR, HFCL, Netweb slide 5%",
+          "summary": "At 10:04 AM on Thursday, the Nifty Smallcap 100 index was down 0.86% at 19,218, as compared to a 1% rally in the Nifty 50.",
+          "link": "https://www.business-standard.com/markets/news/smallcap-stocks-under-pressure-sterlite-mtar-hfcl-netweb-slide-5-126101500321_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-15T11:04:49+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1406,6 +1373,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "summary": "Saksoft Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-15T13:13:03+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Saksoft Limited has informed the Exchange about Shareholders meeting- Postal Ballot",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-15T12:51:17+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Amalgamation/Merger",
           "summary": "Saksoft Limited has informed the Exchange about Amalgamation/Merger",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1436,17 +1425,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Saksoft Limited has informed the Exchange regarding Outcome of Board Meeting held on September 28, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T14:23:56+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1518,6 +1496,17 @@
       "name": "Unimech Aerospace",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Ready for take-off? Analysts map the flight path for India's aerospace stocks",
+          "summary": "India's aerospace sector is poised for multi-year growth, driven by rising aircraft production, defence spending, exports and global supply-chain diversification. Analysts highlight HAL, Data Patterns, Azad Engineering, MTAR Technologies and Unimech …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ready-for-take-off-analysts-map-the-flight-path-for-indias-aerospace-stocks/articleshow/134959501.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-15T12:01:17+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
