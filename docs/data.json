@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T13:54:27.975899+00:00",
+  "fetchedAt": "2026-10-16T07:52:12.027718+00:00",
   "tickerCount": 32,
-  "articleCount": 128,
+  "articleCount": 129,
   "overview": {
-    "positive": 19,
+    "positive": 21,
     "negative": 41,
-    "neutral": 68
+    "neutral": 67
   },
   "stocks": [
     {
@@ -360,6 +360,72 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Issue of Securities",
+          "summary": "Persistent Systems Limited has informed the Exchange about issue of Securities",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T10:55:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Committee Meeting Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 16, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T10:44:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
+          "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divided on the stock amid valuation concerns and acqui…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-16T10:49:41+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
+          "title": "Persistent Systems share price tumbles 5% after Q2 results 2026 | What should investors do? Check target price, rating",
+          "summary": "Persistent Systems share price opened at  ₹5,600 per share today, as compared to previous close of  ₹5,840 on Thursday and touched an intraday low of  ₹5,492 on 16 October.",
+          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-share-price-tumbles-5-after-q2-results-2026-what-should-investors-do-check-target-price-rating-11792124632259.html",
+          "source": "livemint",
+          "pubDate": "2026-10-16T10:32:47+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "Persistent Systems among 4 F&amp;O stocks with a sharp rise in futures open interest",
+          "summary": "Persistent Systems, Ujjivan Small Finance Bank, Siemens Energy India, and Nestle India recorded futures open interest increases exceeding 11% on October 15, indicating heightened derivatives market activity.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134982593.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-16T10:05:53+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-15T21:19:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -371,6 +437,17 @@
           }
         },
         {
+          "title": "Persistent Systems Q2 profit falls 25.4% to ₹351 crore; revenue up 30.3%",
+          "summary": "Persistent Systems reported a 25.4% fall in Q2 profit to Rs 351 crore, even as revenue rose 30.3% to Rs 4,664 crore; operating margin narrowed to 15% from 16.3%",
+          "link": "https://www.business-standard.com/companies/news/persistent-systems-q2-profit-falls-25-4-to-351-crore-revenue-up-30-3-126101501564_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-15T21:44:25+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"Press Release regarding financial results for the quarter and half year ended September 3",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -379,39 +456,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Persistent Systems Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T16:06:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Outcome of the Board Meeting",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T15:56:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Persistent Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-14T20:03:57+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -471,19 +515,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
-          "summary": "Seven BSE 1000 stocks touched fresh 52-week highs despite the Sensex closing lower on Wednesday. West Coast Paper Mills led the list with a 32% monthly gain, followed by Dynamatic Technologies, Cyient DLM and Aditya Infotech.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-14T17:35:40+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -492,13 +524,46 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about General Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Grant of Stock options to the associates of the Company",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-15T18:02:38+00:00",
+          "pubDate": "2026-10-16T11:49:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T08:42:02+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM share price crashes 19% after Q2 results but up 213% from 52-week low: Should you buy? Check target prices",
+          "summary": "Cyient DLM shares fell nearly 19% after Q2FY27 results showed margin pressure and execution challenges, despite a 43% rise in net profit, 25% revenue growth and a record  ₹2,810 crore order book. Brokerages split, with PL Capital rating the stock Red…",
+          "link": "https://www.livemint.com/market/stock-market-news/cyient-dlm-share-price-crashes-19-after-q2-results-but-up-213-from-52-week-low-should-you-buy-check-target-prices-11792129034830.html",
+          "source": "livemint",
+          "pubDate": "2026-10-16T11:28:08+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.75
+          }
+        },
+        {
+          "title": "Cyient DLM tanks 19% on huge volumes post Q2 results; here's why",
+          "summary": "Cyient DLM's Q2 earnings showed that execution was slightly impacted by supply chain lead times and margins were softer while the order book was strong.",
+          "link": "https://www.business-standard.com/markets/news/cyient-dlm-tanks-19-on-huge-volumes-post-q2-results-here-s-why-126101600187_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-16T10:33:37+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -524,17 +589,6 @@
           }
         },
         {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Cyient Dlm Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T16:39:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "Ace investor Sunil Singhania adds 6 new stocks in Q2; likely exits two companies after 150% rally",
           "summary": "Sunil Singhania’s Abakkus funds added six stocks, including Aether Industries, BEML and Paramount Communications, amid market volatility and foreign investor outflows. The funds likely exited Cyient DLM and TTK Healthcare, trimmed other holdings, as …",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/ace-investor-sunil-singhania-adds-6-new-stocks-in-q2-likely-exits-two-companies-after-150-rally/articleshow/134964935.cms",
@@ -546,25 +600,14 @@
           }
         },
         {
-          "title": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
-          "summary": "Seven BSE 1000 stocks touched fresh 52-week highs despite the Sensex closing lower on Wednesday. West Coast Paper Mills led the list with a 32% monthly gain, followed by Dynamatic Technologies, Cyient DLM and Aditya Infotech.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-14T17:35:40+05:30",
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-12T16:59:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -694,28 +737,6 @@
           }
         },
         {
-          "title": "Tata Elxsi vs Tata Tech: Which Tata Group's stock wins Q2 results report card? Profit, revenue compared - Target price",
-          "summary": "Tata Elxsi vs Tata Tech: Tata Elxsi shares rose nearly 22.8% in a week after reporting 10% annual profit growth in Q2FY27. Tata Technologies gained about 6.36%, with profit up 3.6%.",
-          "link": "https://www.livemint.com/market/stock-market-news/tata-elxsi-vs-tata-tech-which-tata-groups-stock-wins-q2-results-report-card-profit-revenue-compared-target-price-11792056700603.html",
-          "source": "livemint",
-          "pubDate": "2026-10-15T15:05:04+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Tata Tech shares rally 8% after Q2 results, but Goldman Sachs and JM Financial stay bearish. Here's why",
-          "summary": "Tata Technologies shares surged after reporting a 4% YoY rise in Q2 net profit to Rs 171 crore. Revenue grew 28% to Rs 1,699 crore, led by a 34% jump in services revenue to Rs 1,356 crore. EBITDA rose 32% to Rs 273 crore, with margins expanding 40 bp…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-tech-shares-rally-8-after-q2-results-but-goldman-sachs-and-jm-financial-stay-bearish-heres-why/articleshow/134957050.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-15T09:34:35+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.714
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Audio recording of the earnings conference call on Unaudited Standalone and Consolidated Financial Results for quarter and half year ended Sep",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -773,6 +794,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "E2E Networks Limited has informed the Exchange regarding ' Onboarding of Strategic Advisor-Anandamoy Roychowdhary '.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T10:20:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "E2E Networks Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -814,17 +846,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "E2E Networks Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-29T15:42:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -988,6 +1009,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 7467 securities pursuant to ESOP/ESPS at its meeting held on October 14, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T10:42:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1029,17 +1061,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-02T12:48:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1163,17 +1184,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "10 Nifty500 stocks that have fallen up to 58% in a year",
-          "summary": "Ten Nifty 500 stocks have fallen between 47% and 58% over the past year, significantly underperforming the broader market. KEC International, Reliance Power and KPIT Technologies lead the list of laggards, as nearly 50 stocks in the index have declin…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty500-stocks-that-have-fallen-up-to-58-in-a-year/slideshow/134939701.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-14T16:03:42+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1264,17 +1274,6 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Smallcap stocks under pressure; Sterlite, MTAR, HFCL, Netweb slide 5%",
-          "summary": "At 10:04 AM on Thursday, the Nifty Smallcap 100 index was down 0.86% at 19,218, as compared to a 1% rally in the Nifty 50.",
-          "link": "https://www.business-standard.com/markets/news/smallcap-stocks-under-pressure-sterlite-mtar-hfcl-netweb-slide-5-126101500321_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-15T11:04:49+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -1580,6 +1579,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Zen Technologies among 3 stocks that closed crossing above VWAP",
+          "summary": "Zen Technologies, HDFC Asset Management Company, and Signatureglobal recorded closing prices above their volume-weighted average prices on October 15, reflecting intraday trading strength across these three Nifty 500 stocks.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-3-stocks-that-closed-crossing-above-vwap/slideshow/134981285.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-16T08:46:28+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 2000  Options.",
