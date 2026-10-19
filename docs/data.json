@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T13:43:55.259296+00:00",
+  "fetchedAt": "2026-10-19T08:26:43.552036+00:00",
   "tickerCount": 32,
-  "articleCount": 129,
+  "articleCount": 121,
   "overview": {
-    "positive": 20,
-    "negative": 40,
-    "neutral": 69
+    "positive": 16,
+    "negative": 38,
+    "neutral": 67
   },
   "stocks": [
     {
@@ -189,6 +189,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Acquisition",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a wholly-owned subsidiary",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-17T08:50:03+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Appointment",
           "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Appointment of Mr Uttam Kumar Bhageria as Chief Financial Officer (CFO) - Designate of the Company w.e.f. October 21, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -208,28 +219,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Update on  Acquisition",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-14T23:35:50+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-12T14:58:56+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -280,6 +269,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Cessation",
+          "summary": "Rashi Peripherals Limited has informed the Exchange regarding Cessation of  Deloitte Haskins and Sells, LLP as one of the Joint Statutory Auditors of the company w.e.f. October 16, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-17T10:21:17+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -307,17 +307,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-09T17:45:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-04T12:10:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -371,6 +360,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T22:33:53+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Issue of Securities",
           "summary": "Persistent Systems Limited has informed the Exchange about issue of Securities",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -393,39 +393,6 @@
           }
         },
         {
-          "title": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
-          "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divided on the stock amid valuation concerns and acqui…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-16T10:49:41+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
-        {
-          "title": "Persistent Systems share price tumbles 5% after Q2 results 2026 | What should investors do? Check target price, rating",
-          "summary": "Persistent Systems share price opened at  ₹5,600 per share today, as compared to previous close of  ₹5,840 on Thursday and touched an intraday low of  ₹5,492 on 16 October.",
-          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-share-price-tumbles-5-after-q2-results-2026-what-should-investors-do-check-target-price-rating-11792124632259.html",
-          "source": "livemint",
-          "pubDate": "2026-10-16T10:32:47+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "Persistent Systems among 4 F&amp;O stocks with a sharp rise in futures open interest",
-          "summary": "Persistent Systems, Ujjivan Small Finance Bank, Siemens Energy India, and Nestle India recorded futures open interest increases exceeding 11% on October 15, indicating heightened derivatives market activity.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134982593.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-16T10:05:53+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -442,28 +409,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-15T16:51:43+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Persistent Systems Q2 profit falls 25.4% to ₹351 crore; revenue up 30.3%",
-          "summary": "Persistent Systems reported a 25.4% fall in Q2 profit to Rs 351 crore, even as revenue rose 30.3% to Rs 4,664 crore; operating margin narrowed to 15% from 16.3%",
-          "link": "https://www.business-standard.com/companies/news/persistent-systems-q2-profit-falls-25-4-to-351-crore-revenue-up-30-3-126101501564_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-15T21:44:25+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"Press Release regarding financial results for the quarter and half year ended September 3",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T16:12:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -534,6 +479,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Cyient DLM plunges 24% in two days; what's making the Street nervous?",
+          "summary": "Cyient DLM's share price dropped 13% on Monday's trade. Analysts reckon Q2 was a transitory modest quarter while the business seems well-poised for multi-year strong growth phase.",
+          "link": "https://www.business-standard.com/markets/news/cyient-dlm-plunges-24-in-two-days-what-s-making-the-street-nervous-126101900248_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-19T11:06:27+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-17T16:34:33+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about Grant of Stock options to the associates of the Company",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -556,28 +523,6 @@
           }
         },
         {
-          "title": "Cyient DLM share price crashes 19% after Q2 results but up 213% from 52-week low: Should you buy? Check target prices",
-          "summary": "Cyient DLM shares fell nearly 19% after Q2FY27 results showed margin pressure and execution challenges, despite a 43% rise in net profit, 25% revenue growth and a record  ₹2,810 crore order book. Brokerages split, with PL Capital rating the stock Red…",
-          "link": "https://www.livemint.com/market/stock-market-news/cyient-dlm-share-price-crashes-19-after-q2-results-but-up-213-from-52-week-low-should-you-buy-check-target-prices-11792129034830.html",
-          "source": "livemint",
-          "pubDate": "2026-10-16T11:28:08+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.75
-          }
-        },
-        {
-          "title": "Cyient DLM tanks 19% on huge volumes post Q2 results; here's why",
-          "summary": "Cyient DLM's Q2 earnings showed that execution was slightly impacted by supply chain lead times and margins were softer while the order book was strong.",
-          "link": "https://www.business-standard.com/markets/news/cyient-dlm-tanks-19-on-huge-volumes-post-q2-results-here-s-why-126101600187_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-16T10:33:37+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Cyient Dlm Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"Cyient DLM Announces Q2 FY27 Results\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -586,39 +531,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T16:41:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Ace investor Sunil Singhania adds 6 new stocks in Q2; likely exits two companies after 150% rally",
-          "summary": "Sunil Singhania’s Abakkus funds added six stocks, including Aether Industries, BEML and Paramount Communications, amid market volatility and foreign investor outflows. The funds likely exited Cyient DLM and TTK Healthcare, trimmed other holdings, as …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ace-investor-sunil-singhania-adds-6-new-stocks-in-q2-likely-exits-two-companies-after-150-rally/articleshow/134964935.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-15T16:05:36+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -737,22 +649,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Tata Technologies Limited has informed the Exchange about Copy of Newspaper Publication-Unaudited Financial Results for quarter and half year ended September 30, 2026",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Tata Technologies Limited has informed the Exchange about Transcript of the earnings conference call on financial results for the quarter ended September 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-15T11:35:17+00:00",
+          "pubDate": "2026-10-19T09:59:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Audio recording of the earnings conference call on Unaudited Standalone and Consolidated Financial Results for quarter and half year ended Sep",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Tata Technologies Limited has informed the Exchange about Copy of Newspaper Publication-Unaudited Financial Results for quarter and half year ended September 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-14T22:14:15+00:00",
+          "pubDate": "2026-10-15T11:35:17+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -779,17 +691,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Tata Technologies Limited has submitted to the Exchange, the Outcome of Board Meeting for Unaudited Standalone and Consolidated Financial Results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-14T16:09:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -804,6 +705,39 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-17T14:17:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "E2E Networks Limited has informed the Exchange under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 Board comments on fine levied by the Exchange for non-",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T22:28:41+00:00",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.333
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-16T19:56:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Submission of Monitoring Agency Reports for the quarter ended September 30, 2026 by E2E Networks Limited",
@@ -821,39 +755,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-16T15:14:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \"E2E Networks Reports Q2 FY 27 Results: Revenue 5.1x YoY to &#8377;2,238 Mn; EBITDA Margin Expan",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T15:08:54+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "E2E Networks Limited has informed the Exchange regarding Appointment of Mr. Krishnan Mahesh as Non- Executive Director of the company w.e.f. October 16, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T14:06:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "E2E Networks Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T13:58:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1195,6 +1096,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Wipro among 4 stocks showing White Marubozu pattern",
+          "summary": "Wipro, Authum Investment &amp; Infrastructure, KPIT Technologies and HFCL featured in StockEdge’s White Marubozu scan on October 16, reflecting strong upward price momentum.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-among-4-stocks-showing-white-marubozu-pattern/slideshow/135038438.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-19T08:23:43+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1234,6 +1146,17 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Groww, Nazara, HCL Tech: Choice Broking is bullish on 3 stocks; here's why",
+          "summary": "Stocks to buy today: Sachin Gupta, VP - research , Choice Equity Broking, recommends three stocks to buy today, namely Groww, HCL Tech and Nazara Technologies.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-groww-nazara-hcl-tech-choice-broking-is-bullish-on-3-stocks-here-s-why-126101900054_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-19T07:35:27+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "Nazara Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
@@ -1580,14 +1503,36 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Zen Technologies among 3 stocks that closed crossing above VWAP",
-          "summary": "Zen Technologies, HDFC Asset Management Company, and Signatureglobal recorded closing prices above their volume-weighted average prices on October 15, reflecting intraday trading strength across these three Nifty 500 stocks.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-3-stocks-that-closed-crossing-above-vwap/slideshow/134981285.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-16T08:46:28+05:30",
+          "title": "[NSE] General Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-19T09:15:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding a press release dated October 18, 2026, titled \"Zen Technologies to acquire majority stake in Cogknit Semantics, an indigenous developer of",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-18T11:20:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Acquisition",
+          "summary": "Zen Technologies Limited has informed the Exchange about Acquisition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-17T19:54:56+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -1610,39 +1555,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-24T15:08:48+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-17T11:28:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Zen Technologies Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 29, 2026. Further, the company has informed the Exchange regarding voting result",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-01T16:16:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
