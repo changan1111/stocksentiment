@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-20T08:09:31.367871+00:00",
+  "fetchedAt": "2026-10-20T14:04:26.635962+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 122,
   "overview": {
     "positive": 16,
     "negative": 38,
-    "neutral": 66
+    "neutral": 68
   },
   "stocks": [
     {
@@ -268,6 +268,17 @@
       "name": "Rashi Peripherals",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Action(s) taken or orders passed",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about communication received from NSE on 19th October, 2026, regarding levy of fine, as per details attached.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-20T18:25:14+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
         {
           "title": "[NSE] Cessation",
           "summary": "Rashi Peripherals Limited has informed the Exchange regarding Cessation of  Deloitte Haskins and Sells, LLP as one of the Joint Statutory Auditors of the company w.e.f. October 16, 2026.",
@@ -1197,6 +1208,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-20T16:53:58+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
