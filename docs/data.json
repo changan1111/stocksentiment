@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-19T16:09:51.348595+00:00",
+  "fetchedAt": "2026-10-20T08:09:31.367871+00:00",
   "tickerCount": 32,
-  "articleCount": 121,
+  "articleCount": 120,
   "overview": {
-    "positive": 17,
+    "positive": 16,
     "negative": 38,
     "neutral": 66
   },
@@ -230,10 +230,10 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'ESG Rating'.",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding the incorporation of  of Zollner Avalon Private Limited.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-14T18:29:26+00:00",
+          "pubDate": "2026-10-20T12:07:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1146,17 +1146,6 @@
       "name": "Nazara Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Groww, Nazara, HCL Tech: Choice Broking is bullish on 3 stocks; here's why",
-          "summary": "Stocks to buy today: Sachin Gupta, VP - research , Choice Equity Broking, recommends three stocks to buy today, namely Groww, HCL Tech and Nazara Technologies.",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-groww-nazara-hcl-tech-choice-broking-is-bullish-on-3-stocks-here-s-why-126101900054_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-19T07:35:27+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "Nazara Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
