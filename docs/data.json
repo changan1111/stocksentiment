@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-20T14:04:26.635962+00:00",
+  "fetchedAt": "2026-10-21T08:14:48.291192+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 120,
   "overview": {
-    "positive": 16,
+    "positive": 14,
     "negative": 38,
     "neutral": 68
   },
@@ -489,17 +489,6 @@
       "name": "Cyient DLM",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Cyient DLM plunges 24% in two days; what's making the Street nervous?",
-          "summary": "Cyient DLM's share price dropped 13% on Monday's trade. Analysts reckon Q2 was a transitory modest quarter while the business seems well-poised for multi-year strong growth phase.",
-          "link": "https://www.business-standard.com/markets/news/cyient-dlm-plunges-24-in-two-days-what-s-making-the-street-nervous-126101900248_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-19T11:06:27+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -1106,17 +1095,6 @@
       "name": "KPIT Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Wipro among 4 stocks showing White Marubozu pattern",
-          "summary": "Wipro, Authum Investment &amp; Infrastructure, KPIT Technologies and HFCL featured in StockEdge’s White Marubozu scan on October 16, reflecting strong upward price momentum.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-among-4-stocks-showing-white-marubozu-pattern/slideshow/135038438.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-19T08:23:43+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
