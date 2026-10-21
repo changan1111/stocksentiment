@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-21T08:14:48.291192+00:00",
+  "fetchedAt": "2026-10-21T14:19:47.407943+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 123,
   "overview": {
-    "positive": 14,
-    "negative": 38,
-    "neutral": 68
+    "positive": 16,
+    "negative": 41,
+    "neutral": 66
   },
   "stocks": [
     {
@@ -189,6 +189,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
+          "summary": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent.",
+          "link": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-21T13:44:24+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Acquisition",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a wholly-owned subsidiary",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -371,22 +382,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T22:33:53+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Issue of Securities",
           "summary": "Persistent Systems Limited has informed the Exchange about issue of Securities",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-16T10:55:31+00:00",
+          "pubDate": "2026-10-21T19:22:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -394,32 +394,21 @@
         },
         {
           "title": "[NSE] Committee Meeting Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 16, 2026.",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 21, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-16T10:44:49+00:00",
+          "pubDate": "2026-10-21T19:16:46+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Presentation",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Persistent Systems Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-15T21:19:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T16:51:43+00:00",
+          "pubDate": "2026-10-16T22:33:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -482,7 +471,19 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": []
+      "articles": [
+        {
+          "title": "MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
+          "summary": "Ten BSE 500 stocks have rallied between 59% and 129% in FY27 so far as mutual funds increased their shareholding in the September 2026 quarter. Cemindia Projects, Aditya Infotech and Aegis Logistics lead the list of gainers.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stakes-in-10-stocks-in-q2-shares-rally-up-to-130-in-fy27-including-3-multibaggers/slideshow/135089578.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-21T16:01:44+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        }
+      ]
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -603,6 +604,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Giving of guarantees or indemnity or becoming a surety for any third party'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-21T18:41:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Top 2 stocks to buy or sell for short-term: Wipro, Dixon Technologies by Nagaraj Shetti - Check stop loss, targets",
+          "summary": "Indian equity benchmarks ended lower on Wednesday as Brent crude climbed above $110 a barrel, reversing early gains despite strong interest in Reliance Industries Chairman Mukesh Ambani’s Jio Platforms IPO. The Nifty fell 0.34% to 22,811.35 and the S…",
+          "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-for-short-term-wipro-dixon-technologies-by-nagaraj-shetti-check-stop-loss-targets-11792580012562.html",
+          "source": "livemint",
+          "pubDate": "2026-10-21T16:50:49+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange ESG Rating by Crisil ESG Ratings & Analystics Ltd.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -706,6 +729,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-21T16:25:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -728,33 +762,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T19:56:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Submission of Monitoring Agency Reports for the quarter ended September 30, 2026 by E2E Networks Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-16T18:20:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "E2E Networks Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T15:14:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1096,6 +1108,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Post Earnings Conference Call of the Company is scheduled on Wednesday, October 28, 2026, at 17:30 Hrs. (IST). The details of the said call ar",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-21T17:31:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1115,17 +1138,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-22T20:07:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1430,6 +1442,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
+          "summary": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent.",
+          "link": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-21T13:44:24+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1491,6 +1514,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
+          "summary": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent.",
+          "link": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-21T13:44:24+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
