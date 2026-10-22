@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-10-22T08:16:24.347712+00:00",
+  "fetchedAt": "2026-10-22T14:19:19.508389+00:00",
   "tickerCount": 32,
-  "articleCount": 126,
+  "articleCount": 121,
   "overview": {
-    "positive": 16,
-    "negative": 41,
+    "positive": 14,
+    "negative": 38,
     "neutral": 69
   },
   "stocks": [
@@ -189,17 +189,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
-          "summary": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent.",
-          "link": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-21T13:44:24+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Acquisition",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a wholly-owned subsidiary",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -382,17 +371,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Persistent Systems, ONGC, Godrej Consumer: Kotak Neo suggests top stocks to buy for short term - Target price, stop-loss",
-          "summary": "Amol Athawale of Kotak Neo advises level-based trading, citing support at 22,800 and 22,750, and identifies potential upside in Persistent Systems, ONGC and Godrej Consumer Products.",
-          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-ongc-godrej-consumer-kotak-neo-suggests-top-stocks-to-buy-for-short-term-target-price-stoploss-11792637152339.html",
-          "source": "livemint",
-          "pubDate": "2026-10-22T08:34:44+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
           "title": "Stocks to watch: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF",
           "summary": "Stocks to watch today: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF, Nestle India, Zydus Wellness, Persistent Systems, Adani Green Energy, Aye Finance, among others, will be in focus today",
           "link": "https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html",
@@ -515,19 +493,7 @@
       "symbol": "ADINATH.NS",
       "name": "Aditya Infotech",
       "exchange": "NSE",
-      "articles": [
-        {
-          "title": "MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
-          "summary": "Ten BSE 500 stocks have rallied between 59% and 129% in FY27 so far as mutual funds increased their shareholding in the September 2026 quarter. Cemindia Projects, Aditya Infotech and Aegis Logistics lead the list of gainers.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stakes-in-10-stocks-in-q2-shares-rally-up-to-130-in-fy27-including-3-multibaggers/slideshow/135089578.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-21T16:01:44+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "symbol": "CYIENTDLM.NS",
@@ -576,17 +542,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1181,6 +1136,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited has informed the Exchange about Schedule of meet.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-22T14:49:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "Nazara Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1486,17 +1452,6 @@
           }
         },
         {
-          "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
-          "summary": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent.",
-          "link": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-21T13:44:24+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1547,17 +1502,6 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
-          "summary": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent.",
-          "link": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-21T13:44:24+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
         {
           "title": "[NSE] General Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
