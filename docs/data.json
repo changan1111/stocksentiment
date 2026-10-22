@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-21T14:19:47.407943+00:00",
+  "fetchedAt": "2026-10-22T08:16:24.347712+00:00",
   "tickerCount": 32,
-  "articleCount": 123,
+  "articleCount": 126,
   "overview": {
     "positive": 16,
     "negative": 41,
-    "neutral": 66
+    "neutral": 69
   },
   "stocks": [
     {
@@ -382,6 +382,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Persistent Systems, ONGC, Godrej Consumer: Kotak Neo suggests top stocks to buy for short term - Target price, stop-loss",
+          "summary": "Amol Athawale of Kotak Neo advises level-based trading, citing support at 22,800 and 22,750, and identifies potential upside in Persistent Systems, ONGC and Godrej Consumer Products.",
+          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-ongc-godrej-consumer-kotak-neo-suggests-top-stocks-to-buy-for-short-term-target-price-stoploss-11792637152339.html",
+          "source": "livemint",
+          "pubDate": "2026-10-22T08:34:44+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "Stocks to watch: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF",
+          "summary": "Stocks to watch today: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF, Nestle India, Zydus Wellness, Persistent Systems, Adani Green Energy, Aye Finance, among others, will be in focus today",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-22T08:10:22+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Credit Rating",
+          "summary": "Persistent Systems Limited has informed the Exchange about Credit Rating",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-21T20:52:10+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Committee Meeting Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 21, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-21T19:59:41+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Issue of Securities",
           "summary": "Persistent Systems Limited has informed the Exchange about issue of Securities",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -393,14 +437,14 @@
           }
         },
         {
-          "title": "[NSE] Committee Meeting Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 21, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-21T19:16:46+00:00",
+          "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
+          "summary": "Persistent Systems has opened a qualified institutional placement to raise up to USD 450 million, or about Rs 4,265 crore. The IT company has set the QIP floor price at Rs 5,550 per share and may offer investors a discount of up to 5% under the appro…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-21T23:01:22+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -612,17 +656,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Top 2 stocks to buy or sell for short-term: Wipro, Dixon Technologies by Nagaraj Shetti - Check stop loss, targets",
-          "summary": "Indian equity benchmarks ended lower on Wednesday as Brent crude climbed above $110 a barrel, reversing early gains despite strong interest in Reliance Industries Chairman Mukesh Ambani’s Jio Platforms IPO. The Nifty fell 0.34% to 22,811.35 and the S…",
-          "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-for-short-term-wipro-dixon-technologies-by-nagaraj-shetti-check-stop-loss-targets-11792580012562.html",
-          "source": "livemint",
-          "pubDate": "2026-10-21T16:50:49+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.333
           }
         },
         {
@@ -1442,6 +1475,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-22T12:02:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
           "summary": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent.",
           "link": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
@@ -1494,17 +1538,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-17T16:16:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
