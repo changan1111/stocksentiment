@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-23T08:13:06.109622+00:00",
+  "fetchedAt": "2026-10-23T14:02:22.991970+00:00",
   "tickerCount": 32,
-  "articleCount": 118,
+  "articleCount": 116,
   "overview": {
-    "positive": 16,
-    "negative": 38,
-    "neutral": 64
+    "positive": 13,
+    "negative": 37,
+    "neutral": 66
   },
   "stocks": [
     {
@@ -13,6 +13,28 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"Please find the enclosed a copy of Press Release to be issued by the Company.\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-23T16:16:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-23T16:10:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -22,50 +44,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"Jupiter Wagons wins 41 MW/102.5 MWh BESS project in Uttarakhand; receives Letter of Award for",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-05T13:30:26+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about the clarification on increase in the volume of Company''s security",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-01T16:20:42+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-01T12:35:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Spurt in Volume",
-          "summary": "Significant increase in volume has been observed in Jupiter Wagons Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-01T11:38:15+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -331,33 +309,44 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Change in Auditors",
+          "summary": "Coforge Limited has informed the Exchange regarding Change in Auditors of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-15T18:00:03+00:00",
+          "pubDate": "2026-10-23T17:36:30+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Coforge Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "title": "[NSE] General Updates",
+          "summary": "Coforge Limited has informed the Exchange about Intimation under Regulation 30",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-14T14:04:58+00:00",
+          "pubDate": "2026-10-23T17:04:48+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \" Coforge Introduces Intent Engineering Framework to Help Enterprises Build Outcome-Aligned AI Agents",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"Press release on financial results\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-05T11:06:34+00:00",
+          "pubDate": "2026-10-23T16:40:42+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Coforge Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-23T16:19:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -469,10 +458,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Transcript",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-23T10:07:26+00:00",
+          "pubDate": "2026-10-23T14:45:00+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -570,6 +559,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-23T18:10:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Giving of guarantees or indemnity or becoming a surety for any third party'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -592,17 +592,6 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investor Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-10T13:41:35+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Certificate under 74(5) SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended on 30th September, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -611,17 +600,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technolo",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-07T15:01:51+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
