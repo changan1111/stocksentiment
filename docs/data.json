@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-26T08:28:34.183159+00:00",
+  "fetchedAt": "2026-10-26T15:49:07.715540+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 119,
   "overview": {
-    "positive": 14,
-    "negative": 32,
-    "neutral": 74
+    "positive": 15,
+    "negative": 33,
+    "neutral": 71
   },
   "stocks": [
     {
@@ -309,6 +309,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Top 3 stocks to buy tomorrow: Laurus Labs, MCX, Coforge by market expert; check stop-loss, target price for Tue, 27 Oct",
+          "summary": "India’s benchmark indices ended a four-session losing streak, with the Nifty 50 rising 0.68% and the Sensex 0.66%. Gains were limited by elevated oil prices and uncertainty ahead of the US Federal Reserve decision. Analysts highlighted key technical …",
+          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-tomorrow-laurus-labs-mcx-coforge-by-market-expert-check-stop-loss-target-price-for-tue-27-oct-11793014330701.html",
+          "source": "livemint",
+          "pubDate": "2026-10-26T17:39:04+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.333
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"Coforge Named a Leader in Everest Group Quality Engineering (QE) Services for AI Applications and Sy",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -328,17 +339,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 0.667
-          }
-        },
-        {
-          "title": "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
-          "summary": "Top stocks to watch today: Paytm, Mankind Pharma, Tata Consumer, ITC Hotels, Infosys, BPCL, Kotak Mahindra Bank, Coforge among shares in focus on Monday.",
-          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
-          "source": "livemint",
-          "pubDate": "2026-10-26T07:31:46+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         },
         {
@@ -404,6 +404,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Committee Meeting Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 26, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T19:30:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Persistent Systems Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -420,28 +431,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-22T23:01:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Committee Meeting Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 21, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-21T19:59:41+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Issue of Securities",
-          "summary": "Persistent Systems Limited has informed the Exchange about issue of Securities",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-21T19:22:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -706,6 +695,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"E2E Networks plans 5.4 MW NVIDIA Blackwell expansion of India s AI Factory\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T16:55:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Capacity addition",
+          "summary": "E2E Networks Limited has informed the Exchange about Capacity addition",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T14:19:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "E2E Networks Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -737,17 +748,6 @@
             "label": "Negative",
             "score": -0.333
           }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Submission of Monitoring Agency Reports for the quarter ended September 30, 2026 by E2E Networks Limited",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T18:20:18+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -756,6 +756,17 @@
       "name": "Epack Durable",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "EPACK Durable Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T18:00:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "EPACK Durable Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -784,17 +795,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-21T17:01:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding Allotment of Equity Shares under EPACK ESOP Scheme 2023.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-08T18:05:36+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -910,6 +910,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T17:12:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Termination of Joint Venture Agreement between ideaForge Technology Inc.(wholly-owned subsidiary of ideaForge Technology Limited) and First Breach Inc.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -948,17 +959,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-14T20:39:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "Ideaforge Technology Limited has entered into loan agreement dated October 09, 2026, with Technology Development Board for availing loan of Rs. 151 Crores (One Hundred and Fifty-One Crores) in tranche",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T19:14:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1125,55 +1125,44 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited has informed the Exchange about Schedule of meet.",
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended September 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-22T14:49:54+00:00",
+          "pubDate": "2026-10-26T19:48:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Nazara Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "title": "[NSE] Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding Investor Presentation.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-13T17:46:39+00:00",
+          "pubDate": "2026-10-26T19:43:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding allotment of 2,38,81,711 Equity Shares by way of Preferential issue on private placement basis at its meeting held on October 12, 2026.",
+          "title": "[NSE] Press Release",
+          "summary": "Nazara Technologies Limited informs the Exchange regarding a press release dated October 26, 2026, titled Nazara reports record Q2FY27: revenue up 53% to INR 803 crore, EBITDA up 93% to INR 120 crore.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-12T18:46:41+00:00",
+          "pubDate": "2026-10-26T19:39:10+00:00",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
-          "title": "[NSE] Appointment",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Appointment of Mr Arun Agrawal as Chief Financial Officer and Key Managerial Personnel of the Company with effect from October 16, 2026.",
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Nazara Technologies Limited has submitted to the Exchange, the financial results for the quarter and half-year ended September 30, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-12T18:40:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Resignation of Mr Rakesh Shah as Chief Financial Officer ( KMP ) of the Company with effect from the close of business hours on October 15, 2",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-12T18:33:48+00:00",
+          "pubDate": "2026-10-26T19:23:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1186,6 +1175,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T20:09:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -1214,17 +1214,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-24T16:54:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding a press release dated October 24, 2026, titled \"Press release on the financial results for the quarter ended 30.09.2026\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-24T16:33:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
