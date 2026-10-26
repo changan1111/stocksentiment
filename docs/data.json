@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-23T14:02:22.991970+00:00",
+  "fetchedAt": "2026-10-26T08:28:34.183159+00:00",
   "tickerCount": 32,
-  "articleCount": 116,
+  "articleCount": 120,
   "overview": {
-    "positive": 13,
-    "negative": 37,
-    "neutral": 66
+    "positive": 14,
+    "negative": 32,
+    "neutral": 74
   },
   "stocks": [
     {
@@ -309,44 +309,88 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"Coforge Named a Leader in Everest Group Quality Engineering (QE) Services for AI Applications and Sy",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T09:13:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Coforge slips 3% even as Jefferies, Nomura, others raise targets after Q2 earnings. Why are they bullish?",
+          "summary": "Coforge shares fell despite strong Q2 results and brokerages raising target prices. Net profit surged 56.5% year-on-year to Rs 588.1 crore, while revenue jumped 54% to Rs 6,170.8 crore. EBITDA rose 67% to Rs 1,269.7 crore, with margins expanding 168 …",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-slips-3-even-as-jefferies-nomura-others-raise-targets-after-q2-earnings-why-are-they-bullish/articleshow/135202672.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-26T09:57:33+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.667
+          }
+        },
+        {
+          "title": "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
+          "summary": "Top stocks to watch today: Paytm, Mankind Pharma, Tata Consumer, ITC Hotels, Infosys, BPCL, Kotak Mahindra Bank, Coforge among shares in focus on Monday.",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
+          "source": "livemint",
+          "pubDate": "2026-10-26T07:31:46+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
+          "summary": "Indian equity markets have faced a decline for four consecutive sessions, with the Nifty falling significantly. Various factors, including selling by foreign investors and rising crude oil prices, have contributed to this downturn. Notable stocks suc…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-26T06:00:00+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-24T14:36:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication- Statement of un-audited Financial Results for the Quarter & half year ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-24T14:32:48+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Coforge Q2 results: Net profit surges 56.5% to ₹588 cr, revenue up 53.6%",
+          "summary": "Coforge posted a 56.5 per cent increase in consolidated profit to Rs 588 crore in the second quarter ended September 30, 2026, driven by AI-led execution of deals, the company said on Friday.\nThe IT firm had posted a net profit of Rs 375.8 crore in t…",
+          "link": "https://www.business-standard.com/companies/news/coforge-q2-results-net-profit-surges-56-5-to-588-cr-revenue-up-53-6-126102301329_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-23T23:31:49+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Change in Auditors",
           "summary": "Coforge Limited has informed the Exchange regarding Change in Auditors of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-23T17:36:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Coforge Limited has informed the Exchange about Intimation under Regulation 30",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-23T17:04:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"Press release on financial results\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-23T16:40:42+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Coforge Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-23T16:19:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -359,6 +403,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Persistent Systems Limited has informed the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-23T20:43:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Credit Rating",
           "summary": "Persistent Systems Limited has informed the Exchange about Credit Rating",
@@ -855,6 +910,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Termination of Joint Venture Agreement between ideaForge Technology Inc.(wholly-owned subsidiary of ideaForge Technology Limited) and First Breach Inc.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-23T22:53:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 7467 securities pursuant to ESOP/ESPS at its meeting held on October 14, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -896,17 +962,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for quarter and half year ended September 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-07T11:52:19+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1030,17 +1085,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Swiggy among 4 F&amp;O stocks with sharp rise in futures open interest",
-          "summary": "Swiggy, Siemens Energy India, Nippon Life India Asset Management and KPIT Technologies featured in StockEdge’s F&amp;O scan on October 22, with futures open interest rising more than 9% from the previous session.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/135133277.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-23T08:54:10+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Post Earnings Conference Call of the Company is scheduled on Wednesday, October 28, 2026, at 17:30 Hrs. (IST). The details of the said call ar",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1143,55 +1187,55 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-20T16:53:58+00:00",
+          "pubDate": "2026-10-25T14:57:40+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-06T14:02:52+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Netweb Technologies India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T12:52:14+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         },
         {
           "title": "[NSE] General Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about ESG Rating",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-23T14:17:42+00:00",
+          "pubDate": "2026-10-24T17:07:46+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Netweb Technologies India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 19, 2026. Further, the company has informed the Exchange regarding v",
+          "title": "[NSE] Investor Presentation",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-20T12:30:53+00:00",
+          "pubDate": "2026-10-24T16:54:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Netweb Technologies India Limited has informed the Exchange regarding a press release dated October 24, 2026, titled \"Press release on the financial results for the quarter ended 30.09.2026\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-24T16:33:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Q2 results: IDFC First Bank, Castrol India, JK Cement, 30 more on Oct 24",
+          "summary": "Q2FY27 company results: Firms including Kotak Mahindra, AU Small Finance Bank, Kajaria Ceramics, Netweb Technologies, and Apollo Micro Systems are also to release their July-September earnings today",
+          "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-idfc-first-bank-castrol-india-jk-cement-30-more-on-oct-24-126102400225_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-24T10:32:16+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1204,6 +1248,39 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Resignation of Statutory Auditor",
+          "summary": "PG Electroplast Limited has informed the Exchange about Resignation of Statutory Auditor",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-24T13:41:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Updates",
+          "summary": "PG Electroplast Limited has informed the Exchange regarding 'Outcome of Meeting of Board of Directors of Next Generation Manufacturers Private Limited ( NGM ) a Wholly Owned Step-Down Subsidiary of th",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-24T13:09:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-24T12:10:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "PG Electroplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -1221,28 +1298,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-30T19:29:32+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-21T12:36:25+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-21T12:22:03+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1386,6 +1441,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about execution of Long-Term Agreement with Honeywell Aerospace US LLC",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T07:13:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1417,28 +1483,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about investment in Kanoo Unimech Advanced Manufacturing Solutions (Joint Venture Company)",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-01T17:55:55+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-28T15:07:15+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -1447,6 +1491,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding 'Intimation regarding Business Today s Most Powerful Women in Business (MPW) Award received by Ms. Shilpa Choudari, Whole-time Director'.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-24T15:25:06+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
@@ -1489,17 +1544,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Zen Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-06T13:13:12+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
