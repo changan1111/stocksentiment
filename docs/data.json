@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-26T15:49:07.715540+00:00",
+  "fetchedAt": "2026-10-27T08:36:32.044634+00:00",
   "tickerCount": 32,
-  "articleCount": 119,
+  "articleCount": 116,
   "overview": {
     "positive": 15,
-    "negative": 33,
-    "neutral": 71
+    "negative": 31,
+    "neutral": 70
   },
   "stocks": [
     {
@@ -309,47 +309,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top 3 stocks to buy tomorrow: Laurus Labs, MCX, Coforge by market expert; check stop-loss, target price for Tue, 27 Oct",
-          "summary": "India’s benchmark indices ended a four-session losing streak, with the Nifty 50 rising 0.68% and the Sensex 0.66%. Gains were limited by elevated oil prices and uncertainty ahead of the US Federal Reserve decision. Analysts highlighted key technical …",
-          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-tomorrow-laurus-labs-mcx-coforge-by-market-expert-check-stop-loss-target-price-for-tue-27-oct-11793014330701.html",
-          "source": "livemint",
-          "pubDate": "2026-10-26T17:39:04+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.333
-          }
-        },
-        {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"Coforge Named a Leader in Everest Group Quality Engineering (QE) Services for AI Applications and Sy",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"\"Coforge Partners with Driving Forward to Expand Career Pathways for First-Generation and Under-Reso",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T09:13:26+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Coforge slips 3% even as Jefferies, Nomura, others raise targets after Q2 earnings. Why are they bullish?",
-          "summary": "Coforge shares fell despite strong Q2 results and brokerages raising target prices. Net profit surged 56.5% year-on-year to Rs 588.1 crore, while revenue jumped 54% to Rs 6,170.8 crore. EBITDA rose 67% to Rs 1,269.7 crore, with margins expanding 168 …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-slips-3-even-as-jefferies-nomura-others-raise-targets-after-q2-earnings-why-are-they-bullish/articleshow/135202672.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-26T09:57:33+05:30",
+          "pubDate": "2026-10-27T09:42:53+00:00",
           "sentiment": {
             "label": "Positive",
-            "score": 0.667
-          }
-        },
-        {
-          "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
-          "summary": "Indian equity markets have faced a decline for four consecutive sessions, with the Nifty falling significantly. Various factors, including selling by foreign investors and rising crude oil prices, have contributed to this downturn. Notable stocks suc…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-26T06:00:00+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "score": 1.0
           }
         },
         {
@@ -373,28 +340,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Coforge Q2 results: Net profit surges 56.5% to ₹588 cr, revenue up 53.6%",
-          "summary": "Coforge posted a 56.5 per cent increase in consolidated profit to Rs 588 crore in the second quarter ended September 30, 2026, driven by AI-led execution of deals, the company said on Friday.\nThe IT firm had posted a net profit of Rs 375.8 crore in t…",
-          "link": "https://www.business-standard.com/companies/news/coforge-q2-results-net-profit-surges-56-5-to-588-cr-revenue-up-53-6-126102301329_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-23T23:31:49+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Change in Auditors",
-          "summary": "Coforge Limited has informed the Exchange regarding Change in Auditors of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-23T17:36:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -404,11 +349,22 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding allotment of 7683981 securities pursuant to Qualified Institution Placement at its meeting held on October 26, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-26T23:25:38+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Committee Meeting Updates",
           "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 26, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T19:30:09+00:00",
+          "pubDate": "2026-10-26T23:21:37+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -859,6 +815,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "GRSE, BEL: Defence stocks zoom up to 9% on DAC nod to ₹2.12 trn proposals",
+          "summary": "Twenty-one of the 22 Nifty India Defence constituents traded green in early trade today, driving the sectoral index 2.8 per cent higher to 8,908.",
+          "link": "https://www.business-standard.com/markets/news/grse-bel-defence-stocks-zoom-up-to-9-on-dac-nod-to-2-12-trn-proposals-126102700288_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-27T10:37:49+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1218,17 +1185,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Q2 results: IDFC First Bank, Castrol India, JK Cement, 30 more on Oct 24",
-          "summary": "Q2FY27 company results: Firms including Kotak Mahindra, AU Small Finance Bank, Kajaria Ceramics, Netweb Technologies, and Apollo Micro Systems are also to release their July-September earnings today",
-          "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-idfc-first-bank-castrol-india-jk-cement-30-more-on-oct-24-126102400225_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-24T10:32:16+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1480,6 +1436,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top stocks to buy: Experts suggest BSE, GMR Airports, Nykaa, Zen Tech, and 2 others - Target price, stop-loss",
+          "summary": "Experts recommended six stocks for possible short-term gains, based on support levels, trend reversals and momentum signals; named picks include Nykaa, ICICI Prudential AMC and Zen Technologies.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-suggest-bse-gmr-airports-nykaa-zen-tech-and-2-others-target-price-stoploss-11793083427379.html",
+          "source": "livemint",
+          "pubDate": "2026-10-27T12:32:39+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.5
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Zen Technologies Limited has informed the Exchange regarding 'Intimation regarding Business Today s Most Powerful Women in Business (MPW) Award received by Ms. Shilpa Choudari, Whole-time Director'.",
