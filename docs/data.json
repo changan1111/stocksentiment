@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-27T15:06:09.581177+00:00",
+  "fetchedAt": "2026-10-28T09:16:31.652456+00:00",
   "tickerCount": 32,
   "articleCount": 121,
   "overview": {
-    "positive": 16,
-    "negative": 28,
-    "neutral": 77
+    "positive": 14,
+    "negative": 26,
+    "neutral": 81
   },
   "stocks": [
     {
@@ -218,6 +218,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Shareholders meeting",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on November 21, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-28T13:53:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on October 27, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -321,13 +332,24 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"\"Coforge Partners with Driving Forward to Expand Career Pathways for First-Generation and Under-Reso",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 28, 2026, titled \" Coforge and Chippenham RFC Partner to Support Rugby, Cricket and Community Development. \".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-27T09:42:53+00:00",
+          "pubDate": "2026-10-28T09:55:30+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why",
+          "summary": "Till Tuesday in October 2026, the Nifty IT index outperformed the market and rallied 12%, compared to 0.05% decline in the Nifty 50.",
+          "link": "https://www.business-standard.com/markets/news/nifty-it-index-slips-4-infosys-tcs-coforge-tank-up-to-5-here-s-why-126102800478_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-10-28T12:01:35+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
           }
         },
         {
@@ -826,17 +848,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "GRSE, BEL: Defence stocks zoom up to 9% on DAC nod to ₹2.12 trn proposals",
-          "summary": "Twenty-one of the 22 Nifty India Defence constituents traded green in early trade today, driving the sectoral index 2.8 per cent higher to 8,908.",
-          "link": "https://www.business-standard.com/markets/news/grse-bel-defence-stocks-zoom-up-to-9-on-dac-nod-to-2-12-trn-proposals-126102700288_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-27T10:37:49+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1001,6 +1012,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-28T13:10:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1043,28 +1065,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "JSW Infrastructure Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-27T16:33:54+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "JSW Infrastructure Q2 Results: Net profit falls 11% to Rs 328 crore",
-          "summary": "JSW Infrastructure reported an 11 percent drop in consolidated net profit for the September quarter, with earnings falling to Rs 328.23 crore from Rs 368.81 crore the previous year. The company achieved total income of Rs 1,669.47 crore, while expens…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-27T18:56:43+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
         }
       ]
     },
@@ -1074,11 +1074,44 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] General Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about the grant of 54,100 Options to the eligible employees covered under the KPIT Technologies Limited - Restricted Stock Unit Plan 2022",
+          "title": "[NSE] Acquisition",
+          "summary": "KPIT Technologies Limited has informed the Exchange that the Board of Directors of the Company approved the proposal of incorporation of a wholly owned subsidiary of the Company in Vietnam.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-27T19:45:47+00:00",
+          "pubDate": "2026-10-28T13:28:05+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Sale or disposal",
+          "summary": "KPIT Technologies Limited has informed the Exchange that the Board of Directors of the Company approved the Strike-off of Somit Solutions Limited, wholly owned step-down subsidiary of the Company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-28T13:28:05+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Appointment",
+          "summary": "KPIT Technologies Limited has informed the Exchange regarding Appointment of Independent Director, Mr. Anant Talaulicar - Chairman of the Board, on the Board of KPIT Technologies Inc., material subsid",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-28T13:28:05+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Giving guarantees/indemnity/ becoming a surety for third party",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Issue of Letter of Comfort in favor of KPIT Technologies (UK) Limited, a wholly-owned subsidiary of the Company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-28T13:28:05+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1086,35 +1119,13 @@
         },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Post Earnings Conference Call of the Company is scheduled on Wednesday, October 28, 2026, at 17:30 Hrs. (IST). The details of the said call ar",
+          "summary": "KPIT Technologies Limited has informed the Exchange about the Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-21T17:31:30+00:00",
+          "pubDate": "2026-10-28T13:15:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-13T21:20:01+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "KPIT Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T16:06:46+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1187,17 +1198,6 @@
           }
         },
         {
-          "title": "Netweb Technologies shares: Multibagger stock jumps 780% against IPO price in 3 years; experts see more upside | Target",
-          "summary": "Netweb Technologies share price today opened upside at  ₹4,340 nd touched an intraday high of  ₹4,484.50 per share",
-          "link": "https://www.livemint.com/market/stock-market-news/netweb-technologies-shares-multibagger-stock-jumps-780-against-ipo-price-in-3-years-experts-see-more-upside-target-11793091172244.html",
-          "source": "livemint",
-          "pubDate": "2026-10-27T15:25:28+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1249,6 +1249,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "PG Electroplast Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-28T13:07:19+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "PG Electroplast Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"Advancing with Discipline and Confidence\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1287,17 +1298,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-24T13:41:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange regarding 'Outcome of Meeting of Board of Directors of Next Generation Manufacturers Private Limited ( NGM ) a Wholly Owned Step-Down Subsidiary of th",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-24T13:09:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1441,44 +1441,55 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] General Updates",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about execution of Long-Term Agreement with Honeywell Aerospace US LLC",
+          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T07:13:11+00:00",
+          "pubDate": "2026-10-27T22:38:41+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Please find the enclosed Monitoring Agency Report for the quarter ended September 30, 2026, issued by  Care Ratings Limited , the Monitoring Agency appointed to monitor the utilization of proceeds of ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-22T12:02:24+00:00",
+          "pubDate": "2026-10-27T22:32:20+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-10T11:56:55+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         },
         {
           "title": "[NSE] Press Release",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated October 01, 2026, titled \"Unimech Aerospace strengthens presence in Saudi Arabia s Oil & Gas marke",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"Unaudited Standalone and Consolidated Financial Results of the Company f",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-01T18:00:24+00:00",
+          "pubDate": "2026-10-27T22:29:12+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-27T22:22:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Cessation",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding Cessation of  Mr. Prathap B. Naidu as Senior Management of the Company w.e.f. November 01, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-27T22:13:36+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1500,17 +1511,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Top stocks to buy: Experts suggest BSE, GMR Airports, Nykaa, Zen Tech, and 2 others - Target price, stop-loss",
-          "summary": "Experts recommended six stocks for possible short-term gains, based on support levels, trend reversals and momentum signals; named picks include Nykaa, ICICI Prudential AMC and Zen Technologies.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-suggest-bse-gmr-airports-nykaa-zen-tech-and-2-others-target-price-stoploss-11793083427379.html",
-          "source": "livemint",
-          "pubDate": "2026-10-27T12:32:39+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.5
           }
         },
         {
