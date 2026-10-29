@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-29T09:16:56.055154+00:00",
+  "fetchedAt": "2026-10-29T18:46:52.517786+00:00",
   "tickerCount": 32,
-  "articleCount": 122,
+  "articleCount": 120,
   "overview": {
     "positive": 17,
-    "negative": 24,
-    "neutral": 81
+    "negative": 20,
+    "neutral": 83
   },
   "stocks": [
     {
@@ -41,17 +41,6 @@
           "link": "https://economictimes.indiatimes.com/industry/transportation/railways/jupiter-wagons-gets-rs-1140-crore-order-from-indian-railways/articleshow/135295713.cms",
           "source": "economictimes.indiatimes",
           "pubDate": "2026-10-29T13:05:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Jupiter Wagons share price rises fourth session straight; jumps 9% today; here's why | Check target, rationale",
-          "summary": "Jupiter Wagons shares opened at  ₹186.24 on NSE today, as compared to previous close of  ₹181.05 on Wednesday.",
-          "link": "https://www.livemint.com/market/stock-market-news/jupiter-wagons-share-price-rises-fourth-session-straight-jumps-9-today-heres-why-check-target-rationale-11793254615637.html",
-          "source": "livemint",
-          "pubDate": "2026-10-29T12:19:19+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -240,6 +229,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T19:22:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on November 21, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -270,17 +270,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T17:37:35+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -353,22 +342,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \" Coforge Introduces Autonomous Software Factory for the Era of Agentic Software Development. \".",
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Coforge Limited has informed the Exchange regarding Allotment of 24242  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-29T10:14:42+00:00",
+          "pubDate": "2026-10-29T16:47:47+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Transcript",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \" Coforge Introduces Autonomous Software Factory for the Era of Agentic Software Development. \".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-24T14:36:16+00:00",
+          "pubDate": "2026-10-29T10:14:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -735,44 +724,55 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "EPACK Durable Limited has informed the Exchange about Schedule of meet",
+          "title": "[NSE] Press Release",
+          "summary": "EPACK Durable Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"EPACK DURABLE LIMITED REPORTS Q2 FY27 FINANCIAL RESULTS\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T18:00:03+00:00",
+          "pubDate": "2026-10-29T20:43:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "EPACK Durable Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "title": "[NSE] Investor Presentation",
+          "summary": "EPACK Durable Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-13T12:42:28+00:00",
+          "pubDate": "2026-10-29T20:39:45+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
-          "title": "[NSE] Trading Window",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "EPACK Durable Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-25T17:58:41+00:00",
+          "pubDate": "2026-10-29T20:04:41+00:00",
           "sentiment": {
-            "label": "Negative",
-            "score": -1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "EPACK Durable Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding voting result",
+          "title": "[NSE] Agreements",
+          "summary": "EPACK Durable Limited has informed the Exchange about Share Purchase Agreement with RRWL for sale of its entire stake held in EPAVO Electricals Private Limited - Joint Venture Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-09-21T17:01:50+00:00",
+          "pubDate": "2026-10-29T19:58:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Closure of operations",
+          "summary": "EPACK Durable Limited has informed the Exchange about Initiation of Voluntary strike-off of two non-operational wholly owned subsidiaries of the Company i.e., Bumjin India Audio Products Private Limit",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T19:55:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -785,6 +785,17 @@
       "name": "Electronics Mart India",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T17:44:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Electronics Mart India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -813,17 +824,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-26T16:04:39+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-23T17:39:16+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -950,6 +950,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Schedule of Investor meet regarding Q2 & H1FY27 Earnings Call",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T18:06:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "IKIO Technologies Limited has informed the Exchange about Regulation 76, Reconciliation of Share Capital Audit Report under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -977,17 +988,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-09-24T16:27:43+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015   Plant Visit   Outcome",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-11T18:11:17+00:00",
           "sentiment": {
             "label": "Negative",
             "score": -1.0
@@ -1063,6 +1063,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Consolidated Financial Results for the quarter and half year ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T15:33:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1071,17 +1082,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "KPIT Technologies Q2FY27 results: Net profit declines 29% to ₹121 crore",
-          "summary": "KPIT Technologies reported a nearly 29 per cent decline in consolidated net profit to Rs 121 crore in the second quarter ended September, mainly on account of pressure on the automobile market from Chinese vehicle makers slowing down deals.\nThe compa…",
-          "link": "https://www.business-standard.com/companies/quarterly-results/kpit-technologies-q2fy27-results-net-profit-declines-29-to-121-crore-126102801760_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-28T23:35:54+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
           }
         },
         {
@@ -1109,17 +1109,6 @@
         {
           "title": "[NSE] Appointment",
           "summary": "KPIT Technologies Limited has informed the Exchange regarding Appointment of Independent Director, Mr. Anant Talaulicar - Chairman of the Board, on the Board of KPIT Technologies Inc., material subsid",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-28T13:28:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Giving guarantees/indemnity/ becoming a surety for third party",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Issue of Letter of Comfort in favor of KPIT Technologies (UK) Limited, a wholly-owned subsidiary of the Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-28T13:28:05+00:00",
@@ -1198,22 +1187,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency report for the quarter ended 30th September 2026",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-27T17:21:06+00:00",
+          "pubDate": "2026-10-29T16:03:54+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency report for the quarter ended 30th September 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T20:09:20+00:00",
+          "pubDate": "2026-10-27T17:21:06+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1236,17 +1225,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-24T17:07:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-24T16:54:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1452,6 +1430,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "In continuation of the disclosure submitted by the Company on October 27, 2026, regarding the acquisition of shares of Hobel Bellows Private Limited, and pursuant to Regulation 30 read with Part A of ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T18:55:05+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T17:57:47+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1479,28 +1479,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-27T22:32:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"Unaudited Standalone and Consolidated Financial Results of the Company f",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-27T22:29:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-27T22:22:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
