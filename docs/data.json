@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-28T18:38:48.437174+00:00",
+  "fetchedAt": "2026-10-29T09:16:56.055154+00:00",
   "tickerCount": 32,
   "articleCount": 122,
   "overview": {
-    "positive": 13,
-    "negative": 26,
-    "neutral": 83
+    "positive": 17,
+    "negative": 24,
+    "neutral": 81
   },
   "stocks": [
     {
@@ -15,24 +15,57 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"Please find the enclosed a copy of Press Release to be issued by the Company.\".",
+          "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Jupiter Wagons secures order for 2,583 BOXNHL and BOXNS wagons worth INR 1,140 crore from the",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-23T16:16:47+00:00",
+          "pubDate": "2026-10-29T09:06:10+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about securing order for 2,583 BOXNHL and BOXNS wagons worth INR 1,140 crore from the Ministry of Railways.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T09:02:29+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] General Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-23T16:10:22+00:00",
+          "title": "Jupiter Wagons gets Rs 1,140 crore order from Indian Railways",
+          "summary": "Jupiter Wagons Limited (JWL) has secured a Rs 1,140 crore order from Indian Railways to manufacture and supply 2,583 wagons. The company expects to secure additional orders worth around Rs 2,000 crore in the fourth quarter of the current financial ye…",
+          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/jupiter-wagons-gets-rs-1140-crore-order-from-indian-railways/articleshow/135295713.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-29T13:05:16+05:30",
           "sentiment": {
-            "label": "Neutral",
-            "score": 0
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Jupiter Wagons share price rises fourth session straight; jumps 9% today; here's why | Check target, rationale",
+          "summary": "Jupiter Wagons shares opened at  ₹186.24 on NSE today, as compared to previous close of  ₹181.05 on Wednesday.",
+          "link": "https://www.livemint.com/market/stock-market-news/jupiter-wagons-share-price-rises-fourth-session-straight-jumps-9-today-heres-why-check-target-rationale-11793254615637.html",
+          "source": "livemint",
+          "pubDate": "2026-10-29T12:19:19+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Jupiter Wagons shares rally 8% on Rs 1,140 crore Railway Board order",
+          "summary": "Jupiter Wagons shares rallied over 8% after securing a Rs 1,140 crore Railway Board order for 2,583 wagons. The company expects additional order inflows of around Rs 2,000 crore in Q4 FY27, supported by government and private-sector demand. Despite t…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-8-on-rs-1140-crore-railway-board-order/articleshow/135290681.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-10-29T10:22:45+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -54,6 +87,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Amendment in Contract from Ministry of Railways",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-10-29T13:38:44+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -62,17 +106,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of order worth Rs. 3.65 Crores (incl. taxes) from West Central Railway",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-03T12:03:11+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -95,17 +128,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-25T17:39:10+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -332,24 +354,13 @@
       "articles": [
         {
           "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 28, 2026, titled \" Coforge and Chippenham RFC Partner to Support Rugby, Cricket and Community Development. \".",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \" Coforge Introduces Autonomous Software Factory for the Era of Agentic Software Development. \".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-28T09:55:30+00:00",
+          "pubDate": "2026-10-29T10:14:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why",
-          "summary": "Till Tuesday in October 2026, the Nifty IT index outperformed the market and rallied 12%, compared to 0.05% decline in the Nifty 50.",
-          "link": "https://www.business-standard.com/markets/news/nifty-it-index-slips-4-infosys-tcs-coforge-tank-up-to-5-here-s-why-126102800478_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-10-28T12:01:35+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         },
         {
@@ -358,17 +369,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-24T14:36:16+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication- Statement of un-audited Financial Results for the Quarter & half year ended September 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-24T14:32:48+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
