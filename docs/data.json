@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-29T18:46:52.517786+00:00",
+  "fetchedAt": "2026-10-30T09:33:24.402056+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 118,
   "overview": {
-    "positive": 17,
+    "positive": 15,
     "negative": 20,
     "neutral": 83
   },
@@ -33,28 +33,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Jupiter Wagons gets Rs 1,140 crore order from Indian Railways",
-          "summary": "Jupiter Wagons Limited (JWL) has secured a Rs 1,140 crore order from Indian Railways to manufacture and supply 2,583 wagons. The company expects to secure additional orders worth around Rs 2,000 crore in the fourth quarter of the current financial ye…",
-          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/jupiter-wagons-gets-rs-1140-crore-order-from-indian-railways/articleshow/135295713.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-29T13:05:16+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "Jupiter Wagons shares rally 8% on Rs 1,140 crore Railway Board order",
-          "summary": "Jupiter Wagons shares rallied over 8% after securing a Rs 1,140 crore Railway Board order for 2,583 wagons. The company expects additional order inflows of around Rs 2,000 crore in Q4 FY27, supported by government and private-sector demand. Despite t…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-8-on-rs-1140-crore-railway-board-order/articleshow/135290681.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-10-29T10:22:45+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
