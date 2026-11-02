@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-02T10:29:27.641956+00:00",
+  "fetchedAt": "2026-11-02T22:06:15.771792+00:00",
   "tickerCount": 32,
-  "articleCount": 119,
+  "articleCount": 120,
   "overview": {
-    "positive": 16,
-    "negative": 19,
-    "neutral": 84
+    "positive": 20,
+    "negative": 17,
+    "neutral": 83
   },
   "stocks": [
     {
@@ -13,6 +13,28 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about securing orders worth over INR 324 crore from GATX India and Chetak International.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T16:38:06+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Jupiter Wagons bags Rs 324 crore orders from GATX India and Chetak International",
+          "summary": "Jupiter Wagons Ltd has obtained private sector orders worth over Rs 324 crore for automobile carrier wagons. GATX India issued a Letter of Intent for 10 rakes valued at Rs 214.94 crore. Chetak International placed an order for five rakes worth Rs 109…",
+          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/jupiter-wagons-bags-rs-324-crore-orders-from-gatx-india-and-chetak-international/articleshow/135466442.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-02T20:59:15+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Jupiter Wagons secures orders worth over INR 324 crore from GATX India and Chetak Internatio",
@@ -22,17 +44,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about securing order for 2,583 BOXNHL and BOXNS wagons worth INR 1,140 crore from the Ministry of Railways.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-29T09:02:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -145,6 +156,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Allotment of 2,41,750 Equity Shares under  AXISCADES ESOP 2018   Series 1 & 2  or  Scheme",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T18:17:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Acquisition",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a Subsidiary.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -172,17 +194,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-16T18:29:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"AXISCADES  XIDA to acquire Silicon Valley-based ITSJ business   a ready-made US base ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T09:12:40+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -319,6 +330,17 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Coforge among 4 stocks that hit 52-week highs and rallied up to 15% in a month",
+          "summary": "Four BSE 100 stocks, Coforge, Eternal, Indian Hotels Company and Kotak Mahindra Bank, touched fresh 52-week highs as the Sensex surged over 1,200 points. All four stocks also delivered positive returns over the past month.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-15-in-a-month/slideshow/135463866.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-02T19:01:31+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "Coforge, ICICI Bank, KPR Mill: 3 technical ideas by Choice Equity",
           "summary": "Sachin Gupta of Choice Equity Broking has recommended 3 stocks that could rally in the near term -- Coforge, ICICI Bank, and KPR Mill.",
@@ -499,17 +521,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -684,6 +695,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Product launch",
+          "summary": "E2E Networks Limited has informed the Exchange about Product launch",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T16:48:23+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"E2E Networks plans 5.4 MW NVIDIA Blackwell expansion of India s AI Factory\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -725,17 +747,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "E2E Networks Limited has informed the Exchange under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 Board comments on fine levied by the Exchange for non-",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T22:28:41+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -0.333
           }
         }
       ]
@@ -859,6 +870,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T17:21:27+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "In continuance of our earlier letter no. GRSE/BD-69/CA/14/25-26 dated 22 May 2025 on the subject matter  GRSE become L1 to NGC Project  and in terms of Regulation 30 and other applicable provisions of",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T16:40:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Change in Director(s)",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding Change in Director(s) of the company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -879,17 +912,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "We are submitting herewith the Compliance Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 received from M/s. Alankit Assignments Limited, the Registrar",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-07T15:42:12+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
         }
       ]
     },
@@ -899,55 +921,44 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T20:51:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Press release for the financial results for the quarter and half year ended September ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T20:46:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Ideaforge Technology Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T20:44:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T17:12:28+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Termination of Joint Venture Agreement between ideaForge Technology Inc.(wholly-owned subsidiary of ideaForge Technology Limited) and First Breach Inc.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-23T22:53:09+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 7467 securities pursuant to ESOP/ESPS at its meeting held on October 14, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-16T10:42:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation of Director/KMP/SMP",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T10:28:19+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Resignation",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding Resignation of Mr Nilesh Ranj as Company Secretary & Compliance Officer of the company w.e.f. December 25, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-14T20:39:48+00:00",
+          "pubDate": "2026-11-02T18:10:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1470,6 +1481,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-02T23:11:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "Zen Technologies shares rally 9% after Q2 profit rises 51% YoY, revenue nearly doubles",
           "summary": "Zen Technologies shares jumped 8.67% after the defence technology company reported a 51% YoY rise in Q2 net profit to Rs 90 crore, while revenue surged 98% to Rs 345 crore. The company recorded an order inflow of Rs 481.81 crore during the quarter, t…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-shares-rally-9-after-q2-profit-rises-51-yoy-revenue-nearly-doubles/articleshow/135445767.cms",
@@ -1519,17 +1541,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-31T16:56:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
-          "summary": "Zen Technologies Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-31T16:44:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
