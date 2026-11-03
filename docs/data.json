@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-02T22:06:15.771792+00:00",
+  "fetchedAt": "2026-11-03T10:26:26.884931+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 121,
   "overview": {
-    "positive": 20,
+    "positive": 23,
     "negative": 17,
-    "neutral": 83
+    "neutral": 81
   },
   "stocks": [
     {
@@ -104,6 +104,17 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Jindal Saw, JK Tyre, Titagarh Rail: 3 stocks show technical recovery signs",
+          "summary": "Anand James of Geojit Investments has recommended three stocks that show technical recovery signs: Jindal Saw, JK Tyre, and Titagarh Rail Systems",
+          "link": "https://www.business-standard.com/markets/news/jindal-saw-jk-tyre-titagarh-rail-3-stocks-show-technical-recovery-signs-126110300100_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-03T08:06:25+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Bagging/Receiving of orders/contracts",
@@ -331,22 +342,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Coforge among 4 stocks that hit 52-week highs and rallied up to 15% in a month",
-          "summary": "Four BSE 100 stocks, Coforge, Eternal, Indian Hotels Company and Kotak Mahindra Bank, touched fresh 52-week highs as the Sensex surged over 1,200 points. All four stocks also delivered positive returns over the past month.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-15-in-a-month/slideshow/135463866.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-02T19:01:31+05:30",
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \" Coforge Launches BridgeCX Real-Time Personalization Solution Built on Pega Customer Decision Hub a",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-03T10:44:44+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "Coforge, ICICI Bank, KPR Mill: 3 technical ideas by Choice Equity",
-          "summary": "Sachin Gupta of Choice Equity Broking has recommended 3 stocks that could rally in the near term -- Coforge, ICICI Bank, and KPR Mill.",
-          "link": "https://www.business-standard.com/markets/news/coforge-icici-bank-kpr-mill-3-technical-ideas-by-choice-equity-126110200057_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-11-02T08:06:03+05:30",
+          "title": "Stock Radar: Coforge stock hits fresh record high in October; will the rally continue in November 2026?",
+          "summary": "Coforge Ltd has achieved a fresh record high and has shown strong growth in recent weeks. The stock’s upward momentum suggests potential targets above 2,200 levels in the next few weeks. Analysts recommend a buy-on-dips strategy, maintaining a strict…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-radar-coforge-stock-hits-fresh-record-high-in-october-will-the-rally-continue-in-november-2026/articleshow/135464719.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-03T05:00:00+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -358,17 +369,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-29T16:47:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \" Coforge Introduces Autonomous Software Factory for the Era of Agentic Software Development. \".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-29T10:14:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -521,6 +521,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -581,14 +592,14 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Dixon Technologies shares gain 11% after Q2 revenue jumps 47% YoY",
-          "summary": "Dixon Technologies shares surged 11% after the company reported a 46.7% YoY rise in Q2FY27 revenue to Rs 21,794 crore. However, net profit fell 48.7% to Rs 343.7 crore, while EBITDA declined 37% to Rs 666 crore. EBITDA margin contracted to 3.1% from …",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-technologies-shares-gain-11-after-q2-revenue-jumps-47-yoy/articleshow/135449583.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-02T12:45:16+05:30",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-03T11:24:09+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -597,17 +608,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-31T19:32:44+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-30T20:32:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -630,17 +630,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-30T16:10:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Dixon Technologies (India) Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-30T16:07:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -870,6 +859,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "GRSE shares jump 9% after signing Rs 32,000 crore Indian Navy contract for five next-generation corvettes",
+          "summary": "GRSE shares surged nearly 9% after securing a Rs 32,000-crore Indian Navy contract to build five Next Generation Corvettes. The nine-year project will strengthen indigenous defence manufacturing, enhance maritime capabilities and reinforce GRSE's war…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-jump-9-after-signing-rs-32000-crore-indian-navy-contract-for-five-next-generation-corvettes/articleshow/135487819.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-03T13:11:59+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "GRSE jumps 9% on ₹53,866-crore deal; logs best one-day gain in 6 months",
+          "summary": "The Defence Ministry sealed ₹53,866 crore contracts worth with GRSE and Goa Shipyard Limited (GSL) to procure eight next-generation warships for the Indian Navy to bolster its combat prowess.",
+          "link": "https://www.business-standard.com/markets/news/grse-jumps-9-on-53-866-crore-deal-logs-best-one-day-gain-in-6-months-126110300678_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-03T12:48:40+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -920,6 +931,17 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "ideaForge shares jump 7% as firm swings to profit in Q2, revenue soars 124% YoY",
+          "summary": "ideaForge shares surged over 7% after the company reported a turnaround to a Q2 FY27 net profit of Rs 6.46 crore, while revenue jumped 124% year-on-year to Rs 91.29 crore. Improved operating performance and new defence technology milestones boosted i…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-shares-jump-7-as-firm-swings-to-profit-in-q2-revenue-soars-124-yoy/articleshow/135482709.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-03T10:28:54+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Investor Presentation",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
@@ -1489,17 +1511,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Zen Technologies shares rally 9% after Q2 profit rises 51% YoY, revenue nearly doubles",
-          "summary": "Zen Technologies shares jumped 8.67% after the defence technology company reported a 51% YoY rise in Q2 net profit to Rs 90 crore, while revenue surged 98% to Rs 345 crore. The company recorded an order inflow of Rs 481.81 crore during the quarter, t…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-shares-rally-9-after-q2-profit-rises-51-yoy-revenue-nearly-doubles/articleshow/135445767.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-02T10:23:44+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
