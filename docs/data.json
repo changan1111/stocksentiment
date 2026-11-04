@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-03T19:57:16.595303+00:00",
+  "fetchedAt": "2026-11-04T10:23:24.425253+00:00",
   "tickerCount": 32,
-  "articleCount": 120,
+  "articleCount": 115,
   "overview": {
-    "positive": 19,
+    "positive": 15,
     "negative": 17,
-    "neutral": 84
+    "neutral": 83
   },
   "stocks": [
     {
@@ -15,10 +15,10 @@
       "articles": [
         {
           "title": "[NSE] General Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about incorporation of a Subsidiary Company in India",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Receipt of order for supply of 3 Railway Rakes-BFNS22.9T Wagons and Brake Van from Balmer Lawrie and Company Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-03T21:12:36+00:00",
+          "pubDate": "2026-11-04T14:23:04+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -93,17 +93,6 @@
       "name": "Titagarh Rail Systems",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Jindal Saw, JK Tyre, Titagarh Rail: 3 stocks show technical recovery signs",
-          "summary": "Anand James of Geojit Investments has recommended three stocks that show technical recovery signs: Jindal Saw, JK Tyre, and Titagarh Rail Systems",
-          "link": "https://www.business-standard.com/markets/news/jindal-saw-jk-tyre-titagarh-rail-3-stocks-show-technical-recovery-signs-126110300100_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-11-03T08:06:25+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Bagging/Receiving of orders/contracts",
@@ -372,10 +361,10 @@
       "articles": [
         {
           "title": "[NSE] Allotment of Securities",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding allotment of 7683981 securities pursuant to Qualified Institution Placement at its meeting held on October 26, 2026",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding allotment of 700000 securities pursuant to Non Convertible Securities at its meeting held on November 04, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T23:25:38+00:00",
+          "pubDate": "2026-11-04T15:09:23+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -383,32 +372,10 @@
         },
         {
           "title": "[NSE] Committee Meeting Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 26, 2026.",
+          "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on November 04, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-26T23:21:37+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Persistent Systems Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-23T20:43:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Credit Rating",
-          "summary": "Persistent Systems Limited has informed the Exchange about Credit Rating",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-22T23:01:42+00:00",
+          "pubDate": "2026-11-04T15:04:42+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -421,6 +388,17 @@
       "name": "Red Tape",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Redtape Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-04T13:29:29+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Redtape Limited has informed the Exchange about Schedule of meet",
@@ -463,17 +441,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Spurt in Volume",
-          "summary": "Significant increase in volume has been observed in Redtape Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place s",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-16T10:41:55+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -520,6 +487,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -859,28 +837,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "GRSE shares jump 9% after signing Rs 32,000 crore Indian Navy contract for five next-generation corvettes",
-          "summary": "GRSE shares surged nearly 9% after securing a Rs 32,000-crore Indian Navy contract to build five Next Generation Corvettes. The nine-year project will strengthen indigenous defence manufacturing, enhance maritime capabilities and reinforce GRSE's war…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-jump-9-after-signing-rs-32000-crore-indian-navy-contract-for-five-next-generation-corvettes/articleshow/135487819.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-03T13:11:59+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "GRSE jumps 9% on ₹53,866-crore deal; logs best one-day gain in 6 months",
-          "summary": "The Defence Ministry sealed ₹53,866 crore contracts worth with GRSE and Goa Shipyard Limited (GSL) to procure eight next-generation warships for the Indian Navy to bolster its combat prowess.",
-          "link": "https://www.business-standard.com/markets/news/grse-jumps-9-on-53-866-crore-deal-logs-best-one-day-gain-in-6-months-126110300678_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-11-03T12:48:40+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -932,14 +888,25 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "ideaForge shares jump 7% as firm swings to profit in Q2, revenue soars 124% YoY",
-          "summary": "ideaForge shares surged over 7% after the company reported a turnaround to a Q2 FY27 net profit of Rs 6.46 crore, while revenue jumped 124% year-on-year to Rs 91.29 crore. Improved operating performance and new defence technology milestones boosted i…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-shares-jump-7-as-firm-swings-to-profit-in-q2-revenue-soars-124-yoy/articleshow/135482709.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-03T10:28:54+05:30",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-04T09:25:50+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "ideaForge Technology shares: Drone stock jumps 5%; delivers 48% YTD returns | Should you buy after Q2 Results 2026?",
+          "summary": "ideaForge Technology shares: The drone market stock swing to profitable zone after reporting a net loss of  ₹in the same quarter last year",
+          "link": "https://www.livemint.com/market/stock-market-news/ideaforge-technology-shares-drone-stock-jumps-5-delivers-48-ytd-returns-should-you-buy-after-q2-results-2026-11793768283676.html",
+          "source": "livemint",
+          "pubDate": "2026-11-04T11:01:51+05:30",
           "sentiment": {
             "label": "Positive",
-            "score": 1.0
+            "score": 0.6
           }
         },
         {
@@ -970,17 +937,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-02T20:44:31+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T18:10:21+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1250,10 +1206,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange about Link of Recording",
+          "summary": "PG Electroplast Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-28T13:07:19+00:00",
+          "pubDate": "2026-11-04T10:43:53+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1291,17 +1247,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Resignation of Statutory Auditor",
-          "summary": "PG Electroplast Limited has informed the Exchange about Resignation of Statutory Auditor",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-24T13:41:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1316,6 +1261,17 @@
       "name": "Saksoft",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Saksoft Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-04T13:53:23+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Saksoft Limited has informed the Exchange about Schedule of meet",
@@ -1358,17 +1314,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Amalgamation/Merger",
-          "summary": "Saksoft Limited has informed the Exchange about Amalgamation/Merger",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T16:25:40+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1492,6 +1437,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-04T12:41:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1530,17 +1486,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-01T18:42:15+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Grant of 12000  Options.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-31T16:56:06+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
