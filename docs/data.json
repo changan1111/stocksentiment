@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-04T20:15:02.348865+00:00",
+  "fetchedAt": "2026-11-05T10:17:18.509044+00:00",
   "tickerCount": 32,
   "articleCount": 113,
   "overview": {
     "positive": 13,
-    "negative": 14,
-    "neutral": 86
+    "negative": 10,
+    "neutral": 90
   },
   "stocks": [
     {
@@ -43,6 +43,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Change in Management",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Reappointment of Director",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-05T15:02:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Change in Director(s)",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-05T14:59:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Texmaco Rail & Engineering Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-05T14:52:03+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -62,28 +95,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Amendment in Contract from Ministry of Railways",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-29T13:38:44+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-07T16:14:32+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -320,17 +331,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Diwali 2026: Stocks to buy for Samvat 2083: Adani Energy, Coforge, PNB, Zydus, KDDL - 5 shares for Muhurat Trading",
-          "summary": "Nuvama Wealth sees improving prospects for Indian equities in Samvat 2083, citing attractive valuations, bearish foreign-investor positioning and potential global and domestic catalysts. Its Diwali picks are Adani Energy Solutions, Coforge, KDDL, Pun…",
-          "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-stocks-to-buy-for-samvat-2083-adani-energy-coforge-pnb-zydus-kddl-5-shares-for-muhurat-trading-11793785141234.html",
-          "source": "livemint",
-          "pubDate": "2026-11-04T16:06:29+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \" Coforge Launches BridgeCX Real-Time Personalization Solution Built on Pega Customer Decision Hub a",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -389,6 +389,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Redtape Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-05T11:53:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Redtape Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -430,17 +441,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Redtape Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T16:24:40+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -487,6 +487,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -753,6 +764,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-05T14:16:11+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Electronics Mart India Limited has informed the exchange regarding the press release dated 05th November 2026 for the un-audited financial results for the second quarter and first half year ended 30th",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-05T13:50:59+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Electronics Mart India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-05T13:26:33+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -769,39 +813,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-29T17:44:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T18:03:40+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Trading Window",
-          "summary": "Electronics Mart India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-30T17:26:25+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Electronics Mart India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 25, 2026. Further, the company has informed the Exchange regarding voti",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-09-26T16:04:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1403,17 +1414,6 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
-          "summary": "India’s defence localisation push is drawing attention to private-sector companies alongside established public-sector firms. Analysts highlight MTAR Technologies, Zen Technologies, Astra Microwave, Data Patterns and Apollo Micro Systems",
-          "link": "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html",
-          "source": "livemint",
-          "pubDate": "2026-11-04T21:52:30+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
         {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring Agency Report for the quarter ended September 30, 2026",
