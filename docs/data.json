@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-05T20:28:07.603620+00:00",
+  "fetchedAt": "2026-11-06T10:19:56.620897+00:00",
   "tickerCount": 32,
-  "articleCount": 112,
+  "articleCount": 119,
   "overview": {
-    "positive": 14,
-    "negative": 8,
-    "neutral": 90
+    "positive": 16,
+    "negative": 7,
+    "neutral": 96
   },
   "stocks": [
     {
@@ -269,6 +269,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication for the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-06T11:22:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -300,17 +311,6 @@
             "label": "Positive",
             "score": 1.0
           }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Agreements",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T20:28:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -320,6 +320,50 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-06T12:55:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Coforge Joins SpaceX Super Intelligence Partner Network to Take Grok into Enterprise Production\".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-06T12:53:27+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Coforge joins SpaceX partner network to deploy Grok solutions for clients",
+          "summary": "The Indian IT services firm will develop industry-specific applications using SpaceX's Grok AI portfolio and integrate them into clients' existing systems through its engineering unit Momentuum Blue",
+          "link": "https://www.business-standard.com/companies/news/coforge-joins-spacex-partner-network-to-deploy-grok-solutions-for-clients-126110600851_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-06T14:19:11+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Stock Radar: Coforge stock hits fresh record high in November 2026; will the rally continue?",
+          "summary": "Coforge Ltd has successfully broken out of a lengthy consolidation phase that lasted over two months. The stock now shows potential targets above the 2,200 levels in the upcoming weeks. Key support levels are established, with immediate support at 1,…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-radar-coforge-stock-hits-fresh-record-high-in-november-2026-will-the-rally-continue/articleshow/135574557.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-06T05:00:00+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Shareholders meeting",
           "summary": "Coforge Limited has informed the Exchange regarding Notice of Postal Ballot",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -328,17 +372,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \" Coforge Launches BridgeCX Real-Time Personalization Solution Built on Pega Customer Decision Hub a",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-03T10:44:44+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -498,6 +531,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -877,6 +921,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring agency report for the quarter ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-06T10:46:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Link of Recording",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -928,6 +983,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended September 30, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-06T12:53:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "IKIO Technologies Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-06T11:33:24+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Appointment",
           "summary": "IKIO Technologies Limited has informed the Exchange regarding Appointment of  SHIV SAROJ & ASSOCIATES, CHARTERED ACCOUNTANTS as an Internal Auditor of the company w.e.f. November 05, 2026. (FROM 1ST O",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -955,28 +1032,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-29T18:06:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Regulation 76, Reconciliation of Share Capital Audit Report under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T14:25:59+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of Securities and Exchange Board of India (LODR) Regulations, 2015   Execution of Vendor Exclusivity Under",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-08T16:25:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1143,6 +1198,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Netweb Technologies share price: AI Stock cracks over 7% today, down 15% in 7 days - here's why; still a stock to buy?",
+          "summary": "Netweb Technologies shares fell for a seventh consecutive session on Friday, dropping over 15% in seven sessions amid a global tech sell-off, valuation concerns and slightly lower profit margins. The decline came despite sharp Q2 earnings growth and …",
+          "link": "https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-ai-stock-cracks-over-7-today-down-15-in-7-days-heres-why-still-a-stock-to-buy-11793937702205.html",
+          "source": "livemint",
+          "pubDate": "2026-11-06T09:51:15+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.2
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1250,6 +1316,17 @@
       "name": "Saksoft",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication of  the Q2 Financial Results",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-06T11:12:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Saksoft Limited has informed the Exchange about Link of Recording",
