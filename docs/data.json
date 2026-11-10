@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-10T10:44:31.721056+00:00",
+  "fetchedAt": "2026-11-10T20:11:35.651184+00:00",
   "tickerCount": 32,
-  "articleCount": 114,
+  "articleCount": 113,
   "overview": {
-    "positive": 13,
-    "negative": 5,
-    "neutral": 96
+    "positive": 12,
+    "negative": 4,
+    "neutral": 97
   },
   "stocks": [
     {
@@ -105,6 +105,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-10T21:04:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Announcement under Regulation 30 (LODR)-Monitoring Agency Report for the quarter ended 30.09.2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-10T21:02:52+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-10T20:47:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -124,28 +157,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-06T13:29:37+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding votin",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-01T17:01:47+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -510,17 +521,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -787,10 +787,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
+          "summary": "Electronics Mart India Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-06T16:22:01+00:00",
+          "pubDate": "2026-11-10T18:04:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -813,17 +813,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-05T14:16:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Electronics Mart India Limited has informed the exchange regarding the press release dated 05th November 2026 for the un-audited financial results for the second quarter and first half year ended 30th",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T13:50:59+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
