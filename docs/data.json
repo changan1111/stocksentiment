@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-10T20:11:35.651184+00:00",
+  "fetchedAt": "2026-11-11T10:14:39.284319+00:00",
   "tickerCount": 32,
   "articleCount": 113,
   "overview": {
-    "positive": 12,
+    "positive": 13,
     "negative": 4,
-    "neutral": 97
+    "neutral": 96
   },
   "stocks": [
     {
@@ -42,6 +42,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Investor Presentation for the quarter and half year ended 30th September, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-11T09:57:08+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Orders worth Rs. 428.55 Crores in aggregate (incl. taxes) from Ultratech Cement Ltd, Jujhar Logistics & Travels Ltd and AP",
@@ -81,17 +92,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-05T14:52:03+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-04T18:54:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -826,6 +826,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Integrated Filing- Financial",
+          "summary": "Unaudited Financial Results along with the Limited Review Report for the Quarter and Half Year Ended 30th September, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-11T15:36:49+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-11T14:47:22+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Bagging/Receiving of orders/contracts",
           "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -857,17 +879,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Structural Digital Database",
-          "summary": "Pursuant to the provisions of Regulation 3(5) and 3(6) of Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 (PIT Regulations), we are submitting herewith the Co",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-07T15:46:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -876,6 +887,17 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-11T11:56:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Monitoring Agency Report",
           "summary": "Monitoring agency report for the quarter ended September 30, 2026",
@@ -888,44 +910,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-04T09:25:50+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Investor Presentation",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-02T20:51:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Ideaforge Technology Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Press release for the financial results for the quarter and half year ended September ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T20:46:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Ideaforge Technology Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T20:44:31+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1001,6 +990,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange regarding change in Corporate Office Address of Registrar and Share Transfer Agent of the Company",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-11T12:06:20+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1028,17 +1028,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-27T17:00:24+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-27T16:53:26+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1153,6 +1142,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "AI stock Nvidia crashed but Netweb Technologies shares jumped 8% today after falling 13% in 1 month? Reasons; target",
+          "summary": "Netweb Technologies shares rose as much as 7.8% on Wednesday, supported by a broader IT-sector rebound and record Q2 FY27 revenue and profit. The company reported strong sequential growth and a  ₹2,629 crore order book.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/ai-stock-nvidia-crashed-but-netweb-technologies-shares-jumped-8-today-after-falling-13-in-1-month-reasons-target-11794375606908.html",
+          "source": "livemint",
+          "pubDate": "2026-11-11T11:30:32+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Transcript",
