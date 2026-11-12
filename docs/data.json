@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-12T10:36:20.974597+00:00",
+  "fetchedAt": "2026-11-12T20:38:11.784667+00:00",
   "tickerCount": 32,
-  "articleCount": 117,
+  "articleCount": 114,
   "overview": {
-    "positive": 20,
+    "positive": 19,
     "negative": 3,
-    "neutral": 94
+    "neutral": 92
   },
   "stocks": [
     {
@@ -116,6 +116,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-12T16:26:25+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -157,17 +168,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Bagging/Receiving of orders/contracts",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-28T18:44:53+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -229,44 +229,44 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-11T19:15:10+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'Receipt of Reclassification Request from Mr. Bhaskar Srinivasan'.",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding 'Outcome of Board Meeting relating to the Reclassification Request of Mr. Bhaskar Srinivasan'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-03T17:08:27+00:00",
+          "pubDate": "2026-11-12T23:12:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding Allotment of 16138  Shares.",
+          "title": "[NSE] Investor Presentation",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-30T18:21:16+00:00",
+          "pubDate": "2026-11-12T22:59:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Press Release",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated November 12, 2026, titled \"Press Release for the Quarter and Half Year ended September 30,2026\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-29T19:22:16+00:00",
+          "pubDate": "2026-11-12T22:56:26+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Outcome of Board Meeting",
+          "summary": "Avalon Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on November 12, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-12T22:43:19+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -456,10 +456,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Redtape Limited has informed the Exchange about Link of Recording",
+          "summary": "Redtape Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-05T17:04:11+00:00",
+          "pubDate": "2026-11-12T17:03:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -497,17 +497,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Redtape Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-04T13:29:29+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -535,6 +524,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-12T16:52:45+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Cyient Dlm Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -543,39 +543,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T13:25:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-17T16:34:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -893,6 +860,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Maritime PSU face-off: SCI vs GRSE - Which PSU stock to buy after Q2 results? Profit, dividend, and technical targets",
+          "summary": "Shipping Corporation of India’s Q2 FY27 net profit rose 205% to  ₹577.76 crore, while Garden Reach Shipbuilders &amp;amp; Engineers’ profit increased 12% to  ₹172 crore. Both PSU stocks rallied recently, with analysts noting recovery signals in SCI a…",
+          "link": "https://www.livemint.com/market/stock-market-news/maritime-psu-face-off-shipping-corporation-vs-garden-reach-stock-to-buy-q2-results-profit-dividend-technical-target-11794482491171.html",
+          "source": "livemint",
+          "pubDate": "2026-11-12T16:59:39+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "GRSE shares rise 2% after Q2 net profit climbs 12% YoY",
           "summary": "GRSE shares rose on Thursday after the defence shipbuilder reported a 12% year-on-year increase in Q2 FY27 net profit to Rs 171.97 crore. Revenue grew 9% to Rs 1,827 crore, while EBITDA rose 13%. The company also highlighted key project milestones an…",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-rises-2-after-q2-net-profit-climbs-12-yoy/articleshow/135756386.cms",
@@ -1108,6 +1086,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-12T16:20:13+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "KPIT Technologies Limited has informed the Exchange regarding 'change in the address of the Corporate Office of the KFin Technologies Limited, Registrar and Share Transfer Agent with effect from Decem",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1119,33 +1108,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Transcript of the Post Earnings Conference call for the quarter ended September 30, 2026, conducted on October 28, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-03T22:07:58+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Cessation",
           "summary": "KPIT Technologies Limited has informed the Exchange that Prof. Rajiv Lal (DIN: 09360601) completed his 2nd term as an Independent Director of the Company on October 31, 2026, and consequently he has c",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-31T18:25:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Consolidated Financial Results for the quarter and half year ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-29T15:33:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
