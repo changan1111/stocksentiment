@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-11T19:59:28.075979+00:00",
+  "fetchedAt": "2026-11-12T10:36:20.974597+00:00",
   "tickerCount": 32,
-  "articleCount": 115,
+  "articleCount": 117,
   "overview": {
-    "positive": 15,
+    "positive": 20,
     "negative": 3,
-    "neutral": 97
+    "neutral": 94
   },
   "stocks": [
     {
@@ -331,22 +331,44 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "MSCI rejig: LIC, Meesho, Coforge set to gain from index inclusion. How much inflows could they attract?",
+          "summary": "MSCI’s November index rejig will add LIC, Coforge, Meesho and Adani Green to its Standard Index, while removing PI Industries. Nuvama estimates the changes could trigger around $2 billion in passive inflows into Indian equities. Several stocks will a…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-lic-meesho-coforge-set-to-gain-from-index-inclusion-how-much-inflows-could-they-attract/articleshow/135753338.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-12T08:40:22+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Stocks to watch: Bajaj Finance, GRSE, LIC, Meesho, ITC, Tata Investment",
+          "summary": "Stocks to watch today: Bajaj Finance, Tata Power, LIC, Meesho, Coforge, Garden Reach, Cochin Shipyard, Bajaj Hindustan Sugar, ITC, among others, will be in focus today.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-bajaj-finance-grse-lic-meesho-itc-tata-investment-126111200073_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-12T08:14:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "MSCI Nov rejig: LIC, Adani Green, Meesho among 4 additions; PI Inds exits",
+          "summary": "According to Nuvama Alternative & Quantitative Research, Coforge is expected to see the highest inflows worth $630 million, followed by LIC at $468 million.",
+          "link": "https://www.business-standard.com/markets/news/msci-november-2026-rejig-lic-adani-green-meesho-among-4-additions-pi-inds-exits-126111200074_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-12T08:11:35+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-11T23:23:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "MSCI Rejig: Adani Green, LIC, Coforge, Meesho shares set to enter India Standard Index; ICICI Life, PI Industries out?",
-          "summary": "Nuvama expects Coforge, LIC, Adani Green Energy and Meesho to join the MSCI Global Standard Index in November 2026, potentially attracting about $1.7 billion in passive inflows. ICICI Prudential Life Insurance and PI Industries may be removed, with e…",
-          "link": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-green-lic-coforge-meesho-shares-set-to-enter-india-standard-index-icici-life-pi-industries-out-11794390119879.html",
-          "source": "livemint",
-          "pubDate": "2026-11-11T15:49:55+05:30",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -544,6 +566,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -552,6 +585,17 @@
       "name": "DCX Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Dcx Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-12T15:25:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Dcx Systems Limited has informed the Exchange regarding 'Investor Presentation '.",
@@ -583,17 +627,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "summary": "Dcx Systems Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-09T16:37:39+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -707,6 +740,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about securing approximately 12.8 MW of additional data centre capacity over and above the Company's existing data centre capacity of approximately 14.6 ",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-12T14:05:39+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Product launch",
           "summary": "E2E Networks Limited has informed the Exchange about Product launch",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -745,17 +789,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-21T16:25:25+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "E2E Networks Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-17T14:17:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -860,6 +893,39 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "GRSE shares rise 2% after Q2 net profit climbs 12% YoY",
+          "summary": "GRSE shares rose on Thursday after the defence shipbuilder reported a 12% year-on-year increase in Q2 FY27 net profit to Rs 171.97 crore. Revenue grew 9% to Rs 1,827 crore, while EBITDA rose 13%. The company also highlighted key project milestones an…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-rises-2-after-q2-net-profit-climbs-12-yoy/articleshow/135756386.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-12T10:50:40+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "GRSE stock gains 2% despite Q2 results miss; here's what brokerages suggest",
+          "summary": "Elara Capital said that margins surprised positively, likely led by execution mix, even though growth on the sales front was subdued, likely due to slower execution.",
+          "link": "https://www.business-standard.com/markets/news/navratna-psu-defence-stock-grse-gains-2-despite-q2-results-miss-here-s-what-brokerages-suggest-126111200217_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-12T09:55:05+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+          }
+        },
+        {
+          "title": "Stocks to watch: Bajaj Finance, GRSE, LIC, Meesho, ITC, Tata Investment",
+          "summary": "Stocks to watch today: Bajaj Finance, Tata Power, LIC, Meesho, Coforge, Garden Reach, Cochin Shipyard, Bajaj Hindustan Sugar, ITC, among others, will be in focus today.",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-bajaj-finance-grse-lic-meesho-itc-tata-investment-126111200073_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-12T08:14:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Press Release",
           "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange regarding a press release dated November 11, 2026, titled \"Press Release   Performance Review of Q2 & H1 FY27 - GRSE Strengthens",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -951,22 +1017,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "IKIO: IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication for the Q2 & H1FY27",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "IKIO: IKIO Technologies Limited has informed the Exchange about Transcript of Q2 & H1FY27 Results Conference Call",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-07T12:28:18+00:00",
+          "pubDate": "2026-11-12T12:06:50+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "IKIO: IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication for the Q2 & H1FY27",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-06T15:59:43+00:00",
+          "pubDate": "2026-11-07T12:28:18+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -993,17 +1059,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Appointment",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding Appointment of  SHIV SAROJ & ASSOCIATES, CHARTERED ACCOUNTANTS as an Internal Auditor of the company w.e.f. November 05, 2026. (FROM 1ST O",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T19:27:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1012,6 +1067,17 @@
       "name": "JSW Infrastructure",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "JSW Infrastructure Limited has informed the Exchange about Schedule of Institutional Investors meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-12T11:55:31+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "JSW Infrastructure Limited has informed the Exchange regarding change in Corporate Office Address of Registrar and Share Transfer Agent of the Company",
@@ -1024,33 +1090,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "JSW Infrastructure Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-30T17:40:06+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "JSW Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-28T13:10:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended 30th September, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-27T17:00:24+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1166,11 +1210,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "AI stock Nvidia crashed but Netweb Technologies shares jumped 8% today after falling 13% in 1 month? Reasons; target",
-          "summary": "Netweb Technologies shares rose as much as 7.8% on Wednesday, supported by a broader IT-sector rebound and record Q2 FY27 revenue and profit. The company reported strong sequential growth and a  ₹2,629 crore order book.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/ai-stock-nvidia-crashed-but-netweb-technologies-shares-jumped-8-today-after-falling-13-in-1-month-reasons-target-11794375606908.html",
+          "title": "Netweb Technologies share price rebounds over 13% in four sessions after long downtrend: Relief rally or trend reversal?",
+          "summary": "Netweb Technologies shares rose over 3% on Thursday, extending a four-session rebound of more than 13%. The company reported Q2 FY27 profit of  ₹136.7 crore and revenue of  ₹1,323.3 crore, while its  ₹2,629 crore order book and strong AI infrastructu…",
+          "link": "https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-rebounds-over-13-in-four-sessions-after-long-downtrend-relief-rally-or-trend-reversal-11794466462093.html",
           "source": "livemint",
-          "pubDate": "2026-11-11T11:30:32+05:30",
+          "pubDate": "2026-11-12T12:47:43+05:30",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -1229,10 +1273,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "PG Electroplast Limited has informed the Exchange about Transcript",
+          "summary": "PG Electroplast Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-04T10:43:53+00:00",
+          "pubDate": "2026-11-12T12:13:52+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1259,17 +1303,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "PG Electroplast Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-27T19:25:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1285,22 +1318,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication of  the Q2 Financial Results",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Saksoft Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-06T11:12:49+00:00",
+          "pubDate": "2026-11-12T14:31:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Saksoft Limited has informed the Exchange about Link of Recording",
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication of  the Q2 Financial Results",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-05T16:32:42+00:00",
+          "pubDate": "2026-11-06T11:12:49+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1326,17 +1359,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Saksoft Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-04T13:53:23+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
