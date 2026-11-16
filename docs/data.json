@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-16T10:35:22.132856+00:00",
+  "fetchedAt": "2026-11-16T22:43:23.605716+00:00",
   "tickerCount": 32,
-  "articleCount": 107,
+  "articleCount": 102,
   "overview": {
-    "positive": 10,
+    "positive": 9,
     "negative": 1,
-    "neutral": 96
+    "neutral": 92
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-16T17:25:32+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -41,17 +52,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T18:24:05+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report(s) for the quarter ended 30th September, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-13T18:04:07+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -106,10 +106,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Link of Recording",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-13T19:15:46+00:00",
+          "pubDate": "2026-11-16T19:20:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -136,17 +136,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-10T21:04:20+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -155,6 +144,17 @@
       "name": "Axiscades Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-16T20:07:06+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
@@ -183,28 +183,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T18:21:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-11T17:26:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Allotment of Securities",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange regarding Allotment of 2,41,750 Equity Shares under  AXISCADES ESOP 2018   Series 1 & 2  or  Scheme",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T18:17:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -521,17 +499,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -592,6 +559,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Agreements",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about execution of an Asset Purchase Agreement between Dixon Technologies (India) Limited and Vimal Plast (India) Private Limited",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-16T20:14:56+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-16T17:44:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Allotment of Securities",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding allotment of 37750 securities pursuant to ESOP/ESPS at its meeting held on November 05, 2026",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -603,33 +592,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T16:36:21+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Change in Corporate Office Address of RTA with effect from 01st December 2026'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-03T17:30:12+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about copy of newspaper publication of Unaudited Financial Results (standalone & consolidated) of the Company for the quarter and half year",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-31T19:32:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1031,10 +998,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
+          "summary": "KPIT Technologies Limited has informed the Exchange about Outcome",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-12T16:20:13+00:00",
+          "pubDate": "2026-11-16T20:00:01+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1050,17 +1017,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Cessation",
-          "summary": "KPIT Technologies Limited has informed the Exchange that Prof. Rajiv Lal (DIN: 09360601) completed his 2nd term as an Independent Director of the Company on October 31, 2026, and consequently he has c",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-31T18:25:33+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -1070,22 +1026,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring Agency Report for the quarter ended September 30, 2026.",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-14T17:55:28+00:00",
+          "pubDate": "2026-11-16T20:39:55+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet(s).",
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended September 30, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-13T15:50:05+00:00",
+          "pubDate": "2026-11-14T17:55:28+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1100,17 +1056,6 @@
           "sentiment": {
             "label": "Negative",
             "score": -1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Nazara Technologies Limited informs the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-28T17:28:59+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -1258,6 +1203,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Link of Audio Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-16T16:52:44+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "TVS Supply Chain Solutions shares jump 17% after Q2 results, surge 24% in 2 weeks; what lies ahead? Key levels to watch",
           "summary": "TVS Supply Chain Solutions shares surged 17% after Q2 FY27 revenue rose 38% year on year to  ₹3,687.2 crore and net profit more than doubled to  ₹36.5 crore. The company cited broad-based growth, operational improvements and strong new-business wins.",
           "link": "https://www.livemint.com/market/stock-market-news/tvs-supply-chain-solutions-shares-jump-17-after-q2-results-surge-24-in-2-weeks-what-lies-ahead-key-levels-to-watch-11794812073703.html",
@@ -1307,17 +1263,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T20:12:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "TVS Supply Chain Solutions Limited has submitted to the Exchange, the Unaudited Standalone and Consolidated financial results for the quarter and halfyear ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-13T19:34:38+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
