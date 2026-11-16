@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-13T20:17:47.948905+00:00",
+  "fetchedAt": "2026-11-16T10:35:22.132856+00:00",
   "tickerCount": 32,
-  "articleCount": 110,
+  "articleCount": 107,
   "overview": {
-    "positive": 12,
+    "positive": 10,
     "negative": 1,
-    "neutral": 97
+    "neutral": 96
   },
   "stocks": [
     {
@@ -13,6 +13,17 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-14T11:57:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Investor Presentation",
           "summary": "Jupiter Wagons Limited has informed the Exchange about Investor Presentation",
@@ -45,17 +56,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Jupiter Wagons Limited has submitted to the Exchange, the outcome of the Board Meeting  dated 13th November, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-13T17:35:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -64,6 +64,17 @@
       "name": "Texmaco Rail",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-14T19:56:45+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Link of Recording",
@@ -81,39 +92,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-11T09:57:08+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Orders worth Rs. 428.55 Crores in aggregate (incl. taxes) from Ultratech Cement Ltd, Jujhar Logistics & Travels Ltd and AP",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T21:25:38+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Change in Management",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Reappointment of Director",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T15:02:46+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Change in Director(s)",
-          "summary": "Texmaco Rail & Engineering Limited has informed the Exchange regarding Change in Director(s) of the company.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T14:59:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -178,6 +156,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-15T18:19:01+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "AXISCADES Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -219,17 +208,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Acquisition",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Incorporation of a Subsidiary.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-31T21:35:41+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -341,39 +319,6 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "MSCI rejig: Which stocks may see the biggest inflows &amp; outflows?",
-          "summary": "In a significant update, MSCI has revealed modifications to its indices, impacting several Indian stocks starting November 30. This shift is predicted to boost India's representation within the MSCI Emerging Markets Index. Notable stocks like Coforge…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-13T11:36:12+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "LIC, Meesho, Coforge stocks on radar amid MSCI Nov rejig; what charts say?",
-          "summary": "Hitesh Tailor of Choice Broking sees a favourable chart setup for Coforge and Meesho, while flagging that the LIC stock seems trapped in a trading range.",
-          "link": "https://www.business-standard.com/markets/news/lic-meesho-coforge-stocks-amid-msci-nov-rejig-what-charts-say-technical-analysis-126111300450_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-11-13T10:23:58+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "MSCI adds LIC, Coforge, Adani Green and Meesho to Emerging Markets Index",
-          "summary": "MSCI will include Life Insurance Corporation of India, Coforge, Adani Green Energy, and Meesho in its index. The changes will take effect on November 30, with passive inflows expected for these new additions. PI Industries will be excluded, leading t…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-adds-lic-coforge-adani-green-meesho-to-index/articleshow/135785129.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-13T05:40:06+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
@@ -523,6 +468,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Resignation of Director/KMP/SMP",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-14T19:41:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Cyient Dlm Limited has informed the Exchange regarding a press release dated November 14, 2026, titled \"Please find the  enclosed press release on Hindustan Shipyard Limited Signing an MOU \".",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-14T11:00:46+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Change in Management",
           "summary": "Cyient Dlm Limited has informed the Exchange about change in Management",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -553,6 +520,17 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         }
       ]
@@ -706,6 +684,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "E2E Networks Limited has informed the Exchange regarding Grant of 78564  Options.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-16T13:25:30+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Credit Rating- Revision",
           "summary": "E2E Networks Limited has informed the Exchange about Credit Rating- Revision",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -736,28 +725,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "E2E Networks Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"E2E Networks plans 5.4 MW NVIDIA Blackwell expansion of India s AI Factory\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-26T16:55:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Capacity addition",
-          "summary": "E2E Networks Limited has informed the Exchange about Capacity addition",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-26T14:19:55+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -859,11 +826,11 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook",
-          "summary": "GRSE and HAL reported year-on-year second-quarter profit growth of 12% and 16%, respectively, while BDL’s profit fell 15%. Revenue rose at all three companies, but BDL’s EBITDA dropped sharply.",
-          "link": "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html",
-          "source": "livemint",
-          "pubDate": "2026-11-13T19:35:17+05:30",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "In terms of Regulation 30 read with Para A of Part A of Schedule lll of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to infor",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-14T10:31:36+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -920,17 +887,6 @@
       "name": "ideaForge Technology",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "ideaForge Technology shares: Drone stock gains 53% in a year, but should you buy now? Check targets, support, stop loss",
-          "summary": "ideaForge returned to profitability in Q2 FY27, posting a net profit of  ₹6.5 crore as revenue rose 124% year-on-year to  ₹91 crore. Analysts gave mixed technical views: some cited potential gains toward  ₹900, while others advised caution until the …",
-          "link": "https://www.livemint.com/market/stock-market-news/ideaforge-technology-shares-drone-stock-gains-53-in-a-year-but-should-you-buy-now-check-targets-support-stop-loss-11794564183048.html",
-          "source": "livemint",
-          "pubDate": "2026-11-13T17:39:31+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.6
-          }
-        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
@@ -1114,6 +1070,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Monitoring Agency Report",
+          "summary": "Monitoring Agency Report for the quarter ended September 30, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-14T17:55:28+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet(s).",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1155,10 +1122,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about Transcript",
+          "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-10-29T16:03:54+00:00",
+          "pubDate": "2026-11-16T15:29:40+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1181,17 +1148,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-25T14:57:40+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Netweb Technologies India Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-24T17:07:46+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1302,6 +1258,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "TVS Supply Chain Solutions shares jump 17% after Q2 results, surge 24% in 2 weeks; what lies ahead? Key levels to watch",
+          "summary": "TVS Supply Chain Solutions shares surged 17% after Q2 FY27 revenue rose 38% year on year to  ₹3,687.2 crore and net profit more than doubled to  ₹36.5 crore. The company cited broad-based growth, operational improvements and strong new-business wins.",
+          "link": "https://www.livemint.com/market/stock-market-news/tvs-supply-chain-solutions-shares-jump-17-after-q2-results-surge-24-in-2-weeks-what-lies-ahead-key-levels-to-watch-11794812073703.html",
+          "source": "livemint",
+          "pubDate": "2026-11-16T12:47:52+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Copy of Newspaper Publication of the Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended Sept",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-14T16:08:14+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Tvs Supply Chain Solutions Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1340,17 +1318,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T19:34:38+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "TVS Supply Chain Solutions Limited has informed the Exchange about Schedule of Earnings Conference Call to be held on 16th November, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-10T16:06:58+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
