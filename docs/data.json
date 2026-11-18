@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-17T21:29:23.928147+00:00",
+  "fetchedAt": "2026-11-18T11:02:16.910741+00:00",
   "tickerCount": 32,
-  "articleCount": 100,
+  "articleCount": 103,
   "overview": {
-    "positive": 10,
-    "negative": 1,
-    "neutral": 89
+    "positive": 13,
+    "negative": 2,
+    "neutral": 88
   },
   "stocks": [
     {
@@ -105,6 +105,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Bagging/Receiving of orders/contracts",
+          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-18T16:28:12+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -121,17 +132,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T12:33:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-12T16:26:25+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -488,6 +488,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -547,6 +558,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Nifty Consumer Durables index slides 3%; Titan, Kalyan Jewellers crack 5%",
+          "summary": "Among others in the Consumer Durables index, Dixon, Havells India, Voltas, Crompton Greaves Consumer Electricals and Bata India declined in the range of 2-3% in Wednesday's trade.",
+          "link": "https://www.business-standard.com/markets/news/nifty-consumer-durables-index-slides-3-titan-kalyan-jewellers-crack-5-126111800512_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-18T13:42:23+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Agreements",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about execution of an Asset Purchase Agreement between Dixon Technologies (India) Limited and Vimal Plast (India) Private Limited",
@@ -844,6 +866,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Allotment of Securities",
+          "summary": "Ideaforge Technology Limited has informed the Exchange regarding allotment of 380574 securities pursuant to ESOP/ESPS at its meeting held on November 18, 2026",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-18T16:17:36+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -864,17 +897,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T20:51:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -885,10 +907,10 @@
       "articles": [
         {
           "title": "[NSE] Updates",
-          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Clarification on Volume Movement Letter- NSE Letter Ref. No.: Ref. No.: NSE/CM/Surveillance/17802 dated November 17, 2026'.",
+          "summary": "IKIO Technologies Limited has informed the Exchange regarding 'Clarification on Volume Movement Letter- BSE Letter Ref. L/SURV/ONL/PV/SG/ 2026-2027/488 dated November 18, 2026'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-17T18:51:51+00:00",
+          "pubDate": "2026-11-18T13:08:57+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1054,6 +1076,17 @@
       "name": "Netweb Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Netweb Technologies shares up 42% from 52-week low, is there more steam left in the AI stock? Check targets, performance",
+          "summary": "AI demand helped Netweb Technologies post record quarterly revenue and profit, while its September 2026 order book stood at  ₹2,629 crore. Brokerages IIFL Capital and ICICI Securities remain positive, with target prices of  ₹5,700 and  ₹5,990, respec…",
+          "link": "https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-up-42-from-52-week-low-more-steam-left-in-the-ai-stock-check-targets-support-levels-11794978231557.html",
+          "source": "livemint",
+          "pubDate": "2026-11-18T11:21:01+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
