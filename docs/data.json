@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-18T21:04:23.830150+00:00",
+  "fetchedAt": "2026-11-19T11:04:16.702147+00:00",
   "tickerCount": 32,
-  "articleCount": 101,
+  "articleCount": 104,
   "overview": {
-    "positive": 12,
-    "negative": 2,
-    "neutral": 87
+    "positive": 15,
+    "negative": 1,
+    "neutral": 88
   },
   "stocks": [
     {
@@ -15,10 +15,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Jupiter Wagons Limited has informed the Exchange about Link of Recording",
+          "summary": "Jupiter Wagons Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-16T17:25:32+00:00",
+          "pubDate": "2026-11-19T15:59:13+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -477,6 +477,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -537,17 +548,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Nifty Consumer Durables index slides 3%; Titan, Kalyan Jewellers crack 5%",
-          "summary": "Among others in the Consumer Durables index, Dixon, Havells India, Voltas, Crompton Greaves Consumer Electricals and Bata India declined in the range of 2-3% in Wednesday's trade.",
-          "link": "https://www.business-standard.com/markets/news/nifty-consumer-durables-index-slides-3-titan-kalyan-jewellers-crack-5-126111800512_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-11-18T13:42:23+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Agreements",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about execution of an Asset Purchase Agreement between Dixon Technologies (India) Limited and Vimal Plast (India) Private Limited",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -604,6 +604,39 @@
       "name": "Tata Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Investor Presentation",
+          "summary": "Tata Technologies Limited has informed the Exchange about Investor Presentation",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-19T09:40:18+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Tata Tech shares jump 10% as company targets $1.3 billion revenue by FY30, bets on aerospace, industrial machinery",
+          "summary": "Tata Technologies shares rose 10% to a one-month high after the company set FY30 targets of $1.1–1.3 billion in revenue and margins above 20%. Its plans include expanding aerospace, industrial machinery and AI-enabled services.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/tata-tech-shares-jump-10-as-company-targets-1-3-billion-revenue-by-fy30-bets-on-aerospace-industrial-machinery-11795077108823.html",
+          "source": "livemint",
+          "pubDate": "2026-11-19T14:59:23+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
+          "title": "Tata Technologies aims to double its revenue by $1.3 billion by 2030",
+          "summary": "Tata Technologies Ltd, which provides product engineering and digital services to manufacturers, aims to double its revenue to USD 1.1-1.3 billion while expanding operating profit margin to more than 20 per cent by 2030.\nThe company is betting on mul…",
+          "link": "https://www.business-standard.com/companies/news/tata-technologies-aims-to-double-its-revenue-by-1-3-billion-by-2030-126111900564_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-19T14:28:52+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Tata Technologies Limited has informed the Exchange about Outcome of analyst / institutional investor meeting (Non Deal Road Show) held on October 22, 2026",
@@ -742,6 +775,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-19T15:07:55+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Electronics Mart India Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -758,17 +802,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-06T16:03:01+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T14:16:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1044,17 +1077,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Netweb Technologies shares up 42% from 52-week low, is there more steam left in the AI stock? Check targets, performance",
-          "summary": "AI demand helped Netweb Technologies post record quarterly revenue and profit, while its September 2026 order book stood at  ₹2,629 crore. Brokerages IIFL Capital and ICICI Securities remain positive, with target prices of  ₹5,700 and  ₹5,990, respec…",
-          "link": "https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-up-42-from-52-week-low-more-steam-left-in-the-ai-stock-check-targets-support-levels-11794978231557.html",
-          "source": "livemint",
-          "pubDate": "2026-11-18T11:21:01+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Netweb Technologies India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1094,6 +1116,17 @@
       "name": "PG Electroplast",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Red metal feels the blues! Voltas, Blue Star, other AC stocks jump up to 6% as copper prices hit 7-month lows",
+          "summary": "AC stocks such as Voltas, Blue Star and PG Electroplast rallied up to 6% as copper prices fell to a seven-month low. A stronger US dollar, concerns over Chinese demand and an AI-linked stock selloff weighed on the metal, while lower input costs suppo…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/red-metal-feels-the-blues-voltas-blue-star-other-ac-stocks-jump-up-to-6-as-copper-prices-hit-7-month-lows/articleshow/135978344.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-19T10:43:27+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.333
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "PG Electroplast Limited has informed the Exchange about receipt of Show cause notice.",
