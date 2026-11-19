@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-19T11:04:16.702147+00:00",
+  "fetchedAt": "2026-11-19T21:09:46.664482+00:00",
   "tickerCount": 32,
-  "articleCount": 104,
+  "articleCount": 101,
   "overview": {
-    "positive": 15,
+    "positive": 12,
     "negative": 1,
     "neutral": 88
   },
@@ -185,6 +185,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Avalon Technologies Limited has informed the Exchange about Transcript",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-19T18:44:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Updates",
           "summary": "Avalon Technologies Limited has informed the Exchange regarding 'Submission of application with Stock Exchange for Reclassification of Mr.Bhaskar Srinivasan'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -196,33 +207,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Avalon Technologies Limited has informed the Exchange about Link of Recording",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-13T20:03:30+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Investor Presentation",
           "summary": "Avalon Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-12T22:59:44+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Avalon Technologies Limited has informed the Exchange regarding a press release dated November 12, 2026, titled \"Press Release for the Quarter and Half Year ended September 30,2026\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-12T22:56:26+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -477,17 +466,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -605,6 +583,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Tata Technologies Limited has informed the Exchange about Link of Recording",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-19T23:35:57+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Investor Presentation",
           "summary": "Tata Technologies Limited has informed the Exchange about Investor Presentation",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -635,28 +624,6 @@
           "sentiment": {
             "label": "Positive",
             "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Tata Technologies Limited has informed the Exchange about Outcome of analyst / institutional investor meeting (Non Deal Road Show) held on October 22, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-22T20:12:06+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Tata Technologies Limited has informed the Exchange about Copy of Newspaper Publication-Unaudited Financial Results for quarter and half year ended September 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-15T11:35:17+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
           }
         }
       ]
@@ -724,6 +691,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Spurt in Volume",
+          "summary": "Significant increase in volume has been observed in EPACK Durable Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market p",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-19T18:20:02+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Rescission/termination(s)",
           "summary": "EPACK Durable Limited has informed the Exchange about Rescission/termination(s)",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -751,17 +729,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-10-30T17:20:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "EPACK Durable Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"EPACK DURABLE LIMITED REPORTS Q2 FY27 FINANCIAL RESULTS\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-29T20:43:45+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -816,13 +783,13 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "In terms of Regulation 30 read with Para A of Part A of Schedule lll of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to infor",
+          "summary": "Further to our intimation letter no. SECY/GRSE/BD-69/AM/02/26-27 dated 14 Nov 2026, we wish to inform that Conference Call has been held on Thursday, 19 Nov 2026 at 03.30 P.M. to discuss the Company Q",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-14T10:31:36+00:00",
+          "pubDate": "2026-11-19T18:07:56+00:00",
           "sentiment": {
-            "label": "Positive",
-            "score": 1.0
+            "label": "Neutral",
+            "score": 0
           }
         },
         {
@@ -856,17 +823,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Bagging/Receiving of orders/contracts",
-          "summary": "In terms of Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T17:21:27+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -1038,10 +994,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
+          "summary": "Nazara Technologies Limited informs the Exchange about Schedule and Cancellation of Analyst / Investor meet.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-16T20:39:55+00:00",
+          "pubDate": "2026-11-20T00:32:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1337,6 +1293,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] General Updates",
+          "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-19T22:47:37+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Outcome of Board Meeting",
           "summary": "Zen Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on November 18, 2026.",
