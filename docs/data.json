@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-20T10:52:52.709116+00:00",
+  "fetchedAt": "2026-11-20T20:54:33.977801+00:00",
   "tickerCount": 32,
-  "articleCount": 97,
+  "articleCount": 94,
   "overview": {
-    "positive": 14,
+    "positive": 12,
     "negative": 1,
-    "neutral": 82
+    "neutral": 81
   },
   "stocks": [
     {
@@ -69,7 +69,7 @@
           "summary": "Texmaco Rail & Engineering Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-18T16:33:38+00:00",
+          "pubDate": "2026-11-20T16:49:19+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
@@ -455,17 +455,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
-          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
-          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
-          "source": "moneycontrol",
-          "pubDate": "2024-04-23T17:56:47+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
         }
       ]
     },
@@ -629,6 +618,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] General Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about incorporation of wholly owned subsidiary in State of Delaware United States of America (USA).",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-20T18:13:43+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "E2E Networks Limited has informed the Exchange regarding Grant of 78564  Options.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -648,28 +648,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "E2E Networks Limited has informed the Exchange about securing approximately 12.8 MW of additional data centre capacity over and above the Company's existing data centre capacity of approximately 14.6 ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-12T14:05:39+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Product launch",
-          "summary": "E2E Networks Limited has informed the Exchange about Product launch",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-02T16:48:23+00:00",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         }
       ]
@@ -759,6 +737,17 @@
       "name": "Garden Reach Shipbuilders",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Elara Capital cuts target price for Garden Reach Shipbuilders stock, maintains ‘reduce’ rating; here’s why",
+          "summary": "Elara Capital cut its Garden Reach Shipbuilders target price to Rs 2,050, retaining a reduce rating after a 10-month delay in the next-generation corvettes contract impacted revenue and earnings projections.",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/elara-capital-cuts-target-price-for-garden-reach-shipbuilders-stock-maintains-reduce-rating-heres-why/articleshow/136026153.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-20T17:32:06+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -0.333
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Further to our intimation letter no. SECY/GRSE/BD-69/AM/02/26-27 dated 14 Nov 2026, we wish to inform that Conference Call has been held on Thursday, 19 Nov 2026 at 03.30 P.M. to discuss the Company Q",
@@ -972,10 +961,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange about Schedule and Cancellation of Analyst / Investor meet.",
+          "summary": "Nazara Technologies Limited informs the Exchange about Schedule of meet.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-20T00:32:56+00:00",
+          "pubDate": "2026-11-20T17:23:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -990,17 +979,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Updates",
-          "summary": "Nazara Technologies Limited informs the Exchange regarding Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Update.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-10-30T22:45:50+00:00",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
           }
         }
       ]
@@ -1097,6 +1075,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication regarding Investors special window opening",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-20T17:31:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Options to purchase securities",
           "summary": "Saksoft Limited has informed the Exchange about Options to purchase securities",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1113,28 +1102,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-12T14:31:57+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Saksoft Limited has informed the Exchange about Copy of Newspaper Publication of  the Q2 Financial Results",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-06T11:12:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Saksoft Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-04T22:04:44+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1250,6 +1217,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] ESOP/ESOS/ESPS",
+          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 3100  Options.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-20T18:03:18+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] General Updates",
           "summary": "Zen Technologies Limited has informed the Exchange about General Updates",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1277,17 +1255,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T22:41:53+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] ESOP/ESOS/ESPS",
-          "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 350  Options.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-06T23:24:34+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
