@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-24T00:33:53.763981+00:00",
+  "fetchedAt": "2026-11-24T13:14:20.299511+00:00",
   "tickerCount": 32,
-  "articleCount": 95,
+  "articleCount": 96,
   "overview": {
-    "positive": 10,
+    "positive": 15,
     "negative": 1,
-    "neutral": 84
+    "neutral": 80
   },
   "stocks": [
     {
@@ -123,33 +123,22 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Transcript",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-20T15:08:56+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Acquisition",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Update on Acquisition",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Acquisition",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-17T19:00:48+00:00",
+          "pubDate": "2026-11-24T14:15:01+00:00",
           "sentiment": {
             "label": "Positive",
             "score": 1.0
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "AXISCADES Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "AXISCADES Technologies Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-15T18:19:01+00:00",
+          "pubDate": "2026-11-20T15:08:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -203,6 +192,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Action(s) taken or orders passed",
+          "summary": "Rashi Peripherals Limited has informed the Exchange that the Company has received communication of order on November 24, 2026, from the office of Commissioner of customs (NS-V), Jawaharlal Nehru Custo",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-24T16:28:24+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "Bulls take a breather! Sensex dives 1,500 pts intraday; a short-term blip?",
           "summary": "Analysts said that Indian equity markets are likely to remain volatile, with weak global cues weighing on sentiment after a sharp technology-led sell-off in the US reignited concerns over AI valuation",
           "link": "https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html",
@@ -234,17 +234,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Investor Presentation",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Investor Presentation",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T21:23:02+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -253,6 +242,17 @@
       "name": "Coforge",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Copy of Newspaper Publication",
+          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-24T18:33:09+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "TCS, Infosys, Wipro, other IT stocks rise up to 3% as AI bloodbath continues; Nasdaq logs worst week since 2020",
           "summary": "Indian IT stocks bucked the global tech selloff, with the Nifty IT index rising over 700 points. TCS, Wipro, Infosys, HCL Tech and Tech Mahindra gained, while Coforge and Persistent Systems also advanced. The gains came even as AI-linked concerns tri…",
@@ -287,33 +287,11 @@
           }
         },
         {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-06T12:55:13+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Press Release",
           "summary": "Coforge Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Coforge Joins SpaceX Super Intelligence Partner Network to Take Grok into Enterprise Production\".",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-06T12:53:27+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Shareholders meeting",
-          "summary": "Coforge Limited has informed the Exchange regarding Notice of Postal Ballot",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-05T21:12:11+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -326,6 +304,17 @@
       "name": "Persistent Systems",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Persistent Systems, Ather Energy shares: Top 2 stocks to buy on 25 Nov; check expected returns, stop loss, target price",
+          "summary": "Indian stock market will be closed on Tuesday, 24 November, for Prakash Gurpurb Sri Guru Nanak Dev. The closure follows steep losses on Monday, as the Sensex fell 1.77% and the Nifty 1.75%. Analyst Chandan Taparia recommended Persistent Systems and A…",
+          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-ather-energy-shares-top-2-stocks-to-buy-on-25-nov-check-expected-returns-stop-loss-target-price-11795486721247.html",
+          "source": "livemint",
+          "pubDate": "2026-11-24T08:45:46+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 0.2
+          }
+        },
         {
           "title": "[NSE] Updates",
           "summary": "Persistent Systems Limited has informed the Exchange regarding 'Company Statement'.",
@@ -457,6 +446,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-24T09:37:07+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Resignation of Director/KMP/SMP",
           "summary": "Cyient Dlm Limited has informed the Exchange about Resignation of Director/KMP/SMP",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -484,28 +484,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T16:48:48+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-12T16:52:45+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] General Updates",
-          "summary": "Cyient Dlm Limited has informed the Exchange about General Updates",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-03T16:27:43+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -569,6 +547,17 @@
       "name": "Dixon Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Appointment",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Appointment of Ms Aruna Jayanthi (DIN: 00817860) as Other of the company w.e.f. November 24, 2026.",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-24T15:04:54+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange about Analyst/Institutional Investor Meet",
@@ -650,6 +639,17 @@
       "name": "E2E Networks",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "E2E Networks Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-24T13:05:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
         {
           "title": "[NSE] General Updates",
           "summary": "E2E Networks Limited has informed the Exchange about incorporation of wholly owned subsidiary in State of Delaware United States of America (USA).",
@@ -772,13 +772,24 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Further to our intimation letter no. SECY/GRSE/BD-69/AM/02/26-27 dated 14 Nov 2026, we wish to inform that Conference Call has been held on Thursday, 19 Nov 2026 at 03.30 P.M. to discuss the Company Q",
+          "summary": "Garden Reach Shipbuilders & Engineers Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-19T18:07:56+00:00",
+          "pubDate": "2026-11-24T15:41:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
+          }
+        },
+        {
+          "title": "Top defence stocks to buy: Apollo Micro Systems, BEL, Data Patterns, GRSE, Zen Technologies - check Choice's top picks",
+          "summary": "Choice Institutional Equities maintains a positive outlook on India’s defence sector and rates seven stocks Buy: Apollo Micro Systems, Bharat Electronics, Centum Electronics, Data Patterns, GRSE, Unimech Aerospace and Zen Technologies.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-apollo-micro-systems-bel-data-patterns-grse-zen-technologies-check-choices-top-picks-11795507257890.html",
+          "source": "livemint",
+          "pubDate": "2026-11-24T14:48:43+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
           }
         },
         {
@@ -802,17 +813,6 @@
             "label": "Neutral",
             "score": 0
           }
-        },
-        {
-          "title": "[NSE] Outcome of Board Meeting",
-          "summary": "Garden Reach Shipbuilders & Engineers Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-11T14:47:22+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
         }
       ]
     },
@@ -823,10 +823,10 @@
       "articles": [
         {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet as on November 26, 2026",
+          "summary": "Ideaforge Technology Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-20T11:47:38+00:00",
+          "pubDate": "2026-11-24T12:37:35+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -838,17 +838,6 @@
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-18T16:17:36+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Monitoring Agency Report",
-          "summary": "Monitoring agency report for the quarter ended September 30, 2026",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-06T10:46:09+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -1177,6 +1166,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "Top defence stocks to buy: Apollo Micro Systems, BEL, Data Patterns, GRSE, Zen Technologies - check Choice's top picks",
+          "summary": "Choice Institutional Equities maintains a positive outlook on India’s defence sector and rates seven stocks Buy: Apollo Micro Systems, Bharat Electronics, Centum Electronics, Data Patterns, GRSE, Unimech Aerospace and Zen Technologies.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-apollo-micro-systems-bel-data-patterns-grse-zen-technologies-check-choices-top-picks-11795507257890.html",
+          "source": "livemint",
+          "pubDate": "2026-11-24T14:48:43+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1227,6 +1227,17 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Top defence stocks to buy: Apollo Micro Systems, BEL, Data Patterns, GRSE, Zen Technologies - check Choice's top picks",
+          "summary": "Choice Institutional Equities maintains a positive outlook on India’s defence sector and rates seven stocks Buy: Apollo Micro Systems, Bharat Electronics, Centum Electronics, Data Patterns, GRSE, Unimech Aerospace and Zen Technologies.&amp;nbsp;",
+          "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-apollo-micro-systems-bel-data-patterns-grse-zen-technologies-check-choices-top-picks-11795507257890.html",
+          "source": "livemint",
+          "pubDate": "2026-11-24T14:48:43+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 3100  Options.",
