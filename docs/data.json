@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-24T13:14:20.299511+00:00",
+  "fetchedAt": "2026-11-25T12:03:23.985264+00:00",
   "tickerCount": 32,
-  "articleCount": 96,
+  "articleCount": 89,
   "overview": {
-    "positive": 15,
+    "positive": 12,
     "negative": 1,
-    "neutral": 80
+    "neutral": 76
   },
   "stocks": [
     {
@@ -13,6 +13,28 @@
       "name": "Jupiter Wagons",
       "exchange": "NSE",
       "articles": [
+        {
+          "title": "Jupiter Wagons shares hit 20% upper circuit after entering JV with South Korea’s Woojin",
+          "summary": "Jupiter Wagons shares surged 20% to hit the upper circuit after announcing a joint venture with South Korea’s Woojin Industrial Systems to manufacture metro coaches and propulsion systems in India, including technology transfer for Vande Bharat train…",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-hit-20-upper-circuit-after-entering-jv-with-south-koreas-woojin/articleshow/136153070.cms",
+          "source": "economictimes.indiatimes",
+          "pubDate": "2026-11-25T13:29:35+05:30",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "Railway stock: Jupiter Wagons climbs 12% after 8-day fall on JV with Woojin",
+          "summary": "Jupiter Wagons has announced that it will manufacture metro trains and propulsion systems in India through a joint venture with Korea's Woojin Industrial Systems.",
+          "link": "https://www.business-standard.com/markets/news/railway-stock-jupiter-wagons-climbs-12-after-8-day-fall-on-jv-with-woojin-126112500217_1.html",
+          "source": "business-standard",
+          "pubDate": "2026-11-25T10:37:17+05:30",
+          "sentiment": {
+            "label": "Negative",
+            "score": -1.0
+          }
+        },
         {
           "title": "[NSE] Press Release",
           "summary": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated November 23, 2026, titled \"Jupiter Wagons to manufacture metro trains and propulsion systems in India through joint ven",
@@ -192,6 +214,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Agreements",
+          "summary": "Rashi Peripherals Limited has informed the Exchange about execution of Share Purchase Agreement and Shareholders Agreement on November 24, 2026, for strategic sale of 26% shareholding of subsidiary co",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-24T22:52:34+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Action(s) taken or orders passed",
           "summary": "Rashi Peripherals Limited has informed the Exchange that the Company has received communication of order on November 24, 2026, from the office of Commissioner of customs (NS-V), Jawaharlal Nehru Custo",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -203,33 +236,11 @@
           }
         },
         {
-          "title": "Bulls take a breather! Sensex dives 1,500 pts intraday; a short-term blip?",
-          "summary": "Analysts said that Indian equity markets are likely to remain volatile, with weak global cues weighing on sentiment after a sharp technology-led sell-off in the US reignited concerns over AI valuation",
-          "link": "https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html",
-          "source": "business-standard",
-          "pubDate": "2026-11-23T12:56:42+05:30",
-          "sentiment": {
-            "label": "Negative",
-            "score": -1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Rashi Peripherals Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-13T14:44:11+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Rashi Peripherals Limited has informed the Exchange about Copy of Newspaper Publication for the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September ",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-06T11:22:39+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -243,6 +254,28 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-25T15:19:16+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
+          "title": "[NSE] Press Release",
+          "summary": "Coforge Limited has informed the Exchange regarding a press release dated November 25, 2026, titled \"Coforge Nuuron Expands Agentic Capabilities to Accelerate Vulnerability Remediation and Mitigate Cy",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-25T13:46:33+00:00",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
+        },
+        {
           "title": "[NSE] Copy of Newspaper Publication",
           "summary": "Coforge Limited has informed the Exchange about Copy of Newspaper Publication",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -254,44 +287,11 @@
           }
         },
         {
-          "title": "TCS, Infosys, Wipro, other IT stocks rise up to 3% as AI bloodbath continues; Nasdaq logs worst week since 2020",
-          "summary": "Indian IT stocks bucked the global tech selloff, with the Nifty IT index rising over 700 points. TCS, Wipro, Infosys, HCL Tech and Tech Mahindra gained, while Coforge and Persistent Systems also advanced. The gains came even as AI-linked concerns tri…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-wipro-other-it-stocks-rise-up-to-3-as-ai-stocks-bloodbath-continues-nasdaq-logs-worst-week-since-2020/articleshow/136089907.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-23T10:29:24+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Coforge Limited has informed the Exchange regarding Allotment of 47824  Shares.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-21T21:23:04+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Coforge Limited has informed the Exchange about Schedule of meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-11T23:23:49+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Press Release",
-          "summary": "Coforge Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Coforge Joins SpaceX Super Intelligence Partner Network to Take Grok into Enterprise Production\".",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-06T12:53:27+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -305,17 +305,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Persistent Systems, Ather Energy shares: Top 2 stocks to buy on 25 Nov; check expected returns, stop loss, target price",
-          "summary": "Indian stock market will be closed on Tuesday, 24 November, for Prakash Gurpurb Sri Guru Nanak Dev. The closure follows steep losses on Monday, as the Sensex fell 1.77% and the Nifty 1.75%. Analyst Chandan Taparia recommended Persistent Systems and A…",
-          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-ather-energy-shares-top-2-stocks-to-buy-on-25-nov-check-expected-returns-stop-loss-target-price-11795486721247.html",
-          "source": "livemint",
-          "pubDate": "2026-11-24T08:45:46+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 0.2
-          }
-        },
-        {
           "title": "[NSE] Updates",
           "summary": "Persistent Systems Limited has informed the Exchange regarding 'Company Statement'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -324,28 +313,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "TCS, Infosys, Wipro, other IT stocks rise up to 3% as AI bloodbath continues; Nasdaq logs worst week since 2020",
-          "summary": "Indian IT stocks bucked the global tech selloff, with the Nifty IT index rising over 700 points. TCS, Wipro, Infosys, HCL Tech and Tech Mahindra gained, while Coforge and Persistent Systems also advanced. The gains came even as AI-linked concerns tri…",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-wipro-other-it-stocks-rise-up-to-3-as-ai-stocks-bloodbath-continues-nasdaq-logs-worst-week-since-2020/articleshow/136089907.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-23T10:29:24+05:30",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0.0
-          }
-        },
-        {
-          "title": "Persistent Systems among 4 stocks showing RSI trending up",
-          "summary": "Four Nifty500 stocks that gained over 4% on November 23 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-stocks-showing-rsi-trending-up/slideshow/136087624.cms",
-          "source": "economictimes.indiatimes",
-          "pubDate": "2026-11-23T08:19:23+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -488,6 +455,17 @@
             "label": "Neutral",
             "score": 0
           }
+        },
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "summary": "For the full year, the company#39;s revenue stood at Rs 1,192 crore, which was 43.2 percent higher compared to the same period of the past financial year",
+          "link": "https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html",
+          "source": "moneycontrol",
+          "pubDate": "2024-04-23T17:56:47+05:30",
+          "sentiment": {
+            "label": "Positive",
+            "score": 1.0
+          }
         }
       ]
     },
@@ -548,6 +526,17 @@
       "exchange": "NSE",
       "articles": [
         {
+          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
+          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
+          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
+          "source": "nseindia",
+          "pubDate": "2026-11-25T16:39:15+00:00",
+          "sentiment": {
+            "label": "Neutral",
+            "score": 0
+          }
+        },
+        {
           "title": "[NSE] Appointment",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Appointment of Ms Aruna Jayanthi (DIN: 00817860) as Other of the company w.e.f. November 24, 2026.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -559,33 +548,11 @@
           }
         },
         {
-          "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about Analyst/Institutional Investor Meet",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-23T17:56:51+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
           "title": "[NSE] Updates",
           "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Update on Asset Purchase Agreement executed between Dixon Technologies (India) Limited and Vimal Plast (India) Private Limited'.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
           "pubDate": "2026-11-21T20:31:34+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Agreements",
-          "summary": "Dixon Technologies (India) Limited has informed the Exchange about execution of an Asset Purchase Agreement between Dixon Technologies (India) Limited and Vimal Plast (India) Private Limited",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-16T20:14:56+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -735,7 +702,7 @@
           "summary": "Electronics Mart India Limited has informed the Exchange about Schedule of meet",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-23T15:34:14+00:00",
+          "pubDate": "2026-11-25T17:30:29+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -743,21 +710,10 @@
         },
         {
           "title": "[NSE] General Updates",
-          "summary": "Electronics Mart India Limited has informed the Exchange about General Updates",
+          "summary": "Electronics Mart India Limited has informed the Exchange about the incorporation of a Joint Venture/Associate Company.",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
           "source": "nseindia",
-          "pubDate": "2026-11-19T15:07:55+00:00",
-          "sentiment": {
-            "label": "Neutral",
-            "score": 0
-          }
-        },
-        {
-          "title": "[NSE] Copy of Newspaper Publication",
-          "summary": "Electronics Mart India Limited has informed the Exchange about Copy of Newspaper Publication",
-          "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
-          "source": "nseindia",
-          "pubDate": "2026-11-06T16:03:01+00:00",
+          "pubDate": "2026-11-25T15:38:32+00:00",
           "sentiment": {
             "label": "Neutral",
             "score": 0
@@ -779,17 +735,6 @@
           "sentiment": {
             "label": "Neutral",
             "score": 0
-          }
-        },
-        {
-          "title": "Top defence stocks to buy: Apollo Micro Systems, BEL, Data Patterns, GRSE, Zen Technologies - check Choice's top picks",
-          "summary": "Choice Institutional Equities maintains a positive outlook on India’s defence sector and rates seven stocks Buy: Apollo Micro Systems, Bharat Electronics, Centum Electronics, Data Patterns, GRSE, Unimech Aerospace and Zen Technologies.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-apollo-micro-systems-bel-data-patterns-grse-zen-technologies-check-choices-top-picks-11795507257890.html",
-          "source": "livemint",
-          "pubDate": "2026-11-24T14:48:43+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
           }
         },
         {
@@ -1166,17 +1111,6 @@
       "exchange": "NSE",
       "articles": [
         {
-          "title": "Top defence stocks to buy: Apollo Micro Systems, BEL, Data Patterns, GRSE, Zen Technologies - check Choice's top picks",
-          "summary": "Choice Institutional Equities maintains a positive outlook on India’s defence sector and rates seven stocks Buy: Apollo Micro Systems, Bharat Electronics, Centum Electronics, Data Patterns, GRSE, Unimech Aerospace and Zen Technologies.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-apollo-micro-systems-bel-data-patterns-grse-zen-technologies-check-choices-top-picks-11795507257890.html",
-          "source": "livemint",
-          "pubDate": "2026-11-24T14:48:43+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
-        {
           "title": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates",
           "summary": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Transcript",
           "link": "https://www.nseindia.com/companies-listing/corporate-filings-announcements",
@@ -1227,17 +1161,6 @@
       "name": "Zen Technologies",
       "exchange": "NSE",
       "articles": [
-        {
-          "title": "Top defence stocks to buy: Apollo Micro Systems, BEL, Data Patterns, GRSE, Zen Technologies - check Choice's top picks",
-          "summary": "Choice Institutional Equities maintains a positive outlook on India’s defence sector and rates seven stocks Buy: Apollo Micro Systems, Bharat Electronics, Centum Electronics, Data Patterns, GRSE, Unimech Aerospace and Zen Technologies.&amp;nbsp;",
-          "link": "https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-apollo-micro-systems-bel-data-patterns-grse-zen-technologies-check-choices-top-picks-11795507257890.html",
-          "source": "livemint",
-          "pubDate": "2026-11-24T14:48:43+05:30",
-          "sentiment": {
-            "label": "Positive",
-            "score": 1.0
-          }
-        },
         {
           "title": "[NSE] ESOP/ESOS/ESPS",
           "summary": "Zen Technologies Limited has informed the Exchange regarding Exercise of 3100  Options.",
